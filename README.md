@@ -54,6 +54,36 @@ a problemelor, iar testul nu pornește până nu le corectezi.
 - `style.css` — stilurile (design inspirat din shadcn/ui, temă light/dark automată)
 - `intrebari.js` — **banca de întrebări** (aici lucrezi)
 
+## Publicare și actualizare
+
+Aplicația e publicată pe GitHub Pages, din depozitul `vcazacu/grile-achizitii`:
+
+**https://vcazacu.github.io/grile-achizitii/**
+
+Pe telefon sau tabletă: deschide adresa în browser, lasă pagina să se încarce
+complet, apoi „Adaugă la ecranul principal”. Service worker-ul (`sw.js`) salvează
+local toate fișierele, așa că de la a doua deschidere aplicația funcționează
+**complet fără internet** — verificat pe iPad cu modul avion.
+
+### Când modifici întrebările
+
+Trebuie schimbate **două** fișiere, nu doar unul:
+
+1. `intrebari.js` — întrebările propriu-zise;
+2. `sw.js` — incrementează `VERSIUNE` (`grile-achizitii-v1` → `v2` etc.).
+
+Fără al doilea pas, dispozitivele care au deja aplicația salvată rămân cu
+versiunea veche în memorie, pentru că service worker-ul servește din cache
+înaintea rețelei.
+
+Apoi:
+
+```bash
+git add -A && git commit -m "Actualizare întrebări" && git push
+```
+
+GitHub Pages republică automat în 1–2 minute.
+
 ## Acoperirea materiei
 
 Cele 600 de întrebări sunt distribuite pe acte proporțional cu ponderea lor în
