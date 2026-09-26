@@ -1,0 +1,586 @@
+[
+ {
+  "loc": "Cele trei tipuri de anunțuri (art. 142–144) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea asigură transparența prin publicarea anunțurilor de intenție, de participare și de atribuire.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Anunțul de intenție e facultativ: autoritatea își poate face cunoscute achizițiile planificate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2940
+ },
+ {
+  "loc": "Cele trei tipuri de anunțuri (art. 142–144) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Anunțul de participare e obligatoriu la licitația deschisă, licitația restrânsă, dialogul competitiv, negocierea competitivă, parteneriatul pentru inovare, la lansarea unui sistem dinamic de achiziții și la concursul de soluții.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "E obligatoriu și la serviciile sociale, cu excepția cazului în care s-a publicat un anunț de intenție valabil în mod continuu.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2995
+ },
+ {
+  "loc": "Cele trei tipuri de anunțuri (art. 142–144) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Publicarea anunțului de participare în JOUE e obligatorie de la pragurile de la art. 7 alin. (1) în sus.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2537
+ },
+ {
+  "loc": "Anunțul de atribuire (art. 145) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Anunțul de atribuire se transmite în 30 de zile de la încheierea contractului sau a acordului-cadru, de la stabilirea câștigătorului unui concurs de soluții, de la atribuirea unui contract prin sistemul dinamic sau de la închiderea sistemului dinamic.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2200
+ },
+ {
+  "loc": "Anunțul de atribuire (art. 145) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru contractele subsecvente acordurilor-cadru, gruparea trimestrială e obligatorie; pentru contractele din sistemul dinamic, e un drept.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "În ambele cazuri, anunțurile grupate se transmit în 30 de zile de la încheierea trimestrului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2575
+ },
+ {
+  "loc": "Anunțul de atribuire (art. 145) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Unele informații nu se publică obligatoriu dacă ar împiedica aplicarea legii, ar fi contrare interesului public, ar afecta interese comerciale legitime sau concurența loială.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2175
+ },
+ {
+  "loc": "Transmiterea și ordinea publicării (Lege art. 146–148; Norme / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Anunțurile, inclusiv eratele, se transmit prin mijloace electronice.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.17,
+     "absenta_corecta": 0.01,
+     "sustine": 0.71,
+     "nu_spune": 0.11
+    },
+    "confidence": 0.61
+   },
+   "1": {
+    "text": "Potrivit Normelor, se transmit numai prin formularele din SEAP și numai de autoritățile înregistrate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.03,
+     "absenta_corecta": 0.0,
+     "sustine": 0.93,
+     "nu_spune": 0.04
+    },
+    "confidence": 0.9
+   }
+  },
+  "usage": 2588
+ },
+ {
+  "loc": "Transmiterea și ordinea publicării (Lege art. 146–148; Norme / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "La nivel național, anunțurile nu se publică înainte de JOUE.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Excepția: autoritatea nu a fost notificată de publicare în 48 de ore de la confirmarea primirii de către Oficiul pentru Publicații.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "text": "Anunțul național nu poate conține alte informații decât cel din JOUE și menționează data transmiterii către Oficiu.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3015
+ },
+ {
+  "loc": "Transmiterea și ordinea publicării (Lege art. 146–148; Norme / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Operatorul SEAP publică anunțurile în SEAP într-o zi lucrătoare de la confirmarea transmiterii către JOUE, când există această obligație.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2205
+ },
+ {
+  "loc": "Erata (Norme art. 55) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă după publicare se schimbă informații din anunț, autoritatea transmite o erată, care se publică cel târziu cu 3 zile lucrătoare înainte de termenul de depunere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă modificările cer timp suplimentar ofertanților, termenul se prelungește, iar DUAE se revizuiește.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.98,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 2513
+ },
+ {
+  "loc": "Erata (Norme art. 55) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Normele exceptează însă două tipuri de modificări semnificative, care duc la anularea procedurii: cele care schimbă indicatorii principali ai rezultatului contractului și afectează competiția sau piața, ori cele care extind sau introduc criterii de calificare și selecție și restrâng competiția.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2135
+ },
+ {
+  "loc": "Contractele de publicitate media (art. 149) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "De la pragul de la art. 7 alin. (1) lit. b) în sus, contractele de publicitate media au obligații suplimentare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Anunțul de participare se publică pe platforma electronică și pe pagina proprie, cu justificarea oportunității.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Anunțul de atribuire se publică în aceleași locuri.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "3": {
+    "text": "La încetarea contractului se publică un raport de evaluare a impactului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2978
+ },
+ {
+  "loc": "Accesul la documentele achiziției (art. 150–151) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Din ziua publicării anunțului de participare, autoritatea asigură prin SEAP accesul direct, complet, nerestricționat și gratuit la documentele achiziției.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Adresa lor de internet se trece în anunț.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3230
+ },
+ {
+  "loc": "Accesul la documentele achiziției (art. 150–151) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă accesul electronic nu e posibil în cazurile permise de Norme, sau din motive de confidențialitate, autoritatea arată în anunț cum asigură accesul și, la confidențialitate, măsurile cerute.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "În ambele cazuri, termenul de depunere se prelungește cu 5 zile, cu excepția urgenței demonstrate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.98,
+     "nu_spune": 0.0,
+     "contrazice": 0.02,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 3266
+ },
+ {
+  "loc": "Accesul la documentele achiziției (art. 150–151) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "La procedurile în două etape, invitația pentru etapa a doua se transmite tuturor candidaților selectați, simultan și în scris, cu referința la adresa electronică a documentelor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2849
+ },
+ {
+  "loc": "Stabilirea și prelungirea termenelor (art. 152–153) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Termenele minime legale nu scutesc autoritatea de obligația de a stabili un termen adecvat complexității contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă ofertele cer vizitarea amplasamentului sau consultarea pe loc a unor documente, termenul trebuie să fie mai mare decât minimul legal.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3309
+ },
+ {
+  "loc": "Stabilirea și prelungirea termenelor (art. 152–153) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Termenul se prelungește dacă răspunsurile la clarificări solicitate la timp nu sunt date în termenele de la art. 161, ori dacă documentele se modifică semnificativ.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Prelungirea e proporțională și are un minim: 6 zile, 4 zile în urgență, 3 zile la procedura simplificată și două zile la procedura simplificată în urgență.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3341
+ },
+ {
+  "loc": "Stabilirea și prelungirea termenelor (art. 152–153) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Nu există obligație de prelungire dacă informațiile nu au fost cerute la timp sau sunt nesemnificative pentru elaborarea ofertelor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.93,
+     "contrazice": 0.07,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.9
+   }
+  },
+  "usage": 2891
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Anunțul de intenție e facultativ; anunțul de participare și cel de atribuire sunt obligatorii în cazurile legii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 9842
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Anunțul de atribuire: 30 de zile de la încheierea contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.97,
+     "contrazice": 0.03,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.96
+   },
+   "1": {
+    "text": "Gruparea trimestrială e obligatorie la acordurile-cadru și facultativă la sistemul dinamic.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.96,
+     "contrazice": 0.04,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 10236
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Publicarea națională nu poate preceda JOUE, cu excepția lipsei notificării în 48 de ore de la confirmarea primirii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 9844
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Accesul la documente e gratuit și nerestricționat de la publicarea anunțului de participare, nu de la cererea operatorului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 9842
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Prelungirea minimă la modificări sau clarificări întârziate: 6 zile; 4 zile în urgență; 3 zile la procedura simplificată; 2 zile la procedura simplificată în urgență.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 9865
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Erata se publică cel târziu cu 3 zile lucrătoare înainte de termenul de depunere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Modificările care schimbă indicatorii principali ai contractului sau extind criteriile de calificare și selecție nu se rezolvă prin erată: duc la anularea procedurii (Norme art. 55 alin. (2)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.09,
+     "sustine": 0.9,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.87
+   }
+  },
+  "usage": 10442
+ }
+]

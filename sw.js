@@ -20,6 +20,7 @@ const FISIERE = [
   "./tematica/05-modalitati-si-proceduri-de-atribuire.html",
   "./tematica/06-estimarea-valorii-si-alegerea-modalitatii.html",
   "./tematica/07-etapele-consultarea-pietei-loturi.html",
+  "./tematica/08-publicitate-si-transparenta.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",
