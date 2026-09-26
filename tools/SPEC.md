@@ -1,192 +1,170 @@
-# SPEC — întrebări pentru examenul de achiziții publice (în lucru)
+# SPEC — întrebări pentru examenul de ofițer achiziții publice
 
-Acest document este contractul dintre coordonator și agenții care scriu întrebări.
-Un agent primește: un act (fișier `.txt` din `legislatie/`), lista articolelor de
-acoperit, numărul de întrebări cerut, cota de întrebări „multiplu" și un nume de
-fișier de ieșire `tools/nou/<prefix>-<n>.json`. Scrie **incremental** (după fiecare
-5 întrebări rescrie fișierul complet) ca să nu se piardă nimic dacă sesiunea se oprește.
+Contractul dintre coordonator și agenții care scriu sau repară întrebări. Un agent primește: un act (fișier
+`.txt` din `Examen-Achizitii/legislatie/`), lista unităților de acoperit (articole / puncte), numărul de
+întrebări cerut, cota de întrebări „multiplu" și un fișier de ieșire `tools/nou/<PREFIX>-N<lot>.json`.
+Scrie **incremental** (după fiecare 5 întrebări rescrie fișierul complet), ca să nu se piardă nimic dacă
+sesiunea se oprește.
 
 ## 1. Sursa de adevăr
 
-- Se folosește **exclusiv** textul din `legislatie/<fisier>.txt` (forma consolidată
-  la zi de pe legislatie.just.ro, descărcată cu `tools/descarca.py`). Nu se
-  folosește nimic din memorie despre lege: dacă memoria și textul diferă, textul
-  are dreptate. Dacă un articol nu spune ceva, întrebarea nu se pune.
-- Liniile care încep cu `§NOTA§` sunt istoricul modificărilor și notele portalului
-  — **nu sunt text normativ**. Nu se citează din ele. Pot fi folosite doar în
-  explicație („alineatul a fost modificat prin Legea nr. 259/2019"), fără să
-  schimbe ce e în vigoare.
-- Liniile `## ...` sunt titluri de capitol/secțiune (orientare). `§ANEXA§ ...`
-  marchează începutul unei anexe cu numerotare proprie de articole.
-- Un articol al cărui text e „Abrogat." nu produce întrebări despre conținutul
-  lui; cel mult o întrebare-capcană „care dintre articole este abrogat", dacă
-  abrogarea e în tematică (art. 94^1 din Legea 80/1995, art. 3^1 din H.G. 1867/2005).
+- Se folosește **exclusiv** textul din `legislatie/<fisier>.txt` (forma consolidată la zi de pe
+  legislatie.just.ro, descărcată cu `tools/descarca.py`; lista și datele în `tools/SURSE.md`). Nimic din
+  memorie despre lege: dacă memoria și textul diferă, textul are dreptate. Dacă textul nu spune ceva,
+  întrebarea nu se pune. **Pragurile valorice** (art. 7 din Legea 98/2016 etc.) se iau numai din textul la zi.
+- Liniile `§NOTA§` sunt istoricul modificărilor și notele portalului — **nu sunt text normativ**. Nu se
+  citează din ele. Pot apărea doar în explicație („alineatul a fost introdus prin Legea nr. 208/2022"), fără
+  să schimbe ce e în vigoare.
+- Liniile `## ...` sunt titluri de capitol/secțiune. `§ANEXA§ ...` marchează o anexă (formulare, liste).
+- O unitate al cărei text e „Abrogat." nu produce întrebări despre conținutul ei; cel mult o întrebare-capcană
+  despre faptul abrogării, sprijinită pe un text normativ în vigoare (de ex. Legea 101/2016: notificarea
+  prealabilă, art. 6–7, abrogată — adresarea directă la CNSC/instanță, art. 4 alin. (1)).
+- Actele de aprobare și normele sunt fișiere separate: `02` (H.G. 395) / `03` (Normele H.G. 395),
+  `05` (H.G. 419, articole I–VIII) / `06` (Normele O.U.G. 98/2017), `08` (Ordinul 1.792) / `09` (Normele ALOP,
+  structurate pe puncte 1–5, fără „Articolul N").
 
-## 2. Ce se acoperă (tematica oficială → articole)
+## 2. Ce se acoperă (tematica oficială → unități)
 
-| Temă din tematică | Fișier | Articole cerute de bibliografie |
-|---|---|---|
-| Gradele militare și stagiile minime în grad | 01 Legea 80/1995 | art. 1–6 (grade: art. 2–3), art. 94–95, 97 (stagii minime) |
-| Îndatoririle și drepturile cadrelor militare | 01 | art. 7–9^1, 11–15, 17–18, 20^1–21, 23, 26 |
-| Interzicerea sau restrângerea exercițiului unor drepturi și libertăți | 01 | art. 28–30 |
-| Disciplina militară | 01 | art. 33–35 |
-| Proveniența ofițerilor, maiștrilor militari și subofițerilor | 01 | art. 36–41, 42–43 |
-| Acordarea gradelor și înaintarea în gradele următoare | 01 | art. 45 **doar lit. a)–f)**, 46, 48, 50–56, 63–64, 68 |
-| Degradarea/scoaterea din evidență, aprecierea și promovarea (parțial) | 01 | art. 69–71, 73, 76, 81 |
-| Trecerea în rezervă sau direct în retragere | 01 | art. 85–91 |
-| Dispoziții finale | 01 | art. 109–110, 112 |
-| Organizarea și funcționarea SIE (rol, organizare, conducere, personal, control) | 02 Legea 1/1998 | art. 1–3, 5–9, 13, 14–15, 18, 20 |
-| Contractul individual de muncă: încheiere, executare, modificare, suspendare, încetare | 03 Codul muncii | art. 1–2, 10–12, 14, 16 **doar alin. (1)–(3)**, 17, 27–34, 39–52, 54–61, 63–65, 75–77, 81 |
-| Tipurile de contract individual de muncă | 03 | art. 82–85 (durată determinată), 103–106 (timp parțial) |
-| Timpul de muncă și timpul de odihnă | 03 | art. 111–123, 125–127, 135–139, 141–142, 144–147^1, 149–155, 158 |
-| Răspunderea disciplinară a salariaților | 03 | art. 247–252 |
-| Sistemul pensiilor militare de stat | 04 Legea 223/2015 | art. 1–3, 6, 9–21, 23–30, 32–35, 38, 42–43, 45, 47–52, 57–58, 81, 84 |
-| Sistemul public de pensii | 05 Legea 360/2023 | art. 1–3, 6, 9, 13–15, 25–26, 32, 39, 44–48, 51, 58–62, 66–69, 72–75, 79, 108, 111–116 |
-| Salarizarea — reguli generale | 06 Legea-cadru 153/2017 (corp) | art. 7, 10, 14, 15, 20, 21 |
-| Salarizarea — familia „apărare, ordine publică și securitate națională" | 06 **Anexa nr. VI** | art. 1–3, 5–6, 7 **doar alin. (1)**, 8, 9 **doar alin. (1)**, 11, 14 **doar alin. (1)**, 15, 15^1, 18–21, 28–29, 58–62, 73–76, 84, 86 **doar alin. (1)–(6)**, 88, 90–93 |
-| Concediul și indemnizația pentru creșterea copiilor; stimulentul de inserție | 07 OUG 111/2010 | art. 1–5, 7–9^1, 11–17, 22, 25, 31–33, 35–37 |
-| Idem — norme metodologice | 08 Norme H.G. 52/2011 | art. 1–2, 4–8, 9^1, 12–13, 21, 23–26, 32, 36 |
-| Compensația lunară pentru chirie (condiții, documente, anchetă socială, încetare) | 09 H.G. 1867/2005 | art. 1–15, 17^2 |
+Tabelul e generat din `bibliografie.TEME` (sursa procesabilă; nu se editează aici). Unitățile abrogate apar
+în listă, dar nu primesc întrebări despre conținut.
 
-Lista exactă, procesabilă, este în `tools/bibliografie.py` (`BIB`, `RESTRICTII`).
-Întrebările din afara acestor articole sunt respinse automat de `check_articol.py`.
+| # | Temă (subiectele din docx) | Fișier | Unități din tematică |
+|---|---|---|---|
+| 1 | Principiile achizițiilor publice. Autorități contractante. Domeniu de aplicare | 01 | 1, 2, 3, 4, 5, 6, 7, 8 |
+| 1 | Principiile achizițiilor publice. Autorități contractante. Domeniu de aplicare | 02 | preambul, 1, 2 |
+| 1 | Principiile achizițiilor publice. Autorități contractante. Domeniu de aplicare | 03 | 1, 2, 3, 4, 5, 6, 7 |
+| 1 | Principiile achizițiilor publice. Autorități contractante. Domeniu de aplicare | 05 | V |
+| 2 | Exceptări. Achiziții mixte. Situații speciale | 01 | 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39 |
+| 3 | Activități de achiziție centralizare și achiziții comune ocazionale | 01 | 40, 41, 42, 43, 44, 45, 46, 47, 48 |
+| 4 | Reguli generale de participare și desfășurare a procedurilor de atribuire | 01 | 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67 |
+| 4 | Reguli generale de participare și desfășurare a procedurilor de atribuire | 03 | 47, 48, 49, 50, 51, 52, 53 |
+| 5 | Modalități de atribuire. Procedurile de atribuire | 01 | 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 113^1 |
+| 5 | Modalități de atribuire. Procedurile de atribuire | 03 | 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106 |
+| 6 | Estimarea valorii achiziției publice și alegerea modalității de atribuire | 01 | 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 |
+| 6 | Estimarea valorii achiziției publice și alegerea modalității de atribuire | 03 | 15, 16, 17 |
+| 7 | Organizarea și desfășurarea procedurii de atribuire. Etapele procesului de achiz | 01 | 139, 140, 141 |
+| 7 | Organizarea și desfășurarea procedurii de atribuire. Etapele procesului de achiz | 03 | 8, 9, 10, 11, 18, 19 |
+| 8 | Reguli de publicitate și transparență | 01 | 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153 |
+| 8 | Reguli de publicitate și transparență | 03 | 54, 55, 56, 57 |
+| 9 | Documentația de atribuire. Oferte alternative. Documentul unic de achiziție Euro | 01 | 154, 154^1, 154^2, 155, 156, 157, 158, 159, 160, 161, 162, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202 |
+| 9 | Documentația de atribuire. Oferte alternative. Documentul unic de achiziție Euro | 03 | 20, 21, 22, 23, 24, 25, 26, 27, 28 |
+| 10 | Criterii de calificare și selecție | 01 | 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186 |
+| 10 | Criterii de calificare și selecție | 03 | 29, 30, 31 |
+| 11 | Criterii de atribuire | 01 | 187, 188, 189, 190, 191, 192 |
+| 11 | Criterii de atribuire | 03 | 32, 33, 34 |
+| 12 | Stabilirea garanțiilor de participare și de bună execuție | 03 | 35, 36, 37, 38, 39, 40, 41, 42 |
+| 13 | Achiziția directă | 01 | 7 |
+| 13 | Achiziția directă | 03 | 43, 44, 45, 46 |
+| 14 | Derularea procedurilor de atribuire. Instrumente și tehnici specifice de atribui | 01 | 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 203, 204, 205, 206 |
+| 14 | Derularea procedurilor de atribuire. Instrumente și tehnici specifice de atribui | 03 | 107, 108, 109, 110, 111, 112, 113, 113^1, 113^2, 113^3, 113^4, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125 |
+| 15 | Comisia de evaluare și modul de lucru al acesteia. Procesul de verificare și eva | 03 | 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141 |
+| 16 | Atribuirea contractelor de achiziție publică și încheierea acordurilor-cadru. Fi | 01 | 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217 |
+| 16 | Atribuirea contractelor de achiziție publică și încheierea acordurilor-cadru. Fi | 03 | 142, 143, 144, 145, 146, 147, 148, 149 |
+| 17 | Executarea contractului de achiziție publică / acordului-cadru. Subcontractarea. | 01 | 218, 219, 220, 221, 222, 222^1, 222^2 |
+| 17 | Executarea contractului de achiziție publică / acordului-cadru. Subcontractarea. | 03 | 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 165^1, 166 |
+| 18 | Programul anual al achizițiilor publice | 03 | 12, 13, 14 |
+| 19 | Activitatea de control ex ante. Metodologia de selecție. Inițierea controlului e | 04 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 |
+| 19 | Activitatea de control ex ante. Metodologia de selecție. Inițierea controlului e | 05 | I |
+| 19 | Activitatea de control ex ante. Metodologia de selecție. Inițierea controlului e | 06 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 |
+| 20 | Remedii și căi de atac în atribuirea contractelor de achiziție publică. Contesta | 07 | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25 |
+| 21 | Soluții de pronunțare, căi de atac | 07 | 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 36^1 |
+| 22 | Fazele pe care le parcurg cheltuielile din fondurile publice și definirea acesto | 08 | preambul, 1, 1^1, 2, 3 |
+| 22 | Fazele pe care le parcurg cheltuielile din fondurile publice și definirea acesto | 09 | preambul, pct. 1, pct. 2, pct. 3, pct. 4 |
+| 23 | Venituri și cheltuieli | 10 | 1, 2, 3, 4, 5, 6, 7, 7^1, 8, 9, 10, 11, 12, 13, 14, 14^1, 15, 26, 27, 28, 28^1, 28^2, 28^3, 28^4, 28^5, 29, 30, 30^1, 30^2, 30^3, 30^4, 30^5, 62, 63, 64, 65, 66, 67, 68, 69, 70 |
+| 24 | Rolul și responsabilitatea ordonatorilor de credite. Aprobarea bugetului de stat | 10 | 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 31, 31^1, 32, 33, 34, 35, 35^1, 36, 37, 52 |
 
 ## 3. Schema unei întrebări (JSON, într-un array)
 
 ```json
 {
-  "id": "L80-017",
+  "id": "L98-N0101",
   "tip": "unic",
-  "intrebare": "Potrivit Legii nr. 80/1995, ...?",
+  "intrebare": "Potrivit Legii nr. 98/2016, ...?",
   "variante": ["...", "...", "...", "..."],
   "corecte": [2],
-  "explicatie": "De ce e corect + de ce fiecare distractor e greșit, cu trimiteri la articole.",
+  "explicatie": "De ce e corect + de ce fiecare distractor e greșit, cu articolul de unde vine valoarea lui.",
   "sursa": {
-    "act": "Legea nr. 80/1995 privind statutul cadrelor militare",
-    "articol": "art. 20^1 alin. (1)",
+    "act": "Legea nr. 98/2016 privind achizițiile publice",
+    "articol": "art. 7 alin. (1) lit. a)",
     "citat": "fragment verbatim [...] alt fragment verbatim",
-    "fisier": "01_Legea_80-1995_statutul_cadrelor_militare.txt"
+    "fisier": "01_Legea_98-2016_achizitii_publice.txt"
   },
   "status": "ok"
 }
 ```
 
-- `id`: prefix pe act + număr din 3 cifre; prefixele: `L80`, `L1`, `CM`, `L223`,
-  `L360`, `L153`, `A6` (anexa VI), `OUG111`, `HG52`, `HG1867`. Unic în tot proiectul.
-- `tip`: `"unic"` (exact 4 variante, exact 1 corectă) sau `"multiplu"` (4 variante,
-  2–3 corecte). Câmpul `test` NU se completează — îl pune `asambleaza.py`.
-- `sursa.act` — exact una dintre valorile:
-  - `Legea nr. 80/1995 privind statutul cadrelor militare`
-  - `Legea nr. 1/1998 privind organizarea și funcționarea Serviciului de Informații Externe`
-  - `Legea nr. 53/2003 – Codul muncii`
-  - `Legea nr. 223/2015 privind pensiile militare de stat`
-  - `Legea nr. 360/2023 privind sistemul public de pensii`
-  - `Legea-cadru nr. 153/2017 privind salarizarea personalului plătit din fonduri publice`
-  - `Legea-cadru nr. 153/2017 (anexa nr. VI – apărare, ordine publică și securitate națională)` — și `"anexa": "Anexa nr. VI"` în `sursa`
-  - `O.U.G. nr. 111/2010 privind concediul și indemnizația lunară pentru creșterea copiilor`
-  - `Normele metodologice de aplicare a O.U.G. nr. 111/2010 (H.G. nr. 52/2011)`
-  - `H.G. nr. 1867/2005 privind compensația lunară pentru chirie a cadrelor militare în activitate`
-- `sursa.articol`: începe obligatoriu cu `art. N` (N ca în text: `20^1`), apoi
-  `alin. (2)`, `lit. c)` etc. Se scrie articolul **în care se află citatul**.
-- `sursa.citat`: text **verbatim** din `.txt` (copiat, nu rescris), maximum ~600
-  de caractere; fragmentele sărite se marchează cu ` [...] `; toate fragmentele
-  din același articol. Fără citate din `§NOTA§`.
-- `status`: `"ok"`; `"de verificat"` doar dacă textul e ambiguu/contradictoriu,
-  caz în care explicația descrie problema în loc să inventeze un răspuns.
+- `id`: `<PREFIX>-N<lot><nn>` (N = întrebare nouă; nu se ciocnește cu id-urile migrate `L98A-001` etc.).
+  Prefixe: `L98`, `HG395`, `N395`, `OUG98`, `HG419`, `N419`, `L101`, `ORD1792`, `ALOP`, `L500`.
+- `tip`: `"unic"` (exact 4 variante, exact 1 corectă) sau `"multiplu"` (4 variante, 2–3 corecte).
+  Câmpul `test` NU se completează — îl pune `asambleaza.py`.
+- `sursa.act` — exact una dintre valorile (cele din banca existentă):
+  - `Legea nr. 98/2016 privind achizițiile publice`
+  - `H.G. nr. 395/2016`
+  - `Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)`
+  - `O.U.G. nr. 98/2017 privind funcția de control ex ante`
+  - `H.G. nr. 419/2018`
+  - `Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)`
+  - `Legea nr. 101/2016 privind remediile și căile de atac`
+  - `Ordinul M.F.P. nr. 1.792/2002 (ALOP)`
+  - `Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)`
+  - `Legea nr. 500/2002 privind finanțele publice`
+- `sursa.fisier`: numele fișierului `.txt` (fără cale). Fără `sursa.anexa` (normele sunt fișiere proprii).
+- `sursa.articol`: forma recunoscută de `unitati.eticheta` — `art. 7 alin. (5)`, `art. 113^1`,
+  `art. V pct. 24 (...)` (H.G. 419, cifre romane), `pct. 3 (ordonanțarea cheltuielilor)` (Normele ALOP),
+  `preambul`. Se scrie unitatea **în care se află citatul**.
+- `sursa.citat`: text **verbatim** din `.txt` (copiat, nu rescris), maximum ~600 de caractere; fragmentele
+  sărite se marchează cu ` [...] `; **toate fragmentele din aceeași unitate** (celelalte articole se numesc în
+  explicație). Fără citate din `§NOTA§`. Atenție la spațiile după „/" din text („ofertelor/ofertanților").
+- `status`: `"ok"`; `"de verificat"` doar dacă textul e ambiguu/contradictoriu, iar explicația descrie
+  problema în loc să inventeze un răspuns.
 
 ## 4. Reguli de calitate (verificate de un agent adversarial, care NU a scris întrebarea)
 
-1. **Un singur răspuns corect** la `unic`: niciun distractor nu poate fi apărat
-   ca fiind și el corect, nici printr-o excepție din alt alineat/articol vecin.
-   Caută explicit excepțiile înainte de a scrie cheia.
-2. **Distractori plauzibili**: valori, termene, procente, organe, categorii reale
-   din **aceeași lege** (sau din legea „pereche": Legea 223/2015 vs. 360/2023,
-   OUG 111/2010 vs. normele), dar cu alt rol. Nu distractori absurzi.
-3. **Enunț autonom**: numește actul („Potrivit Legii nr. 223/2015, ...") și, dacă
-   e cazul, categoria de personal (cadre militare în activitate / în rezervă /
-   salariați / funcționari publici cu statut special). Regimul cadrelor militare
-   diferă de cel al salariaților (Codul muncii) — întrebarea spune despre care
-   vorbește.
-4. **Explicația** (4–8 propoziții): de ce e corect răspunsul, cu articolul; de ce
-   e greșit fiecare distractor, cu articolul de unde vine valoarea lui; capcana
-   tipică de examen, dacă există (termen schimbat prin modificare recentă,
-   excepție pe categorii).
-5. **Fără întrebări triviale de lexic** („cum se numește legea...") și fără
-   întrebări despre numere de Monitor Oficial, date de publicare sau istoricul
+1. **Un singur răspuns corect** la `unic`: niciun distractor nu poate fi apărat ca fiind și el corect, nici
+   printr-o excepție din alt alineat/articol vecin. Caută explicit excepțiile înainte de a scrie cheia.
+2. **Distractori plauzibili**: valori, termene, procente, praguri, organe, proceduri reale din **aceeași lege**
+   sau din actul „pereche" (Legea 98/2016 vs. Normele H.G. 395; O.U.G. 98/2017 vs. Normele ei; Legea 500/2002 vs.
+   Normele ALOP), dar cu alt rol. Nu distractori absurzi.
+3. **Enunț autonom**: numește actul („Potrivit Legii nr. 98/2016, ..." / „Potrivit Normelor metodologice aprobate
+   prin H.G. nr. 395/2016, ..."). Legea și normele au reguli apropiate — întrebarea spune care dintre ele. Dacă
+   răspunsul depinde de tipul contractului, de valoare față de praguri sau de procedură, enunțul le precizează.
+4. **Explicația** (4–8 propoziții): de ce e corect răspunsul, cu articolul; de ce e greșit fiecare distractor,
+   **cu articolul de unde vine valoarea lui**; capcana tipică de examen, dacă există.
+5. **Fără referiri la poziția variantelor** („a doua variantă", „varianta B)", „primele trei") — variantele se
+   amestecă la asamblare; se numește conținutul variantei.
+6. **Fără întrebări triviale de lexic** și fără numere de Monitor Oficial, date de publicare sau istoricul
    modificărilor. Se testează norma în vigoare.
-6. **Nivelul de examen**: termene, condiții cumulative (multiplu!), competențe
-   (cine aprobă/decide), cuantumuri, limite, excepții, enumerări.
-7. **Acoperire**: fiecare articol cerut primește cel puțin o întrebare; articolele
-   lungi cu multe alineate (ex. art. 9 și 21 din Legea 80/1995, art. 39 din Codul
-   muncii, art. 2 din OUG 111/2010) primesc mai multe. Nu se repetă aceeași idee
-   cu formulare diferită.
-8. **Lecții din calibrare** (verificarea adversarială a testului 1): ultima
-   propoziție a explicației e tot o trimitere la text, nu o concluzie generală
-   („legea nu mai prevede...", „în toate cazurile...") — acolo au apărut
-   inexactitățile; când un distractor vine din legea veche (Legea 263/2010,
-   „solda lunară" din Legea 80/1995), explicația îi numește sursa; distractorii
-   care diferă de cheie doar printr-un sinonim („succesive"/„consecutive") sunt
-   interziși — diferența trebuie să fie de drept; la `multiplu` se alternează
-   2/4 și 3/4 corecte, ca să nu existe un tipar; termenele se scriu cu unitatea
-   exactă din text („zile calendaristice"/„zile lucrătoare"); un act din AFARA
-   corpusului (Legea 263/2010, Legea 19/2000, Codul fiscal etc.) nu se citează cu
-   articol și cifre — se spune cel mult „legislația anterioară", fără detalii
-   neverificabile.
-9. **Restricțiile din bibliografie** (`RESTRICTII`): la art. 45 din Legea 80/1995
-   doar lit. a)–f); la art. 16 din Codul muncii doar alin. (1)–(3); la art. 7, 9,
-   14 din Anexa VI doar alin. (1); la art. 86 din Anexa VI doar alin. (1)–(6).
-   Restul alineatelor NU sunt în tematică.
+7. **Nivelul de examen**: termene, praguri, condiții cumulative (multiplu!), competențe (cine aprobă/decide),
+   cuantumuri, procente (garanții), excepții, enumerări, etapele procedurii.
+8. **Lecții din proiectul-model și din verificarea băncii**: ultima propoziție a explicației e tot o trimitere la
+   text, nu o concluzie generală („legea nu mai prevede...", „în toate cazurile..."); distractorii care diferă de
+   cheie doar printr-un sinonim sunt interziși — diferența trebuie să fie de drept; la `multiplu` se alternează
+   2/4 și 3/4 corecte; termenele se scriu cu unitatea exactă din text („zile lucrătoare"/„zile"); un act din
+   AFARA corpusului (Legea 99/2016, Legea 100/2016, Codul civil, Codul de procedură civilă) nu se citează cu
+   articol și cifre neverificabile.
 
 ## 5. Capcane cunoscute ale materiei (de verificat în text înainte de a scrie)
 
-- **Legea 80/1995**: gradele din art. 2 au fost reașezate (alin. (2) vs. (2^1) —
-  se folosește lista în vigoare, nu cea veche); art. 20^1 (compensația pentru
-  chirie) a fost modificat în 2019 și 2020; art. 94^1 este abrogat; stagiile
-  minime în grad (art. 94–95) au excepții pe categorii; art. 45 are litere peste
-  f) care nu sunt în tematică.
-- **Legea 1/1998**: forma republicată (2000) — numerotarea e cea republicată;
-  atenție la organele cu rol de conducere/coordonare/control (CSAT, Parlament,
-  comisia comună) — cine face ce.
-- **Codul muncii**: multe articole modificate prin Legea nr. 283/2022 (informarea
-  salariatului art. 17, perioada de probă art. 31–33, preaviz art. 75, concedii
-  art. 144–147^1 — art. 147^1 este concediul suplimentar pentru fertilizare
-  in vitro); art. 35–38 și 62 NU sunt în bibliografie deși sunt în capitolele
-  cerute — verifică lista exactă din `bibliografie.py`; termene (contestare,
-  preaviz, perioadă de probă) au excepții pe categorii (funcții de conducere,
-  persoane cu handicap, contracte pe durată determinată).
-- **Legea 223/2015**: vechime în serviciu vs. vechime în muncă vs. vechime
-  cumulată (art. 3); condițiile de pensionare (art. 16–21) au excepții pe
-  condiții de muncă (art. 23–30); art. 28–30 (baza de calcul) au fost modificate
-  masiv — se citește forma din text, nu din memorie.
-- **Legea 360/2023**: în vigoare de la 1 septembrie 2024, a înlocuit Legea
-  263/2010 — nu se folosesc valorile din legea veche (stagiu minim/complet,
-  vârste standard, penalizări la anticipată) decât dacă apar în textul nou.
-- **Derogări în vigoare care NU apar în textul consolidat** (verificate la 17.09.2026):
-  OUG 7/2026 art. LIV — indemnizația pentru titlul de doctor (Legea 153/2017 art. 14
-  alin. (1)) este 500 lei brut în 2026; Legea 141/2025 — pensiile militare nu se
-  indexează în 2026 (art. 59 Legea 223/2015, în afara tematicii) și CASS 10 % pe
-  indemnizația de creștere a copilului (prin Codul fiscal, nu prin OUG 111/2010).
-  Întrebarea testează textul legii; explicația poate menționa derogarea, marcată
-  ca atare („prin derogare, în 2026...").
-- **Legea 153/2017 + Anexa VI**: corpul legii și anexa au numerotări separate —
-  `sursa.anexa` obligatoriu pentru anexă; soldele de funcție sunt în tabele
-  (citatele din tabele sunt greu de verificat: preferă articolele, nu rândurile
-  de tabel); art. 15^1 din anexă e nou.
-- **OUG 111/2010 / H.G. 52/2011**: indemnizația minimă/maximă, stimulentul de
-  inserție (cuantum, condiții, până la ce vârstă a copilului), suspendarea vs.
-  încetarea dreptului (art. 16–17 OUG), termene de depunere a cererii (art. 14
-  OUG, art. 12–13 norme) — cifrele s-au schimbat în 2022–2023: numai textul.
-- **H.G. 1867/2005**: art. 1 alin. (1): 50 % din solda de funcție (municipii,
-  stațiuni, localități cu situații deosebite) vs. 40 % (alte localități), plafonat
-  la chirie/rată — baza e **solda de funcție**, pe când Legea 80/1995 art. 20^1
-  spune „până la 50% din solda lunară"; art. 3^1 abrogat; art. 17^2 e singurul
-  dintre art. 16–17^x cerut.
+- **Praguri**: art. 7 din Legea 98/2016 (pragurile europene, revizuite periodic — valorile din textul la zi) vs.
+  pragurile achiziției directe (art. 7 alin. (5)); nu se folosesc valori din memorie sau din materiale de curs.
+- **Notificarea achizițiilor directe** e în Legea 98/2016 art. 7 alin. (8) (trimestrial), nu în Normele H.G. 395
+  (art. 46 abrogat) — capcană reală găsită în bancă.
+- **Normele H.G. 395** au multe articole abrogate în forma la zi (art. 2 alin. (1), 23–25, 28, 36, 38, 40, 42–44,
+  46, 93, 101, 164, 165^1): nu se scriu întrebări pe conținutul lor.
+- **Garanții**: garanția de participare (max. 2%) vs. garanția de bună execuție (max. 10%) — procentele și
+  regulile de restituire din textul la zi (unele reguli s-au mutat din Norme în Lege, de ex. art. 154^1).
+- **Legea 101/2016**: termenele de contestare (art. 8: 10 / 7 zile, după prag) vs. termenele de soluționare
+  (art. 24–25); notificarea prealabilă (art. 6–7) este abrogată.
+- **O.U.G. 98/2017**: art. 8 este abrogat; termenele ANAP din control și conciliere — numai din text.
+- **Normele ALOP**: fazele angajare → lichidare → ordonanțare → plată (pct. 1–4); pct. 5 (contabilitatea
+  angajamentelor) NU e în tematică.
+- **Legea 500/2002**: ordonatorii principali / secundari / terțiari (art. 20–22); calendarul bugetar și aprobarea
+  bugetului de stat (art. 31–37).
 
 ## 6. Formatul livrării
 
-- Fișier `tools/nou/<prefix>-<n>.json` = un array JSON valid (UTF-8, cu diacritice
-  corecte ș/ț cu virgulă). Fără comentarii, fără virgule finale.
+- Fișier `tools/nou/<PREFIX>-N<lot>.json` = un array JSON valid (UTF-8, diacritice ș/ț cu virgulă). Fără
+  comentarii, fără virgule finale.
 - La final agentul rulează din `quiz-app/tools/`:
-  `python3 valideaza.py nou/<fisier>.json && python3 check_citat.py nou/<fisier>.json && python3 check_articol.py nou/<fisier>.json`
-  și repară tot ce nu trece **înainte** de a raporta. Raportul final conține
-  ieșirea celor trei comenzi, verbatim.
+  `python3 valideaza.py nou/<fisier>.json && python3 check_citat.py nou/<fisier>.json && python3 check_articol.py nou/<fisier>.json && python3 check_semantic.py --doar-pozitionale nou/<fisier>.json`
+  și repară tot ce nu trece **înainte** de a raporta. Raportul final conține ieșirea celor patru comenzi, verbatim.

@@ -29,7 +29,7 @@ BIB = {
  K395:  ("", "1-166"),
  KOUG:  ("", "1-25"),
  K419C: ("", "I, V"),                         # aprobarea normelor ex ante + modificarea Normelor H.G. 395 (SURSE.md, obs. b)
- K419:  ("", "*"),
+ K419:  ("", "1-21"),                        # fără preambul: doar titlul normelor
  K101:  ("", "1-36^1"),
  KORD:  ("", "*"),
  KALOP: ("", "preambul, pct. 1-4"),           # „fără elementele de contabilitate”: pct. 5 exclus
@@ -100,7 +100,7 @@ TEME = [
     ["Activitatea de control ex ante", "Metodologia de selecție", "Inițierea controlului ex ante",
      "Desfășurarea activității de control", "Avizul conform al ANAP", "Procedura de conciliere",
      "Controlul ex ante al procedurilor de negociere", "Controlul ex ante al modificărilor contractului"],
-    {KOUG: "1-25", K419C: "I", K419: "*"}),
+    {KOUG: "1-25", K419C: "I", K419: "1-21"}),
  _t(20, "remedii-contestatii-termen-efecte-solutionare", 2,
     ["Remedii și căi de atac în atribuirea contractelor de achiziție publică",
      "Contestațiile formulate pe cale administrativ-jurisdicțională",
