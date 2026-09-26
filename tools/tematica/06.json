@@ -1,0 +1,240 @@
+{
+ "nr": 6,
+ "titlu": "Estimarea valorii achiziției publice și alegerea modalității de atribuire",
+ "rezumat": "Valoarea estimată decide procedura: ea se calculează fără TVA, înainte de inițierea procedurii, și cuprinde toate formele de remunerare, opțiunile, prelungirile, premiile și primele. Legea interzice divizarea contractului și metodele de calcul folosite pentru a evita procedurile. Pentru acordul-cadru, sistemul dinamic, parteneriatul pentru inovare, loturi, contracte cu caracter de regularitate, leasing sau servicii fără preț total există reguli speciale de calcul. Procedura se alege după valoarea estimată, complexitatea contractului și condițiile specifice fiecărei proceduri.",
+ "sectiuni": [
+  {
+   "titlu": "Cum se calculează valoarea estimată (Norme art. 16; Lege art. 12)",
+   "paragrafe": [
+    "Valoarea estimată se calculează în funcție de obiectul achiziției, ca valoare totală de plată fără TVA, incluzând opțiunile și prelungirile prevăzute explicit în documentele achiziției. Obiectul se încadrează în codul sau codurile CPV care îl descriu cel mai exact, după scopul principal al contractului.",
+    "Valoarea se determină înainte de inițierea procedurii și e valabilă la momentul inițierii. Procedura se inițiază prin transmiterea spre publicare a anunțului de participare, prin anunțul de participare ori anunțul de intenție continuu la serviciile sociale sau prin transmiterea invitației la negocierea fără publicare."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 16 alin. (1^1)–(2)",
+     "citat": "autoritatea contractantă calculează valoarea estimată a unei achiziții având în vedere valoarea totală de plată, fără TVA, estimată de autoritatea contractantă, luând în considerare orice eventuale forme de opțiuni și prelungiri ale contractului prevăzute în mod explicit în documentele achiziției. (2) Obiectul achiziției publice se pune în corespondență cu codul/codurile CPV care îl descriu cât mai exact, relevantă în acest context fiind activitatea ce caracterizează scopul principal al contractului.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 12",
+     "citat": "Valoarea estimată a achiziției se determină înainte de inițierea procedurii de atribuire și este valabilă la momentul inițierii procedurii de atribuire. Inițierea procedurii de atribuire se realizează prin una dintre următoarele modalități: a) transmiterea spre publicare a anunțului de participare; b) în cazul achiziției de servicii sociale ori alte servicii specifice, prevăzute în anexa nr. 2, transmiterea spre publicare a anunțului de participare ori a anunțului de intenție care este valabil în mod continuu; c) transmiterea invitației de participare la procedura de negociere fără publicarea prealabilă a unui anunț de participare.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Interdicția de a evita procedurile (art. 11)",
+   "paragrafe": [
+    "Autoritatea nu poate folosi metode de calcul al valorii estimate cu scopul de a evita procedurile de atribuire. Nu poate nici diviza contractul în mai multe contracte distincte de valoare mai mică și nici subevalua valoarea estimată în același scop.",
+    "Normele precizează că, la alegerea procedurii, autoritatea se raportează la valoarea estimată a produselor, serviciilor și lucrărilor destinate unor utilizări identice sau similare, furnizate de operatori cu activitate constantă în sectorul respectiv. Pentru proiectele cu fonduri nerambursabile sau de cercetare-dezvoltare, raportarea se face la durata contractului de finanțare sau a proiectului."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 11",
+     "citat": "(1) Autoritatea contractantă nu are dreptul de a utiliza metode de calcul al valorii estimate a achiziției cu scopul de a evita aplicarea procedurilor de atribuire prevăzute de prezenta lege. (2) Autoritatea contractantă nu are dreptul de a diviza contractul de achiziție publică în mai multe contracte distincte de valoare mai mică și nici de a utiliza metode de calcul care să conducă la o subevaluare a valorii estimate a contractului de achiziție publică, cu scopul de a evita aplicarea procedurilor de atribuire reglementate de prezenta lege.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 17 alin. (2)–(3)",
+     "citat": "autoritatea contractantă are obligația ca, la alegerea procedurii de atribuire, să se raporteze, în funcție de tipul contractului/acordului-cadru, la valoarea estimată a produselor, serviciilor și lucrărilor care sunt destinate unor utilizări identice sau similare și care fac parte din categoriile de produse/servicii/lucrări care sunt furnizate/ prestate/executate de către operatori economici cu activitate constantă în sectorul respectiv. (3) În cazul în care autoritatea contractantă implementează proiecte finanțate din fonduri nerambursabile și/sau având ca obiect cercetarea-dezvoltarea, prevederile prezentului articol se aplică prin raportare la durata contractului de finanțare/proiect.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Alegerea procedurii (Norme art. 17 alin. (1); Lege art. 9)",
+   "paragrafe": [
+    "Procedura se alege în funcție de valoarea estimată, de complexitatea contractului și de îndeplinirea condițiilor specifice ale fiecărei proceduri.",
+    "La investițiile publice, procedura se alege separat pe servicii: studiul de fezabilitate, proiectarea tehnică și asistența proiectantului, singure sau cumulate cu lucrările dacă fac obiectul aceluiași contract. Serviciile specifice, precum verificarea proiectelor, expertiza sau auditul energetic, se estimează fiecare pentru fiecare obiectiv de investiții. Dacă se acordă premii sau prime, valoarea lor intră în valoarea estimată."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 17 alin. (1)",
+     "citat": "Autoritatea contractantă alege procedura de atribuire în funcție de următoarele aspecte: a) valoarea estimată a achiziției; b) complexitatea contractului/acordului-cadru ce urmează a fi atribuit; c) îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 9 alin. (1) lit. b) și d)",
+     "citat": "b) valoarea estimată a contractului având ca obiect prestarea serviciilor de proiectare tehnică și asistență din partea proiectantului pentru fiecare obiectiv de investiții în parte cumulată cu cea a lucrărilor aferente obiectivului de investiții, dacă acestea fac obiectul aceluiași contract de achiziție publică de lucrări; [...] d) pentru serviciile specifice aferente unei lucrări cum ar fi verificare proiecte, expertiză, audit energetic, studiu de impact asupra mediului, scenariu la incendiu, consultanță, asistență tehnică și altele, care necesită specialiști certificați/atestați pentru realizarea acestora, se va stabili valoarea estimată a fiecărui serviciu pentru fiecare obiectiv de investiții în parte",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 9 alin. (2)",
+     "citat": "determinarea valorii estimate a achiziției trebuie să includă și valoarea premiilor/primelor respective.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Unități operaționale separate (art. 10)",
+   "paragrafe": [
+    "Regula e că valoarea estimată se calculează pentru toate unitățile operaționale ale autorității. Prin excepție, se poate calcula la nivelul unei unități care răspunde independent de achizițiile sale.",
+    "Unitatea e independentă doar dacă sunt îndeplinite cumulativ cinci condiții: desfășoară singură procedurile, ia singură deciziile, are surse de finanțare distincte în buget, încheie singură contractele și le plătește din bugetul propriu."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 10 alin. (1)–(2)",
+     "citat": "valoarea estimată se calculează prin luarea în considerare a valorii estimate totale pentru toate unitățile operaționale luate separat. (2) Prin excepție de la prevederile alin. (1), dacă o unitate operațională este responsabilă în mod independent pentru achizițiile sale sau pentru anumite categorii ale acestora, valorile estimate se pot calcula la nivelul unității în cauză.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 10 alin. (3)",
+     "citat": "dacă sunt îndeplinite în mod cumulativ următoarele condiții: a) unitatea operațională desfășoară în mod independent procedurile de atribuire; b) unitatea operațională ia în mod independent deciziile privind achizițiile; c) unitatea operațională are la dispoziție în buget surse de finanțare identificate în mod distinct pentru achiziții; d) unitatea operațională încheie în mod independent contractele de achiziții publice; e) unitatea operațională asigură plata contractelor de achiziții publice din bugetul pe care îl are la dispoziție.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Acord-cadru, sistem dinamic, parteneriat pentru inovare, concurs de soluții, lucrări (art. 13–16)",
+   "paragrafe": [
+    "La acordul-cadru și la sistemul dinamic de achiziții, valoarea estimată e valoarea maximă estimată, fără TVA, a tuturor contractelor subsecvente anticipate pe întreaga durată. La parteneriatul pentru inovare, e valoarea maximă a activităților de cercetare-dezvoltare din toate etapele, plus cea a produselor, serviciilor sau lucrărilor achiziționate la final.",
+    "La concursul de soluții organizat în cadrul unei proceduri de servicii, valoarea include contractul de servicii și premiile sau plățile. La concursul organizat ca procedură distinctă, se pornește de la totalul premiilor și se adaugă contractul de servicii ce poate urma, dacă autoritatea și-a anunțat intenția.",
+    "La lucrări, valoarea cuprinde costul lucrărilor și valoarea produselor și serviciilor puse de autoritate la dispoziția contractantului."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 14",
+     "citat": "valoarea estimată a achiziției se consideră a fi valoarea maximă estimată, fără TVA, a tuturor contractelor de achiziție publică subsecvente care se anticipează că vor fi atribuite în baza acordului-cadru sau prin utilizarea sistemului dinamic de achiziții pe întreaga sa durată.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 15",
+     "citat": "În cazul parteneriatului pentru inovare, valoarea estimată a achiziției se consideră a fi valoarea maximă estimată, fără TVA, a activităților de cercetare și dezvoltare care urmează să se realizeze pe durata tuturor etapelor parteneriatului avut în vedere, precum și a produselor, serviciilor sau lucrărilor care urmează să fie realizate și achiziționate la sfârșitul parteneriatului respectiv.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 13",
+     "citat": "valoarea estimată se calculează pe baza valorii estimate, fără TVA, a contractului de achiziție publică de servicii, inclusiv a oricăror eventuale premii sau plăți către participanți. (2) În cazul concursului de soluții prevăzut la art. 105 lit. b), valoarea estimată se calculează prin raportare la valoarea totală a premiilor sau plăților către participanți și include valoarea estimată, fără TVA, a contractului de achiziție publică de servicii care poate fi încheiat",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 16",
+     "citat": "valoarea estimată a achiziției se calculează luând în considerare atât costul lucrărilor, cât și valoarea totală estimată a produselor și serviciilor puse la dispoziția contractantului de către autoritatea contractantă, necesare pentru executarea lucrărilor.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Loturi (art. 17–19)",
+   "paragrafe": [
+    "Când lucrarea, serviciile sau produsele similare se atribuie pe loturi, valoarea estimată e valoarea globală a tuturor loturilor. Dacă valoarea cumulată atinge pragurile de la art. 7 alin. (1), procedurile legii se aplică fiecărui lot, indiferent de valoarea lui.",
+    "Produsele sunt similare dacă, cumulativ, au utilizări identice sau similare și fac parte din gama normală a operatorilor cu activitate constantă în sector.",
+    "Prin excepție, loturile mici pot fi atribuite prin procedură simplificată sau prin achiziție directă, cu două condiții cumulative. Lotul trebuie să valoreze sub 399 120 lei la produse sau servicii ori sub 4 989 000 lei la lucrări. Totalul loturilor atribuite astfel nu poate depăși 20% din valoarea globală a loturilor."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 17",
+     "citat": "valoarea estimată a achiziției se determină luând în considerare valoarea globală estimată a tuturor loturilor. (2) În cazul în care valoarea cumulată a loturilor este egală sau mai mare decât pragurile valorice corespunzătoare prevăzute la art. 7 alin. (1), procedurile de atribuire reglementate de prezenta lege se aplică pentru atribuirea fiecărui lot, indiferent de valoarea estimată a acestuia.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 18 alin. (3)",
+     "citat": "prin produse similare se înțelege acele produse care îndeplinesc în mod cumulativ următoarele condiții: a) sunt destinate unor utilizări identice sau similare; b) fac parte din gama normală de produse care sunt furnizate/comercializate de către operatori economici cu activitate constantă în sectorul respectiv.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 19",
+     "citat": "Prin excepție de la prevederile art. 17 și 18, autoritatea contractantă poate aplica procedura simplificată sau, în condițiile art. 7 alin. (5), achiziția directă, pentru atribuirea contractelor pe loturi individuale, în cazul în care sunt îndeplinite în mod cumulativ următoarele condiții: a) valoarea estimată, fără TVA, a lotului respectiv este mai mică de 399 120 lei, în cazul achiziției de produse sau servicii, sau mai mică de 4 989 000 lei, în cazul achiziției de lucrări;* b) valoarea cumulată a loturilor pentru care este îndeplinită condiția prevăzută la lit. a) și care sunt sau au fost atribuite în temeiul prezentului articol nu depășește 20% din valoarea globală a tuturor loturilor",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Contracte cu caracter de regularitate, leasing și servicii (art. 20–25)",
+   "paragrafe": [
+    "Pentru produse sau servicii cu caracter de regularitate, se ia fie valoarea reală a contractelor similare din ultimele 12 luni sau din anul bugetar anterior, ajustată, fie valoarea estimată a contractelor succesive din 12 luni de la prima livrare.",
+    "La cumpărarea în rate, închiriere sau leasing: pentru o durată de cel mult 12 luni se ia valoarea totală; peste 12 luni se adaugă valoarea reziduală; la durată nedeterminată sau imposibil de stabilit, valoarea lunară se înmulțește cu 48.",
+    "La asigurări, valoarea se calculează pe baza primelor și a altor forme de remunerare; la serviciile bancare sau financiare, pe baza onorariilor, comisioanelor, dobânzilor și altor remunerații; la proiectare, pe baza onorariilor și comisioanelor.",
+    "La serviciile fără preț total: până la 48 de luni se ia valoarea pe întreaga durată; peste 48 de luni sau la durată nedeterminată, valoarea lunară se înmulțește cu 48."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 20",
+     "citat": "a) fie valoarea reală globală a tuturor contractelor similare succesive atribuite în ultimele 12 luni sau în anul bugetar anterior, ajustată, acolo unde este posibil, pentru a lua în considerare modificările cantitative și valorice care pot surveni într-un interval de 12 luni de la data contractului inițial; b) fie valoarea estimată globală a tuturor contractelor succesive atribuite într-un interval de 12 luni de la prima livrare.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 21",
+     "citat": "a) în cazul contractelor de achiziție publică încheiate pe durată determinată mai mică sau egală cu 12 luni, valoarea estimată este valoarea totală estimată pentru întreaga durată a contractului respectiv; b) în cazul contractelor de achiziție publică încheiate pe durată determinată mai mare de 12 luni, valoarea estimată este valoarea totală estimată pentru întreaga durată a contractului respectiv la care se adaugă valoarea reziduală estimată a produselor la sfârșitul perioadei pentru care s-a încheiat contractul; c) în cazul contractelor de achiziție publică încheiate pe durată nedeterminată sau în cazul în care durata acestora nu poate fi stabilită la data estimării, valoarea estimată se calculează prin înmulțirea cu 48 a valorii lunare a contractului.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 22",
+     "citat": "valoarea estimată a achiziției se calculează pe baza primelor de asigurare ce urmează a fi plătite și a oricăror altor forme de remunerare aferente serviciilor respective.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 23",
+     "citat": "valoarea estimată a achiziției se calculează pe baza onorariilor, comisioanelor ce urmează a fi plătite, dobânzilor și a oricăror altor forme de remunerare aferente serviciilor respective.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 24",
+     "citat": "În cazul contractelor de achiziție publică de servicii având ca obiect servicii de proiectare, valoarea estimată a achiziției se calculează pe baza onorariilor, comisioanelor ce urmează a fi plătite și a oricăror altor forme de remunerare aferente serviciilor respective.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 25",
+     "citat": "a) în cazul contractelor de achiziție publică încheiate pe durată determinată mai mică sau egală cu 48 de luni, valoarea estimată este valoarea totală a contractului pentru întreaga durată a acestuia; b) în cazul contractelor de achiziție publică încheiate pe durată nedeterminată sau pe durată determinată mai mare de 48 de luni, valoarea estimată se calculează prin înmulțirea cu 48 a valorii lunare a contractului.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Valoarea estimată e mereu fără TVA și cuprinde opțiunile și prelungirile prevăzute explicit (Norme art. 16 alin. (1^1)).",
+  "Momentul de referință e inițierea procedurii: transmiterea anunțului sau a invitației, nu semnarea contractului (art. 12).",
+  "Leasingul și închirierea folosesc pragul de 12 luni; serviciile fără preț total folosesc pragul de 48 de luni. Pentru durată nedeterminată, ambele înmulțesc valoarea lunară cu 48.",
+  "La loturi, dacă valoarea cumulată atinge pragul, procedura se aplică fiecărui lot; excepția de la art. 19 cere ambele condiții, inclusiv plafonul de 20%.",
+  "Unitatea operațională poate estima separat doar dacă îndeplinește cumulativ toate cele cinci condiții de la art. 10 alin. (3).",
+  "La acordul-cadru se ia valoarea maximă a tuturor contractelor subsecvente, nu a primului contract."
+ ],
+ "intrebari": [
+  "L98A-024",
+  "L98A-025",
+  "L98A-026",
+  "L98A-027",
+  "L98A-028",
+  "L98A-042",
+  "L98A-029",
+  "L98A-030",
+  "L98A-043",
+  "L98A-031",
+  "L98A-032",
+  "N395A-030",
+  "L98A-033",
+  "N395A-031",
+  "L98A-034",
+  "L98A-035",
+  "N395A-032",
+  "L98A-044",
+  "L98-N103",
+  "N395A-033",
+  "L98-N104",
+  "N395A-034",
+  "L98A-036",
+  "L98A-041"
+ ]
+}

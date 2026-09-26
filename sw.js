@@ -18,6 +18,7 @@ const FISIERE = [
   "./tematica/03-achizitii-centralizate-si-comune-ocazionale.html",
   "./tematica/04-reguli-generale-de-participare.html",
   "./tematica/05-modalitati-si-proceduri-de-atribuire.html",
+  "./tematica/06-estimarea-valorii-si-alegerea-modalitatii.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",
