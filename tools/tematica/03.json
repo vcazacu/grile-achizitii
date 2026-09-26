@@ -1,0 +1,147 @@
+{
+ "nr": 3,
+ "titlu": "Activități de achiziție centralizare și achiziții comune ocazionale",
+ "rezumat": "O autoritate contractantă poate cumpăra prin intermediul unei unități de achiziții centralizate (UAC) fără să mai aplice ea însăși legea, dar rămâne supusă legii pentru pașii pe care îi face singură, cum ar fi reluarea competiției într-un acord-cadru al UAC. Înființarea UAC se stabilește prin hotărâre a Guvernului, respectiv a autorităților deliberative locale, iar toate procedurile organizate de UAC sunt electronice. Autoritățile pot face și achiziții comune ocazionale, cu răspundere solidară pentru ce fac împreună, inclusiv cu autorități din alte state membre. Capcana tipică: răspunderea solidară se extinde doar asupra activităților efectuate în comun.",
+ "sectiuni": [
+  {
+   "titlu": "Unitățile de achiziții centralizate și scutirea autorității (art. 40–42)",
+   "paragrafe": [
+    "Înființarea unităților de achiziții centralizate și condițiile în care autoritățile contractante cumpără de la ele se stabilesc prin hotărâre a Guvernului, respectiv prin hotărâre a autorităților deliberative locale.",
+    "Autoritatea contractantă nu aplică legea când cumpără produse sau servicii de la o UAC, în temeiul contractelor atribuite de UAC, printr-un sistem dinamic de achiziții administrat de UAC sau printr-un acord-cadru al UAC, dacă identitatea ei a fost prevăzută în anunțul de participare.",
+    "Legea se aplică însă activităților pe care autoritatea le realizează ea însăși: atribuirea unui contract în cadrul sistemului dinamic al UAC, încheierea unui contract subsecvent prin reluarea competiției în acordul-cadru al UAC și stabilirea operatorilor care îndeplinesc o anumită activitate în executarea acordului-cadru.",
+    "Toate procedurile organizate de o unitate de achiziții centralizate se desfășoară prin mijloace electronice de comunicare."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 40",
+     "citat": "se stabilesc prin hotărâre a Guvernului, respectiv prin hotărâre a autorităților deliberative locale.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 41 alin. (1)",
+     "citat": "a) au ca obiect produse sau servicii achiziționate de la o unitate de achiziții centralizate care furnizează activitățile de achiziție centralizate; [...] d) au ca obiect lucrări, produse sau servicii achiziționate printr-un acord-cadru încheiat de o unitate de achiziții centralizate care furnizează activitățile de achiziție centralizate, în măsura în care identitatea autorității contractante a fost prevăzută în cuprinsul anunțului de participare publicat în cadrul procedurii de atribuire a acordului-cadru organizate de către unitatea de achiziții centralizate.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 41 alin. (2)",
+     "citat": "autoritatea contractantă are obligația de a aplica dispozițiile prezentei legi numai în ceea ce privește activitățile pe care le realizează ea însăși, cum ar fi: a) atribuirea unui contract în cadrul unui sistem dinamic de achiziții care este administrat de către o unitate de achiziții centralizate; b) încheierea unui contract subsecvent prin reluarea competiției în executarea unui acord-cadru încheiat de către o unitate de achiziții centralizate;",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 42",
+     "citat": "Toate procedurile de atribuire organizate de o unitate de achiziții centralizate se realizează prin mijloace electronice de comunicare",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Contractarea UAC și activitățile auxiliare (art. 43)",
+   "paragrafe": [
+    "Autoritatea nu aplică procedurile legii când atribuie unei UAC, în condițiile hotărârii de la art. 40, un contract de servicii având ca obiect furnizarea de activități de achiziție centralizate; contractul poate include și activități de achiziție auxiliare.",
+    "Dacă activitățile auxiliare sunt contractate altfel decât de la o UAC, se aplică procedurile legii pentru contractele de servicii.",
+    "Legea nu se aplică nici atunci când UAC sau un furnizor de servicii de achiziție furnizează aceste activități altfel decât în temeiul unui contract de achiziție publică."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 43 alin. (1)–(3)",
+     "citat": "Autoritatea contractantă nu are obligația de a aplica procedurile de atribuire reglementate de prezenta lege atunci când, în condițiile stabilite prin hotărârea prevăzută la art. 40, atribuie unei unități de achiziții centralizate un contract de achiziție publică de servicii având ca obiect furnizarea de activități de achiziție centralizate. (2) Contractele de achiziție publică de servicii prevăzute la alin. (1) pot include și furnizarea de activități de achiziție auxiliare. (3) Atribuirea contractelor de achiziții publice de servicii privind furnizarea de activități de achiziție auxiliare altfel decât de către o unitate de achiziții centralizate potrivit alin. (2) se realizează prin aplicarea procedurilor de atribuire reglementate de prezenta lege în cazul contractelor de achiziție publică de servicii.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 43 alin. (4)",
+     "citat": "Dispozițiile prezentei legi nu sunt aplicabile în cazul în care o unitate de achiziții centralizate furnizează activități de achiziție centralizate sau un furnizor de servicii de achiziție furnizează activități de achiziție auxiliare pentru o autoritate contractantă altfel decât în temeiul unui contract de achiziție publică.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Achizițiile comune ocazionale și răspunderea solidară (art. 44)",
+   "paragrafe": [
+    "Două sau mai multe autorități contractante pot conveni să efectueze în comun anumite achiziții specifice.",
+    "Dacă procedura e organizată în întregime în comun, în numele și pe seama tuturor, autoritățile răspund solidar pentru toate obligațiile. Regula se aplică și când o singură autoritate organizează procedura în nume propriu și în numele celorlalte.",
+    "Dacă procedura nu e organizată în întregime în comun, răspunderea solidară privește doar activitățile efectuate în comun; pentru ce realizează în nume propriu, fiecare autoritate răspunde individual."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 44 alin. (1)–(3)",
+     "citat": "Două sau mai multe autorități contractante pot conveni să efectueze în comun anumite achiziții specifice. (2) În cazul în care o procedură de achiziție publică este organizată în întregime în comun, în numele și pe seama tuturor autorităților contractante prevăzute la alin. (1), acestea sunt responsabile în mod solidar pentru îndeplinirea obligațiilor care le revin în temeiul prezentei legi. (3) Dispozițiile alin. (2) se aplică în mod corespunzător în cazul în care o singură autoritate contractantă organizează procedura de atribuire, acționând atât în nume propriu, cât și în numele și pe seama celorlalte autorități contractante prevăzute la alin. (1).",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 44 alin. (4)–(5)",
+     "citat": "acestea sunt responsabile în mod solidar numai cu privire la activitățile efectuate în comun. (5) În cazul prevăzut la alin. (4), fiecare autoritate contractantă este responsabilă în mod individual pentru îndeplinirea obligațiilor sale în temeiul prezentei legi în ceea ce privește activitățile pe care le realizează în nume propriu.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Achiziții cu autorități din alte state membre (art. 45–48)",
+   "paragrafe": [
+    "Autoritățile naționale pot acționa în comun cu autorități din alte state membre, dar nu pot folosi aceste instrumente pentru a evita normele imperative naționale de drept public.",
+    "Ele pot folosi o UAC dintr-un alt stat membru; în acest caz se aplică legislația statului în care e situată UAC, inclusiv pentru atribuirea în sistemul dinamic, reluarea competiției și stabilirea operatorilor din acordul-cadru.",
+    "Pentru o atribuire comună, autoritățile încheie un acord care stabilește responsabilitățile, legea națională aplicabilă și organizarea internă a procedurii, cu excepția cazului în care elementele sunt stabilite printr-un acord internațional; repartizarea responsabilităților și legislația aplicabilă se menționează în documentația de atribuire.",
+    "Când au înființat o entitate comună (de pildă o grupare europeană de cooperare teritorială), autoritățile aleg legea statului în care entitatea își are sediul sau a celui în care își desfășoară activitățile."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 45 alin. (2)",
+     "citat": "nu vor folosi mijloacele și instrumentele reglementate de dispozițiile art. 46-48 în scopul evitării aplicării normelor imperative naționale de drept public",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 46 alin. (1)–(2)",
+     "citat": "Autoritățile contractante naționale au dreptul de a utiliza activitățile de achiziție centralizate furnizate de o unitate de achiziții centralizate dintr-un alt stat membru. (2) Furnizarea activităților de achiziție centralizate de către o unitate de achiziții centralizate dintr-un alt stat membru se realizează în conformitate cu dispozițiile legislației naționale a statului membru în care este situată unitatea de achiziții centralizate.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 46 alin. (5)",
+     "citat": "a) responsabilitățile părților și dispozițiile de drept național aplicabile; b) aspectele de organizare internă a procedurii de atribuire, inclusiv organizarea procedurii, repartizarea lucrărilor, produselor sau serviciilor care urmează să fie achiziționate și încheierea contractelor.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 47 alin. (3)",
+     "citat": "Modul de repartizare a responsabilităților și legislația națională aplicabilă se menționează în documentația de atribuire",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 48 alin. (1)",
+     "citat": "a) statul membru în care entitatea comună își are sediul; b) statul membru în care entitatea comună își desfășoară activitățile.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Cumpărarea prin acordul-cadru al UAC scutește autoritatea doar dacă identitatea ei a fost prevăzută în anunțul de participare (art. 41 alin. (1) lit. d)).",
+  "Reluarea competiției într-un acord-cadru al UAC rămâne sub lege: e o activitate pe care autoritatea o face ea însăși (art. 41 alin. (2) lit. b)).",
+  "UAC se înființează prin hotărâre a Guvernului sau a autorității deliberative locale, nu prin ordin al ANAP (art. 40).",
+  "Procedurile organizate de UAC sunt integral electronice (art. 42).",
+  "Activitățile auxiliare contractate de la altcineva decât o UAC se atribuie prin procedurile legii (art. 43 alin. (3)).",
+  "Răspunderea solidară e totală doar dacă procedura e organizată în întregime în comun; altfel, numai pentru activitățile comune (art. 44 alin. (2) și (4)).",
+  "La UAC dintr-un alt stat membru se aplică legislația statului UAC, nu legea română (art. 46 alin. (2))."
+ ],
+ "intrebari": [
+  "L98E-003",
+  "L98-N109",
+  "L98E-004",
+  "L98E-005",
+  "L98A-053",
+  "L98E-007",
+  "L98A-054",
+  "L98-N110",
+  "L98E-006"
+ ]
+}

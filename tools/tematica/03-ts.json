@@ -1,0 +1,370 @@
+[
+ {
+  "loc": "Unitățile de achiziții centralizate și scutirea autorității  / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Înființarea unităților de achiziții centralizate și condițiile în care autoritățile contractante cumpără de la ele se stabilesc prin hotărâre a Guvernului, respectiv prin hotărâre a autorităților deliberative locale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2561
+ },
+ {
+  "loc": "Unitățile de achiziții centralizate și scutirea autorității  / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea contractantă nu aplică legea când cumpără produse sau servicii de la o UAC, în temeiul contractelor atribuite de UAC, printr-un sistem dinamic de achiziții administrat de UAC sau printr-un acord-cadru al UAC, dacă identitatea ei a fost prevăzută în anunțul de participare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.03,
+     "absenta_corecta": 0.0,
+     "sustine": 0.97,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 2583
+ },
+ {
+  "loc": "Unitățile de achiziții centralizate și scutirea autorității  / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Legea se aplică însă activităților pe care autoritatea le realizează ea însăși: atribuirea unui contract în cadrul sistemului dinamic al UAC, încheierea unui contract subsecvent prin reluarea competiției în acordul-cadru al UAC și stabilirea operatorilor care îndeplinesc o anumită activitate în executarea acordului-cadru.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2594
+ },
+ {
+  "loc": "Unitățile de achiziții centralizate și scutirea autorității  / paragraful 4",
+  "afirmatii": {
+   "0": {
+    "text": "Toate procedurile organizate de o unitate de achiziții centralizate se desfășoară prin mijloace electronice de comunicare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2532
+ },
+ {
+  "loc": "Contractarea UAC și activitățile auxiliare (art. 43) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea nu aplică procedurile legii când atribuie unei UAC, în condițiile hotărârii de la art. 40, un contract de servicii având ca obiect furnizarea de activități de achiziție centralizate; contractul poate include și activități de achiziție auxiliare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 1970
+ },
+ {
+  "loc": "Contractarea UAC și activitățile auxiliare (art. 43) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă activitățile auxiliare sunt contractate altfel decât de la o UAC, se aplică procedurile legii pentru contractele de servicii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 1928
+ },
+ {
+  "loc": "Contractarea UAC și activitățile auxiliare (art. 43) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Legea nu se aplică nici atunci când UAC sau un furnizor de servicii de achiziție furnizează aceste activități altfel decât în temeiul unui contract de achiziție publică.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 1938
+ },
+ {
+  "loc": "Achizițiile comune ocazionale și răspunderea solidară (art.  / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Două sau mai multe autorități contractante pot conveni să efectueze în comun anumite achiziții specifice.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 1906
+ },
+ {
+  "loc": "Achizițiile comune ocazionale și răspunderea solidară (art.  / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă procedura e organizată în întregime în comun, în numele și pe seama tuturor, autoritățile răspund solidar pentru toate obligațiile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Regula se aplică și când o singură autoritate organizează procedura în nume propriu și în numele celorlalte.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2333
+ },
+ {
+  "loc": "Achizițiile comune ocazionale și răspunderea solidară (art.  / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă procedura nu e organizată în întregime în comun, răspunderea solidară privește doar activitățile efectuate în comun; pentru ce realizează în nume propriu, fiecare autoritate răspunde individual.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 1938
+ },
+ {
+  "loc": "Achiziții cu autorități din alte state membre (art. 45–48) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritățile naționale pot acționa în comun cu autorități din alte state membre, dar nu pot folosi aceste instrumente pentru a evita normele imperative naționale de drept public.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3240
+ },
+ {
+  "loc": "Achiziții cu autorități din alte state membre (art. 45–48) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Ele pot folosi o UAC dintr-un alt stat membru; în acest caz se aplică legislația statului în care e situată UAC, inclusiv pentru atribuirea în sistemul dinamic, reluarea competiției și stabilirea operatorilor din acordul-cadru.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3270
+ },
+ {
+  "loc": "Achiziții cu autorități din alte state membre (art. 45–48) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru o atribuire comună, autoritățile încheie un acord care stabilește responsabilitățile, legea națională aplicabilă și organizarea internă a procedurii, cu excepția cazului în care elementele sunt stabilite printr-un acord internațional; repartizarea responsabilităților și legislația aplicabilă se menționează în documentația de atribuire.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3312
+ },
+ {
+  "loc": "Achiziții cu autorități din alte state membre (art. 45–48) / paragraful 4",
+  "afirmatii": {
+   "0": {
+    "text": "Când au înființat o entitate comună (de pildă o grupare europeană de cooperare teritorială), autoritățile aleg legea statului în care entitatea își are sediul sau a celui în care își desfășoară activitățile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3269
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Cumpărarea prin acordul-cadru al UAC scutește autoritatea doar dacă identitatea ei a fost prevăzută în anunțul de participare (art. 41 alin. (1) lit. d)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.02,
+     "absenta_corecta": 0.0,
+     "sustine": 0.98,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 6408
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Reluarea competiției într-un acord-cadru al UAC rămâne sub lege: e o activitate pe care autoritatea o face ea însăși (art. 41 alin. (2) lit. b)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 6311
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "UAC se înființează prin hotărâre a Guvernului sau a autorității deliberative locale, nu prin ordin al ANAP (art. 40).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.2,
+     "sustine": 0.8,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.73
+   }
+  },
+  "usage": 6236
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Procedurile organizate de UAC sunt integral electronice (art. 42).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 6216
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Activitățile auxiliare contractate de la altcineva decât o UAC se atribuie prin procedurile legii (art. 43 alin. (3)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 6348
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Răspunderea solidară e totală doar dacă procedura e organizată în întregime în comun; altfel, numai pentru activitățile comune (art. 44 alin. (2) și (4)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 6447
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "La UAC dintr-un alt stat membru se aplică legislația statului UAC, nu legea română (art. 46 alin. (2)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 6332
+ }
+]
