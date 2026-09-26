@@ -16,6 +16,7 @@ const FISIERE = [
   "./tematica/01-principii-autoritati-contractante-domeniu.html",
   "./tematica/02-exceptari-achizitii-mixte-situatii-speciale.html",
   "./tematica/03-achizitii-centralizate-si-comune-ocazionale.html",
+  "./tematica/04-reguli-generale-de-participare.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",

@@ -1,0 +1,589 @@
+[
+ {
+  "loc": "Tratamentul operatorilor economici și structurarea achiziție / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritățile contractante acordă operatorilor economici un tratament egal și nediscriminatoriu și acționează transparent și proporțional.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 1772
+ },
+ {
+  "loc": "Tratamentul operatorilor economici și structurarea achiziție / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Achiziția nu poate fi concepută sau structurată cu scopul de a o excepta de la lege ori de a restrânge artificial concurența.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Restrângerea artificială există când achiziția e concepută pentru a favoriza sau dezavantaja nejustificat anumiți operatori.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2184
+ },
+ {
+  "loc": "Cine participă și în ce formă (art. 51–54; Norme art. 47) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Documentația de atribuire precizează reglementările obligatorii de mediu, sociale și de muncă, iar ofertanții indică în ofertă că au ținut cont de ele.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3565
+ },
+ {
+  "loc": "Cine participă și în ce formă (art. 51–54; Norme art. 47) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Au dreptul de a participa operatorii economici din definiția legii, ca ofertant individual sau asociat, candidat, terț susținător ori subcontractant; cei care nu se încadrează în definiție sunt excluși fără a mai fi verificate motivele de excludere de la art. 164, 165 și 167.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.05,
+     "sustine": 0.95,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.93
+   }
+  },
+  "usage": 3610
+ },
+ {
+  "loc": "Cine participă și în ce formă (art. 51–54; Norme art. 47) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea nu poate impune asocierilor o anumită formă juridică pentru depunerea ofertei.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Poate cere asocierii câștigătoare să adopte o formă juridică doar dacă acest lucru a fost prevăzut în anunțul de participare și în documentația de atribuire și e necesar pentru executarea contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3982
+ },
+ {
+  "loc": "Cine participă și în ce formă (art. 51–54; Norme art. 47) / paragraful 4",
+  "afirmatii": {
+   "0": {
+    "text": "Normele interzic, sub sancțiunea excluderii, ca în aceeași procedură un ofertant să depună două sau mai multe oferte individuale și/sau comune, ori să depună ofertă și să fie nominalizat ca subcontractant în altă ofertă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Oferta alternativă și ofertarea pe mai multe loturi rămân permise.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3983
+ },
+ {
+  "loc": "Terțul susținător și autorizațiile (Norme art. 48–51) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Ofertantul care invocă susținerea unui terț pentru situația economică și financiară sau pentru capacitatea tehnică și profesională o dovedește printr-un angajament ferm al terțului; subcontractantul pe capacitatea căruia se bazează ofertantul e considerat și terț susținător, iar acordul de subcontractare ține loc și de angajament ferm.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2517
+ },
+ {
+  "loc": "Terțul susținător și autorizațiile (Norme art. 48–51) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea ia în considerare susținerea dacă, cumulativ, terțul dovedește că deține resursele invocate și ofertantul demonstrează că va dispune efectiv de ele, când terțul nu e declarat subcontractant.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2468
+ },
+ {
+  "loc": "Terțul susținător și autorizațiile (Norme art. 48–51) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "O autorizație specifică cerută de autoritate se consideră îndeplinită la o asociere dacă unul dintre membri o deține și execută partea de contract pentru care e cerută; la fel, dacă o deține subcontractantul nominalizat care execută acea parte.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2477
+ },
+ {
+  "loc": "Subcontractanții și contractele rezervate (art. 55–56) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Ofertantul precizează în ofertă categoriile de servicii sau lucrări pe care intenționează să le subcontracteze, procentul sau valoarea lor și datele subcontractanților, dacă îi cunoaște la depunere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Subcontractanții au aceleași obligații de mediu, sociale și de muncă ca ofertanții.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2337
+ },
+ {
+  "loc": "Subcontractanții și contractele rezervate (art. 55–56) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea poate rezerva participarea doar unităților protejate autorizate și întreprinderilor sociale de inserție; în acest caz, anunțul sau invitația de participare indică explicit art. 56 ca temei legal.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 1927
+ },
+ {
+  "loc": "Confidențialitatea (art. 57, 65) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea nu dezvăluie informațiile din propunerea tehnică, elementele din propunerea financiară sau fundamentările de preț pe care operatorii le indică și le dovedesc ca fiind confidențiale: date cu caracter personal, secrete tehnice sau comerciale, informații protejate de un drept de proprietate intelectuală.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Fără dovada anexată la ofertă, protecția nu se aplică.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2872
+ },
+ {
+  "loc": "Confidențialitatea (art. 57, 65) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Confidențialitatea nu înlătură obligațiile de publicare a anunțului de atribuire și de comunicare a rezultatului procedurii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2421
+ },
+ {
+  "loc": "Confidențialitatea (art. 57, 65) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Conținutul ofertelor și al solicitărilor de participare este confidențial până la publicarea raportului procedurii, iar autoritatea ia cunoștință de el numai de la data stabilită pentru deschidere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2439
+ },
+ {
+  "loc": "Conflictul de interese (art. 58–63) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Conflictul de interese este orice situație în care personalul autorității sau al furnizorului de servicii de achiziție, implicat în procedură sau care îi poate influența rezultatul, are direct ori indirect un interes financiar, economic sau alt interes personal care i-ar putea compromite imparțialitatea sau independența.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3956
+ },
+ {
+  "loc": "Conflictul de interese (art. 58–63) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Situațiile potențial generatoare sunt enumerate exemplificativ: evaluatori care dețin acțiuni sau fac parte din conducerea unui ofertant; evaluatori soți, rude sau afini până la gradul al doilea inclusiv cu membrii conducerii unui ofertant; ofertanți care au în conducere sau ca acționari semnificativi rude ori parteneri comerciali ai persoanelor cu funcții de decizie din autoritate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Acționar semnificativ înseamnă cel puțin 10% din capitalul social sau din drepturile de vot.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4393
+ },
+ {
+  "loc": "Conflictul de interese (art. 58–63) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Câștigătorul nu poate angaja sau încheia înțelegeri de prestări servicii pentru executarea contractului cu persoane implicate în evaluare ori cu foști angajați ai autorității implicați în procedură, timp de cel puțin 12 luni de la încheierea contractului, sub sancțiunea rezoluțiunii ori rezilierii de drept.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3969
+ },
+ {
+  "loc": "Conflictul de interese (art. 58–63) / paragraful 4",
+  "afirmatii": {
+   "0": {
+    "text": "Când identifică o situație potențial generatoare, autoritatea îi prezintă ofertantului motivele și îi cere punctul de vedere; dacă stabilește că există conflict, îl elimină, de exemplu prin înlocuirea evaluatorilor sau eliminarea ofertantului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3947
+ },
+ {
+  "loc": "Conflictul de interese (art. 58–63) / paragraful 5",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea precizează în documentele achiziției numele persoanelor cu funcții de decizie și publică electronic datele ofertanților, candidaților, subcontractanților și terților susținători în cel mult 5 zile de la termenul-limită de depunere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.94,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.06
+    },
+    "confidence": 0.92
+   }
+  },
+  "usage": 3948
+ },
+ {
+  "loc": "Comunicările (art. 64, 66; Norme art. 52) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Comunicările se fac în scris, prin mijloace electronice sau, ca excepție, prin alte mijloace.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Comunicarea verbală e permisă doar pentru alte elemente decât cele esențiale ale procedurii (documentele achiziției, solicitările de participare și ofertele) și numai cu consemnarea în scris a conținutului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3488
+ },
+ {
+  "loc": "Comunicările (art. 64, 66; Norme art. 52) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea poate impune instrumente care nu sunt disponibile cu caracter general doar dacă oferă mijloace alternative de acces.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3044
+ },
+ {
+  "loc": "Comunicările (art. 64, 66; Norme art. 52) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Normele enumeră limitativ situațiile în care se pot folosi alte mijloace decât cele electronice, de pildă mostre, machete sau modele la scară care nu pot fi transmise electronic, ori informații deosebit de sensibile; atunci comunicarea se face prin poștă, fax sau combinația lor, iar motivele se indică în raportul procedurii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "sustine": 0.98,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 3115
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Rude și afini: până la gradul al doilea inclusiv, nu al patrulea (art. 60 alin. (1) lit. b), d), e)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.92,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.07
+    },
+    "confidence": 0.9
+   }
+  },
+  "usage": 12497
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Acționarul semnificativ: cel puțin 10% din capital sau din drepturile de vot (art. 60 alin. (2)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 12080
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Interdicția pentru câștigător durează cel puțin 12 luni de la încheierea contractului, iar sancțiunea e rezoluțiunea ori rezilierea de drept (art. 61).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 12059
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Datele participanților se publică în maximum 5 zile de la termenul-limită de depunere; pentru persoane fizice, doar numele (art. 63 alin. (2)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 12194
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Asocierea nu poate fi obligată să ia o formă juridică pentru depunerea ofertei; poate fi obligată doar asocierea câștigătoare și numai dacă s-a prevăzut în anunț și în documentație (art. 54).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 12074
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Confidențialitatea trebuie indicată și dovedită; fără dovadă anexată la ofertă, nu se aplică (art. 57 alin. (4)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 12292
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Ofertele multiple ale aceluiași ofertant duc la excluderea tuturor; ofertantul care e și subcontractant în altă ofertă își pierde oferta proprie (Norme art. 47).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.06,
+     "absenta_corecta": 0.0,
+     "sustine": 0.94,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.92
+   }
+  },
+  "usage": 12056
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Comunicarea verbală nu poate privi documentele achiziției, solicitările de participare sau ofertele (art. 64 alin. (3)–(4)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.97,
+     "absenta_corecta": 0.01,
+     "contrazice": 0.02,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 12123
+ }
+]

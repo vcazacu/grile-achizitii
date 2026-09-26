@@ -1,0 +1,254 @@
+{
+ "nr": 4,
+ "titlu": "Reguli generale de participare și desfășurare a procedurilor de atribuire",
+ "rezumat": "Regulile generale fixează cadrul în care concurează operatorii economici: tratament egal, interdicția de a structura achiziția pentru a scăpa de lege, forma juridică liberă pentru asocieri, declararea subcontractanților, confidențialitatea ofertelor, prevenirea conflictului de interese și comunicarea în scris, de regulă electronică. Normele adaugă interdicția ofertelor multiple și regimul terțului susținător. Capcanele de examen sunt pragurile și termenele exacte din conflictul de interese: rude și afini până la gradul al doilea, acționar semnificativ de la 10%, interdicție de 12 luni, publicarea participanților în 5 zile.",
+ "sectiuni": [
+  {
+   "titlu": "Tratamentul operatorilor economici și structurarea achiziției (art. 49–50)",
+   "paragrafe": [
+    "Autoritățile contractante acordă operatorilor economici un tratament egal și nediscriminatoriu și acționează transparent și proporțional.",
+    "Achiziția nu poate fi concepută sau structurată cu scopul de a o excepta de la lege ori de a restrânge artificial concurența. Restrângerea artificială există când achiziția e concepută pentru a favoriza sau dezavantaja nejustificat anumiți operatori."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 49 alin. (1)",
+     "citat": "Autoritățile contractante au obligația să acorde operatorilor economici un tratament egal și nediscriminatoriu și să acționeze într-o manieră transparentă și proporțională.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 50",
+     "citat": "Autoritățile contractante nu vor concepe sau structura achizițiile ori elemente ale acestora cu scopul exceptării acestora de la aplicarea dispozițiilor prezentei legi ori al restrângerii artificiale a concurenței. (2) În sensul alin. (1), se consideră că există o restrângere artificială a concurenței în cazul în care achiziția ori elemente ale acesteia sunt concepute sau structurate cu scopul de a favoriza ori dezavantaja în mod nejustificat anumiți operatori economici.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Cine participă și în ce formă (art. 51–54; Norme art. 47)",
+   "paragrafe": [
+    "Documentația de atribuire precizează reglementările obligatorii de mediu, sociale și de muncă, iar ofertanții indică în ofertă că au ținut cont de ele.",
+    "Au dreptul de a participa operatorii economici din definiția legii, ca ofertant individual sau asociat, candidat, terț susținător ori subcontractant; cei care nu se încadrează în definiție sunt excluși fără a mai fi verificate motivele de excludere de la art. 164, 165 și 167.",
+    "Autoritatea nu poate impune asocierilor o anumită formă juridică pentru depunerea ofertei. Poate cere asocierii câștigătoare să adopte o formă juridică doar dacă acest lucru a fost prevăzut în anunțul de participare și în documentația de atribuire și e necesar pentru executarea contractului.",
+    "Normele interzic, sub sancțiunea excluderii, ca în aceeași procedură un ofertant să depună două sau mai multe oferte individuale și/sau comune, ori să depună ofertă și să fie nominalizat ca subcontractant în altă ofertă. Oferta alternativă și ofertarea pe mai multe loturi rămân permise."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 51 alin. (2)",
+     "citat": "autoritatea contractantă are totodată obligația de a solicita operatorilor economici să indice în cadrul ofertei faptul că la elaborarea acesteia au ținut cont de obligațiile relevante din domeniile mediului, social și al relațiilor de muncă.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 53 alin. (1^1)",
+     "citat": "Autoritatea contractantă exclude din procedura de atribuire orice persoană fizică sau juridică, având calitatea de ofertant individual/ofertant asociat/candidat/terț susținător/subcontractant, care nu se încadrează în definiția de la art. 3 alin. (1) lit. jj), fără a mai fi necesară verificarea încadrării în prevederile art. 164, 165 și 167.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 54 alin. (1)–(2)",
+     "citat": "Autoritatea contractantă nu are dreptul de a impune operatorilor economici care participă în comun la procedura de atribuire să adopte sau să constituie o anumită formă juridică pentru depunerea unei oferte ori a unei solicitări de participare. (2) Autoritatea contractantă are dreptul de a solicita operatorilor economici participanți în comun la procedura de atribuire a căror ofertă a fost desemnată câștigătoare să adopte sau să constituie o anumită formă juridică, cu condiția ca acest lucru să fi fost prevăzut în anunțul de participare și documentația de atribuire",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 47",
+     "citat": "fără a afecta posibilitatea operatorilor economici de a depune ofertă alternativă sau de a oferta pe mai multe loturi diferite, ofertantul/candidatul nu are dreptul ca în cadrul aceleiași proceduri de atribuire: a) să depună două sau mai multe candidaturi/oferte individuale și/sau comune, sub sancțiunea excluderii din competiție a tuturor candidaturilor/ofertelor în cauză; b) să depună ofertă individuală/comună și să fie nominalizat ca subcontractant în cadrul unei alte oferte, sub sancțiunea excluderii ofertei individuale sau, după caz, a celei în care este ofertant asociat.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Terțul susținător și autorizațiile (Norme art. 48–51)",
+   "paragrafe": [
+    "Ofertantul care invocă susținerea unui terț pentru situația economică și financiară sau pentru capacitatea tehnică și profesională o dovedește printr-un angajament ferm al terțului; subcontractantul pe capacitatea căruia se bazează ofertantul e considerat și terț susținător, iar acordul de subcontractare ține loc și de angajament ferm.",
+    "Autoritatea ia în considerare susținerea dacă, cumulativ, terțul dovedește că deține resursele invocate și ofertantul demonstrează că va dispune efectiv de ele, când terțul nu e declarat subcontractant.",
+    "O autorizație specifică cerută de autoritate se consideră îndeplinită la o asociere dacă unul dintre membri o deține și execută partea de contract pentru care e cerută; la fel, dacă o deține subcontractantul nominalizat care execută acea parte."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 48 alin. (1)",
+     "citat": "atunci acesta are obligația de a dovedi susținerea de care beneficiază prin prezentarea unui angajament ferm al persoanei respective, prin care se confirmă faptul că acesta va pune la dispoziția ofertantului/candidatului resursele invocate. Subcontractanții pe a căror capacități ofertantul/candidatul se bazează pentru demonstrarea îndeplinirii anumitor criterii de calificare și selecție sunt considerați și terți susținători, caz în care acordul de subcontractare reprezintă, în același timp, și angajamentul ferm.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 48 alin. (2)",
+     "citat": "a) terțul/terții susținător(i) pot dovedi că dețin resursele invocate ca element de susținere a ofertantului/candidatului; b) ofertantul/candidatul poate demonstra că va dispune efectiv de resursele entităților ce acordă susținerea, necesare pentru realizarea contractului, în cazul în care terțul susținător nu este declarat subcontractant.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 51",
+     "citat": "dacă aceștia demonstrează că dispun de respectivele resurse autorizate și/sau că unul dintre membrii asocierii deține autorizația solicitată, după caz, cu condiția ca respectivul membru să execute partea din contract pentru care este solicitată autorizația respectivă. (2) În cazul în care ofertantul/candidatul sau operatorii economici care participă în comun la procedura de atribuire subcontractează o parte din contractul de achiziție publică, cerința prevăzută la alin. (1) se consideră îndeplinită dacă subcontractantul nominalizat deține autorizația solicitată prin documentația de atribuire",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Subcontractanții și contractele rezervate (art. 55–56)",
+   "paragrafe": [
+    "Ofertantul precizează în ofertă categoriile de servicii sau lucrări pe care intenționează să le subcontracteze, procentul sau valoarea lor și datele subcontractanților, dacă îi cunoaște la depunere. Subcontractanții au aceleași obligații de mediu, sociale și de muncă ca ofertanții.",
+    "Autoritatea poate rezerva participarea doar unităților protejate autorizate și întreprinderilor sociale de inserție; în acest caz, anunțul sau invitația de participare indică explicit art. 56 ca temei legal."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 55 alin. (1)",
+     "citat": "a) categoriile de servicii/lucrări din contract pe care intenționează să le subcontracteze, precum și procentul sau valoarea aferentă activităților indicate în ofertă ca fiind realizate de către subcontractanți; și b) datele de identificare ale subcontractanților propuși, dacă aceștia din urmă sunt cunoscuți la momentul depunerii ofertei sau a solicitării de participare.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 56",
+     "citat": "Autoritatea contractantă poate rezerva dreptul de participare la procedura de atribuire doar unităților protejate autorizate [...] și întreprinderilor sociale de inserție [...] În anunțul/invitația de participare autoritatea contractantă precizează explicit prezentul articol ca temei legal al procedurii de atribuire.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Confidențialitatea (art. 57, 65)",
+   "paragrafe": [
+    "Autoritatea nu dezvăluie informațiile din propunerea tehnică, elementele din propunerea financiară sau fundamentările de preț pe care operatorii le indică și le dovedesc ca fiind confidențiale: date cu caracter personal, secrete tehnice sau comerciale, informații protejate de un drept de proprietate intelectuală. Fără dovada anexată la ofertă, protecția nu se aplică.",
+    "Confidențialitatea nu înlătură obligațiile de publicare a anunțului de atribuire și de comunicare a rezultatului procedurii.",
+    "Conținutul ofertelor și al solicitărilor de participare este confidențial până la publicarea raportului procedurii, iar autoritatea ia cunoștință de el numai de la data stabilită pentru deschidere."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 57 alin. (1)",
+     "citat": "Caracterul confidențial se aplică doar asupra datelor/informațiilor indicate și dovedite ca fiind date cu caracter personal, secrete tehnice sau comerciale sau sunt protejate de un drept de proprietate intelectuală.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 57 alin. (2) și (4)",
+     "citat": "Dispozițiile alin. (1) nu afectează obligațiile autorității contractante prevăzute la art. 145 și 215 în legătură cu transmiterea spre publicare a anunțului de atribuire și, respectiv, comunicarea rezultatului procedurii de atribuire către candidați/ ofertanți. [...] dovadă ce devine anexă la ofertă, în caz contrar nefiind aplicabile prevederile alin. (1).",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 65 alin. (2)–(3)",
+     "citat": "Conținutul ofertelor și al solicitărilor de participare, precum și cel al planurilor/proiectelor în cazul concursurilor de soluții este confidențial până la publicarea raportului procedurii. (3) Autoritatea contractantă ia cunoștință de conținutul ofertelor, al solicitărilor de participare sau al planurilor/proiectelor în cazul concursurilor de soluții numai de la data stabilită pentru deschiderea acestora.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Conflictul de interese (art. 58–63)",
+   "paragrafe": [
+    "Conflictul de interese este orice situație în care personalul autorității sau al furnizorului de servicii de achiziție, implicat în procedură sau care îi poate influența rezultatul, are direct ori indirect un interes financiar, economic sau alt interes personal care i-ar putea compromite imparțialitatea sau independența.",
+    "Situațiile potențial generatoare sunt enumerate exemplificativ: evaluatori care dețin acțiuni sau fac parte din conducerea unui ofertant; evaluatori soți, rude sau afini până la gradul al doilea inclusiv cu membrii conducerii unui ofertant; ofertanți care au în conducere sau ca acționari semnificativi rude ori parteneri comerciali ai persoanelor cu funcții de decizie din autoritate. Acționar semnificativ înseamnă cel puțin 10% din capitalul social sau din drepturile de vot.",
+    "Câștigătorul nu poate angaja sau încheia înțelegeri de prestări servicii pentru executarea contractului cu persoane implicate în evaluare ori cu foști angajați ai autorității implicați în procedură, timp de cel puțin 12 luni de la încheierea contractului, sub sancțiunea rezoluțiunii ori rezilierii de drept.",
+    "Când identifică o situație potențial generatoare, autoritatea îi prezintă ofertantului motivele și îi cere punctul de vedere; dacă stabilește că există conflict, îl elimină, de exemplu prin înlocuirea evaluatorilor sau eliminarea ofertantului.",
+    "Autoritatea precizează în documentele achiziției numele persoanelor cu funcții de decizie și publică electronic datele ofertanților, candidaților, subcontractanților și terților susținători în cel mult 5 zile de la termenul-limită de depunere."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 59",
+     "citat": "prin conflict de interese se înțelege orice situație în care membrii personalului autorității contractante sau ai unui furnizor de servicii de achiziție care acționează în numele autorității contractante, care sunt implicați în desfășurarea procedurii de atribuire sau care pot influența rezultatul acesteia au, în mod direct sau indirect, un interes financiar, economic sau un alt interes personal, care ar putea fi perceput ca element care compromite imparțialitatea ori independența lor în contextul procedurii de atribuire.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 60",
+     "citat": "b) participarea în procesul de verificare/evaluare a solicitărilor de participare/ofertelor a unei persoane care este soț/soție, rudă sau afin, până la gradul al doilea inclusiv, cu persoane care fac parte din consiliul de administrație/organul de conducere sau de supervizare a unuia dintre ofertanți/candidați, terți susținători ori subcontractanți propuși; [...] prin acționar sau asociat semnificativ se înțelege persoana care exercită drepturi aferente unor acțiuni care, cumulate, reprezintă cel puțin 10% din capitalul social sau îi conferă deținătorului cel puțin 10% din totalul drepturilor de vot în adunarea generală.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 61",
+     "citat": "pe parcursul unei perioade de cel puțin 12 luni de la încheierea contractului, sub sancțiunea rezoluțiunii ori rezilierii de drept a contractului respectiv.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 62 alin. (3)",
+     "citat": "dispunând măsuri cum ar fi înlocuirea persoanelor responsabile cu evaluarea ofertelor, atunci când le este afectată imparțialitatea, acolo unde este posibil, sau eliminarea ofertantului/candidatului aflat în relație cu persoanele cu funcții de decizie din cadrul autorității contractante.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 63",
+     "citat": "Autoritatea contractantă precizează în documentele achiziției numele persoanelor cu funcții de decizie în cadrul autorității contractante sau al furnizorului de servicii de achiziție implicat în procedura de atribuire. (2) Autoritatea contractantă publică prin mijloace electronice denumirea și datele de identificare ale ofertantului/candidatului/ subcontractantului propus/terțului susținător, în termen de maximum 5 zile de la expirarea termenului-limită de depunere a solicitărilor de participare/ofertelor",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Comunicările (art. 64, 66; Norme art. 52)",
+   "paragrafe": [
+    "Comunicările se fac în scris, prin mijloace electronice sau, ca excepție, prin alte mijloace. Comunicarea verbală e permisă doar pentru alte elemente decât cele esențiale ale procedurii (documentele achiziției, solicitările de participare și ofertele) și numai cu consemnarea în scris a conținutului.",
+    "Autoritatea poate impune instrumente care nu sunt disponibile cu caracter general doar dacă oferă mijloace alternative de acces.",
+    "Normele enumeră limitativ situațiile în care se pot folosi alte mijloace decât cele electronice, de pildă mostre, machete sau modele la scară care nu pot fi transmise electronic, ori informații deosebit de sensibile; atunci comunicarea se face prin poștă, fax sau combinația lor, iar motivele se indică în raportul procedurii."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 64 alin. (1), (3)–(4)",
+     "citat": "Orice comunicare, solicitare, informare, notificare și altele asemenea, prevăzute de prezenta lege, sunt transmise în scris, prin mijloace electronice de comunicare sau, ca excepție, prin alte mijloace decât cele electronice. [...] comunicarea verbală poate fi utilizată pentru alte comunicări decât cele privind elementele esențiale ale unei proceduri de atribuire, cu condiția consemnării în scris a principalelor elemente ale conținutului comunicării verbale [...] elementele esențiale ale procedurii de atribuire includ documentele achiziției, solicitările de participare și ofertele.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 66 alin. (1)",
+     "citat": "Autoritatea contractantă are dreptul, dacă este necesar, să impună utilizarea unor instrumente și dispozitive care nu sunt disponibile cu caracter general, cu condiția să ofere mijloace alternative de acces.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 52",
+     "citat": "d) atunci când prin documentele achiziției se solicită prezentarea unor mostre, machete sau modele la scară redusă care nu pot fi transmise prin mijloace electronice; [...] a) intermediul serviciilor poștale; b) fax; c) combinație între lit. a) și b). (3) Autoritatea contractantă care se află în una dintre situațiile prevăzute la alin. (1) are obligația de a indica în raportul procedurii de atribuire motivele concrete",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Rude și afini: până la gradul al doilea inclusiv, nu al patrulea (art. 60 alin. (1) lit. b), d), e)).",
+  "Acționarul semnificativ: cel puțin 10% din capital sau din drepturile de vot (art. 60 alin. (2)).",
+  "Interdicția pentru câștigător durează cel puțin 12 luni de la încheierea contractului, iar sancțiunea e rezoluțiunea ori rezilierea de drept (art. 61).",
+  "Datele participanților se publică în maximum 5 zile de la termenul-limită de depunere; pentru persoane fizice, doar numele (art. 63 alin. (2)).",
+  "Asocierea nu poate fi obligată să ia o formă juridică pentru depunerea ofertei; poate fi obligată doar asocierea câștigătoare și numai dacă s-a prevăzut în anunț și în documentație (art. 54).",
+  "Confidențialitatea trebuie indicată și dovedită; fără dovadă anexată la ofertă, nu se aplică (art. 57 alin. (4)).",
+  "Ofertele multiple ale aceluiași ofertant duc la excluderea tuturor; ofertantul care e și subcontractant în altă ofertă își pierde oferta proprie (Norme art. 47).",
+  "Comunicarea verbală nu poate privi documentele achiziției, solicitările de participare sau ofertele (art. 64 alin. (3)–(4))."
+ ],
+ "intrebari": [
+  "L98-N111",
+  "L98B-001",
+  "L98B-041",
+  "L98B-002",
+  "L98B-003",
+  "L98B-042",
+  "L98B-004",
+  "L98B-005",
+  "L98B-043",
+  "L98B-006",
+  "L98B-007",
+  "L98B-008",
+  "L98B-009",
+  "L98B-010",
+  "L98B-045",
+  "L98B-011",
+  "L98B-012",
+  "L98B-013",
+  "L98B-014",
+  "L98B-015",
+  "L98-N112",
+  "L98-N113",
+  "N395B-002",
+  "N395B-003",
+  "N395B-004",
+  "N395-N104",
+  "N395-N105",
+  "N395B-005",
+  "N395B-006",
+  "N395B-007",
+  "N395B-008",
+  "L98B-044"
+ ]
+}
