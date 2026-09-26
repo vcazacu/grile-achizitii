@@ -163,7 +163,7 @@ def main(argv):
         i += 1
     if not fisiere:
         implicit = os.path.join(DIR, "..", "intrebari.js")
-        fisiere = [implicit] if os.path.isfile(implicit) else sorted(glob.glob(os.path.join(DIR, "nou", "*.json")))
+        fisiere = [implicit] if os.path.isfile(implicit) else sorted(glob.glob(os.path.join(DIR, "nou", "[!_]*.json")))
     if not fisiere:
         print("Nimic de validat: nu există ../intrebari.js și nici nou/*.json."); return 1
     if nr_teste == 0: nr_teste = nr_teste_din_app()

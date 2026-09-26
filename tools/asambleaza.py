@@ -195,7 +195,7 @@ def main(argv):
         sys.exit("EROARE: suma cotelor (%d) diferă de teste × mărime (%d × %d = %d). Editează COTE." % (sum(COTE.values()), teste, marime, total))
 
     # 1. încărcare + validare
-    fisiere = sorted(glob.glob(os.path.join(DIR, "nou", "*.json")))
+    fisiere = sorted(glob.glob(os.path.join(DIR, "nou", "[!_]*.json")))
     if not fisiere: sys.exit("EROARE: nu există fișiere în %s." % os.path.join(DIR, "nou"))
     lista = []
     for f in fisiere:

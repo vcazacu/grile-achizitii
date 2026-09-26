@@ -7,7 +7,7 @@ from bibliografie import tematica, cheie
 from unitati import eticheta
 from valideaza import incarca
 DIR = os.path.dirname(os.path.abspath(__file__))
-fis = sys.argv[1:] or (sorted(glob.glob(os.path.join(DIR, "nou", "*.json"))) or [os.path.join(DIR, "..", "intrebari.js")])
+fis = sys.argv[1:] or (sorted(glob.glob(os.path.join(DIR, "nou", "[!_]*.json"))) or [os.path.join(DIR, "..", "intrebari.js")])
 lista = []
 for f in fis: lista += incarca(f)
 cnt = {}

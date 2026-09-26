@@ -91,7 +91,7 @@ def incarca_intrebari(cale):
 
 def fisiere_implicite():
     """nou/*.json (sortate) plus ../intrebari.js dacă există."""
-    fisiere = sorted((DIR_TOOLS / "nou").glob("*.json"))
+    fisiere = sorted((DIR_TOOLS / "nou").glob("[!_]*.json"))
     if FISIER_INTREBARI.is_file():
         fisiere.append(FISIER_INTREBARI)
     return fisiere
