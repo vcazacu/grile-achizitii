@@ -1,0 +1,555 @@
+[
+ {
+  "loc": "Exceptări generale: sectorial, comunicații electronice, norm / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Legea nu se aplică contractelor sectoriale atribuite de autoritățile obligate să aplice legea achizițiilor sectoriale, nici celor excluse de la aceasta, și nici anumitor activități ale furnizorilor de servicii poștale (poștă electronică cu valoare adăugată, servicii financiare poștale, servicii filatelice, logistică).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3174
+ },
+ {
+  "loc": "Exceptări generale: sectorial, comunicații electronice, norm / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Sunt exceptate și contractele al căror scop principal este furnizarea sau exploatarea rețelelor publice de comunicații electronice ori furnizarea către public de servicii de comunicații electronice.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "sustine": 0.98
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 3126
+ },
+ {
+  "loc": "Exceptări generale: sectorial, comunicații electronice, norm / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Contractele pe care autoritatea este obligată să le atribuie după proceduri diferite, stabilite printr-un acord internațional sau de o organizație internațională, sunt exceptate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă o organizație sau o instituție financiară internațională finanțează integral contractul, se aplică regulile ei; dacă îl cofinanțează în cea mai mare parte, părțile convin asupra procedurii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3571
+ },
+ {
+  "loc": "Exceptări pentru contractele de servicii (art. 29–30) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Sunt exceptate, între altele, contractele de servicii care au ca obiect: cumpărarea sau închirierea de terenuri, clădiri existente și alte bunuri imobile; servicii de arbitraj și mediere; anumite servicii juridice; servicii financiare privind valorile mobiliare; împrumuturile; contractele de muncă; transportul public de călători feroviar sau cu metroul.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3425
+ },
+ {
+  "loc": "Exceptări pentru contractele de servicii (art. 29–30) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Nu toate serviciile juridice sunt exceptate, ci doar cele enumerate la art. 29 alin. (3): asistența și reprezentarea de către un avocat în arbitraj, mediere sau proceduri judiciare, consultanța acordată anticipat unor astfel de proceduri, serviciile notariale de certificare, serviciile administratorilor-sechestru și ale executorilor judecătorești.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.04,
+     "nu_spune": 0.0,
+     "sustine": 0.96
+    },
+    "confidence": 0.94
+   }
+  },
+  "usage": 3826
+ },
+ {
+  "loc": "Exceptări pentru contractele de servicii (art. 29–30) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "La serviciile de apărare civilă și protecție civilă prestate de persoane fără scop patrimonial, excepția nu acoperă serviciile de ambulanță pentru transportul pacienților.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "absenta_corecta": 0.02,
+     "nu_spune": 0.0,
+     "sustine": 0.97
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 3368
+ },
+ {
+  "loc": "Exceptări pentru contractele de servicii (art. 29–30) / paragraful 4",
+  "afirmatii": {
+   "0": {
+    "text": "Legea nu se aplică nici contractelor de servicii atribuite unei alte autorități contractante sau entități contractante pe baza unui drept exclusiv prevăzut de acte cu putere de lege sau acte administrative cu caracter normativ.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3373
+ },
+ {
+  "loc": "Contractele între entități din sectorul public: in-house și  / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Contractul „in-house” e exceptat dacă sunt îndeplinite cumulativ trei condiții: autoritatea exercită asupra persoanei juridice un control similar celui asupra propriilor departamente; mai mult de 80% din activitățile persoanei controlate sunt efectuate pentru sarcinile încredințate de autoritatea care o controlează; nu există participare privată directă la capital, cu excepțiile prevăzute de lege.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3587
+ },
+ {
+  "loc": "Contractele între entități din sectorul public: in-house și  / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Controlul similar înseamnă o influență determinantă atât asupra obiectivelor strategice, cât și asupra deciziilor importante.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Aceeași regulă se aplică și controlului exercitat în comun de mai multe autorități contractante.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3912
+ },
+ {
+  "loc": "Contractele între entități din sectorul public: in-house și  / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Cooperarea dintre autorități contractante e exceptată dacă, cumulativ: contractul pune în aplicare o cooperare pentru obiective comune; cooperarea se bazează exclusiv pe considerații de interes public; autoritățile participante desfășoară pe piața liberă mai puțin de 20% din activitățile vizate de cooperare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3569
+ },
+ {
+  "loc": "Contractele între entități din sectorul public: in-house și  / paragraful 4",
+  "afirmatii": {
+   "0": {
+    "text": "Procentele se stabilesc pe baza cifrei medii de afaceri totale sau a unui indicator alternativ, cum ar fi costurile, din ultimii 3 ani anteriori atribuirii; dacă datele nu există, se pot folosi metode estimative.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3529
+ },
+ {
+  "loc": "Alte excepții: acte juridice care nu sunt contracte și struc / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Legea nu se aplică actelor juridice care nu sunt contracte de achiziție publică, de pildă acordarea de finanțări rambursabile sau nerambursabile ori constituirea de societăți sau asocieri.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă însă un astfel de act reprezintă în realitate un contract de achiziție publică, legea se aplică, indiferent de denumirea sau forma folosită.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2764
+ },
+ {
+  "loc": "Alte excepții: acte juridice care nu sunt contracte și struc / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru structurile autorităților contractante care funcționează pe teritoriul altor state, legea nu se aplică sub pragurile de la art. 7 alin. (1); autoritatea elaborează norme proprii care să asigure aplicarea principiilor de la art. 2 alin. (2).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2360
+ },
+ {
+  "loc": "Achiziții mixte (art. 34–35) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Când părțile unui contract mixt sunt în mod obiectiv separabile, autoritatea poate alege între contracte distincte, fiecare cu regimul propriu, și un singur contract.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă alege un singur contract, acesta se atribuie potrivit Legii nr. 98/2016, indiferent de valoarea părților care ar fi fost supuse altui act normativ, cu excepția situațiilor de apărare și securitate de la art. 38.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 0.93,
+     "contrazice": 0.07
+    },
+    "confidence": 0.9
+   }
+  },
+  "usage": 3525
+ },
+ {
+  "loc": "Achiziții mixte (art. 34–35) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Un contract mixt care combină achiziție publică și concesiune intră sub Legea nr. 98/2016 numai dacă partea de achiziție publică atinge sau depășește pragurile de la art. 7 alin. (1).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Un contract mixt cu o parte sectorială se atribuie potrivit legii achizițiilor sectoriale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3496
+ },
+ {
+  "loc": "Achiziții mixte (art. 34–35) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Când părțile nu sunt separabile, contractul se atribuie potrivit actului normativ aplicabil obiectului său principal.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3062
+ },
+ {
+  "loc": "Achiziții mixte (art. 34–35) / paragraful 4",
+  "afirmatii": {
+   "0": {
+    "text": "Un contract care combină lucrări, servicii sau produse se atribuie după regulile tipului care constituie obiectul principal; la servicii și produse, ori la servicii sociale și alte servicii, obiectul principal se stabilește după cea mai mare dintre valorile estimate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3093
+ },
+ {
+  "loc": "Situații speciale: cercetare-dezvoltare, apărare și securita / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "La serviciile de cercetare și dezvoltare cu codurile CPV indicate, legea se aplică doar dacă, cumulativ, rezultatele sunt destinate exclusiv autorității contractante, pentru uz propriu, și serviciul este remunerat în totalitate de aceasta; altfel, contractul iese din domeniul legii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.98,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 4364
+ },
+ {
+  "loc": "Situații speciale: cercetare-dezvoltare, apărare și securita / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "În domeniile apărării și securității naționale, legea se aplică, cu excepția contractelor care intră sub O.U.G. nr. 114/2011 sau sunt exceptate de la ea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.06,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 0.94
+    },
+    "confidence": 0.91
+   },
+   "1": {
+    "text": "Legea nu se aplică nici când atribuirea sau executarea reprezintă informații secrete de stat ori necesită măsuri speciale de securitate care nu pot fi garantate prin măsuri mai puțin invazive.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4781
+ },
+ {
+  "loc": "Situații speciale: cercetare-dezvoltare, apărare și securita / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "La contractele mixte cu aspecte de apărare sau securitate, decizia de a atribui un singur contract nu poate fi luată în scopul exceptării de la Legea nr. 98/2016 sau de la O.U.G. nr. 114/2011.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4355
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "In-house: controlul trebuie să privească mai mult de 80% din activități (art. 31 alin. (1) lit. b)); la cooperarea dintre autorități, activitatea pe piața liberă trebuie să fie de mai puțin de 20% (alin. (6) lit. c)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Distractorul tipic inversează sau schimbă procentele.",
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "nu_spune": 0.86,
+     "sustine": 0.06,
+     "contrazice": 0.07,
+     "absenta_corecta": 0.01
+    },
+    "confidence": 0.81
+   }
+  },
+  "usage": 14315
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Procentele se calculează pe media ultimilor 3 ani, nu pe ultimul an (art. 31 alin. (7)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 13925
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Nu orice serviciu juridic e exceptat: doar cele din art. 29 alin. (3).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.98,
+     "absenta_corecta": 0.02,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 14171
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "La cercetare-dezvoltare, logica e inversă: legea se aplică doar dacă ambele condiții sunt îndeplinite (art. 36).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 13780
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Contractul mixt separabil atribuit ca un singur contract intră sub Legea nr. 98/2016 indiferent de valoarea celorlalte părți (art. 34 alin. (3)), dar cu parte sectorială se aplică legea sectorială (alin. (5)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 13964
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "La servicii plus produse, obiectul principal se stabilește după valoarea cea mai mare, nu după ponderea în volum sau după voința autorității (art. 35 alin. (2)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "contrazice": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 13914
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Denumirea actului nu contează: dacă e în realitate contract de achiziție, se aplică legea (art. 32 alin. (2)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 13879
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Finanțare integrală de o organizație internațională înseamnă regulile acesteia; cofinanțare majoritară înseamnă că părțile convin procedura (art. 28 alin. (4)–(5)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 13981
+ }
+]
