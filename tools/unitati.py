@@ -8,9 +8,16 @@ import re
 PREAMBUL = "preambul"
 _NR = r"(\d+(?:\^\d+)?|[IVXLC]+(?:\^\d+)?)"
 RX_ARTICOL = re.compile(r"^Articolul " + _NR + r"$")
-# cheie_bib → regex pentru titlul unui punct de nivel 1 (grupul 1 = numărul).
-# Normele ALOP n-au „Articolul N”: 5 puncte „N. Titlu” în corpul documentului (SURSE.md, obs. c).
-ZONE_PUNCTE = {"08_Norme_ALOP_1792-2002.txt": re.compile(r"^(\d+)\.\s+[A-ZĂÂÎȘȚ]")}
+# Zone cu reguli speciale de unitate, cheie_bib → regulă:
+#  - un regex = zona e structurată pe puncte de nivel 1 (grupul 1 = numărul). Normele ALOP n-au
+#    „Articolul N”: 5 puncte „N. Titlu” în corpul documentului (SURSE.md, obs. c);
+#  - DOAR_ROMANE = unitățile zonei sunt articolele romane; un „Articolul 26” arab e text citat de un
+#    articol modificator („Articolul 26 se modifică și va avea următorul cuprins: Articolul 26 …”).
+DOAR_ROMANE = "doar-romane"
+ZONE_SPECIALE = {
+ "09_Norme_ALOP_1792-2002.txt": re.compile(r"^(\d+)\.\s+[A-ZĂÂÎȘȚ]"),
+ "05_HG_419-2018_act_de_aprobare.txt": DOAR_ROMANE,
+}
 _ROMAN = {"I": 1, "V": 5, "X": 10, "L": 50, "C": 100}
 
 
@@ -22,12 +29,15 @@ def _roman(s):
     return total
 
 
-def eticheta_titlu(linie, zona_puncte=None):
+def eticheta_titlu(linie, regula=None):
+    """Eticheta unității dacă linia e titlu de unitate; `regula` = ZONE_SPECIALE[cheia zonei] sau None."""
     m = RX_ARTICOL.match(linie)
     if m:
+        if regula == DOAR_ROMANE and m.group(1)[0].isdigit():
+            return None
         return m.group(1)
-    if zona_puncte is not None:
-        m = zona_puncte.match(linie)
+    if regula is not None and regula != DOAR_ROMANE:
+        m = regula.match(linie)
         if m:
             return "pct. " + m.group(1)
     return None
@@ -76,8 +86,8 @@ def ancora(e, anexa=""):
     return "anexa-%s-" % re.sub(r"[^A-Za-z0-9]+", "-", anexa).strip("-").lower() + a
 
 
-def unitati_zona(linii, zona_puncte=None):
+def unitati_zona(linii, regula=None):
     rez = [(PREAMBUL, "")]
     for l in linii:
-        rez.append((eticheta_titlu(l, zona_puncte), l))
+        rez.append((eticheta_titlu(l, regula), l))
     return rez

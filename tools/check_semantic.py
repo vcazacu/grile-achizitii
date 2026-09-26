@@ -94,7 +94,7 @@ def _note_articol(fisier, anexa, art):
             continue
         if not in_zona:
             continue
-        e = unitati.eticheta_titlu(l, unitati.ZONE_PUNCTE.get(fisier + ("#" + anexa if anexa else "")))
+        e = unitati.eticheta_titlu(l, unitati.ZONE_SPECIALE.get(fisier + ("#" + anexa if anexa else "")))
         if e:
             in_art = (e == art)
         elif l.startswith("## "):

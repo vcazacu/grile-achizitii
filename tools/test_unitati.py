@@ -44,13 +44,16 @@ if [e for e, _ in z if e] != ["preambul", "1", "2"] or z[1] != (None, "HOTĂRÂR
     esec += 1; print("EȘEC unitati_zona: %r" % z)
 import pathlib
 LEG = pathlib.Path(__file__).resolve().parent.parent.parent / "legislatie"
-if (LEG / "05_HG_419-2018_norme_control_ex_ante.txt").is_file():
+if (LEG / "05_HG_419-2018_act_de_aprobare.txt").is_file():
     import normalizare, bibliografie
-    corp = normalizare.linii_zona("05_HG_419-2018_norme_control_ex_ante.txt", "")
+    corp = normalizare.linii_zona("05_HG_419-2018_act_de_aprobare.txt", "")
     romane = [e for e, _ in corp if e and re.match(r"^[IVX]+$", e)]
+    citate = [e for e, _ in corp if e and e[0].isdigit()]
+    if citate:
+        esec += 1; print("EȘEC: în corpul H.G. 419, articolele citate în art. IV–VI („Articolul 10 se modifică…”) sunt luate drept unități: %r" % citate[:6])
     if romane != ["I", "II", "III", "IV", "V", "VI", "VII", "VIII"]:
         esec += 1; print("EȘEC: corpul H.G. 419 — articolele romane recunoscute: %r" % romane)
-    for cheie_bib in u.ZONE_PUNCTE:
+    for cheie_bib in [k for k, r in u.ZONE_SPECIALE.items() if r is not u.DOAR_ROMANE]:
         fis, _, anexa = cheie_bib.partition("#")
         pct = [e for e, _ in normalizare.linii_zona(fis, anexa) if e and e.startswith("pct. ")]
         if pct != ["pct. 1", "pct. 2", "pct. 3", "pct. 4", "pct. 5"]:
@@ -61,7 +64,7 @@ if (LEG / "05_HG_419-2018_norme_control_ex_ante.txt").is_file():
     if normalizare.eticheta_articol("art. V pct. 24 (art. 26 din normele)") != "V":
         esec += 1; print("EȘEC: normalizare.eticheta_articol nu trece prin unitati")
     import check_citat
-    corpus = check_citat.corpus_zona("08_Norme_ALOP_1792-2002.txt", "", {})
+    corpus = check_citat.corpus_zona("09_Norme_ALOP_1792-2002.txt", "", {})
     if "3. ordonanțarea cheltuielilor" not in corpus:
         esec += 1; print("EȘEC: titlul punctului 3 ALOP nu e citabil")
     print("regresie pe texte reale: rulată")

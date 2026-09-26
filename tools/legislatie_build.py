@@ -77,7 +77,7 @@ def parseaza(cale, anexe_redate=None):
     linii = ["" if _RIGLA.match(l) else l for l in linii]
     doc = {"sursa": "", "titlu": [], "meta": {}, "corp": [], "anexe": []}
     blocuri, art, in_preambul, anexa_activa = doc["corp"], None, True, True
-    fisier = os.path.basename(cale); zona_puncte = unitati.ZONE_PUNCTE.get(fisier)
+    fisier = os.path.basename(cale); zona_puncte = unitati.ZONE_SPECIALE.get(fisier)
     i = 0
     while i < len(linii):
         l = linii[i]; i += 1
@@ -88,7 +88,7 @@ def parseaza(cale, anexe_redate=None):
             nume = l[len("§ANEXA§"):].strip()
             anexa_activa = anexe_redate is None or nume in anexe_redate
             art, in_preambul = None, False
-            zona_puncte = unitati.ZONE_PUNCTE.get(fisier + "#" + nume)
+            zona_puncte = unitati.ZONE_SPECIALE.get(fisier + "#" + nume)
             if anexa_activa:
                 titlu = ""
                 if i < len(linii) and linii[i] and not _structurala(linii[i]):

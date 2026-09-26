@@ -60,7 +60,7 @@ def linii_zona(nume_fisier, anexa=""):
         if linie.startswith(("§SURSA§", "§NOTA§", "## ")):
             continue
         linii.append(linie)
-    zona_puncte = unitati.ZONE_PUNCTE.get(nume_fisier + ("#" + anexa if anexa else ""))
+    zona_puncte = unitati.ZONE_SPECIALE.get(nume_fisier + ("#" + anexa if anexa else ""))
     rezultat = unitati.unitati_zona(linii, zona_puncte)
     if len(rezultat) > 1 and rezultat[1][0] is not None:
         rezultat = rezultat[1:]          # zona începe direct cu o unitate: fără preambul sintetic
