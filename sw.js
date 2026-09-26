@@ -1,6 +1,6 @@
 /* Service worker — face aplicația disponibilă offline după prima deschidere.
    La fiecare modificare a întrebărilor, schimbă VERSIUNE ca să se reîmprospăteze cache-ul. */
-const VERSIUNE = "grile-achizitii-v5";
+const VERSIUNE = "grile-achizitii-v6";
 const FISIERE = [
   "./",
   "./index.html",
@@ -12,6 +12,8 @@ const FISIERE = [
   "./icon-512.png",
   "./apple-touch-icon.png",
   /* TEMATICA-START */
+  "./tematica/index.html",
+  "./tematica/01-principii-autoritati-contractante-domeniu.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",

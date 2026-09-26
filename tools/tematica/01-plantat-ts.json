@@ -1,0 +1,556 @@
+[
+ {
+  "loc": "Obiectul și scopul legii (art. 1–2 alin. (1)) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Legea reglementează patru lucruri: modul de realizare a achizițiilor publice; procedurile de atribuire a contractelor de achiziție publică și de organizare a concursurilor de soluții; instrumentele și tehnicile specifice de atribuire; anumite aspecte ale executării contractelor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 1700
+ },
+ {
+  "loc": "Obiectul și scopul legii (art. 1–2 alin. (1)) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Scopul legii este asigurarea cadrului legal pentru achiziționarea de bunuri, servicii și lucrări în condiții de eficiență economică și socială.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 1659
+ },
+ {
+  "loc": "Principiile atribuirii (art. 2 alin. (2)) și rolul lor în No / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Principiile care stau la baza atribuirii contractelor și a organizării concursurilor de soluții sunt șapte: nediscriminarea, tratamentul egal, recunoașterea reciprocă, transparența, proporționalitatea și asumarea răspunderii.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2358
+ },
+ {
+  "loc": "Principiile atribuirii (art. 2 alin. (2)) și rolul lor în No / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Normele fac din ele regulă de interpretare: orice situație pentru care nu există o reglementare explicită se interpretează prin prisma principiilor de la art. 2 alin. (2) din Lege.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.01,
+     "absenta_corecta": 0.0,
+     "sustine": 0.95,
+     "contrazice": 0.04
+    },
+    "confidence": 0.93
+   }
+  },
+  "usage": 2335
+ },
+ {
+  "loc": "Principiile atribuirii (art. 2 alin. (2)) și rolul lor în No / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Tot Normele obligă autoritatea contractantă să ia toate măsurile necesare pentru a evita conflictul de interese și împiedicarea, restrângerea sau denaturarea concurenței, iar dacă o astfel de situație apare, să îi elimine efectele prin măsuri corective de modificare, încetare, revocare sau anulare a actelor afectate.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "sustine": 0.34,
+     "nu_spune": 0.11,
+     "contrazice": 0.53
+    },
+    "confidence": 0.38
+   }
+  },
+  "usage": 2381
+ },
+ {
+  "loc": "Principiile atribuirii (art. 2 alin. (2)) și rolul lor în No / paragraful 4",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea contractantă răspunde pentru modul de atribuire a contractului, inclusiv în cazul achiziției directe.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2314
+ },
+ {
+  "loc": "Autoritățile contractante și organismele de drept public (ar / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Au calitatea de autoritate contractantă: autoritățile și instituțiile publice centrale sau locale, inclusiv structurile care au delegată calitatea de ordonator de credite și competențe în domeniul achizițiilor; organismele de drept public; asocierile formate din una sau mai multe dintre acestea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2100
+ },
+ {
+  "loc": "Autoritățile contractante și organismele de drept public (ar / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Organismul de drept public trebuie să îndeplinească cel puțin una dintre următoarele trei condiții: este înființat pentru nevoi de interes general fără caracter comercial sau industrial; are personalitate juridică; este finanțat în majoritate, controlat ori are mai mult de jumătate din organul de conducere numit de o autoritate sau de un alt organism de drept public.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.0,
+     "contrazice": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2115
+ },
+ {
+  "loc": "Autoritățile contractante și organismele de drept public (ar / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Nevoile de interes general au totuși caracter industrial sau comercial, deci entitatea nu mai e organism de drept public, dacă entitatea înființată de o autoritate contractantă îndeplinește oricare dintre următoarele trei condiții: funcționează în condiții normale de piață, urmărește profit și suportă pierderile.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.01,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2107
+ },
+ {
+  "loc": "Domeniul de aplicare: contracte și entități subvenționate (a / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Legea se aplică contractelor de achiziție publică, acordurilor-cadru și concursurilor de soluții.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2431
+ },
+ {
+  "loc": "Domeniul de aplicare: contracte și entități subvenționate (a / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Ea se aplică și unei entități juridice fără calitate de autoritate contractantă care atribuie un contract de lucrări, dacă sunt îndeplinite cumulativ trei condiții: contractul e finanțat sau subvenționat direct de o autoritate contractantă în proporție de mai mult de 40%; valoarea estimată e egală sau mai mare decât pragul pentru lucrări de la art. 7 alin. (1) lit. a); contractul include lucrări de geniu civil sau construcții pentru spitale, facilități sportive și de agrement, clădiri de învățământ ori clădiri administrative.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.01,
+     "nu_spune": 0.0,
+     "contrazice": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2567
+ },
+ {
+  "loc": "Domeniul de aplicare: contracte și entități subvenționate (a / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru un contract de servicii atribuit de o astfel de entitate, pragul de referință este cel de la art. 7 alin. (1) lit. c), iar contractul trebuie să fie în legătură cu un contract de lucrări subvenționat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Autoritatea care finanțează urmărește respectarea legii când nu atribuie ea însăși contractul.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2873
+ },
+ {
+  "loc": "Pragurile valorice și revizuirea lor (art. 7 alin. (1)–(4),  / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Anunțul de participare și/sau de atribuire se publică în Jurnalul Oficial al Uniunii Europene pentru achizițiile a căror valoare estimată, fără TVA, este egală sau mai mare decât: 26 960 556 lei la lucrări; 705 819 lei la produse și servicii; 1 077 624 lei la produse și servicii atribuite de consiliile județene, consiliile locale, Consiliul General al Municipiului București și instituțiile subordonate; 3 741 750 lei la serviciile sociale și alte servicii specifice din anexa nr. 2.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.99,
+     "sustine": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4165
+ },
+ {
+  "loc": "Pragurile valorice și revizuirea lor (art. 7 alin. (1)–(4),  / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Peste aceste praguri, contractele se atribuie prin procedura simplificată, tot cu respectarea principiilor de la art. 2 alin. (2); procedura simplificată presupune termene mai lungi și formalități suplimentare.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.0,
+     "contrazice": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4054
+ },
+ {
+  "loc": "Pragurile valorice și revizuirea lor (art. 7 alin. (1)–(4),  / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Pragurile se modifică prin hotărâre a Guvernului, iar pragurile modificate le înlocuiesc de la data intrării lor în vigoare, fără a mai fi nevoie de modificarea legii; Ministerul Finanțelor le publică pe pagina sa de internet.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "nu_spune": 0.0,
+     "sustine": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4063
+ },
+ {
+  "loc": "Organizarea achizițiilor în autoritatea contractantă (Norme, / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Compartimentul intern specializat în domeniul achizițiilor înregistrează autoritatea în SEAP, elaborează programul anual al achizițiilor și strategia anuală, elaborează documentația de atribuire și strategia de contractare, îndeplinește obligațiile de publicitate, aplică și finalizează procedurile, realizează achizițiile directe și păstrează dosarul achiziției.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 3537
+ },
+ {
+  "loc": "Organizarea achizițiilor în autoritatea contractantă (Norme, / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă structura organizatorică nu permite un compartiment distinct, atribuțiile sunt îndeplinite de una sau mai multe persoane însărcinate prin ordin al președintelui ANAP.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Celelalte compartimente sprijină activitatea, între altele prin referatele de necesitate și specificațiile tehnice.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3876
+ },
+ {
+  "loc": "Organizarea achizițiilor în autoritatea contractantă (Norme, / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Referatul de necesitate este documentul intern emis de fiecare compartiment în primul trimestru al anului, pentru anul în curs; dacă necesitatea nu e previzibilă, el se poate elabora la momentul identificării ei.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3474
+ },
+ {
+  "loc": "Organizarea achizițiilor în autoritatea contractantă (Norme, / paragraful 4",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritățile contractante și operatorii economici înregistrați în SEAP comunică operatorului SEAP orice modificare a datelor în cel mult 5 zile lucrătoare.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3465
+ },
+ {
+  "loc": "Actele de aprobare: H.G. nr. 395/2016 și modificarea prin H. / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "H.G. nr. 395/2016 aprobă Normele metodologice de aplicare a Legii nr. 98/2016 (art. 1), iar la art. 2 abrogă cele două hotărâri de aplicare a vechii legislații: H.G. nr. 925/2006 și H.G. nr. 1.660/2006.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5870
+ },
+ {
+  "loc": "Actele de aprobare: H.G. nr. 395/2016 și modificarea prin H. / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Normele au fost modificate și completate, între altele, prin art.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "nu_spune": 0.02,
+     "sustine": 0.97,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.95
+   },
+   "1": {
+    "text": "V din H.G. nr. 419/2018, hotărârea care aprobă și normele controlului ex ante.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.12,
+     "nu_spune": 0.05,
+     "sustine": 0.82,
+     "absenta_corecta": 0.01
+    },
+    "confidence": 0.77
+   }
+  },
+  "usage": 6193
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Principiile sunt exact șase: nediscriminarea, tratamentul egal, recunoașterea reciprocă, transparența, proporționalitatea și asumarea răspunderii.",
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "contrazice": 0.21,
+     "sustine": 0.16,
+     "nu_spune": 0.62
+    },
+    "confidence": 0.5
+   },
+   "1": {
+    "text": "„Eficiența utilizării fondurilor” nu figurează în art. 2 alin. (2); eficiența economică și socială apare doar în scopul legii, la alin. (1).",
+    "alegere": "absenta_corecta",
+    "probabilitati": {
+     "absenta_corecta": 0.54,
+     "contrazice": 0.1,
+     "sustine": 0.21,
+     "nu_spune": 0.15
+    },
+    "confidence": 0.38
+   }
+  },
+  "usage": 11344
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Condițiile organismului de drept public sunt cumulative (art. 4 alin. (2)); lipsa personalității juridice exclude calificarea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 11190
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Caracterul industrial sau comercial cere tot trei condiții cumulative: piață normală, urmărirea profitului și suportarea pierderilor (art. 4 alin. (3)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 11059
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "La entitățile fără calitate de autoritate contractantă, finanțarea directă trebuie să fie de mai mult de 50%; la lucrări se raportează la pragul de la art. 7 alin. (1) lit. a), la servicii la pragul de la lit. c).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 10934
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Pragul pentru produse și servicii al autorităților locale (1 077 624 lei) e diferit de cel general (698 460 lei); valorile vechi din materialele de curs nu mai sunt în vigoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.97,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.02
+    },
+    "confidence": 0.96
+   }
+  },
+  "usage": 10919
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Pragurile nu se modifică prin hotărâre a Guvernului sau ordin: le modifică Comisia Europeană, iar ANAP doar le publică (art. 8).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.97,
+     "absenta_corecta": 0.01,
+     "contrazice": 0.02
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 10904
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Sub praguri se aplică procedura simplificată, cu aceleași principii — nu o „procedură liberă”.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.1,
+     "sustine": 0.87,
+     "absenta_corecta": 0.02,
+     "contrazice": 0.01
+    },
+    "confidence": 0.82
+   }
+  },
+  "usage": 10892
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Referatul de necesitate se emite în ultimul trimestru pentru anul următor; excepția privește doar necesitățile care nu sunt previzibile.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.1,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.9
+    },
+    "confidence": 0.87
+   }
+  },
+  "usage": 10902
+ },
+ {
+  "loc": "capcana 9",
+  "afirmatii": {
+   "0": {
+    "text": "Modificarea datelor din SEAP se comunică în cel mult 3 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 10883
+ }
+]

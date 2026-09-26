@@ -52,3 +52,22 @@ poartă (11 întrebări: 5 OK, 6 INCERT — aceleași alarme false confirmate de
   RU și după triaj, în mare parte explicații care trimit la alte articole decât cel citat.
 - Întrebările `multiplu` (117) nu au semnal de încredere pentru cheie (limita J1 de la RU); toate au trecut prin verificarea
   adversarială.
+
+## Tematica — calibrarea pe tema 1 (27.09.2026)
+
+`check_tematica.py` (fiecare frază din paragrafe și capcane judecată contra articolelor secțiunii), pragul moștenit
+`contrazice` 0,90. 12 erori plantate în `tematica/01-plantat.json` (4 cifre, 3 instituții, 3 inversări regulă/excepție,
+2 condiții cumulative → alternative); `calibrare_tematica.py 01`.
+
+| | p(contrazice) |
+|---|---|
+| erori plantate | **≥ 0,99** la 12 din 12 |
+| afirmații corecte (după corectura de mai jos) | ≤ 0,56 (34 de afirmații) |
+
+**Constatare:** la prima rulare, o afirmație a temei 1 a ieșit cu **0,88** — și era o imprecizie reală: „excepția privește
+doar necesitățile care nu sunt previzibile”, pe când art. 3 alin. (2) din Norme mai include necesitățile care „nu pot fi
+identificate în ultimul trimestru”. Cu pragul de 0,90, ar fi trecut. Erorile grosolane (plantate) ies la 0,99; o omisiune
+subtilă iese mai jos.
+
+**Politica pentru temele 1–24:** pragul automat rămâne 0,90 (poarta pică), dar orice afirmație cu p(contrazice) ≥ **0,50**
+se verifică în lege înainte de commit (bandă de triaj manual).

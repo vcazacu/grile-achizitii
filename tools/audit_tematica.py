@@ -14,12 +14,19 @@ from pathlib import Path
 from normalizare import incarca_intrebari, normalizeaza
 
 DIR = Path(__file__).resolve().parent / "tematica"
-_NUM = re.compile(r"(?<![\w^/–-])(\d+(?:[.,]\d+)?)(?:\s*%)?(?![\w^/–-])")   # nu prinde 28–30, 80/1995
+# nu prinde 28–30, 80/1995; separatorul de mii („27.334.460”, „26 960 556”) ține numărul întreg
+_NUM = re.compile(r"(?<![\w^/–-])(\d{1,3}(?:[. ]\d{3})+(?:,\d+)?(?![\d])|\d+(?:[.,]\d+)?)(?:\s*%)?(?![\w^/–-])")
 _ART = re.compile(r"\b(?i:art)\.\s*(\d+(?:\^\d+)?|[IVXLC]+(?:\^\d+)?)(?![\w^])")
 _ALIN = re.compile(r"alin\.\s*\(?(\d+(?:\^\d+)?)\)?", re.I)
 
 def numere(text):
-    return {m.group(1).replace(",", ".") for m in _NUM.finditer(text)}
+    out = set()
+    for m in _NUM.finditer(text):
+        g = m.group(1)
+        if re.match(r"^\d{1,3}(?:[. ]\d{3})+", g):          # separator de mii → forma canonică, fără separatori
+            g = re.sub(r"[. ]", "", g)
+        out.add(g.replace(",", "."))
+    return out
 
 def audit(nr, banca_ids):
     d = json.loads((DIR / f"{nr}.json").read_text(encoding="utf-8"))

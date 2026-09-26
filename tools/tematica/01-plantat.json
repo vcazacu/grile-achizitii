@@ -1,0 +1,258 @@
+{
+ "nr": 1,
+ "titlu": "Principiile achizițiilor publice. Autorități contractante. Domeniu de aplicare",
+ "rezumat": "Legea nr. 98/2016 reglementează modul de realizare a achizițiilor publice și are ca scop achiziționarea de bunuri, servicii și lucrări în condiții de eficiență economică și socială. Atribuirea se sprijină pe șase principii (art. 2 alin. (2)), la care Normele trimit ori de câte ori lipsește o reglementare explicită. Calitatea de autoritate contractantă o au autoritățile și instituțiile publice, organismele de drept public și asocierile lor; organismul de drept public se recunoaște după trei condiții cumulative. Legea se aplică și unor entități fără calitate de autoritate contractantă, când finanțarea publică directă depășește 50%. Capcana tipică: un principiu inventat (de pildă „eficiența utilizării fondurilor”) sau o condiție cumulativă prezentată ca alternativă.",
+ "sectiuni": [
+  {
+   "titlu": "Obiectul și scopul legii (art. 1–2 alin. (1))",
+   "paragrafe": [
+    "Legea reglementează patru lucruri: modul de realizare a achizițiilor publice; procedurile de atribuire a contractelor de achiziție publică și de organizare a concursurilor de soluții; instrumentele și tehnicile specifice de atribuire; anumite aspecte ale executării contractelor.",
+    "Scopul legii este asigurarea cadrului legal pentru achiziționarea de bunuri, servicii și lucrări în condiții de eficiență economică și socială."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 1",
+     "citat": "Prezenta lege reglementează modul de realizare a achizițiilor publice, procedurile de atribuire a contractelor de achiziție publică și de organizare a concursurilor de soluții, instrumentele și tehnicile specifice care pot fi utilizate pentru atribuirea contractelor de achiziție publică, precum și anumite aspecte specifice în legătură cu executarea contractelor de achiziție publică.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 2 alin. (1)",
+     "citat": "Scopul prezentei legi îl constituie asigurarea cadrului legal necesar pentru a realiza achiziționarea de bunuri, servicii și lucrări în condiții de eficiență economică și socială.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Principiile atribuirii (art. 2 alin. (2)) și rolul lor în Norme",
+   "paragrafe": [
+    "Principiile care stau la baza atribuirii contractelor și a organizării concursurilor de soluții sunt șapte: nediscriminarea, tratamentul egal, recunoașterea reciprocă, transparența, proporționalitatea și asumarea răspunderii.",
+    "Normele fac din ele regulă de interpretare: orice situație pentru care nu există o reglementare explicită se interpretează prin prisma principiilor de la art. 2 alin. (2) din Lege.",
+    "Tot Normele obligă autoritatea contractantă să ia toate măsurile necesare pentru a evita conflictul de interese și împiedicarea, restrângerea sau denaturarea concurenței, iar dacă o astfel de situație apare, să îi elimine efectele prin măsuri corective de modificare, încetare, revocare sau anulare a actelor afectate.",
+    "Autoritatea contractantă răspunde pentru modul de atribuire a contractului, inclusiv în cazul achiziției directe."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 2 alin. (2)",
+     "citat": "Principiile care stau la baza atribuirii contractelor de achiziție publică și a organizării concursurilor de soluții sunt: a) nediscriminarea; b) tratamentul egal; c) recunoașterea reciprocă; d) transparența; e) proporționalitatea; f) asumarea răspunderii.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 1 alin. (1)",
+     "citat": "În procesul de realizare a achizițiilor publice orice situație pentru care nu există o reglementare explicită se interpretează prin prisma principiilor prevăzute la art. 2 alin. (2) din Legea nr. 98/2016 privind achizițiile publice, denumită în continuare Lege.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 1 alin. (2)–(4)",
+     "citat": "Pe parcursul aplicării procedurii de atribuire, autoritatea contractantă are obligația de a lua toate măsurile necesare pentru a evita apariția unor situații de natură să determine existența unui conflict de interese și/sau împiedicarea, restrângerea sau denaturarea concurenței. [...] adoptând, potrivit competențelor, după caz, măsuri corective de modificare, încetare, revocare sau anulare ale actelor care au afectat aplicarea corectă a procedurii de atribuire [...] Autoritatea contractantă este responsabilă pentru modul de atribuire a contractului de achiziție publică/acordului-cadru, inclusiv achiziția directă, cu respectarea tuturor dispozițiilor legale aplicabile.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Autoritățile contractante și organismele de drept public (art. 4)",
+   "paragrafe": [
+    "Au calitatea de autoritate contractantă: autoritățile și instituțiile publice centrale sau locale, inclusiv structurile care au delegată calitatea de ordonator de credite și competențe în domeniul achizițiilor; organismele de drept public; asocierile formate din una sau mai multe dintre acestea.",
+    "Organismul de drept public trebuie să îndeplinească cel puțin una dintre următoarele trei condiții: este înființat pentru nevoi de interes general fără caracter comercial sau industrial; are personalitate juridică; este finanțat în majoritate, controlat ori are mai mult de jumătate din organul de conducere numit de o autoritate sau de un alt organism de drept public.",
+    "Nevoile de interes general au totuși caracter industrial sau comercial, deci entitatea nu mai e organism de drept public, dacă entitatea înființată de o autoritate contractantă îndeplinește oricare dintre următoarele trei condiții: funcționează în condiții normale de piață, urmărește profit și suportă pierderile."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 4 alin. (1)",
+     "citat": "Au calitatea de autoritate contractantă în sensul prezentei legi: a) autoritățile și instituțiile publice centrale sau locale, precum și structurile din componența acestora care au delegată calitatea de ordonator de credite și care au stabilite competențe în domeniul achizițiilor publice; b) organismele de drept public; c) asocierile formate de una sau mai multe autorități contractante dintre cele prevăzute la lit. a) sau b).",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 4 alin. (2)",
+     "citat": "îndeplinesc în mod cumulativ următoarele condiții: a) sunt înființate pentru a satisface nevoi de interes general, fără caracter comercial sau industrial; b) au personalitate juridică; c) sunt finanțate, în majoritate, de către entități dintre cele prevăzute la alin. (1) lit. a) sau de către alte organisme de drept public",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 4 alin. (3)",
+     "citat": "îndeplinește în mod cumulativ următoarele condiții: a) funcționează în condiții normale de piață; b) urmărește obținerea unui profit; c) suportă pierderile care rezultă din exercitarea activității sale.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Domeniul de aplicare: contracte și entități subvenționate (art. 5–6)",
+   "paragrafe": [
+    "Legea se aplică contractelor de achiziție publică, acordurilor-cadru și concursurilor de soluții.",
+    "Ea se aplică și unei entități juridice fără calitate de autoritate contractantă care atribuie un contract de lucrări, dacă sunt îndeplinite cumulativ trei condiții: contractul e finanțat sau subvenționat direct de o autoritate contractantă în proporție de mai mult de 40%; valoarea estimată e egală sau mai mare decât pragul pentru lucrări de la art. 7 alin. (1) lit. a); contractul include lucrări de geniu civil sau construcții pentru spitale, facilități sportive și de agrement, clădiri de învățământ ori clădiri administrative.",
+    "Pentru un contract de servicii atribuit de o astfel de entitate, pragul de referință este cel de la art. 7 alin. (1) lit. c), iar contractul trebuie să fie în legătură cu un contract de lucrări subvenționat. Autoritatea care finanțează urmărește respectarea legii când nu atribuie ea însăși contractul."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 5",
+     "citat": "Dispozițiile prezentei legi sunt aplicabile contractelor de achiziție publică, acordurilor-cadru și concursurilor de soluții.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 6 alin. (1)–(2)",
+     "citat": "Prezenta lege se aplică pentru atribuirea de către o entitate juridică fără calitate de autoritate contractantă a unui contract de lucrări, în cazul în care se îndeplinesc în mod cumulativ următoarele condiții: a) contractul este finanțat/subvenționat în mod direct, în proporție de mai mult de 50% din valoarea acestuia, de către o autoritate contractantă; b) valoarea estimată, fără TVA, a contractului este egală sau mai mare decât pragul prevăzut la art. 7 alin. (1) lit. a); c) contractul include una dintre activitățile menționate la alin. (2). [...] a) lucrări de geniu civil; b) lucrări de construcție pentru spitale, facilități destinate activităților sportive, recreative și de agrement, clădiri ale instituțiilor de învățământ preuniversitar și universitar și clădiri de uz administrativ.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 6 alin. (3)–(4)",
+     "citat": "b) valoarea estimată, fără TVA, a contractului este egală sau mai mare decât pragul prevăzut la art. 7 alin. (1) lit. c); c) contractul este în legătură cu un contract de lucrări care face obiectul alin. (1). [...] au obligația de a urmări respectarea dispozițiilor prezentei legi atunci când nu atribuie ele însele contractul finanțat/subvenționat",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Pragurile valorice și revizuirea lor (art. 7 alin. (1)–(4), art. 8)",
+   "paragrafe": [
+    "Anunțul de participare și/sau de atribuire se publică în Jurnalul Oficial al Uniunii Europene pentru achizițiile a căror valoare estimată, fără TVA, este egală sau mai mare decât: 26 960 556 lei la lucrări; 705 819 lei la produse și servicii; 1 077 624 lei la produse și servicii atribuite de consiliile județene, consiliile locale, Consiliul General al Municipiului București și instituțiile subordonate; 3 741 750 lei la serviciile sociale și alte servicii specifice din anexa nr. 2.",
+    "Peste aceste praguri, contractele se atribuie prin procedura simplificată, tot cu respectarea principiilor de la art. 2 alin. (2); procedura simplificată presupune termene mai lungi și formalități suplimentare.",
+    "Pragurile se modifică prin hotărâre a Guvernului, iar pragurile modificate le înlocuiesc de la data intrării lor în vigoare, fără a mai fi nevoie de modificarea legii; Ministerul Finanțelor le publică pe pagina sa de internet."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 7 alin. (1)",
+     "citat": "a) 26 960 556 lei, pentru contractele de achiziție publică/ acordurile-cadru de lucrări;* b) 698 460 lei, pentru contractele de achiziție publică/ acordurile-cadru de produse și de servicii;* c) 1 077 624 lei, pentru contractele de achiziții publice/ acordurile-cadru de produse și de servicii atribuite de consiliul județean, consiliul local, Consiliul General al Municipiului București, precum și de instituțiile publice aflate în subordinea acestora;* d) 3 741 750 lei, pentru contractele de achiziție publică/ acordurile-cadru de servicii care au ca obiect servicii sociale și alte servicii specifice, prevăzute în anexa nr. 2.*",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 7 alin. (2) și (4)",
+     "citat": "prin aplicarea unei proceduri simplificate, cu respectarea principiilor prevăzute la art. 2 alin. (2). [...] presupun cel puțin termene mai scurte decât cele prevăzute în cuprinsul prezentei legi și formalități procedurale reduse",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 8 alin. (2)–(3)",
+     "citat": "pragurile valorice prevăzute la art. 7 alin. (1) sau orice praguri modificate anterior se înlocuiesc cu pragurile modificate corespunzătoare [...] Agenția Națională de Achiziții Publice, denumită în continuare ANAP, publică pe pagina sa de internet pragurile valorice stabilite de către Comisia Europeană",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Organizarea achizițiilor în autoritatea contractantă (Norme, art. 2–7)",
+   "paragrafe": [
+    "Compartimentul intern specializat în domeniul achizițiilor înregistrează autoritatea în SEAP, elaborează programul anual al achizițiilor și strategia anuală, elaborează documentația de atribuire și strategia de contractare, îndeplinește obligațiile de publicitate, aplică și finalizează procedurile, realizează achizițiile directe și păstrează dosarul achiziției.",
+    "Dacă structura organizatorică nu permite un compartiment distinct, atribuțiile sunt îndeplinite de una sau mai multe persoane însărcinate prin ordin al președintelui ANAP. Celelalte compartimente sprijină activitatea, între altele prin referatele de necesitate și specificațiile tehnice.",
+    "Referatul de necesitate este documentul intern emis de fiecare compartiment în primul trimestru al anului, pentru anul în curs; dacă necesitatea nu e previzibilă, el se poate elabora la momentul identificării ei.",
+    "Autoritățile contractante și operatorii economici înregistrați în SEAP comunică operatorului SEAP orice modificare a datelor în cel mult 5 zile lucrătoare."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 2 alin. (2)",
+     "citat": "principalele atribuții ale acestuia sunt duse la îndeplinire de una sau, după caz, mai multe persoane din cadrul respectivei autorități contractante, însărcinate în acest sens prin act administrativ al conducătorului autorității contractante.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 2 alin. (3)",
+     "citat": "a) întreprinde demersurile necesare pentru înregistrarea/ reînnoirea/recuperarea înregistrării autorității contractante în SEAP sau recuperarea certificatului digital, dacă este cazul; b) elaborează și, după caz, actualizează, pe baza necesităților transmise de celelalte compartimente ale autorității contractante, programul anual al achizițiilor publice și, dacă este cazul, strategia anuală de achiziții; [...] d) îndeplinește obligațiile referitoare la publicitate, astfel cum sunt acestea prevăzute de Lege; e) aplică și finalizează procedurile de atribuire; f) realizează achizițiile directe; g) constituie și păstrează dosarul achiziției publice.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 3 alin. (1)–(2)",
+     "citat": "Referatul de necesitate reprezintă un document intern emis de fiecare compartiment din cadrul autorității contractante în ultimul trimestru al anului în curs pentru anul viitor [...] referatele de necesitate pot fi elaborate la momentul identificării necesității.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 7",
+     "citat": "au obligația de a transmite operatorului SEAP orice modificare survenită în legătură cu aceste date și informații, în termen de cel mult 3 zile lucrătoare de la producerea respectivelor modificări.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Actele de aprobare: H.G. nr. 395/2016 și modificarea prin H.G. nr. 419/2018",
+   "paragrafe": [
+    "H.G. nr. 395/2016 aprobă Normele metodologice de aplicare a Legii nr. 98/2016 (art. 1), iar la art. 2 abrogă cele două hotărâri de aplicare a vechii legislații: H.G. nr. 925/2006 și H.G. nr. 1.660/2006.",
+    "Normele au fost modificate și completate, între altele, prin art. V din H.G. nr. 419/2018, hotărârea care aprobă și normele controlului ex ante."
+   ],
+   "temei": [
+    {
+     "act": "H.G. nr. 395/2016",
+     "articol": "art. 1",
+     "citat": "Se aprobă Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice",
+     "fisier": "02_HG_395-2016_act_de_aprobare.txt"
+    },
+    {
+     "act": "H.G. nr. 395/2016",
+     "articol": "art. 2",
+     "citat": "La data intrării în vigoare a prezentei hotărâri se abrogă: a) Hotărârea Guvernului nr. 925/2006 [...] b) Hotărârea Guvernului nr. 1.660/2006",
+     "fisier": "02_HG_395-2016_act_de_aprobare.txt"
+    },
+    {
+     "act": "H.G. nr. 419/2018",
+     "articol": "art. V",
+     "citat": "Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, aprobate prin Hotărârea Guvernului nr. 395/2016",
+     "fisier": "05_HG_419-2018_act_de_aprobare.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Principiile sunt exact șase: nediscriminarea, tratamentul egal, recunoașterea reciprocă, transparența, proporționalitatea și asumarea răspunderii. „Eficiența utilizării fondurilor” nu figurează în art. 2 alin. (2); eficiența economică și socială apare doar în scopul legii, la alin. (1).",
+  "Condițiile organismului de drept public sunt cumulative (art. 4 alin. (2)); lipsa personalității juridice exclude calificarea.",
+  "Caracterul industrial sau comercial cere tot trei condiții cumulative: piață normală, urmărirea profitului și suportarea pierderilor (art. 4 alin. (3)).",
+  "La entitățile fără calitate de autoritate contractantă, finanțarea directă trebuie să fie de mai mult de 50%; la lucrări se raportează la pragul de la art. 7 alin. (1) lit. a), la servicii la pragul de la lit. c).",
+  "Pragul pentru produse și servicii al autorităților locale (1 077 624 lei) e diferit de cel general (698 460 lei); valorile vechi din materialele de curs nu mai sunt în vigoare.",
+  "Pragurile nu se modifică prin hotărâre a Guvernului sau ordin: le modifică Comisia Europeană, iar ANAP doar le publică (art. 8).",
+  "Sub praguri se aplică procedura simplificată, cu aceleași principii — nu o „procedură liberă”.",
+  "Referatul de necesitate se emite în ultimul trimestru pentru anul următor; excepția privește doar necesitățile care nu sunt previzibile.",
+  "Modificarea datelor din SEAP se comunică în cel mult 3 zile lucrătoare."
+ ],
+ "intrebari": [
+  "N395A-004",
+  "N395A-007",
+  "L98A-001",
+  "L98A-002",
+  "N395A-008",
+  "L98A-003",
+  "N395A-009",
+  "L98A-004",
+  "L98A-005",
+  "N395A-010",
+  "L98A-006",
+  "L98A-007",
+  "N395-N101",
+  "L98A-008",
+  "N395A-011",
+  "L98A-009",
+  "L98A-010",
+  "N395A-012",
+  "L98A-011",
+  "N395A-013",
+  "L98A-012",
+  "L98A-013",
+  "L98-N102",
+  "L98A-014",
+  "L98-prag-achizitie-directa",
+  "L98A-015",
+  "L98A-016",
+  "L98A-017",
+  "L98A-018",
+  "L98A-019",
+  "L98A-020",
+  "L98A-021",
+  "L98A-022",
+  "OUGB-007",
+  "L98A-023",
+  "N395A-001",
+  "HG395-N101",
+  "OUGB-006",
+  "L98-principii",
+  "N395A-002",
+  "OUGB-009",
+  "L98-N101"
+ ]
+}

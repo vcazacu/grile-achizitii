@@ -19,12 +19,13 @@ DIR = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(DIR, "..", "tematica")
 LEG = os.path.join(DIR, "..", "..", "legislatie")
 
-from bibliografie import TEME   # listă de dict-uri; buclele se adaptează în Task 13
+from bibliografie import TEME, GRUPE
 
 CSS = """
 .tem-nav { display:flex; gap:0.75rem; flex-wrap:wrap; font-size:0.85rem; margin:0.25rem 0 0.75rem; }
 .tem-nav a { color: var(--info); text-decoration:none; } .tem-nav a:hover { text-decoration:underline; }
 .tem-list { list-style:none; padding:0; margin:0; display:grid; gap:0.5rem; }
+.tem-grupa { font-size:0.95rem; margin:1.2rem 0 0.5rem; color: var(--muted-foreground); letter-spacing:-0.01em; } .tem-grupa:first-child { margin-top:0; }
 .tem-list li { border:1px solid var(--border); border-radius:0.6rem; padding:0.7rem 0.9rem; display:flex; gap:0.6rem; align-items:baseline; }
 .tem-list .nr { font-weight:700; color: var(--muted-foreground); min-width:1.6rem; }
 .tem-list a { color: var(--foreground); text-decoration:none; font-weight:600; } .tem-list a:hover { text-decoration:underline; }
@@ -97,17 +98,39 @@ def pagina(d, slug):
     if d.get("intrebari"):
         corp.append('<p class="fisier" style="color:var(--muted-foreground);font-size:0.8rem">Întrebări din bancă pe această temă: %s</p>' % html.escape(", ".join(d["intrebari"])))
     corp.append("</div>")
+    corp.append(consolidari_html(d))
     corp.append('<div class="actions"><a class="btn btn-outline" href="index.html">Toate temele</a><a class="btn btn-primary" href="../index.html">Înapoi la teste</a></div>')
     return sablon("%d. %s" % (d["nr"], d["titlu"]), "\n".join(corp), "Tematica — sinteză cu temei legal")
 
+def consolidari_html(d):
+    """„Forma consolidată folosită: <act> — <data>” pentru fiecare fișier din temeiurile temei."""
+    fis = []
+    for sct in d["sectiuni"]:
+        for t in sct.get("temei", []):
+            if t["fisier"] not in fis: fis.append(t["fisier"])
+    rand = []
+    for f in fis:
+        antet = open(os.path.join(LEG, f), encoding="utf-8").readline()
+        m = re.search(r"consolidarea din ([\d.]+)", antet)
+        den = next((dn for ff, _, dn, _ in ACTE if ff == f), f)
+        rand.append("%s — %s" % (den, m.group(1) if m else "?"))
+    if not rand: return ""
+    return ('<p class="fisier" style="color:var(--muted-foreground);font-size:0.8rem">Forma consolidată folosită: %s.</p>'
+            % html.escape("; ".join(rand)))
+
 def index_html(gata):
-    li = []
-    for nr, slug, titlu in TEME:
-        if nr in gata: li.append('<li><span class="nr">%d.</span><a href="%02d-%s.html">%s</a></li>' % (nr, nr, slug, html.escape(titlu)))
-        else: li.append('<li><span class="nr">%d.</span><span class="soon">%s <em>(în pregătire)</em></span></li>' % (nr, html.escape(titlu)))
+    blocuri = []
+    for g, nume_grupa in enumerate(GRUPE):
+        li = []
+        for t in (x for x in TEME if x["grupa"] == g):
+            nr, slug, titlu = t["nr"], t["slug"], t["titlu"]
+            if nr in gata: li.append('<li><span class="nr">%d.</span><a href="%02d-%s.html">%s</a></li>' % (nr, nr, slug, html.escape(titlu)))
+            else: li.append('<li><span class="nr">%d.</span><span class="soon">%s <em>(în pregătire)</em></span></li>' % (nr, html.escape(titlu)))
+        blocuri.append('<h3 class="tem-grupa">%s</h3><ul class="tem-list">%s</ul>' % (html.escape(nume_grupa), "".join(li)))
     corp = ('<div class="hero"><h2>Tematica examenului</h2><p>Câte o sinteză pe temă, în același stil ca explicațiile din teste: '
-            'reguli, termene, excepții și capcane, fiecare cu temeiul legal citat verbatim din forma consolidată la zi.</p></div>'
-            '<div class="card"><ul class="tem-list">%s</ul></div>' % "".join(li))
+            'reguli, termene, excepții și capcane, fiecare cu temeiul legal citat verbatim din forma consolidată la zi. '
+            'Temele urmează, subiect cu subiect, tematica oficială a examenului de ofițer achiziții publice.</p></div>'
+            '<div class="card">%s</div>' % "".join(blocuri))
     return sablon("Tematica", corp, "Sinteze pe teme, cu temei legal")
 
 def main():
@@ -115,7 +138,7 @@ def main():
     gata, erori, fisiere = set(), 0, ["./tematica/index.html"]
     for cale in sorted(glob.glob(os.path.join(DIR, "tematica", "[0-9][0-9].json"))):
         d = json.load(open(cale, encoding="utf-8"))
-        nr = d["nr"]; slug = next(s for n, s, _ in TEME if n == nr)
+        nr = d["nr"]; slug = next(t["slug"] for t in TEME if t["nr"] == nr)
         n_ok = n_tot = 0
         for s in d["sectiuni"]:
             for t in s.get("temei", []):
