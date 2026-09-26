@@ -2,3 +2,8 @@
 # cu service worker pentru funcționare offline.
 Grile-Achizitii-un-singur-fisier.html
 .DS_Store
+
+# Unelte: întrebări brute, cache Python, mediul TypeSafe
+tools/nou/
+tools/__pycache__/
+tools/.venv-ts/
