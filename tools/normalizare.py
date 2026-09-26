@@ -9,6 +9,8 @@ import re
 import unicodedata
 from pathlib import Path
 
+import unitati
+
 DIR_TOOLS = Path(__file__).resolve().parent
 DIR_LEGISLATIE = (DIR_TOOLS / ".." / ".." / "legislatie").resolve()
 FISIER_INTREBARI = (DIR_TOOLS / ".." / "intrebari.js").resolve()
@@ -48,7 +50,7 @@ def linii_zona(nume_fisier, anexa=""):
     if not cale.is_file():
         return None
     in_zona = (anexa == "")
-    rezultat = []
+    linii = []
     for linie in cale.read_text(encoding="utf-8").split("\n"):
         if linie.startswith("§ANEXA§"):
             in_zona = anexa != "" and normalizeaza(linie[7:]) == normalizeaza(anexa)
@@ -57,18 +59,17 @@ def linii_zona(nume_fisier, anexa=""):
             continue
         if linie.startswith(("§SURSA§", "§NOTA§", "## ")):
             continue
-        m = re.match(r"^Articolul (\d+(?:\^\d+)?)$", linie)
-        if m:
-            rezultat.append((m.group(1), linie))
-        else:
-            rezultat.append((None, linie))
+        linii.append(linie)
+    zona_puncte = unitati.ZONE_PUNCTE.get(nume_fisier + ("#" + anexa if anexa else ""))
+    rezultat = unitati.unitati_zona(linii, zona_puncte)
+    if len(rezultat) > 1 and rezultat[1][0] is not None:
+        rezultat = rezultat[1:]          # zona începe direct cu o unitate: fără preambul sintetic
     return rezultat
 
 
 def eticheta_articol(sursa_articol):
     """„art. 20^1 alin. (1)" → „20^1"; None dacă nu începe cu „art. <număr>"."""
-    m = re.match(r"^art\.\s*(\d+(?:\^\d+)?)", (sursa_articol or "").strip(), re.I)
-    return m.group(1) if m else None
+    return unitati.eticheta(sursa_articol)
 
 
 def incarca_intrebari(cale):

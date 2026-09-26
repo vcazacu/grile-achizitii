@@ -21,7 +21,7 @@ _GRUP = re.compile(r"^([A-ZȘȚ](?:\^\d+)?)\.\s+(.*)$")
 
 # „art. 85 alin. 1 lit. g), h) și n)" / „art. 15 alin. (1) lit. c^1)" / „art. 7 alin. (2)"
 _TRIMITERE = re.compile(
-    r"art\.\s*(?P<art>\d+(?:\^\d+)?)"
+    r"art\.\s*(?P<art>\d+(?:\^\d+)?|[IVXLC]+(?:\^\d+)?)"
     r"(?P<rest>(?:\s*(?:alin\.|lit\.)\s*\(?[0-9a-zșț](?:\^\d+)?\)?"
     r"(?:\s*(?:,|și|ori|sau)\s*\(?[0-9a-zșț](?:\^\d+)?\)?)*)*)", re.I)
 _NUM = re.compile(r"\(?(\d+(?:\^\d+)?)\)?")

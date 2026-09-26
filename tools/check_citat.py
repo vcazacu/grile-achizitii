@@ -29,8 +29,10 @@ def corpus_zona(fisier, anexa, cache):
         if linii is None:
             cache[cheie] = None
         else:
-            # titlurile „Articolul N" nu sunt text citabil, le lăsăm afară
-            cache[cheie] = " ".join(normalizeaza(text) for et, text in linii if et is None)
+            # titlurile „Articolul N" nu sunt text citabil, le lăsăm afară; titlurile de punct
+            # („3. Ordonanțarea cheltuielilor”, Normele ALOP) sunt text și rămân
+            cache[cheie] = " ".join(normalizeaza(text) for et, text in linii
+                                    if et is None or et.startswith("pct. "))
     return cache[cheie]
 
 

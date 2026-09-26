@@ -32,6 +32,7 @@ from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 import alineate as _alin
+import unitati
 import bibliografie
 from normalizare import (DIR_LEGISLATIE, DIR_TOOLS, cheie_bib, eticheta_articol,
                          incarca_intrebari)
@@ -93,9 +94,9 @@ def _note_articol(fisier, anexa, art):
             continue
         if not in_zona:
             continue
-        m = re.match(r"^Articolul (\d+(?:\^\d+)?)$", l)
-        if m:
-            in_art = (m.group(1) == art)
+        e = unitati.eticheta_titlu(l, unitati.ZONE_PUNCTE.get(fisier + ("#" + anexa if anexa else "")))
+        if e:
+            in_art = (e == art)
         elif l.startswith("## "):
             in_art = False          # titlu de capitol/secțiune: notele de după el sunt
                                     # ale capitolului următor, nu ale articolului („Cap. V
@@ -204,7 +205,7 @@ def _cerere_variante(client, q, sectiune, vecine, temei, rezolvate):
 
 
 _FRAZA = re.compile(r"(?<=[.!?])\s+(?=[A-ZĂÂÎȘȚ„])")
-_ART_CITAT = re.compile(r"\bart\.\s*(\d+(?:\^\d+)?)", re.I)
+_ART_CITAT = re.compile(r"\b(?i:art)\.\s*(\d+(?:\^\d+)?|[IVXLC]+(?:\^\d+)?)(?![\w^])")
 
 
 def articole_invocate(explicatie, sursa, cache, fara=(), maxim=6):

@@ -44,7 +44,8 @@ def corpus_cu_santinele(fisier, anexa, cache):
     if cheie not in cache:
         linii = linii_zona(fisier, anexa)
         cache[cheie] = None if linii is None else " ".join(
-            SANTINELA + et + "@@" if et else normalizeaza(text) for et, text in linii)
+            (SANTINELA + et + "@@" + (" " + normalizeaza(text) if et.startswith("pct. ") else ""))
+            if et else normalizeaza(text) for et, text in linii)
     return cache[cheie]
 
 

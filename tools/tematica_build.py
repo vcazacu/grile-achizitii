@@ -11,6 +11,7 @@ import json, os, re, sys, html, glob
 from normalizare import normalizeaza, fragmente_citat, linii_zona
 from bibliografie import tematica as bib_tematica
 from legislatie_build import ACTE, ancora
+import unitati
 
 SLUG_ACT = {fisier: slug for fisier, slug, _, _ in ACTE}
 
@@ -61,17 +62,17 @@ def verifica_temei(t):
     return True, ""
 
 def in_tematica(t):
-    m = re.match(r"^art\.\s*(\d+(?:\^\d+)?)", t["articol"])
-    if not m: return None
+    e = unitati.eticheta(t["articol"])
+    if not e: return None
     k = t["fisier"] + ("#" + t["anexa"] if t.get("anexa") else "")
     tt = bib_tematica().get(k)
-    return bool(tt) and m.group(1) in tt[2]
+    return bool(tt) and e in tt[2]
 
 def link_lege(t):
     """Adresa articolului în paginile de legislație (legislatie/<slug>.html#art-N), sau "" dacă nu se poate."""
-    m = re.search(r"art\.\s*(\d+(?:\^\d+)?)", t["articol"])
+    e = unitati.eticheta(t["articol"])
     slug = SLUG_ACT.get(t["fisier"])
-    return "../legislatie/%s.html#%s" % (slug, ancora(m.group(1), t.get("anexa", ""))) if m and slug else ""
+    return "../legislatie/%s.html#%s" % (slug, ancora(e, t.get("anexa", ""))) if e and slug else ""
 
 def temei_html(t):
     art = html.escape(t["articol"]); adresa = link_lege(t)

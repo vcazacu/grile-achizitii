@@ -15,7 +15,7 @@ from normalizare import incarca_intrebari, normalizeaza
 
 DIR = Path(__file__).resolve().parent / "tematica"
 _NUM = re.compile(r"(?<![\w^/–-])(\d+(?:[.,]\d+)?)(?:\s*%)?(?![\w^/–-])")   # nu prinde 28–30, 80/1995
-_ART = re.compile(r"\bart\.\s*(\d+(?:\^\d+)?)", re.I)
+_ART = re.compile(r"\b(?i:art)\.\s*(\d+(?:\^\d+)?|[IVXLC]+(?:\^\d+)?)(?![\w^])")
 _ALIN = re.compile(r"alin\.\s*\(?(\d+(?:\^\d+)?)\)?", re.I)
 
 def numere(text):

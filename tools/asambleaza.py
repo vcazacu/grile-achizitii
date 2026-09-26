@@ -14,6 +14,7 @@ import glob, json, os, re, sys
 DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, DIR)
 from bibliografie import cheie
+from unitati import eticheta
 from valideaza import incarca, valideaza, grup, nr_teste_din_app
 
 # Cote-țintă pe grup (fisier[#anexa]); suma trebuie să fie teste × marime.
@@ -29,8 +30,8 @@ def et(g):
 
 def cheie_articol(q):
     """Ordinea articolului din sursa.articol („art. 9^1 alin. (2)" → (9, 1)); necunoscut → la coadă."""
-    m = re.match(r"^art\.\s*(\d+(?:\^\d+)?)", str(q["sursa"].get("articol", "")).strip(), re.I)
-    return cheie(m.group(1)) if m else (10 ** 9, 0)
+    e = eticheta(str(q["sursa"].get("articol", "")))
+    return cheie(e) if e else (9, 10 ** 9, 0)
 
 
 def repartizeaza(ponderi, total):

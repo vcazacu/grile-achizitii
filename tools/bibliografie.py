@@ -15,21 +15,24 @@ RESTRICTII = {}
 
 import re
 
-def cheie(a):
-    m = re.match(r'^(\d+)(?:\^(\d+))?$', a)
-    return (int(m.group(1)), int(m.group(2) or 0))
+import unitati
+cheie = unitati.cheie
 
 def articole_din_text(fisier, anexa=""):
-    """{eticheta_articol: [linii normative]} pentru corpul legii (anexa="") sau pentru anexa dată."""
+    """{eticheta_unitate: [linii normative]} pentru corpul actului (anexa="") sau pentru anexa dată.
+    Unitățile vin din unitati.py (articole arabe/romane, puncte, preambul)."""
+    import os
     lines = open(fisier, encoding="utf-8").read().split("\n")
-    arts, cur, zona = {}, None, (anexa == "")
+    zona_puncte = unitati.ZONE_PUNCTE.get(os.path.basename(fisier) + ("#" + anexa if anexa else ""))
+    arts, cur, zona = {}, unitati.PREAMBUL, (anexa == "")
     for l in lines:
         if l.startswith("§ANEXA§"):
-            zona = (anexa != "" and l == "§ANEXA§ " + anexa); cur = None; continue
-        if not zona: continue
-        m = re.match(r"^Articolul (\d+(?:\^\d+)?)$", l)
-        if m: cur = m.group(1); arts.setdefault(cur, []); continue
-        if cur and not l.startswith("§NOTA§") and not l.startswith("## "): arts[cur].append(l)
+            zona = (anexa != "" and l == "§ANEXA§ " + anexa); cur = unitati.PREAMBUL if zona else None; continue
+        if not zona or l.startswith("§SURSA§"): continue
+        e = unitati.eticheta_titlu(l, zona_puncte)
+        if e: cur = e; arts.setdefault(cur, []); continue
+        if cur and l.strip() and not l.startswith("§NOTA§") and not l.startswith("## "):
+            arts.setdefault(cur, []).append(l)
     return arts
 
 def articole_cerute(spec, existente):

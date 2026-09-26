@@ -18,6 +18,7 @@ comutator descoperă toată legea. Scrie și lista fișierelor în sw.js între 
 import html, os, re, sys
 from bibliografie import BIB, RESTRICTII, tematica as bib_tematica
 from trimiteri import marcheaza
+import unitati
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(DIR, "..", "legislatie")
@@ -50,7 +51,7 @@ def fabrica_extern(fisier_curent):
         return None
     return rez_extern
 
-_ART = re.compile(r"^Articolul (\d+(?:\^\d+)?)$")
+_ART = unitati.RX_ARTICOL
 _ALIN = re.compile(r"^\((\d+(?:\^\d+)?)\)\s*(.*)$")
 _LIT = re.compile(r"^([a-zșț](?:\^\d+)?)\)\s*(.*)$")
 _GRUP = re.compile(r"^([A-ZȘȚ](?:\^\d+)?)\.\s+(.*)$")
@@ -76,6 +77,7 @@ def parseaza(cale, anexe_redate=None):
     linii = ["" if _RIGLA.match(l) else l for l in linii]
     doc = {"sursa": "", "titlu": [], "meta": {}, "corp": [], "anexe": []}
     blocuri, art, in_preambul, anexa_activa = doc["corp"], None, True, True
+    fisier = os.path.basename(cale); zona_puncte = unitati.ZONE_PUNCTE.get(fisier)
     i = 0
     while i < len(linii):
         l = linii[i]; i += 1
@@ -86,6 +88,7 @@ def parseaza(cale, anexe_redate=None):
             nume = l[len("§ANEXA§"):].strip()
             anexa_activa = anexe_redate is None or nume in anexe_redate
             art, in_preambul = None, False
+            zona_puncte = unitati.ZONE_PUNCTE.get(fisier + "#" + nume)
             if anexa_activa:
                 titlu = ""
                 if i < len(linii) and linii[i] and not _structurala(linii[i]):
@@ -112,10 +115,12 @@ def parseaza(cale, anexe_redate=None):
             blocuri.append({"tip": "sect", "nivel": nivel, "eticheta": l[3:], "titlu": titlu})
             art, in_preambul = None, False
             continue
-        m = _ART.match(l)
-        if m:
-            art = {"tip": "art", "nr": m.group(1), "titlu": "", "continut": [], "note": []}
+        e = unitati.eticheta_titlu(l, zona_puncte)
+        if e:
+            art = {"tip": "art", "nr": e, "titlu": "", "continut": [], "note": []}
             blocuri.append(art); in_preambul = False
+            if e.startswith("pct. "):            # punctele au titlul pe același rând: „3. Ordonanțarea …”
+                art["titlu"] = re.sub(r"^\d+\.\s*", "", l); continue
             # titlu marginal: rând scurt, fără punctuație finală, care nu e text normativ
             if i < len(linii) and linii[i] and not _structurala(linii[i]) \
                and len(linii[i]) <= 90 and not linii[i].endswith((".", ";", ":", ",")):
@@ -278,8 +283,7 @@ def sablon(titlu, corp, subtitlu=""):
 <script>{JS}</script></div></body></html>"""
 
 def ancora(nr, anexa=""):
-    a = "art-" + nr.replace("^", "-")
-    return ("anexa-%s-" % re.sub(r"[^A-Za-z0-9]+", "-", anexa).strip("-").lower() + a) if anexa else a
+    return unitati.ancora(nr, anexa)
 
 def _ph(cls, inner, nr=None, idd=None):
     """Paragraf cu conținut deja redat în HTML (textul trece prin txt()/marcheaza)."""
