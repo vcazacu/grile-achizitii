@@ -1,0 +1,1373 @@
+[
+ {
+  "id": "L98A-023",
+  "cheie": [
+   "D"
+  ],
+  "temei": [
+   "01_Legea_98-2016_achizitii_publice.txt",
+   "8"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.99,
+     "sustine": 0.0,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.99
+   },
+   "D": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "nouls": {
+   "sinonim": 0.09,
+   "absolut": 0.45,
+   "abrogat": 0.06,
+   "numeste_actul": 0.68,
+   "categorie_ambigua": 0.08,
+   "citat_acopera": 0.97
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.01,
+     "contrazice": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.98
+   }
+  },
+  "fraze": [
+   "Pragurile JOUE se revizuiesc la nivelul Uniunii Europene, iar noile praguri înlocuiesc de drept pragurile din art. 7 alin. (1) de la data intrării lor în vigoare (art. 8 alin. (2)) — fără a fi nevoie de o hotărâre de Guvern sau de un ordin de ministru.",
+   "Rolul ANAP este doar de publicitate: publică pragurile pe pagina sa de internet.",
+   "Capcana este a crede că actualizarea pragurilor necesită un act normativ național; mecanismul este automat."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "D",
+   "probabilitati": {
+    "niciuna": 0.0,
+    "A": 0.0,
+    "C": 0.0,
+    "B": 0.0,
+    "D": 1.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 7 alin. (1)",
+   "art. 8 alin. (2)"
+  ],
+  "nivel": {
+   "score": 2.79,
+   "confidence": 0.71
+  },
+  "usage": {
+   "a": 4743,
+   "b": 6458
+  }
+ },
+ {
+  "id": "L98A-032",
+  "cheie": [
+   "D"
+  ],
+  "temei": [
+   "01_Legea_98-2016_achizitii_publice.txt",
+   "19"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.01,
+     "nu_spune": 0.02,
+     "contrazice": 0.97
+    },
+    "confidence": 0.96
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.02,
+     "nu_spune": 0.0,
+     "contrazice": 0.98
+    },
+    "confidence": 0.97
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.04,
+     "nu_spune": 0.02,
+     "contrazice": 0.94
+    },
+    "confidence": 0.92
+   },
+   "D": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "nouls": {
+   "sinonim": 0.06,
+   "absolut": 0.2,
+   "abrogat": 0.03,
+   "numeste_actul": 0.64,
+   "categorie_ambigua": 0.75,
+   "citat_acopera": 0.97
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "fraze": [
+   "Excepția de la art. 19 lit. a) permite tratarea separată a loturilor mici: sub 399.120 lei (echivalent 80.000 euro) pentru produse sau servicii, respectiv sub 4.989.000 lei (echivalent 1.000.000 euro) pentru lucrări — 4.989.000 lei este deci valoarea reală pentru lucrări, nu pentru produse/servicii. 270.120 lei este pragul general al achiziției directe de produse/servicii (art. 7 alin. (5)), iar 698.460 lei este pragul JOUE de la art. 7 alin. (1) lit. b).",
+   "Condiția suplimentară cumulativă: loturile astfel atribuite să nu depășească împreună 20% din valoarea globală a tuturor loturilor."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "D",
+   "probabilitati": {
+    "niciuna": 0.0,
+    "C": 0.0,
+    "A": 0.0,
+    "B": 0.0,
+    "D": 1.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 19 lit. a)",
+   "art. 7 alin. (1) lit. b)",
+   "art. 7 alin. (5)"
+  ],
+  "nivel": {
+   "score": 3.08,
+   "confidence": 0.24
+  },
+  "usage": {
+   "a": 3087,
+   "b": 6029
+  }
+ },
+ {
+  "id": "L98A-035",
+  "cheie": [
+   "C"
+  ],
+  "temei": [
+   "01_Legea_98-2016_achizitii_publice.txt",
+   "21"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.99,
+     "sustine": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "C": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "nouls": {
+   "sinonim": 0.08,
+   "absolut": 0.43,
+   "abrogat": 0.06,
+   "numeste_actul": 0.63,
+   "categorie_ambigua": 0.58,
+   "citat_acopera": 0.96
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "3": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.45,
+     "contrazice": 0.54,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.31
+   }
+  },
+  "fraze": [
+   "Pentru contractele de produse prin cumpărare în rate, închiriere sau leasing încheiate pe durată nedeterminată (ori a căror durată nu poate fi stabilită la data estimării), valoarea estimată = valoarea lunară × 48.",
+   "Aceeași formulă (×48) se regăsește la art. 25 lit. b) pentru serviciile fără preț total pe durată nedeterminată sau mai mare de 48 de luni.",
+   "Valoarea reziduală (varianta care o adaugă la valoarea lunară) se adaugă în alt caz: contractele pe durată determinată MAI MARE de 12 luni (art. 21 lit. b)).",
+   "Multiplii 12 și 24 nu apar în aceste reguli."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "C",
+   "probabilitati": {
+    "A": 0.0,
+    "C": 1.0,
+    "B": 0.0,
+    "D": 0.0,
+    "niciuna": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 21 lit. b)",
+   "art. 25 lit. b)"
+  ],
+  "nivel": {
+   "score": 2.28,
+   "confidence": 0.76
+  },
+  "usage": {
+   "a": 2993,
+   "b": 3983
+  }
+ },
+ {
+  "id": "L500B-003",
+  "cheie": [
+   "D"
+  ],
+  "temei": [
+   "10_Legea_500-2002_finantele_publice.txt",
+   "21"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.55,
+     "sustine": 0.04,
+     "nu_spune": 0.41
+    },
+    "confidence": 0.33
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.94,
+     "sustine": 0.04,
+     "nu_spune": 0.02
+    },
+    "confidence": 0.91
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.94,
+     "sustine": 0.03,
+     "nu_spune": 0.03
+    },
+    "confidence": 0.91
+   },
+   "D": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "nouls": {
+   "sinonim": 0.12,
+   "absolut": 0.24,
+   "abrogat": 0.05,
+   "numeste_actul": 0.65,
+   "categorie_ambigua": 0.14,
+   "citat_acopera": 0.98
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.98,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "3": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "fraze": [
+   "Art. 21 alin. (4) definește poziția ordonatorului terțiar de credite: el este ultima verigă a lanțului, nu mai repartizează credite mai departe, ci doar angajează cheltuieli în limita creditelor de angajament repartizate și utilizează creditele bugetare primite, exclusiv pentru realizarea sarcinilor instituției pe care o conduce.",
+   "Varianta cu repartizarea creditelor pentru bugetul propriu și pentru bugetele instituțiilor publice „din subordine sau coordonare, în raport cu sarcinile acestora” reproduce atribuția ordonatorului principal de credite din alin. (1), iar varianta cu repartizarea către ordonatorii terțiari pe cea a ordonatorului secundar din alin. (3) - amândouă sunt texte reale ale legii, dar cu alt titular.",
+   "Varianta cu aprobarea bugetelor instituțiilor finanțate integral din venituri proprii amestecă regula de la art. 16 alin. (1) lit. e), unde bugetele instituțiilor finanțate integral din venituri proprii se aprobă de organul de conducere al instituției publice și cu acordul ordonatorului de credite ierarhic superior, nu al Ministerului Finanțelor Publice.",
+   "Capcană conexă: conducătorii instituțiilor publice cu personalitate juridică din subordinea/coordonarea ordonatorilor principali sunt ordonatori secundari sau terțiari, după caz - art. 20 alin. (3)."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "D",
+   "probabilitati": {
+    "C": 0.0,
+    "A": 0.0,
+    "niciuna": 0.0,
+    "D": 1.0,
+    "B": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 16 alin. (1) lit. e)",
+   "art. 20 alin. (3)",
+   "art. 21 alin. (4)"
+  ],
+  "nivel": {
+   "score": 2.33,
+   "confidence": 0.0
+  },
+  "usage": {
+   "a": 4861,
+   "b": 6664
+  }
+ },
+ {
+  "id": "L98-N404",
+  "cheie": [
+   "B"
+  ],
+  "temei": [
+   "01_Legea_98-2016_achizitii_publice.txt",
+   "146"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.88,
+     "sustine": 0.11,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.82
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "nouls": {
+   "sinonim": 0.25,
+   "absolut": 0.23,
+   "abrogat": 0.06,
+   "numeste_actul": 0.75,
+   "categorie_ambigua": 0.25,
+   "citat_acopera": 0.97
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "3": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "contrazice": 0.0,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.98
+   }
+  },
+  "fraze": [
+   "Art. 146 din Legea nr. 98/2016 prevede că anunțurile prevăzute la art. 142, inclusiv anunțurile corespunzătoare tip erată, se transmit spre publicare prin mijloace electronice, în condițiile din normele metodologice, și se publică în JOUE cu respectarea formatelor-standard stabilite de Comisia Europeană.",
+   "Erata nu este exceptată: art. 146 o include expres alături de anunțurile de la art. 142.",
+   "Ordinea publicării este inversă celei din distractor: art. 147 alin. (1) interzice publicarea la nivel național înainte de publicarea în JOUE, iar cele 48 de ore de la art. 147 alin. (2) sunt intervalul după care, în lipsa notificării Oficiului pentru Publicații, publicarea națională devine permisă.",
+   "Normele metodologice stabilesc doar condițiile de transmitere, în timp ce formatele-standard sunt cele stabilite de Comisia Europeană, conform aceluiași art. 146."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "B",
+   "probabilitati": {
+    "D": 0.0,
+    "C": 0.0,
+    "B": 1.0,
+    "niciuna": 0.0,
+    "A": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 147 alin. (1)",
+   "art. 147 alin. (2)"
+  ],
+  "nivel": {
+   "score": 3.9,
+   "confidence": 0.92
+  },
+  "usage": {
+   "a": 3389,
+   "b": 4742
+  }
+ },
+ {
+  "id": "L500B-005",
+  "cheie": [
+   "A"
+  ],
+  "temei": [
+   "10_Legea_500-2002_finantele_publice.txt",
+   "29"
+  ],
+  "nota_abrogare": true,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.02,
+     "nu_spune": 0.0,
+     "sustine": 0.98
+    },
+    "confidence": 0.97
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "nu_spune": 0.0,
+     "sustine": 0.0
+    },
+    "confidence": 1.0
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "nu_spune": 0.0,
+     "sustine": 0.0
+    },
+    "confidence": 1.0
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "nouls": {
+   "sinonim": 0.07,
+   "absolut": 0.41,
+   "abrogat": 0.07,
+   "numeste_actul": 0.61,
+   "categorie_ambigua": 0.22,
+   "citat_acopera": 0.97
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.13,
+     "contrazice": 0.03,
+     "sustine": 0.84
+    },
+    "confidence": 0.77
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.02,
+     "contrazice": 0.03,
+     "sustine": 0.95
+    },
+    "confidence": 0.92
+   },
+   "3": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "fraze": [
+   "Art. 29 alin. (2) prevede o structurare asimetrică: veniturile se detaliază doar pe capitole și subcapitole, în timp ce cheltuielile coboară până la nivelul de părți, capitole, subcapitole, titluri, articole și alineate, după caz.",
+   "Explicația ține de natura celor două părți ale bugetului - cheltuielile au destinație precisă și limitată, potrivit alin. (3), deci trebuie individualizate mult mai fin decât veniturile, care rămân estimări.",
+   "Varianta cu veniturile pe părți și cheltuielile pe surse inversează cele două structuri, varianta cu aceeași grupare pe paragrafe pentru venituri și cheltuieli uniformizează greșit nivelurile și introduce paragraful, care este o subdiviziune a clasificației folosită de art. 16 alin. (1) lit. c) pentru detalierea făcută de ordonatorul principal, iar varianta cu cheltuielile pe programe și proiecte multianuale confundă structura bugetului cu prezentarea programelor, care se aprobă ca anexe la bugetele ordonatorilor principali de credite, potrivit art. 28^5 alin. (1).",
+   "Capcană conexă: gruparea în sine se face pe baza clasificației bugetare - art. 29 alin. (1) - dar clasificația bugetară nu reprezintă bază legală pentru efectuarea angajamentelor legale și/sau a plăților, potrivit definiției de la art. 2 alin. (1) pct. 9."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "A",
+   "probabilitati": {
+    "C": 0.0,
+    "A": 1.0,
+    "D": 0.0,
+    "B": 0.0,
+    "niciuna": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 16 alin. (1) lit. c)",
+   "art. 2 alin. (1)",
+   "art. 28^5 alin. (1)",
+   "art. 29 alin. (1)",
+   "art. 29 alin. (2)"
+  ],
+  "nivel": {
+   "score": 2.47,
+   "confidence": 0.0
+  },
+  "usage": {
+   "a": 4181,
+   "b": 9121
+  }
+ },
+ {
+  "id": "N395B-034",
+  "cheie": [
+   "B"
+  ],
+  "temei": [
+   "03_Norme_HG_395-2016_achizitii_publice.txt",
+   "105"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.99,
+     "sustine": 0.0,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.98
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.98,
+     "sustine": 0.02,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "nouls": {
+   "sinonim": 0.08,
+   "absolut": 0.72,
+   "abrogat": 0.11,
+   "numeste_actul": 0.43,
+   "categorie_ambigua": 0.76,
+   "citat_acopera": 0.96
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.22,
+     "sustine": 0.18,
+     "contrazice": 0.6
+    },
+    "confidence": 0.4
+   },
+   "2": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "nu_spune": 0.83,
+     "sustine": 0.14,
+     "contrazice": 0.03
+    },
+    "confidence": 0.74
+   },
+   "3": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "nu_spune": 0.61,
+     "sustine": 0.38,
+     "contrazice": 0.01
+    },
+    "confidence": 0.42
+   }
+  },
+  "fraze": [
+   "Art. 105 din Norme stabilește un termen de 15 zile de la data încheierii contractului/acordului-cadru pentru publicarea în SEAP a anunțului de atribuire aferent procedurii simplificate, obligație care se extinde și asupra oricărei modificări ulterioare a contractului/acordului-cadru.",
+   "Termenul de 30 de zile este termenul GENERAL de transmitere spre publicare a anunțului de atribuire, prevăzut la art. 145 alin. (1) din Legea nr. 98/2016 (același termen apare și la art. 165 alin. (2) din norme, pentru anunțul privind modificarea contractelor prelungite) — pentru procedura simplificată, art. 105 din norme instituie însă termenul special, mai scurt, de 15 zile.",
+   "Varianta de 48 de zile nu are corespondent în textul la zi al Legii nr. 98/2016 sau al Normelor.",
+   "Termenul curge de la data ÎNCHEIERII contractului, nu de la comunicarea rezultatului procedurii - o capcană clasică, întrucât între cele două momente se interpune termenul de așteptare prevăzut de Legea nr. 101/2016."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "B",
+   "probabilitati": {
+    "niciuna": 0.0,
+    "D": 0.0,
+    "C": 0.0,
+    "B": 1.0,
+    "A": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 165 alin. (2)"
+  ],
+  "nivel": {
+   "score": 2.78,
+   "confidence": 0.34
+  },
+  "usage": {
+   "a": 3104,
+   "b": 4868
+  }
+ },
+ {
+  "id": "N395C-002",
+  "cheie": [
+   "A"
+  ],
+  "temei": [
+   "03_Norme_HG_395-2016_achizitii_publice.txt",
+   "144"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.68,
+     "sustine": 0.0,
+     "nu_spune": 0.32
+    },
+    "confidence": 0.51
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.95,
+     "sustine": 0.0,
+     "nu_spune": 0.05
+    },
+    "confidence": 0.93
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.77,
+     "sustine": 0.0,
+     "nu_spune": 0.23
+    },
+    "confidence": 0.66
+   }
+  },
+  "nouls": {
+   "sinonim": 0.06,
+   "absolut": 0.58,
+   "abrogat": 0.05,
+   "numeste_actul": 0.69,
+   "categorie_ambigua": 0.28,
+   "citat_acopera": 0.97
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.06,
+     "nu_spune": 0.02,
+     "sustine": 0.92
+    },
+    "confidence": 0.88
+   },
+   "1": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.67,
+     "nu_spune": 0.18,
+     "sustine": 0.15
+    },
+    "confidence": 0.51
+   },
+   "2": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "contrazice": 0.02,
+     "nu_spune": 0.88,
+     "sustine": 0.1
+    },
+    "confidence": 0.81
+   },
+   "3": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "nu_spune": 0.54,
+     "sustine": 0.45
+    },
+    "confidence": 0.31
+   }
+  },
+  "fraze": [
+   "Art. 144 alin. (1) din Norme asimilează refuzul nemotivat de semnare situației de excludere de la art. 167 alin. (1) lit. g) din Legea nr. 98/2016 — încălcarea gravă a obligațiilor contractuale anterioare —, ceea ce îl poate costa pe ofertant participarea la proceduri viitoare; corelativ, art. 144 alin. (2) trimite la art. 166 alin. (2), potrivit căruia se emite document constatator în termen de 14 zile de la data la care ar fi trebuit încheiat contractul.",
+   "Art. 164 alin. (1) din Lege privește excluderea pentru condamnări definitive (corupție, fraudă, spălare de bani etc.), nu conduita din procedură.",
+   "Art. 221 din Lege reglementează modificarea contractului deja încheiat, ipoteză exclusă aici tocmai pentru că nu s-a semnat niciun contract.",
+   "Anularea nu operează de drept: cazurile de anulare sunt cele limitativ prevăzute la art. 212 și 213 din Lege, niciunul automat pentru refuzul de semnare; consecința expresă a refuzului este reținerea garanției de participare (art. 37 alin. (1) lit. c) din Norme)."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "A",
+   "probabilitati": {
+    "niciuna": 0.0,
+    "D": 0.0,
+    "A": 1.0,
+    "B": 0.0,
+    "C": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 144 alin. (1)",
+   "art. 144 alin. (2)",
+   "art. 166 alin. (2)",
+   "art. 37 alin. (1) lit. c)"
+  ],
+  "nivel": {
+   "score": 3.42,
+   "confidence": 0.52
+  },
+  "usage": {
+   "a": 2831,
+   "b": 6602
+  }
+ },
+ {
+  "id": "L500-001",
+  "cheie": [
+   "A",
+   "B",
+   "D"
+  ],
+  "temei": [
+   "10_Legea_500-2002_finantele_publice.txt",
+   "1"
+  ],
+  "nota_abrogare": false,
+  "tip": "multiplu",
+  "variante": {
+   "A": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.01,
+     "nu_spune": 0.39,
+     "contrazice": 0.6
+    },
+    "confidence": 0.4
+   },
+   "D": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "nouls": {
+   "sinonim": 0.09,
+   "absolut": 0.37,
+   "abrogat": 0.1,
+   "numeste_actul": 0.7,
+   "categorie_ambigua": 0.24,
+   "citat_acopera": 0.94
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.11,
+     "nu_spune": 0.0,
+     "sustine": 0.89
+    },
+    "confidence": 0.82
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.09,
+     "nu_spune": 0.17,
+     "sustine": 0.74
+    },
+    "confidence": 0.6
+   },
+   "2": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.65,
+     "nu_spune": 0.29,
+     "sustine": 0.06
+    },
+    "confidence": 0.48
+   }
+  },
+  "fraze": [
+   "Art. 1 alin. (2) enumeră nouă categorii de bugete cărora li se aplică legea: bugetul de stat, bugetul asigurărilor sociale de stat, bugetele fondurilor speciale, bugetul trezoreriei statului, bugetele instituțiilor publice autonome, bugetele instituțiilor publice finanțate integral sau parțial de la aceste bugete, bugetele instituțiilor publice finanțate integral din venituri proprii, bugetul creditelor externe și bugetul fondurilor externe nerambursabile.",
+   "Capcana clasică: bugetele locale NU figurează în această enumerare — ele sunt reglementate de legislația finanțelor publice locale, nu de această enumerare.",
+   "Totuși, potrivit art. 2 alin. (1) pct. 38, «sistemul bugetar» cuprinde bugetele de la art. 1 alin. (2) ȘI bugetele locale — distincție frecvent testată."
+  ],
+  "pozitionale": [],
+  "care_varianta": null,
+  "trimiteri": [
+   "art. 1 alin. (2)",
+   "art. 2 alin. (1)"
+  ],
+  "nivel": {
+   "score": 3.55,
+   "confidence": 0.63
+  },
+  "usage": {
+   "a": 3730,
+   "b": 7580
+  }
+ },
+ {
+  "id": "ALOPB-004",
+  "cheie": [
+   "B"
+  ],
+  "temei": [
+   "09_Norme_ALOP_1792-2002.txt",
+   "pct. 4"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.95,
+     "nu_spune": 0.0,
+     "contrazice": 0.05
+    },
+    "confidence": 0.91
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.01,
+     "nu_spune": 0.0,
+     "contrazice": 0.99
+    },
+    "confidence": 0.99
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.01,
+     "nu_spune": 0.02,
+     "contrazice": 0.97
+    },
+    "confidence": 0.95
+   }
+  },
+  "nouls": {
+   "sinonim": 0.12,
+   "absolut": 0.27,
+   "abrogat": 0.12,
+   "numeste_actul": 0.53,
+   "categorie_ambigua": 0.15,
+   "citat_acopera": 0.96
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.77,
+     "nu_spune": 0.22
+    },
+    "confidence": 0.65
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.98,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.98
+   },
+   "3": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "4": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "fraze": [
+   "Normele impun două reguli cumulative: ordinele de plată se emit pe numele fiecărui creditor, fiind datate și având înscrise în spațiul rezervat obiectul plății și subdiviziunea bugetului aprobat de la care se face plata, iar un ordin de plată nu poate cuprinde plăți referitoare la mai multe subdiviziuni ale bugetului aprobat.",
+   "Scopul este trasabilitatea plății pe subdiviziunea bugetară corectă, condiție verificată de altfel și înainte de efectuarea plății.",
+   "Varianta cu plăți către mai mulți creditori încalcă regula emiterii pe numele fiecărui creditor, iar varianta cu plăți de la mai multe subdiviziuni bugetare încalcă regula unicității subdiviziunii, folosind ca pretext o mențiune care există în text, dar cu alt rol - identificarea obiectului plății.",
+   "Varianta cu ordinele emise fără documente justificative inversează regula reală: ordinele de plată se emit pe baza documentelor justificative din care să reiasă că urmează să se achite integral sau parțial o datorie contractată și justificată, singura excepție fiind ordinele de plată emise pentru plata de avansuri.",
+   "Capcană conexă: ordinele de plată se înscriu într-un registru distinct și poartă un număr de ordine unic, care începe cu numărul 1, în ordine crescătoare, pentru fiecare ordonator de credite și pentru fiecare exercițiu bugetar - deci numerotarea se reia anual, nu continuă de la un an la altul."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "B",
+   "probabilitati": {
+    "A": 0.0,
+    "C": 0.0,
+    "B": 1.0,
+    "niciuna": 0.0,
+    "D": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [],
+  "nivel": {
+   "score": 3.01,
+   "confidence": 0.78
+  },
+  "usage": {
+   "a": 8441,
+   "b": 8091
+  }
+ },
+ {
+  "id": "L500B-007",
+  "cheie": [
+   "D"
+  ],
+  "temei": [
+   "10_Legea_500-2002_finantele_publice.txt",
+   "70"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.0,
+     "contrazice": 0.98,
+     "nu_spune": 0.02
+    },
+    "confidence": 0.96
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.0,
+     "contrazice": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.0,
+     "contrazice": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "D": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "nouls": {
+   "sinonim": 0.07,
+   "absolut": 0.24,
+   "abrogat": 0.04,
+   "numeste_actul": 0.57,
+   "categorie_ambigua": 0.14,
+   "citat_acopera": 0.98
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "3": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99
+    },
+    "confidence": 0.97
+   },
+   "4": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.03,
+     "nu_spune": 0.08,
+     "sustine": 0.89
+    },
+    "confidence": 0.83
+   },
+   "5": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "nu_spune": 0.01,
+     "sustine": 0.98
+    },
+    "confidence": 0.97
+   }
+  },
+  "fraze": [
+   "Bugetul aprobat trebuie transmis unității teritoriale a Trezoreriei Statului în termen de 10 zile de la aprobare - art. 70 alin. (3).",
+   "Dacă termenul este depășit, alin. (4) permite continuarea plăților în limita a 1/12 din ultimul buget aprobat, dar numai 45 de zile de la expirarea termenului de depunere și cu excluderea plăților pentru acțiuni și obiective de investiții noi.",
+   "Termenul poate fi prelungit, la solicitarea fundamentată a instituției, cu aprobarea ministrului finanțelor publice - alin. (5) - iar după expirarea lui unitățile Trezoreriei Statului nu mai acceptă la decontare documente de plată - alin. (6).",
+   "Distractorul b) descrie sancțiunea distinctă din art. 28^4 alin. (1), aplicabilă instituțiilor care înregistrează arierate, unde plățile permise sunt cele salariale, cele pentru stingerea arieratelor și cele aferente datoriei publice.",
+   "Varianta „fără limitare în timp” elimină exact elementul esențial - caracterul temporar al măsurii, iar varianta cu 1/4 pentru 90 de zile schimbă atât fracția, cât și durata.",
+   "Capcană conexă: regula celor 1/12 apare și la art. 37, dar acolo într-un cu totul alt context - neadoptarea legilor bugetare până la finele exercițiului bugetar."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "D",
+   "probabilitati": {
+    "C": 0.0,
+    "D": 1.0,
+    "niciuna": 0.0,
+    "A": 0.0,
+    "B": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 28^4 alin. (1)",
+   "art. 70 alin. (3)"
+  ],
+  "nivel": {
+   "score": 3.84,
+   "confidence": 0.87
+  },
+  "usage": {
+   "a": 3643,
+   "b": 6003
+  }
+ }
+]

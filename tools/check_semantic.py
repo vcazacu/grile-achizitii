@@ -79,6 +79,7 @@ _POZITIE = re.compile(
 _POZITIE_LITERA = re.compile(
     r"\b(?:[Vv]ariant(?:a|ele)|[Rr][ăa]spuns(?:ul|urile))\s+(?:[A-D](?![\w])\)?|[a-d]\))"
     r"|\b(?:indicel(?:e|ui)|indexul(?:ui)?)\s+\d\b"                    # „varianta de la indicele 2”
+    r"|\bdistractor(?:ul|ii|ilor)\s+[a-dA-D]\)"                          # „distractorul d)”
     r"|\b(?:iar|și|apoi)\s+(?:prima|a\s+doua|a\s+treia|a\s+patra|ultima)\s+"
     r"(?!zi\b|zile|etap|rund|faz|lun|dat|oar|parte|teză|tez|liter|alin|pct|punct"
     r"|(?:de|la|din|în|pe|cu|prin|pentru|după|până)\b)[a-zăâîșț]+")   # „iar a doua de la...” = alt substantiv subînțeles
@@ -444,7 +445,7 @@ def verdict(j, praguri=None):
     if n.get("numeste_actul", 1) <= 1 - p["noul"]:
         incerte.append("enunțul nu numește actul (p=%.2f)" % n["numeste_actul"])
     if n.get("categorie_ambigua", 0) >= p["noul"]:
-        incerte.append("categoria de personal e ambiguă în enunț (p=%.2f)" % n["categorie_ambigua"])
+        incerte.append("situația (tipul contractului, pragul, procedura sau actul aplicabil) e ambiguă în enunț (p=%.2f)" % n["categorie_ambigua"])
     if n.get("citat_acopera", 1) <= 1 - p["noul"]:
         incerte.append("citatul nu acoperă norma pe care stă răspunsul (p=%.2f)" % n["citat_acopera"])
     if grave:

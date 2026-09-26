@@ -1,0 +1,1567 @@
+[
+ {
+  "id": "N395A-016-MUT",
+  "cheie": [
+   "A"
+  ],
+  "temei": [
+   "03_Norme_HG_395-2016_achizitii_publice.txt",
+   "9"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.96,
+     "sustine": 0.0,
+     "nu_spune": 0.04
+    },
+    "confidence": 0.95
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.99,
+     "sustine": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "D": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "nouls": {
+   "sinonim": 0.17,
+   "absolut": 0.7,
+   "abrogat": 0.08,
+   "numeste_actul": 0.61,
+   "categorie_ambigua": 0.61,
+   "citat_acopera": 0.88
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.02,
+     "contrazice": 0.23,
+     "sustine": 0.75
+    },
+    "confidence": 0.63
+   },
+   "1": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "nu_spune": 0.5,
+     "contrazice": 0.1,
+     "sustine": 0.4
+    },
+    "confidence": 0.25
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.32,
+     "contrazice": 0.19,
+     "sustine": 0.49
+    },
+    "confidence": 0.23
+   },
+   "3": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "nu_spune": 0.72,
+     "contrazice": 0.01,
+     "sustine": 0.27
+    },
+    "confidence": 0.59
+   }
+  },
+  "fraze": [
+   "Strategia de contractare este un document al fiecărei proceduri cu valoare estimată egală sau mai mare decât pragurile de la art. 7 alin. (5) din Lege — adică pragurile achiziției directe; practic, orice procedură de atribuire propriu-zisă are strategie de contractare.",
+   "Distractorul cu pragurile art. 7 alin. (1) (pragurile de publicare în JOUE) ar restrânge nejustificat obligația doar la procedurile mari.",
+   "Achizițiile directe, fiind sub pragurile art. 7 alin. (5), nu impun strategie de contractare.",
+   "Sursa de finanțare (fonduri europene sau naționale) nu condiționează obligația."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "D",
+   "probabilitati": {
+    "niciuna": 0.0,
+    "D": 1.0,
+    "C": 0.0,
+    "A": 0.0,
+    "B": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [],
+  "nivel": {
+   "score": 3.32,
+   "confidence": 0.43
+  },
+  "usage": {
+   "a": 3758,
+   "b": 4271
+  }
+ },
+ {
+  "id": "L98-N601-MUT",
+  "cheie": [
+   "D"
+  ],
+  "temei": [
+   "01_Legea_98-2016_achizitii_publice.txt",
+   "190"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.99,
+     "nu_spune": 0.01,
+     "sustine": 0.0
+    },
+    "confidence": 0.99
+   },
+   "B": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.97,
+     "nu_spune": 0.03,
+     "sustine": 0.0
+    },
+    "confidence": 0.96
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.85,
+     "nu_spune": 0.13,
+     "sustine": 0.02
+    },
+    "confidence": 0.76
+   }
+  },
+  "nouls": {
+   "sinonim": 0.14,
+   "absolut": 0.25,
+   "abrogat": 0.06,
+   "numeste_actul": 0.74,
+   "categorie_ambigua": 0.19,
+   "citat_acopera": 0.86
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.99
+   },
+   "3": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "4": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "fraze": [
+   "Art. 190 alin. (3) prevede că, atunci când stabilirea unei ponderi nu este posibilă din motive obiective, autoritatea contractantă indică factorii de evaluare în ordinea descrescătoare a importanței.",
+   "Varianta cu „prețul cel mai scăzut” deformează art. 190 alin. (1): acesta scutește de precizarea ponderilor doar cazul în care se aplică acest criteriu, fără să-l facă obligatoriu când ponderarea e imposibilă; în plus, art. 187 alin. (3^1) limitează utilizarea lui la anumite situații.",
+   "Ponderile egale nu apar în art. 190, care cere, ca soluție de rezervă, doar ierarhizarea factorilor.",
+   "Raportarea la intervale valorice, din art. 190 alin. (2), este un mod de a acorda ponderile atunci când ele pot fi stabilite, nu o soluție pentru imposibilitatea ponderării.",
+   "Regula generală, de la art. 190 alin. (1), rămâne precizarea în documentele achiziției a ponderii relative a fiecărui factor de evaluare."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "B",
+   "probabilitati": {
+    "C": 0.0,
+    "niciuna": 0.0,
+    "A": 0.0,
+    "B": 1.0,
+    "D": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 187 alin. (3^1)",
+   "art. 190 alin. (1)",
+   "art. 190 alin. (2)",
+   "art. 190 alin. (3)"
+  ],
+  "nivel": {
+   "score": 3.32,
+   "confidence": 0.43
+  },
+  "usage": {
+   "a": 3229,
+   "b": 6203
+  }
+ },
+ {
+  "id": "L500-N209-MUT",
+  "cheie": [
+   "D"
+  ],
+  "temei": [
+   "10_Legea_500-2002_finantele_publice.txt",
+   "65"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "nu_spune": 0.0,
+     "sustine": 0.0
+    },
+    "confidence": 0.99
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.03,
+     "contrazice": 0.97,
+     "sustine": 0.0
+    },
+    "confidence": 0.95
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.01,
+     "contrazice": 0.98,
+     "sustine": 0.01
+    },
+    "confidence": 0.97
+   }
+  },
+  "nouls": {
+   "sinonim": 0.18,
+   "absolut": 0.44,
+   "abrogat": 0.09,
+   "numeste_actul": 0.77,
+   "categorie_ambigua": 0.32,
+   "citat_acopera": 0.61
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.98,
+     "contrazice": 0.01,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.98
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "3": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "4": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "fraze": [
+   "Art. 65 alin. (1) prevede că veniturile proprii ale instituțiilor publice finanțate potrivit art. 62 alin. (1) lit. b) și c) «se încasează, se administrează, se utilizează și se contabilizează de către acestea», iar alin. (2) enumeră sursele lor (chirii, manifestări culturale și sportive, publicații, studii, proiecte, prestări de servicii și altele asemenea).",
+   "Vărsarea integrală a veniturilor realizate la bugetul din care sunt finanțate este regula pentru instituțiile finanțate integral de la buget, potrivit art. 62 alin. (2).",
+   "Vărsarea directă la buget, cu majorarea creditelor bugetare, privește donațiile și sponsorizările primite de instituțiile finanțate integral de la buget, potrivit art. 63 alin. (2).",
+   "Anularea de drept la sfârșitul anului privește creditele bugetare neutilizate și creditele de angajament fără angajamente legale, potrivit art. 61 alin. (3), nu veniturile proprii.",
+   "Pentru instituțiile finanțate integral din venituri proprii, excedentele anuale se reportează chiar în anul următor, cu aceeași destinație, potrivit art. 66 alin. (2)."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "A",
+   "probabilitati": {
+    "D": 0.0,
+    "B": 0.0,
+    "niciuna": 0.0,
+    "A": 1.0,
+    "C": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 61 alin. (3)",
+   "art. 62 alin. (1) lit. b)",
+   "art. 62 alin. (1) lit. c)",
+   "art. 62 alin. (2)",
+   "art. 63 alin. (2)",
+   "art. 65 alin. (1)",
+   "art. 66 alin. (2)"
+  ],
+  "nivel": {
+   "score": 3.7,
+   "confidence": 0.75
+  },
+  "usage": {
+   "a": 3256,
+   "b": 6240
+  }
+ },
+ {
+  "id": "OUG98-N102-MUT",
+  "cheie": [
+   "C"
+  ],
+  "temei": [
+   "04_OUG_98-2017_control_ex_ante.txt",
+   "17"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.06,
+     "contrazice": 0.93,
+     "sustine": 0.01
+    },
+    "confidence": 0.9
+   },
+   "B": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.04,
+     "contrazice": 0.96,
+     "sustine": 0.0
+    },
+    "confidence": 0.94
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.09,
+     "contrazice": 0.91,
+     "sustine": 0.0
+    },
+    "confidence": 0.87
+   }
+  },
+  "nouls": {
+   "sinonim": 0.09,
+   "absolut": 0.35,
+   "abrogat": 0.06,
+   "numeste_actul": 0.74,
+   "categorie_ambigua": 0.12,
+   "citat_acopera": 0.93
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 0.99
+   },
+   "3": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "nu_spune": 0.01,
+     "sustine": 0.98
+    },
+    "confidence": 0.97
+   },
+   "4": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "nu_spune": 0.01,
+     "sustine": 0.98
+    },
+    "confidence": 0.97
+   },
+   "5": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "fraze": [
+   "Art. 17 din O.U.G. nr. 98/2017 prevede că condițiile de inițiere și mecanismul derulării procedurii de conciliere între autoritatea contractantă și ANAP se reglementează prin normele metodologice de aplicare a ordonanței de urgență, norme care, potrivit art. 28, se aprobă prin hotărâre a Guvernului.",
+   "Ordinul președintelui ANAP este actul prevăzut de ordonanță pentru alte aspecte, de exemplu modelele de formulare pentru formalizarea evaluării ofertelor (art. 13 alin. (2)) sau modul de aplicare a metodologiei de selecție (art. 7 alin. (3^1)).",
+   "Comitetul decizional format la nivelul ANAP soluționează cererea de conciliere, potrivit art. 18 alin. (1), dar nu stabilește regulile procedurii.",
+   "Trimiterile ordonanței la Legea nr. 101/2016 privesc alte aspecte decât concilierea: constatarea nulității absolute a contractului (art. 14 alin. (8), care declară aplicabil în mod corespunzător cap.",
+   "VI secțiunea a 3-a din lege), termenele de așteptare (art. 14 alin. (9)) și atacarea avizelor conforme, numai împreună cu actele autorității contractante (art. 22).",
+   "Termenele de emitere a deciziei de conciliere sunt stabilite direct de ordonanță, la art. 18 alin. (2) și (3)."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "B",
+   "probabilitati": {
+    "niciuna": 0.0,
+    "A": 0.0,
+    "C": 0.0,
+    "D": 0.0,
+    "B": 1.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 13 alin. (2)",
+   "art. 14 alin. (8)",
+   "art. 14 alin. (9)",
+   "art. 18 alin. (1)",
+   "art. 18 alin. (2)",
+   "art. 18 alin. (3)",
+   "art. 7 alin. (3^1)"
+  ],
+  "nivel": {
+   "score": 2.18,
+   "confidence": 0.0
+  },
+  "usage": {
+   "a": 3446,
+   "b": 9201
+  }
+ },
+ {
+  "id": "L101A-036-MUT",
+  "cheie": [
+   "C"
+  ],
+  "temei": [
+   "07_Legea_101-2016_remedii_si_cai_de_atac.txt",
+   "25"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01
+    },
+    "confidence": 0.98
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.02,
+     "sustine": 0.01,
+     "contrazice": 0.97
+    },
+    "confidence": 0.97
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "nouls": {
+   "sinonim": 0.23,
+   "absolut": 0.43,
+   "abrogat": 0.04,
+   "numeste_actul": 0.44,
+   "categorie_ambigua": 0.16,
+   "citat_acopera": 0.91
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.07,
+     "sustine": 0.58,
+     "nu_spune": 0.35
+    },
+    "confidence": 0.37
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.05,
+     "sustine": 0.93,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.9
+   }
+  },
+  "fraze": [
+   "Art. 25 alin. (5): suspendarea ÎNTRERUPE curgerea termenului de soluționare, iar de la reluare curge un termen NOU, integral.",
+   "Aceasta este distincția clasică întrerupere/suspendare: la întrerupere termenul se ia de la capăt, pe când varianta „se reluă din punctul unde s-a oprit” descrie efectul unei simple suspendări a termenului — capcana principală a întrebării.",
+   "Termenul nu continuă să curgă în timpul suspendării și nu se reduce la 10 zile (cele 10 zile din art. 24 alin. (1) privesc soluționarea pe excepție, alt fapt)."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "B",
+   "probabilitati": {
+    "niciuna": 0.0,
+    "A": 0.0,
+    "C": 0.0,
+    "D": 0.0,
+    "B": 1.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 24 alin. (1)",
+   "art. 25 alin. (5)"
+  ],
+  "nivel": {
+   "score": 3.55,
+   "confidence": 0.62
+  },
+  "usage": {
+   "a": 4180,
+   "b": 4697
+  }
+ },
+ {
+  "id": "ALOPB-001-MUT",
+  "cheie": [
+   "C"
+  ],
+  "temei": [
+   "09_Norme_ALOP_1792-2002.txt",
+   "preambul"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.0,
+     "nu_spune": 0.02,
+     "contrazice": 0.98
+    },
+    "confidence": 0.97
+   }
+  },
+  "nouls": {
+   "sinonim": 0.16,
+   "absolut": 0.48,
+   "abrogat": 0.19,
+   "numeste_actul": 0.64,
+   "categorie_ambigua": 0.35,
+   "citat_acopera": 0.82
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.22,
+     "sustine": 0.62,
+     "nu_spune": 0.16
+    },
+    "confidence": 0.43
+   },
+   "3": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "contrazice": 0.05,
+     "sustine": 0.06,
+     "nu_spune": 0.89
+    },
+    "confidence": 0.84
+   },
+   "4": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.06,
+     "sustine": 0.9,
+     "nu_spune": 0.04
+    },
+    "confidence": 0.86
+   },
+   "5": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "contrazice": 0.02,
+     "sustine": 0.21,
+     "nu_spune": 0.77
+    },
+    "confidence": 0.66
+   }
+  },
+  "fraze": [
+   "Preambulul Normelor metodologice ALOP stabilește repartizarea competențelor pe fazele execuției cheltuielilor: primele trei faze - angajarea, lichidarea și ordonanțarea - sunt în competența ordonatorilor de credite și se efectuează pe baza propunerilor compartimentelor de specialitate ale instituției publice, în timp ce plata se efectuează de persoanele autorizate care poartă denumirea generică de contabil.",
+   "Aceasta este aplicarea directă a principiului separării atribuțiilor persoanelor care au calitatea de ordonator de credite de atribuțiile persoanelor care au calitatea de contabil.",
+   "Distractorul b) inversează exact această separare, atribuind primele trei faze compartimentului financiar-contabil.",
+   "Distractorul c) confundă rolul consultativ al compartimentelor de specialitate cu viza de control financiar preventiv delegat, care se exercită de controlorul delegat al Ministerului Finanțelor Publice numai la instituțiile ale căror operațiuni sunt supuse acestui control.",
+   "Distractorul d) mută competența decizională de la ordonatorul de credite la compartimentele de specialitate, care doar propun.",
+   "Capcană conexă: art. 52 alin. (3) din Legea nr. 500/2002 folosește formula „pe baza avizelor compartimentelor de specialitate”, iar normele vorbesc despre „propuneri” - în ambele cazuri însă competența rămâne a ordonatorului de credite, iar structura implicată este compartimentul de specialitate, nu cel financiar-contabil."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "B",
+   "probabilitati": {
+    "D": 0.0,
+    "niciuna": 0.0,
+    "A": 0.0,
+    "B": 1.0,
+    "C": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [],
+  "nivel": {
+   "score": 3.02,
+   "confidence": 0.93
+  },
+  "usage": {
+   "a": 4910,
+   "b": 5893
+  }
+ },
+ {
+  "id": "OUGB-006-MUT",
+  "cheie": [
+   "C"
+  ],
+  "temei": [
+   "05_HG_419-2018_act_de_aprobare.txt",
+   "V"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.09,
+     "sustine": 0.0,
+     "contrazice": 0.91
+    },
+    "confidence": 0.87
+   }
+  },
+  "nouls": {
+   "sinonim": 0.3,
+   "absolut": 0.25,
+   "abrogat": 0.07,
+   "numeste_actul": 0.68,
+   "categorie_ambigua": 0.47,
+   "citat_acopera": 0.93
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.96,
+     "nu_spune": 0.02,
+     "contrazice": 0.02
+    },
+    "confidence": 0.94
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.98
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.47,
+     "nu_spune": 0.32,
+     "contrazice": 0.21
+    },
+    "confidence": 0.2
+   },
+   "3": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "sustine": 0.45,
+     "nu_spune": 0.51,
+     "contrazice": 0.04
+    },
+    "confidence": 0.27
+   },
+   "4": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "sustine": 0.3,
+     "nu_spune": 0.64,
+     "contrazice": 0.06
+    },
+    "confidence": 0.47
+   }
+  },
+  "fraze": [
+   "Art. 37 alin. (3) din Normele metodologice aprobate prin H.G. nr. 395/2016, în textul stabilit prin art.",
+   "V pct. 35 din H.G. nr. 419/2018, prevede că autoritatea contractantă nu reține garanția de participare când ofertantul desemnat câștigător refuză semnarea, dacă procedura a făcut obiectul controlului ex ante, ANAP a emis aviz conform condiționat, iar autoritatea a finalizat procedura fără a remedia abaterile constatate.",
+   "Regula generală din art. 37 alin. (1) lit. c) din Norme obligă autoritatea contractantă să rețină garanția de participare când ofertantul câștigător refuză să semneze contractul în perioada de valabilitate a ofertei; varianta reținerii integrale descrie această regulă, înlăturată aici de alin. (3).",
+   "Asimilarea refuzului nemotivat situației de la art. 167 alin. (1) lit. g) din Legea nr. 98/2016 provine din art. 144 alin. (1) din Norme, a cărui aplicare este exclusă expres de același art. 37 alin. (3).",
+   "Pretențiile asupra garanției de bună execuție, în limita prejudiciului, sunt reglementate de art. 41 din Norme pentru neîndeplinirea obligațiilor contractuale, iar această garanție se constituie abia după semnarea contractului (art. 39 alin. (3) din Norme)."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "A",
+   "probabilitati": {
+    "B": 0.0,
+    "niciuna": 0.0,
+    "D": 0.0,
+    "A": 1.0,
+    "C": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [],
+  "nivel": {
+   "score": 3.91,
+   "confidence": 0.92
+  },
+  "usage": {
+   "a": 24003,
+   "b": 22215
+  }
+ },
+ {
+  "id": "OUGC-005-MUT",
+  "cheie": [
+   "A"
+  ],
+  "temei": [
+   "06_Norme_HG_419-2018_control_ex_ante.txt",
+   "13"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "C": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "nouls": {
+   "sinonim": 0.13,
+   "absolut": 0.64,
+   "abrogat": 0.07,
+   "numeste_actul": 0.63,
+   "categorie_ambigua": 0.22,
+   "citat_acopera": 0.9
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.35,
+     "sustine": 0.56,
+     "contrazice": 0.09
+    },
+    "confidence": 0.34
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.04,
+     "sustine": 0.95,
+     "contrazice": 0.01
+    },
+    "confidence": 0.93
+   },
+   "3": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "nu_spune": 0.53,
+     "sustine": 0.03,
+     "contrazice": 0.44
+    },
+    "confidence": 0.29
+   },
+   "4": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "fraze": [
+   "Art. 13 alin. (1) din normele metodologice prevede regula: aviz emis în format electronic, în limita informațiilor furnizate de autoritatea contractantă, semnat cu semnătură electronică extinsă bazată pe un certificat calificat eliberat de un furnizor acreditat, și transmis prin SEAP.",
+   "Formatul letric nu este exclus, dar este excepția reglementată de alin. (3), aplicabilă doar când transmiterea prin SEAP nu este posibilă, caz în care avizul se comunică prin mijloacele de comunicare din legislația achizițiilor; în plus, aprobarea se face la nivelul structurii de specialitate, nu prin semnătura olografă a președintelui.",
+   "Semnătura electronică simplă nu satisface cerința legală, care impune expres semnătura extinsă bazată pe certificat calificat.",
+   "Varianta cu avizul electronic nesemnat, publicat automat de SEAP, confundă emiterea avizului cu publicarea lui automată în SEAP - publicarea automată este reglementată la art. 14 alin. (3) și (4) din ordonanța de urgență și nu înlocuiește semnarea.",
+   "Capcană conexă: avizele conforme și eventualele recomandări devin parte a dosarului achiziției publice (art. 13 alin. (6) din norme)."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "C",
+   "probabilitati": {
+    "niciuna": 0.0,
+    "B": 0.0,
+    "A": 0.0,
+    "D": 0.0,
+    "C": 1.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 13 alin. (1)",
+   "art. 13 alin. (6)",
+   "art. 14 alin. (3)"
+  ],
+  "nivel": {
+   "score": 3.16,
+   "confidence": 0.3
+  },
+  "usage": {
+   "a": 4445,
+   "b": 5586
+  }
+ },
+ {
+  "id": "L98-N408-MUT",
+  "cheie": [
+   "A"
+  ],
+  "temei": [
+   "01_Legea_98-2016_achizitii_publice.txt",
+   "163"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.02,
+     "contrazice": 0.98,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   },
+   "B": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.01,
+     "contrazice": 0.98,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.98
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "sustine": 0.08,
+     "contrazice": 0.89,
+     "nu_spune": 0.03
+    },
+    "confidence": 0.83
+   }
+  },
+  "nouls": {
+   "sinonim": 0.1,
+   "absolut": 0.42,
+   "abrogat": 0.07,
+   "numeste_actul": 0.78,
+   "categorie_ambigua": 0.21,
+   "citat_acopera": 0.9
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "3": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "fraze": [
+   "Art. 163 din Legea nr. 98/2016 limitează criteriile de calificare și selecție la două categorii: motive de excludere a candidatului/ofertantului (lit. a)) și capacitatea candidatului/ofertantului (lit. b)).",
+   "Enumerarea capacitate de exercitare a activității profesionale – situație economică și financiară – capacitate tehnică și profesională este reală, dar reprezintă doar criteriile de capacitate de la art. 172 alin. (1) și omite motivele de excludere.",
+   "Factorii de evaluare și criteriul de atribuire nu sunt criterii de calificare, ci servesc la stabilirea ofertei celei mai avantajoase din punct de vedere economic (art. 187 alin. (2) și (3)).",
+   "Capcana de examen este confuzia dintre criteriile de calificare (privesc operatorul economic) și criteriile de atribuire (privesc oferta), reglementate separat la art. 163 și art. 187."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "B",
+   "probabilitati": {
+    "B": 1.0,
+    "niciuna": 0.0,
+    "C": 0.0,
+    "A": 0.0,
+    "D": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 172 alin. (1)",
+   "art. 187 alin. (2)",
+   "art. 187 alin. (3)"
+  ],
+  "nivel": {
+   "score": 3.25,
+   "confidence": 0.37
+  },
+  "usage": {
+   "a": 4046,
+   "b": 7146
+  }
+ },
+ {
+  "id": "L98A-019-MUT",
+  "cheie": [
+   "C"
+  ],
+  "temei": [
+   "01_Legea_98-2016_achizitii_publice.txt",
+   "7"
+  ],
+  "nota_abrogare": true,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.99,
+     "sustine": 0.0,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.98
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.98,
+     "sustine": 0.01,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.98
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.98,
+     "sustine": 0.01,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.98
+   },
+   "D": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "nouls": {
+   "sinonim": 0.2,
+   "absolut": 0.21,
+   "abrogat": 0.06,
+   "numeste_actul": 0.68,
+   "categorie_ambigua": 0.7,
+   "citat_acopera": 0.96
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.08,
+     "nu_spune": 0.0,
+     "sustine": 0.92
+    },
+    "confidence": 0.87
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.05,
+     "nu_spune": 0.0,
+     "sustine": 0.95
+    },
+    "confidence": 0.92
+   }
+  },
+  "fraze": [
+   "Art. 7 alin. (7) etajează achiziția directă: peste 200.000 lei (produse/servicii) respectiv 560.000 lei (lucrări) este obligatorie utilizarea catalogului electronic SEAP sau publicarea unui anunț cu descrierea achiziției.",
+   "Distractorul a) reproduce pragurile de la lit. b)-c) (consultarea a minimum trei operatori, respectiv o singură ofertă) — valori reale cu alt rol.",
+   "Distractorul b) redă chiar plafoanele achiziției directe (art. 7 alin. (5)), peste care nu mai vorbim de achiziție directă. 9.000 lei este pragul plății directe fără acceptarea prealabilă a unei oferte (lit. d))."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "D",
+   "probabilitati": {
+    "B": 0.0,
+    "A": 0.0,
+    "niciuna": 0.0,
+    "D": 1.0,
+    "C": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 7 alin. (5)",
+   "art. 7 alin. (7)"
+  ],
+  "nivel": {
+   "score": 2.15,
+   "confidence": 0.87
+  },
+  "usage": {
+   "a": 6505,
+   "b": 8081
+  }
+ },
+ {
+  "id": "N395B-015-MUT",
+  "cheie": [
+   "C"
+  ],
+  "temei": [
+   "03_Norme_HG_395-2016_achizitii_publice.txt",
+   "64"
+  ],
+  "nota_abrogare": false,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.98,
+     "sustine": 0.0,
+     "nu_spune": 0.02
+    },
+    "confidence": 0.98
+   },
+   "B": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.03,
+     "sustine": 0.97,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.96
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "sustine": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "nouls": {
+   "sinonim": 0.11,
+   "absolut": 0.5,
+   "abrogat": 0.04,
+   "numeste_actul": 0.46,
+   "categorie_ambigua": 0.45,
+   "citat_acopera": 0.9
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.08,
+     "nu_spune": 0.0,
+     "sustine": 0.92
+    },
+    "confidence": 0.88
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 0.99
+   },
+   "3": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "fraze": [
+   "Art. 64 alin. (3): la deschidere nu este permisă respingerea vreunei oferte, cu o singură excepție — lipsa dovezii constituirii garanției de participare.",
+   "Varianta „nicio ofertă, fără excepție\" pică tocmai pe această excepție.",
+   "Prețul neobișnuit de scăzut și calificarea se analizează ulterior: orice decizie privind calificarea sau evaluarea se adoptă în ședințe ulterioare (alin. (6)).",
+   "Ședința se finalizează printr-un proces-verbal semnat de comisie și de reprezentanții ofertanților prezenți, transmis apoi tuturor participanților."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "B",
+   "probabilitati": {
+    "niciuna": 0.0,
+    "D": 0.0,
+    "C": 0.0,
+    "A": 0.0,
+    "B": 1.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 64 alin. (3)"
+  ],
+  "nivel": {
+   "score": 3.62,
+   "confidence": 0.68
+  },
+  "usage": {
+   "a": 3282,
+   "b": 3837
+  }
+ },
+ {
+  "id": "N395-garantie-buna-executie-MUT",
+  "cheie": [
+   "C"
+  ],
+  "temei": [
+   "03_Norme_HG_395-2016_achizitii_publice.txt",
+   "39"
+  ],
+  "nota_abrogare": true,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.0,
+     "contrazice": 1.0
+    },
+    "confidence": 1.0
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.1,
+     "contrazice": 0.9
+    },
+    "confidence": 0.84
+   }
+  },
+  "nouls": {
+   "sinonim": 0.1,
+   "absolut": 0.42,
+   "abrogat": 0.09,
+   "numeste_actul": 0.63,
+   "categorie_ambigua": 0.45,
+   "citat_acopera": 0.93
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.98,
+     "contrazice": 0.02
+    },
+    "confidence": 0.96
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "nu_spune": 0.9,
+     "sustine": 0.0,
+     "contrazice": 0.1
+    },
+    "confidence": 0.84
+   }
+  },
+  "fraze": [
+   "Art. 39 alin. (3) din Normele metodologice (forma modificată prin H.G. nr. 375/2022): garanția de bună execuție se constituie în 5 zile lucrătoare de la data semnării contractului de achiziție publică sau a contractului subsecvent.",
+   "Atenție la capcana din distractori: 15 zile nu este termenul de constituire, ci limita maximă până la care termenul poate fi prelungit, la solicitarea justificată a contractantului.",
+   "Garanția de bună execuție nu poate depăși 10% din prețul contractului fără TVA (art. 154 alin. (3) din Legea nr. 98/2016)."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "A",
+   "probabilitati": {
+    "B": 0.0,
+    "C": 0.0,
+    "D": 0.0,
+    "A": 1.0,
+    "niciuna": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 39 alin. (3)"
+  ],
+  "nivel": {
+   "score": 2.01,
+   "confidence": 0.98
+  },
+  "usage": {
+   "a": 3201,
+   "b": 4205
+  }
+ }
+]

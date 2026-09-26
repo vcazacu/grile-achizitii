@@ -54,49 +54,47 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N608",
+    "id": "L98B-054",
     "tip": "unic",
     "test": 1,
-    "intrebare": "Potrivit Legii nr. 98/2016, în ce condiții poate contractantul implica noi subcontractanți pe durata executării contractului de achiziție publică?",
+    "intrebare": "Autoritatea contractantă a decis desfășurarea procedurii simplificate într-o singură etapă. Care sunt perioadele minime dintre data transmiterii anunțului de participare simplificat și data-limită de depunere a ofertelor?",
     "variante": [
-      "Cu condiția ca nominalizarea acestora să nu reprezinte o modificare substanțială a contractului, în condițiile art. 221, și cu obținerea acordului autorității contractante.",
-      "Numai prin organizarea de către autoritatea contractantă a unei noi proceduri de atribuire pentru partea care urmează a fi subcontractată.",
-      "Fără acordul autorității contractante, fiind suficientă notificarea modificării informațiilor privind subcontractanții.",
-      "Numai dacă valoarea părții subcontractate este mai mică decât 10% din prețul contractului inițial, indiferent de acordul autorității contractante."
+      "10 zile pentru servicii sau produse, 6 zile pentru produse de complexitate redusă și 15 zile pentru lucrări.",
+      "10 zile pentru servicii sau produse, 6 zile pentru produse de complexitate redusă și 20 de zile pentru lucrări.",
+      "6 zile pentru servicii sau produse, 10 zile pentru produse de complexitate redusă și 15 zile pentru lucrări.",
+      "15 zile pentru servicii sau produse, 10 zile pentru produse de complexitate redusă și 35 de zile pentru lucrări."
     ],
     "corecte": [
       0
     ],
-    "explicatie": "Art. 219 alin. (3) dă contractantului dreptul de a implica noi subcontractanți pe durata executării, cu condiția ca nominalizarea lor să nu reprezinte o modificare substanțială a contractului, în condițiile art. 221; art. 219 alin. (4) cere transmiterea informațiilor de identificare și obținerea acordului autorității contractante. Noua procedură de atribuire este consecința modificărilor făcute în afara cazurilor de la art. 221, potrivit art. 222 alin. (1), nu regula pentru orice subcontractant nou. Pragul de 10% provine din art. 221 alin. (1) lit. f) pct. (ii), care privește valoarea modificării prețului unui contract de servicii sau de produse, nu introducerea subcontractanților, și nu înlătură acordul autorității. Simpla notificare, prevăzută la art. 219 alin. (2), acoperă modificările datelor subcontractanților deja declarați, nu implicarea unor subcontractanți noi. Potrivit art. 219 alin. (5), subcontractanții introduși după atribuire transmit și documentele pentru verificarea inexistenței situațiilor de excludere și a resurselor/capacităților corespunzătoare.",
+    "explicatie": "Art. 113 alin. (5) stabilește trei perioade minime pentru procedura simplificată într-o etapă: 10 zile la servicii sau produse, 6 zile la produse de complexitate redusă și 15 zile la lucrări. Inversarea valorilor de 6 și 10 zile ori modificarea termenului pentru lucrări (20 sau 35 de zile) sunt capcane frecvente; 35 de zile este, de fapt, perioada de bază de la licitația deschisă (art. 74 alin. (1)). Aceste minime nu înlătură obligația de la alin. (3) de a corela perioada de depunere cu complexitatea contractului, astfel încât operatorii economici să dispună de un interval adecvat și suficient. Când procedura se desfășoară în mai multe etape, se aplică alin. (7) — anunțul se transmite cu cel puțin 10 zile înainte de data-limită de depunere a solicitărilor de participare — și alin. (9): minimum 10 zile de la invitație pentru oferte, respectiv 6 zile la produse de complexitate redusă. În situație de urgență demonstrată, alin. (10) permite reducerea la 6 zile (servicii/produse), respectiv 9 zile (lucrări).",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 219 alin. (3) și (4)",
-      "citat": "Contractantul are dreptul de a implica noi subcontractanți, pe durata executării contractului de achiziție publică, cu condiția ca nominalizarea acestora să nu reprezinte o modificare substanțială a contractului de achiziție publică, în condițiile art. 221. [...] În situația prevăzută la alin. (3), contractantul va transmite autorității contractante informațiile prevăzute la alin. (1) și va obține acordul autorității contractante privind eventualii noi subcontractanți implicați ulterior în executarea contractului.",
+      "articol": "art. 113 alin. (5)",
+      "citat": "(5) Conform alin. (4) lit. a) și fără a aduce atingere dispozițiilor alin. (3), perioada minimă între data transmiterii anunțului de participare la procedura simplificată și data-limită de depunere a ofertelor este de cel puțin: a) 10 zile, în cazul în care se are în vedere atribuirea unui contract de achiziție publică de servicii sau produse; b) 6 zile, în cazul în care se are în vedere atribuirea unui contract de achiziție publică de produse de complexitate redusă; c) 15 zile, în cazul în care se are în vedere atribuirea unui contract de achiziție publică de lucrări.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
   {
-    "id": "L500-001",
-    "tip": "multiplu",
+    "id": "L500-071",
+    "tip": "unic",
     "test": 1,
-    "intrebare": "Care dintre următoarele bugete intră în sfera de aplicare a Legii nr. 500/2002 privind finanțele publice, potrivit art. 1 alin. (2)?",
+    "intrebare": "În ce termen trebuie rambursate împrumuturile fără dobândă acordate de ordonatorii principali de credite, din bugetul propriu, instituțiilor publice sau activităților finanțate integral din venituri proprii nou-înființate în subordinea lor?",
     "variante": [
-      "bugetele fondurilor speciale",
-      "bugetul fondurilor externe nerambursabile",
-      "bugetele locale",
-      "bugetul trezoreriei statului"
+      "Integral, în termen de 6 luni de la data acordării.",
+      "Până la sfârșitul exercițiului bugetar în care au fost acordate.",
+      "În termen de 12 luni de la data acordării, cu posibilitatea prelungirii cu încă 6 luni.",
+      "În termen de 3 luni de la data acordării."
     ],
     "corecte": [
-      0,
-      1,
-      3
+      0
     ],
-    "explicatie": "Art. 1 alin. (2) enumeră nouă categorii de bugete cărora li se aplică legea: bugetul de stat, bugetul asigurărilor sociale de stat, bugetele fondurilor speciale, bugetul trezoreriei statului, bugetele instituțiilor publice autonome, bugetele instituțiilor publice finanțate integral sau parțial de la aceste bugete, bugetele instituțiilor publice finanțate integral din venituri proprii, bugetul creditelor externe și bugetul fondurilor externe nerambursabile. Capcana clasică: bugetele locale NU figurează în această enumerare — ele sunt reglementate de Legea nr. 273/2006 privind finanțele publice locale. Totuși, potrivit art. 2 alin. (1) pct. 38, «sistemul bugetar» cuprinde bugetele de la art. 1 alin. (2) ȘI bugetele locale — distincție frecvent testată.",
+    "explicatie": "Art. 69 alin. (2) impune rambursarea INTEGRALĂ în termen de 6 luni de la data acordării, ceea ce face din acest instrument un ajutor strict tranzitoriu de pornire. Condițiile de acordare, prevăzute la alin. (1), sunt cumulative: instituția sau activitatea finanțată integral din venituri proprii să fie nou-înființată în subordinea ordonatorului principal, să nu dispună de fonduri suficiente, să existe documentații temeinic fundamentate, împrumutul să fie fără dobândă și acordat pe bază de convenție. Termenul nu este legat de încheierea exercițiului bugetar și nu este prelungibil potrivit acestui text. Nerespectarea art. 69 alin. (2) constituie contravenție, potrivit art. 72 alin. (1) lit. b).",
     "sursa": {
       "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 1 alin. (2)",
-      "citat": "Dispozițiile prezentei legi se aplica în domeniul elaborării, aprobării, executării și raportării: a) bugetului de stat; b) bugetului asigurărilor sociale de stat; c) bugetelor fondurilor speciale; d) bugetului trezoreriei statului; [...] i) bugetului fondurilor externe nerambursabile.",
+      "articol": "art. 69 alin. (2)",
+      "citat": "Împrumuturile acordate în condițiile alin. (1) vor fi rambursate integral în termen de 6 luni de la data acordării.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
@@ -125,24 +123,26 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-005",
-    "tip": "unic",
+    "id": "N395A-007",
+    "tip": "multiplu",
     "test": 1,
-    "intrebare": "Cine este responsabil, potrivit Normelor metodologice, pentru modul de atribuire a contractului de achiziție publică/acordului-cadru, inclusiv pentru achiziția directă?",
+    "intrebare": "Care dintre următoarele sunt atribuții principale ale compartimentului intern specializat în domeniul achizițiilor publice, potrivit art. 2 alin. (3) din Normele metodologice?",
     "variante": [
-      "Furnizorul de servicii auxiliare achiziției, atunci când a fost contractat",
-      "ANAP, în calitate de instituție de reglementare și control",
-      "Conducătorul compartimentului intern specializat în domeniul achizițiilor",
-      "Autoritatea contractantă"
+      "Îndeplinește obligațiile referitoare la publicitate, astfel cum sunt prevăzute de Lege",
+      "Aprobă programul anual al achizițiilor publice",
+      "Realizează achizițiile directe",
+      "Constituie și păstrează dosarul achiziției publice"
     ],
     "corecte": [
+      0,
+      2,
       3
     ],
-    "explicatie": "Art. 1 alin. (4) stabilește fără echivoc că autoritatea contractantă, ca entitate, este responsabilă pentru modul de atribuire, inclusiv pentru achiziția directă. ANAP are funcții de reglementare, sprijin și control, dar nu preia răspunderea atribuirii. Conducătorul compartimentului intern nu este desemnat de norme ca purtător al acestei responsabilități instituționale. Nici contractarea unui furnizor de servicii auxiliare achiziției nu transferă răspunderea — sprijinul extern nu exonerează autoritatea contractantă. Capcană conexă: și responsabilitatea deciziilor privind achiziționarea prin mijloace electronice revine tot autorității contractante (art. 5 alin. (2)).",
+    "explicatie": "Printre atribuțiile principale enumerate la art. 2 alin. (3) se numără îndeplinirea obligațiilor de publicitate (lit. d), aplicarea și finalizarea procedurilor de atribuire (lit. e), realizarea achizițiilor directe (lit. f) și constituirea și păstrarea dosarului achiziției publice (lit. g). Distractorul: compartimentul elaborează și actualizează programul anual al achizițiilor publice (lit. b), dar aprobarea acestuia nu îi aparține — documentele de planificare (strategia anuală, documentația de atribuire) se aprobă de conducătorul autorității contractante. Confuzia elaborare/aprobare este o capcană frecventă de examen.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 1 alin. (4)",
-      "citat": "Autoritatea contractantă este responsabilă pentru modul de atribuire a contractului de achiziție publică/acordului-cadru, inclusiv achiziția directă, cu respectarea tuturor dispozițiilor legale aplicabile.",
+      "articol": "art. 2 alin. (3) lit. d), e), f) și g)",
+      "citat": "autoritatea contractantă, prin compartimentul intern specializat în domeniul achizițiilor publice, are următoarele atribuții principale: [...] d) îndeplinește obligațiile referitoare la publicitate, astfel cum sunt acestea prevăzute de Lege; e) aplică și finalizează procedurile de atribuire; f) realizează achizițiile directe; g) constituie și păstrează dosarul achiziției publice.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -217,31 +217,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-007",
-    "tip": "multiplu",
-    "test": 1,
-    "intrebare": "Care dintre următoarele sunt atribuții principale ale compartimentului intern specializat în domeniul achizițiilor publice, potrivit art. 2 alin. (3) din Normele metodologice?",
-    "variante": [
-      "Îndeplinește obligațiile referitoare la publicitate, astfel cum sunt prevăzute de Lege",
-      "Aprobă programul anual al achizițiilor publice",
-      "Realizează achizițiile directe",
-      "Constituie și păstrează dosarul achiziției publice"
-    ],
-    "corecte": [
-      0,
-      2,
-      3
-    ],
-    "explicatie": "Printre atribuțiile principale enumerate la art. 2 alin. (3) se numără îndeplinirea obligațiilor de publicitate (lit. d), aplicarea și finalizarea procedurilor de atribuire (lit. e), realizarea achizițiilor directe (lit. f) și constituirea și păstrarea dosarului achiziției publice (lit. g). Distractorul: compartimentul elaborează și actualizează programul anual al achizițiilor publice (lit. b), dar aprobarea acestuia nu îi aparține — documentele de planificare (strategia anuală, documentația de atribuire) se aprobă de conducătorul autorității contractante. Confuzia elaborare/aprobare este o capcană frecventă de examen.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 2 alin. (3) lit. d), e), f) și g)",
-      "citat": "autoritatea contractantă, prin compartimentul intern specializat în domeniul achizițiilor publice, are următoarele atribuții principale: [...] d) îndeplinește obligațiile referitoare la publicitate, astfel cum sunt acestea prevăzute de Lege; e) aplică și finalizează procedurile de atribuire; f) realizează achizițiile directe; g) constituie și păstrează dosarul achiziției publice.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGB-010",
     "tip": "unic",
     "test": 1,
@@ -261,6 +236,29 @@ const INTREBARI = [
       "articol": "art. 1 alin. (1) lit. a)",
       "citat": "se finalizează, după caz, la: a) 60 de zile de la data emiterii avizului conform cu privire la documentația de atribuire, în cazul în care autoritatea/entitatea contractantă nu a transmis spre publicare anunțul de participare/de participare simplificat/de concurs/de concesionare;",
       "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-008",
+    "tip": "unic",
+    "test": 1,
+    "intrebare": "Ce prevăd Normele metodologice în cazul în care structura organizatorică a autorității contractante nu permite înființarea unui compartiment intern specializat în domeniul achizițiilor distinct?",
+    "variante": [
+      "Procedurile de atribuire se derulează exclusiv prin unitățile centralizate de achiziție",
+      "Principalele atribuții sunt îndeplinite de una sau mai multe persoane din cadrul autorității, însărcinate prin act administrativ al conducătorului acesteia",
+      "Autoritatea contractantă solicită ANAP desemnarea unui responsabil de achiziții",
+      "Achizițiile se externalizează obligatoriu către un furnizor de servicii de achiziție"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 2 alin. (2) oferă soluția internă: atribuțiile compartimentului sunt duse la îndeplinire de una sau, după caz, mai multe persoane din cadrul autorității contractante, însărcinate prin act administrativ al conducătorului. Externalizarea către un furnizor de servicii de achiziție și recurgerea la unități centralizate sunt abordări posibile ale procesului de achiziție (art. 11 alin. (1)), dar nu sunt obligatorii și nu reprezintă soluția prevăzută pentru lipsa compartimentului distinct. ANAP nu desemnează responsabili de achiziții în cadrul autorităților contractante.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 2 alin. (2)",
+      "citat": "principalele atribuții ale acestuia sunt duse la îndeplinire de una sau, după caz, mai multe persoane din cadrul respectivei autorități contractante, însărcinate în acest sens prin act administrativ al conducătorului autorității contractante.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -336,24 +334,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-008",
+    "id": "N395A-009",
     "tip": "unic",
     "test": 1,
-    "intrebare": "Ce prevăd Normele metodologice în cazul în care structura organizatorică a autorității contractante nu permite înființarea unui compartiment intern specializat în domeniul achizițiilor distinct?",
+    "intrebare": "Când se emite, ca regulă, referatul de necesitate de către compartimentele autorității contractante?",
     "variante": [
-      "Procedurile de atribuire se derulează exclusiv prin unitățile centralizate de achiziție",
-      "Principalele atribuții sunt îndeplinite de una sau mai multe persoane din cadrul autorității, însărcinate prin act administrativ al conducătorului acesteia",
-      "Autoritatea contractantă solicită ANAP desemnarea unui responsabil de achiziții",
-      "Achizițiile se externalizează obligatoriu către un furnizor de servicii de achiziție"
+      "Cu cel puțin 30 de zile înainte de inițierea fiecărei proceduri de atribuire",
+      "În primul trimestru al anului în curs, pentru necesitățile aceluiași an",
+      "Odată cu aprobarea bugetului propriu al autorității contractante",
+      "În ultimul trimestru al anului în curs, pentru anul viitor"
     ],
     "corecte": [
-      1
+      3
     ],
-    "explicatie": "Art. 2 alin. (2) oferă soluția internă: atribuțiile compartimentului sunt duse la îndeplinire de una sau, după caz, mai multe persoane din cadrul autorității contractante, însărcinate prin act administrativ al conducătorului. Externalizarea către un furnizor de servicii de achiziție și recurgerea la unități centralizate sunt abordări posibile ale procesului de achiziție (art. 11 alin. (1)), dar nu sunt obligatorii și nu reprezintă soluția prevăzută pentru lipsa compartimentului distinct. ANAP nu desemnează responsabili de achiziții în cadrul autorităților contractante.",
+    "explicatie": "Art. 3 alin. (1) definește referatul de necesitate ca document intern emis de fiecare compartiment în ultimul trimestru al anului în curs pentru anul viitor, cuprinzând necesitățile identificate și prețul unitar/total al acestora. Excepția de la alin. (2): dacă necesitatea nu este previzibilă sau nu poate fi identificată în ultimul trimestru, referatul poate fi elaborat la momentul identificării necesității. Nu există un termen de 30 de zile înainte de procedură, iar aprobarea bugetului declanșează actualizarea programului anual al achizițiilor publice (art. 12 alin. (4)), nu emiterea referatelor.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 2 alin. (2)",
-      "citat": "principalele atribuții ale acestuia sunt duse la îndeplinire de una sau, după caz, mai multe persoane din cadrul respectivei autorități contractante, însărcinate în acest sens prin act administrativ al conducătorului autorității contractante.",
+      "articol": "art. 3 alin. (1)",
+      "citat": "Referatul de necesitate reprezintă un document intern emis de fiecare compartiment din cadrul autorității contractante în ultimul trimestru al anului în curs pentru anul viitor, care cuprinde necesitățile de produse, servicii și lucrări identificate, precum și prețul unitar/total al necesităților.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -428,24 +426,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-009",
-    "tip": "unic",
+    "id": "N395A-010",
+    "tip": "multiplu",
     "test": 1,
-    "intrebare": "Când se emite, ca regulă, referatul de necesitate de către compartimentele autorității contractante?",
+    "intrebare": "Referatul de necesitate poate fi modificat ori de câte ori este necesar, cu respectarea căror condiții prevăzute de Normele metodologice?",
     "variante": [
-      "Cu cel puțin 30 de zile înainte de inițierea fiecărei proceduri de atribuire",
-      "În primul trimestru al anului în curs, pentru necesitățile aceluiași an",
-      "Odată cu aprobarea bugetului propriu al autorității contractante",
-      "În ultimul trimestru al anului în curs, pentru anul viitor"
+      "Modificarea să se realizeze înainte de inițierea procedurii de atribuire",
+      "Modificarea să fie publicată în SEAP în termen de 5 zile lucrătoare",
+      "Modificarea să fie aprobată în prealabil de ANAP",
+      "Compartimentul intern specializat în domeniul achizițiilor publice să fie notificat în timp util"
     ],
     "corecte": [
+      0,
       3
     ],
-    "explicatie": "Art. 3 alin. (1) definește referatul de necesitate ca document intern emis de fiecare compartiment în ultimul trimestru al anului în curs pentru anul viitor, cuprinzând necesitățile identificate și prețul unitar/total al acestora. Excepția de la alin. (2): dacă necesitatea nu este previzibilă sau nu poate fi identificată în ultimul trimestru, referatul poate fi elaborat la momentul identificării necesității. Nu există un termen de 30 de zile înainte de procedură, iar aprobarea bugetului declanșează actualizarea programului anual al achizițiilor publice (art. 12 alin. (4)), nu emiterea referatelor.",
+    "explicatie": "Art. 3 alin. (3) impune două condiții cumulative: (a) modificarea să intervină înainte de inițierea procedurii de atribuire, cu luarea în considerare a timpului necesar modificării și aprobării programului anual al achizițiilor publice, și (b) notificarea în timp util a compartimentului intern specializat, pentru ca acesta să poată întreprinde diligențele necesare. Referatul este un document intern — nu se aprobă de ANAP și nu se publică în SEAP. Termenul de 5 zile lucrătoare este o valoare reală din norme, dar privește publicarea semestrială a extraselor din programul anual al achizițiilor publice și a modificărilor acestora (art. 12 alin. (6)), nu referatele de necesitate.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 3 alin. (1)",
-      "citat": "Referatul de necesitate reprezintă un document intern emis de fiecare compartiment din cadrul autorității contractante în ultimul trimestru al anului în curs pentru anul viitor, care cuprinde necesitățile de produse, servicii și lucrări identificate, precum și prețul unitar/total al necesităților.",
+      "articol": "art. 3 alin. (3) lit. a) și b)",
+      "citat": "referatul de necesitate poate fi modificat, cu următoarele condiții: a) modificarea să se realizeze înainte de inițierea procedurii de atribuire, cu luarea în considerare, dacă este cazul, a timpului necesar modificării programului anual al achizițiilor publice și aprobării acestuia; b) compartimentul intern specializat în domeniul achizițiilor publice să fie notificat în timp util cu privire la modificarea respectivă",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -499,25 +498,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-010",
-    "tip": "multiplu",
+    "id": "N395-N101",
+    "tip": "unic",
     "test": 2,
-    "intrebare": "Referatul de necesitate poate fi modificat ori de câte ori este necesar, cu respectarea căror condiții prevăzute de Normele metodologice?",
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, prin ce act se poate pune la dispoziția autorităților contractante și a furnizorilor de servicii auxiliare achiziției un set de instrumente pentru planificarea portofoliului de achiziții, fundamentarea deciziei de realizare a procesului de achiziție și monitorizarea implementării contractului?",
     "variante": [
-      "Modificarea să se realizeze înainte de inițierea procedurii de atribuire",
-      "Modificarea să fie publicată în SEAP în termen de 5 zile lucrătoare",
-      "Modificarea să fie aprobată în prealabil de ANAP",
-      "Compartimentul intern specializat în domeniul achizițiilor publice să fie notificat în timp util"
+      "Prin strategia anuală de achiziții elaborată de compartimentul intern specializat în domeniul achizițiilor publice",
+      "Prin procedura electronică implementată de operatorul SEAP, cu avizul ANAP",
+      "Prin ordin al președintelui Agenției Naționale pentru Achiziții Publice (ANAP)",
+      "Prin act administrativ al conducătorului autorității contractante"
     ],
     "corecte": [
-      0,
-      3
+      2
     ],
-    "explicatie": "Art. 3 alin. (3) impune două condiții cumulative: (a) modificarea să intervină înainte de inițierea procedurii de atribuire, cu luarea în considerare a timpului necesar modificării și aprobării programului anual al achizițiilor publice, și (b) notificarea în timp util a compartimentului intern specializat, pentru ca acesta să poată întreprinde diligențele necesare. Referatul este un document intern — nu se aprobă de ANAP și nu se publică în SEAP. Termenul de 5 zile lucrătoare este o valoare reală din norme, dar privește publicarea semestrială a extraselor din programul anual al achizițiilor publice și a modificărilor acestora (art. 12 alin. (6)), nu referatele de necesitate.",
+    "explicatie": "Art. 4 din Norme prevede că setul de instrumente pentru planificarea portofoliului de achiziții, fundamentarea deciziei de achiziție, monitorizarea implementării contractului și prevenirea/diminuarea riscurilor se pune la dispoziție prin ordin al președintelui ANAP. Actul administrativ al conducătorului autorității contractante apare la art. 2 alin. (2) din Norme, dar servește la însărcinarea persoanelor care îndeplinesc atribuțiile compartimentului intern specializat atunci când acesta nu poate fi înființat distinct. Procedura electronică implementată de operatorul SEAP, cu avizul ANAP, privește, potrivit art. 6 alin. (1), înregistrarea, reînnoirea și recuperarea înregistrării în SEAP. Strategia anuală de achiziții este elaborată de compartimentul intern specializat conform art. 2 alin. (3) lit. b), fiind un document de planificare al autorității, nu actul prin care se pun la dispoziție instrumentele. Destinatarii instrumentelor sunt, potrivit art. 4, atât autoritățile contractante, cât și furnizorii de servicii auxiliare achiziției.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 3 alin. (3) lit. a) și b)",
-      "citat": "referatul de necesitate poate fi modificat, cu următoarele condiții: a) modificarea să se realizeze înainte de inițierea procedurii de atribuire, cu luarea în considerare, dacă este cazul, a timpului necesar modificării programului anual al achizițiilor publice și aprobării acestuia; b) compartimentul intern specializat în domeniul achizițiilor publice să fie notificat în timp util cu privire la modificarea respectivă",
+      "articol": "art. 4",
+      "citat": "Prin ordin al președintelui Agenției Naționale pentru Achiziții Publice (ANAP) se pot pune la dispoziția autorităților contractante și a furnizorilor de servicii auxiliare achiziției un set de instrumente ce se utilizează pentru planificarea portofoliului de achiziții la nivelul autorității contractante, fundamentarea deciziei de realizare a procesului de achiziție și monitorizarea implementării contractului",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -569,29 +567,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395-N101",
-    "tip": "unic",
-    "test": 2,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, prin ce act se poate pune la dispoziția autorităților contractante și a furnizorilor de servicii auxiliare achiziției un set de instrumente pentru planificarea portofoliului de achiziții, fundamentarea deciziei de realizare a procesului de achiziție și monitorizarea implementării contractului?",
-    "variante": [
-      "Prin strategia anuală de achiziții elaborată de compartimentul intern specializat în domeniul achizițiilor publice",
-      "Prin procedura electronică implementată de operatorul SEAP, cu avizul ANAP",
-      "Prin ordin al președintelui Agenției Naționale pentru Achiziții Publice (ANAP)",
-      "Prin act administrativ al conducătorului autorității contractante"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 4 din Norme prevede că setul de instrumente pentru planificarea portofoliului de achiziții, fundamentarea deciziei de achiziție, monitorizarea implementării contractului și prevenirea/diminuarea riscurilor se pune la dispoziție prin ordin al președintelui ANAP. Actul administrativ al conducătorului autorității contractante apare la art. 2 alin. (2) din Norme, dar servește la însărcinarea persoanelor care îndeplinesc atribuțiile compartimentului intern specializat atunci când acesta nu poate fi înființat distinct. Procedura electronică implementată de operatorul SEAP, cu avizul ANAP, privește, potrivit art. 6 alin. (1), înregistrarea, reînnoirea și recuperarea înregistrării în SEAP. Strategia anuală de achiziții este elaborată de compartimentul intern specializat conform art. 2 alin. (3) lit. b), fiind un document de planificare al autorității, nu actul prin care se pun la dispoziție instrumentele. Destinatarii instrumentelor sunt, potrivit art. 4, atât autoritățile contractante, cât și furnizorii de servicii auxiliare achiziției.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 4",
-      "citat": "Prin ordin al președintelui Agenției Naționale pentru Achiziții Publice (ANAP) se pot pune la dispoziția autorităților contractante și a furnizorilor de servicii auxiliare achiziției un set de instrumente ce se utilizează pentru planificarea portofoliului de achiziții la nivelul autorității contractante, fundamentarea deciziei de realizare a procesului de achiziție și monitorizarea implementării contractului",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGA-002",
     "tip": "unic",
     "test": 2,
@@ -611,6 +586,29 @@ const INTREBARI = [
       "articol": "art. 2 alin. (1) lit. a)",
       "citat": "aspecte de calitate - aspecte care vizează dispoziții legale din domeniul achizițiilor/concesiunilor care suferă o interpretare extensivă sau restrictivă în contextul specific al unei proceduri de atribuire deoarece trebuie adaptate particularităților sectorului economic/de activitate în care se încadrează obiectul contractului",
       "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-011",
+    "tip": "unic",
+    "test": 2,
+    "intrebare": "Cui îi revine, potrivit Normelor metodologice, responsabilitatea pentru corecta funcționare din punct de vedere tehnic a SEAP?",
+    "variante": [
+      "Operatorului SEAP",
+      "Fiecărui operator economic înregistrat, pentru propriul cont",
+      "Autorității contractante care utilizează sistemul",
+      "ANAP, în calitate de instituție cu rol de reglementare"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 5 alin. (3) atribuie operatorului SEAP responsabilitatea pentru corecta funcționare tehnică a sistemului. În schimb, potrivit alin. (2) al aceluiași articol, responsabilitatea oricărei decizii și măsuri luate cu privire la achiziționarea prin utilizarea mijloacelor electronice revine autorității contractante — distincția între răspunderea tehnică (operator) și răspunderea decizională (autoritate contractantă) este o capcană clasică. ANAP avizează procedura electronică de înregistrare (art. 6), dar nu răspunde de funcționarea tehnică, iar operatorii economici răspund doar de corectitudinea propriilor date transmise (art. 7).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 5 alin. (3)",
+      "citat": "Responsabilitatea pentru corecta funcționare din punct de vedere tehnic a SEAP revine operatorului acestui sistem.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -684,29 +682,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-011",
-    "tip": "unic",
-    "test": 2,
-    "intrebare": "Cui îi revine, potrivit Normelor metodologice, responsabilitatea pentru corecta funcționare din punct de vedere tehnic a SEAP?",
-    "variante": [
-      "Operatorului SEAP",
-      "Fiecărui operator economic înregistrat, pentru propriul cont",
-      "Autorității contractante care utilizează sistemul",
-      "ANAP, în calitate de instituție cu rol de reglementare"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 5 alin. (3) atribuie operatorului SEAP responsabilitatea pentru corecta funcționare tehnică a sistemului. În schimb, potrivit alin. (2) al aceluiași articol, responsabilitatea oricărei decizii și măsuri luate cu privire la achiziționarea prin utilizarea mijloacelor electronice revine autorității contractante — distincția între răspunderea tehnică (operator) și răspunderea decizională (autoritate contractantă) este o capcană clasică. ANAP avizează procedura electronică de înregistrare (art. 6), dar nu răspunde de funcționarea tehnică, iar operatorii economici răspund doar de corectitudinea propriilor date transmise (art. 7).",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 5 alin. (3)",
-      "citat": "Responsabilitatea pentru corecta funcționare din punct de vedere tehnic a SEAP revine operatorului acestui sistem.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGB-011",
     "tip": "unic",
     "test": 2,
@@ -726,6 +701,29 @@ const INTREBARI = [
       "articol": "art. 1 alin. (2)",
       "citat": "În termen de 3 zile lucrătoare de la finalizarea activității de control ex ante, verificatorii ex ante întocmesc o adresă cu privire la măsurile de remediere adoptate de către autoritatea/entitatea contractantă care se transmite Agenției Naționale de Integritate",
       "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-012",
+    "tip": "unic",
+    "test": 2,
+    "intrebare": "Cine implementează procedura electronică pentru înregistrarea, reînnoirea și recuperarea înregistrării în SEAP și cu avizul cărei instituții?",
+    "variante": [
+      "Autoritatea pentru Digitalizarea României, cu avizul Guvernului",
+      "Ministerul Finanțelor Publice, cu avizul ANAP",
+      "ANAP, cu avizul operatorului SEAP",
+      "Operatorul SEAP, cu avizul ANAP"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 6 alin. (1) prevede că înregistrarea, reînnoirea și recuperarea înregistrării în SEAP se efectuează respectând procedura electronică implementată de operatorul SEAP, cu avizul ANAP, potrivit atribuțiilor. Rolurile inversate (ANAP implementează, operatorul avizează) constituie distractorul tipic. Procedura electronică se publică pe site-ul www.elicitatie.ro (alin. (2)). Nici ADR ca instituție și nici Ministerul Finanțelor Publice nu sunt desemnate de acest articol pentru implementarea procedurii de înregistrare.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 6 alin. (1)",
+      "citat": "Înregistrarea, reînnoirea și recuperarea înregistrării în SEAP se efectuează respectându-se procedura electronică implementată de către operatorul SEAP, cu avizul Agenției Naționale pentru Achiziții Publice, denumită în continuare ANAP, potrivit atribuțiilor.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -799,24 +797,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-012",
+    "id": "N395A-013",
     "tip": "unic",
     "test": 2,
-    "intrebare": "Cine implementează procedura electronică pentru înregistrarea, reînnoirea și recuperarea înregistrării în SEAP și cu avizul cărei instituții?",
+    "intrebare": "În ce termen trebuie să transmită autoritățile contractante și operatorii economici către operatorul SEAP orice modificare survenită în legătură cu datele și informațiile din procedura de înregistrare?",
     "variante": [
-      "Autoritatea pentru Digitalizarea României, cu avizul Guvernului",
-      "Ministerul Finanțelor Publice, cu avizul ANAP",
-      "ANAP, cu avizul operatorului SEAP",
-      "Operatorul SEAP, cu avizul ANAP"
+      "În cel mult o zi lucrătoare de la producerea modificărilor",
+      "În cel mult 5 zile lucrătoare de la producerea modificărilor",
+      "În cel mult 3 zile lucrătoare de la producerea modificărilor",
+      "În cel mult 10 zile calendaristice de la producerea modificărilor"
     ],
     "corecte": [
-      3
+      2
     ],
-    "explicatie": "Art. 6 alin. (1) prevede că înregistrarea, reînnoirea și recuperarea înregistrării în SEAP se efectuează respectând procedura electronică implementată de operatorul SEAP, cu avizul ANAP, potrivit atribuțiilor. Rolurile inversate (ANAP implementează, operatorul avizează) constituie distractorul tipic. Procedura electronică se publică pe site-ul www.elicitatie.ro (alin. (2)). Nici ADR ca instituție și nici Ministerul Finanțelor Publice nu sunt desemnate de acest articol pentru implementarea procedurii de înregistrare.",
+    "explicatie": "Art. 7 din norme impune transmiterea modificărilor către operatorul SEAP în cel mult 3 zile lucrătoare de la producerea lor; același articol stabilește că cei care solicită înregistrarea răspund pentru corectitudinea datelor transmise. Distractori cu rol real în norme: termenul de o zi lucrătoare este cel în care operatorul SEAP publică anunțurile după îndeplinirea condițiilor legale (art. 24 alin. (5)), iar termenul de 5 zile lucrătoare privește publicarea semestrială a extraselor din programul anual al achizițiilor publice și a modificărilor acestora (art. 12 alin. (6)). Termenul de 10 zile calendaristice nu apare în acest context.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 6 alin. (1)",
-      "citat": "Înregistrarea, reînnoirea și recuperarea înregistrării în SEAP se efectuează respectându-se procedura electronică implementată de către operatorul SEAP, cu avizul Agenției Naționale pentru Achiziții Publice, denumită în continuare ANAP, potrivit atribuțiilor.",
+      "articol": "art. 7",
+      "citat": "Autoritățile contractante și operatorii economici care solicită înregistrarea, reînnoirea sau recuperarea înregistrării în SEAP răspund pentru corectitudinea datelor și informațiilor transmise [...] în termen de cel mult 3 zile lucrătoare de la producerea respectivelor modificări.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -872,24 +870,26 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-013",
-    "tip": "unic",
+    "id": "N395A-014",
+    "tip": "multiplu",
     "test": 2,
-    "intrebare": "În ce termen trebuie să transmită autoritățile contractante și operatorii economici către operatorul SEAP orice modificare survenită în legătură cu datele și informațiile din procedura de înregistrare?",
+    "intrebare": "Care dintre următoarele sunt etape distincte ale procesului de achiziție publică pe care autoritatea contractantă are obligația de a le parcurge, potrivit art. 8 din Normele metodologice?",
     "variante": [
-      "În cel mult o zi lucrătoare de la producerea modificărilor",
-      "În cel mult 5 zile lucrătoare de la producerea modificărilor",
-      "În cel mult 3 zile lucrătoare de la producerea modificărilor",
-      "În cel mult 10 zile calendaristice de la producerea modificărilor"
+      "Etapa de planificare/pregătire",
+      "Etapa de organizare a procedurii și atribuirea contractului/acordului-cadru",
+      "Etapa de contestare și remediere a procedurii",
+      "Etapa postatribuire, respectiv executarea și monitorizarea implementării contractului/acordului-cadru"
     ],
     "corecte": [
-      2
+      0,
+      1,
+      3
     ],
-    "explicatie": "Art. 7 din norme impune transmiterea modificărilor către operatorul SEAP în cel mult 3 zile lucrătoare de la producerea lor; același articol stabilește că cei care solicită înregistrarea răspund pentru corectitudinea datelor transmise. Distractori cu rol real în norme: termenul de o zi lucrătoare este cel în care operatorul SEAP publică anunțurile după îndeplinirea condițiilor legale (art. 24 alin. (5)), iar termenul de 5 zile lucrătoare privește publicarea semestrială a extraselor din programul anual al achizițiilor publice și a modificărilor acestora (art. 12 alin. (6)). Termenul de 10 zile calendaristice nu apare în acest context.",
+    "explicatie": "Art. 8 alin. (2) stabilește obligația de a parcurge trei etape distincte pentru fiecare proces de achiziție publică: planificarea/pregătirea, organizarea procedurii și atribuirea contractului/acordului-cadru și etapa postatribuire (executarea și monitorizarea implementării). Contestarea nu este o etapă a procesului de achiziție — remediile și căile de atac sunt reglementate separat, prin Legea nr. 101/2016, și pot interveni incidental, nu ca etapă obligatorie. De reținut delimitările: etapa de organizare începe cu transmiterea documentației de atribuire în SEAP și se încheie cu semnarea contractului (art. 10).",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 7",
-      "citat": "Autoritățile contractante și operatorii economici care solicită înregistrarea, reînnoirea sau recuperarea înregistrării în SEAP răspund pentru corectitudinea datelor și informațiilor transmise [...] în termen de cel mult 3 zile lucrătoare de la producerea respectivelor modificări.",
+      "articol": "art. 8 alin. (2) lit. a)-c)",
+      "citat": "Autoritatea contractantă are obligația de a se documenta și de a parcurge pentru fiecare proces de achiziție publică trei etape distincte: a) etapa de planificare/pregătire; [...] b) etapa de organizare a procedurii și atribuirea contractului/acordului-cadru; c) etapa postatribuire contract/acord-cadru, respectiv executarea și monitorizarea implementării contractului/ acordului-cadru.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -964,26 +964,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-014",
-    "tip": "multiplu",
+    "id": "N395A-015",
+    "tip": "unic",
     "test": 3,
-    "intrebare": "Care dintre următoarele sunt etape distincte ale procesului de achiziție publică pe care autoritatea contractantă are obligația de a le parcurge, potrivit art. 8 din Normele metodologice?",
+    "intrebare": "Cu ce se încheie etapa de planificare/pregătire a unui proces de achiziție publică?",
     "variante": [
-      "Etapa de planificare/pregătire",
-      "Etapa de organizare a procedurii și atribuirea contractului/acordului-cadru",
-      "Etapa de contestare și remediere a procedurii",
-      "Etapa postatribuire, respectiv executarea și monitorizarea implementării contractului/acordului-cadru"
+      "Cu transmiterea documentației de atribuire în SEAP",
+      "Cu aprobarea de către conducătorul autorității contractante a documentației de atribuire, inclusiv a documentelor-suport, și a strategiei de contractare",
+      "Cu aprobarea programului anual al achizițiilor publice",
+      "Cu publicarea anunțului de participare în SEAP"
     ],
     "corecte": [
-      0,
-      1,
-      3
+      1
     ],
-    "explicatie": "Art. 8 alin. (2) stabilește obligația de a parcurge trei etape distincte pentru fiecare proces de achiziție publică: planificarea/pregătirea, organizarea procedurii și atribuirea contractului/acordului-cadru și etapa postatribuire (executarea și monitorizarea implementării). Contestarea nu este o etapă a procesului de achiziție — remediile și căile de atac sunt reglementate separat, prin Legea nr. 101/2016, și pot interveni incidental, nu ca etapă obligatorie. De reținut delimitările: etapa de organizare începe cu transmiterea documentației de atribuire în SEAP și se încheie cu semnarea contractului (art. 10).",
+    "explicatie": "Art. 9 alin. (1) delimitează etapa de planificare/pregătire: se inițiază prin identificarea necesităților și elaborarea referatelor de necesitate și se încheie cu aprobarea de către conducătorul autorității contractante/unității de achiziții centralizate a documentației de atribuire, a documentelor-suport și a strategiei de contractare. Capcană: transmiterea documentației de atribuire în SEAP nu încheie planificarea, ci deschide etapa următoare, de organizare a procedurii (art. 10). Publicarea anunțului de participare este un moment din etapa de organizare, iar aprobarea programului anual este un act de planificare managerială, nu momentul de închidere a etapei pentru o procedură anume.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 8 alin. (2) lit. a)-c)",
-      "citat": "Autoritatea contractantă are obligația de a se documenta și de a parcurge pentru fiecare proces de achiziție publică trei etape distincte: a) etapa de planificare/pregătire; [...] b) etapa de organizare a procedurii și atribuirea contractului/acordului-cadru; c) etapa postatribuire contract/acord-cadru, respectiv executarea și monitorizarea implementării contractului/ acordului-cadru.",
+      "articol": "art. 9 alin. (1)",
+      "citat": "Etapa de planificare/pregătire a unui proces de achiziție publică se inițiază prin identificarea necesităților și elaborarea referatelor de necesitate și se încheie cu aprobarea de către conducătorul autorității contractante/unității de achiziții centralizate a documentației de atribuire, inclusiv a documentelor-suport, precum și a strategiei de contractare pentru procedura respectivă.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -1058,24 +1056,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-015",
+    "id": "N395A-016",
     "tip": "unic",
     "test": 3,
-    "intrebare": "Cu ce se încheie etapa de planificare/pregătire a unui proces de achiziție publică?",
+    "intrebare": "Pentru care proceduri de achiziție publică este obligatorie elaborarea strategiei de contractare, potrivit art. 9 alin. (2) din Normele metodologice?",
     "variante": [
-      "Cu transmiterea documentației de atribuire în SEAP",
-      "Cu aprobarea de către conducătorul autorității contractante a documentației de atribuire, inclusiv a documentelor-suport, și a strategiei de contractare",
-      "Cu aprobarea programului anual al achizițiilor publice",
-      "Cu publicarea anunțului de participare în SEAP"
+      "Pentru toate achizițiile, inclusiv achizițiile directe",
+      "Numai pentru procedurile finanțate din fonduri europene nerambursabile",
+      "Numai pentru procedurile cu valoare estimată peste pragurile de publicare în JOUE, prevăzute la art. 7 alin. (1) din Legea nr. 98/2016",
+      "Pentru procedurile cu valoare estimată egală sau mai mare decât pragurile valorice stabilite la art. 7 alin. (5) din Legea nr. 98/2016"
     ],
     "corecte": [
-      1
+      3
     ],
-    "explicatie": "Art. 9 alin. (1) delimitează etapa de planificare/pregătire: se inițiază prin identificarea necesităților și elaborarea referatelor de necesitate și se încheie cu aprobarea de către conducătorul autorității contractante/unității de achiziții centralizate a documentației de atribuire, a documentelor-suport și a strategiei de contractare. Capcană: transmiterea documentației de atribuire în SEAP nu încheie planificarea, ci deschide etapa următoare, de organizare a procedurii (art. 10). Publicarea anunțului de participare este un moment din etapa de organizare, iar aprobarea programului anual este un act de planificare managerială, nu momentul de închidere a etapei pentru o procedură anume.",
+    "explicatie": "Strategia de contractare este un document al fiecărei proceduri cu valoare estimată egală sau mai mare decât pragurile de la art. 7 alin. (5) din Lege — adică pragurile achiziției directe; practic, orice procedură de atribuire propriu-zisă are strategie de contractare. Distractorul cu pragurile art. 7 alin. (1) (pragurile de publicare în JOUE) ar restrânge nejustificat obligația doar la procedurile mari. Achizițiile directe, fiind sub pragurile art. 7 alin. (5), nu impun strategie de contractare. Sursa de finanțare (fonduri europene sau naționale) nu condiționează obligația.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 9 alin. (1)",
-      "citat": "Etapa de planificare/pregătire a unui proces de achiziție publică se inițiază prin identificarea necesităților și elaborarea referatelor de necesitate și se încheie cu aprobarea de către conducătorul autorității contractante/unității de achiziții centralizate a documentației de atribuire, inclusiv a documentelor-suport, precum și a strategiei de contractare pentru procedura respectivă.",
+      "articol": "art. 9 alin. (2)",
+      "citat": "Strategia de contractare este un document al fiecărei proceduri de achiziție publică cu o valoare estimată egală sau mai mare decât pragurile valorice stabilite la art. 7 alin. (5) din Lege, inițiată de autoritatea contractantă.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -1104,47 +1102,26 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-016",
-    "tip": "unic",
+    "id": "OUGB-020",
+    "tip": "multiplu",
     "test": 3,
-    "intrebare": "Pentru care proceduri de achiziție publică este obligatorie elaborarea strategiei de contractare, potrivit art. 9 alin. (2) din Normele metodologice?",
+    "intrebare": "Care dintre următoarele aspecte de oportunitate și/sau de natură tehnică NU fac obiectul controlului ex ante, potrivit art. 4 alin. (7) din Normele metodologice de aplicare a O.U.G. nr. 98/2017?",
     "variante": [
-      "Pentru toate achizițiile, inclusiv achizițiile directe",
-      "Numai pentru procedurile finanțate din fonduri europene nerambursabile",
-      "Numai pentru procedurile cu valoare estimată peste pragurile de publicare în JOUE, prevăzute la art. 7 alin. (1) din Legea nr. 98/2016",
-      "Pentru procedurile cu valoare estimată egală sau mai mare decât pragurile valorice stabilite la art. 7 alin. (5) din Legea nr. 98/2016"
+      "Succesiunea și durata activităților în cadrul contractului",
+      "Identificarea nevoii autorității contractante și stabilirea necesității cu privire la obiectul contractului",
+      "Alegerea tipului de procedură de atribuire aplicat",
+      "Stabilirea specificațiilor tehnice și/sau alegerea standardelor de performanță aferente acestora"
     ],
     "corecte": [
+      0,
+      1,
       3
     ],
-    "explicatie": "Strategia de contractare este un document al fiecărei proceduri cu valoare estimată egală sau mai mare decât pragurile de la art. 7 alin. (5) din Lege — adică pragurile achiziției directe; practic, orice procedură de atribuire propriu-zisă are strategie de contractare. Distractorul cu pragurile art. 7 alin. (1) (pragurile de publicare în JOUE) ar restrânge nejustificat obligația doar la procedurile mari. Achizițiile directe, fiind sub pragurile art. 7 alin. (5), nu impun strategie de contractare. Sursa de finanțare (fonduri europene sau naționale) nu condiționează obligația.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 9 alin. (2)",
-      "citat": "Strategia de contractare este un document al fiecărei proceduri de achiziție publică cu o valoare estimată egală sau mai mare decât pragurile valorice stabilite la art. 7 alin. (5) din Lege, inițiată de autoritatea contractantă.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "OUGB-012",
-    "tip": "unic",
-    "test": 3,
-    "intrebare": "Cum și în ce termen este împuternicită echipa de control (verificatorii ex ante prevăzuți la art. 2 alin. (2) lit. b) din norme) pentru o procedură de atribuire inclusă în programul de verificare?",
-    "variante": [
-      "Prin hotărâre a Guvernului, în termen de 3 zile de la includerea în programul de verificare",
-      "Prin decizie de verificare aprobată prin ordin al președintelui ANAP, în termen de o zi lucrătoare de la publicarea anunțului de participare",
-      "Prin decizie a conducătorului structurii de control ex ante, în termen de două zile lucrătoare de la selectare",
-      "Prin ordin al ministrului finanțelor publice, în termen de o zi lucrătoare de la publicarea anunțului de participare"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 2 alin. (5) din norme: echipa de control este împuternicită prin decizie de verificare, aprobată prin ordin al PREȘEDINTELUI ANAP, în baza programului de verificare, în termen de O ZI LUCRĂTOARE de la publicarea anunțului (respectiv de la includerea în program a modificării contractuale sau a negocierii fără publicare prealabilă). Ordinul și decizia se transmit apoi autorităților contractante selectate în maximum o zi lucrătoare de la aprobare (alin. (6)). Competența aparține președintelui ANAP, nu Guvernului, nu ministrului finanțelor (ANAP nu mai este sub autoritatea exclusivă a MFP pentru acest control) și nu conducătorului structurii de control.",
+    "explicatie": "Art. 4 alin. (7) exclude din controlul ex ante aspectele de oportunitate și de natură tehnică: identificarea nevoii și stabilirea necesității (lit. a), analiza opțiunilor (lit. b), stabilirea specificațiilor tehnice/standardelor de performanță (lit. c), succesiunea și durata activităților (lit. d), conformitatea propunerii tehnice cu caietul de sarcini (lit. e, cu excepții), prețurile ofertanților (lit. f, cu excepția indiciilor de preț neobișnuit de scăzut) și aspectele din rapoartele experților cooptați (lit. g, cu excepții). În schimb, ALEGEREA TIPULUI DE PROCEDURĂ este expres un aspect de CALITATE controlat de ANAP — art. 4 alin. (1) lit. a). Capcană: specificațiile tehnice devin totuși aspect de calitate în sectoarele specifice stabilite prin ordin al președintelui ANAP (alin. (2)).",
     "sursa": {
       "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
-      "articol": "art. 2 alin. (5)",
-      "citat": "Echipa de control prevăzută la alin. (2) lit. b) este împuternicită prin decizie de verificare, aprobată prin ordin al președintelui ANAP, în baza programului de verificare, în termen de o zi lucrătoare de la publicarea anunțului de participare/de concurs/de participare simplificat/de concesionare",
+      "articol": "art. 4 alin. (7) lit. a), c) și d)",
+      "citat": "Aspectele de oportunitate și/sau de natură tehnică, cum ar fi următoarele, nu fac obiectul controlului ex ante: a) identificarea nevoii autorității contractante și stabilirea necesității cu privire la obiectul contractului pentru care se lansează procedura de atribuire; [...] c) stabilirea specificațiilor tehnice și/sau alegerea standardelor de performanță aferente acestora; d) succesiunea și durata activităților în cadrul contractului;",
       "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
     },
     "status": "ok"
@@ -1169,6 +1146,31 @@ const INTREBARI = [
       "articol": "art. 7 alin. (1) lit. c)",
       "citat": "c) 1 077 624 lei, pentru contractele de achiziții publice/ acordurile-cadru de produse și de servicii atribuite de consiliul județean, consiliul local, Consiliul General al Municipiului București, precum și de instituțiile publice aflate în subordinea acestora;",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-017",
+    "tip": "multiplu",
+    "test": 3,
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele decizii din etapa de planificare/pregătire se documentează prin intermediul strategiei de contractare?",
+    "variante": [
+      "Mecanismele de plată în cadrul contractului și alocarea riscurilor în cadrul acestuia",
+      "Procedura de atribuire aleasă și modalitățile speciale de atribuire asociate, dacă este cazul",
+      "Tipul de contract propus și modalitatea de implementare a acestuia",
+      "Componența nominală a comisiei de evaluare a ofertelor"
+    ],
+    "corecte": [
+      0,
+      1,
+      2
+    ],
+    "explicatie": "Art. 9 alin. (3) din Normele metodologice enumeră deciziile documentate prin strategia de contractare, printre care procedura de atribuire aleasă și modalitățile speciale de atribuire asociate (lit. b)), tipul de contract propus și modalitatea de implementare a acestuia (lit. c)) și mecanismele de plată, alocarea riscurilor, măsurile de gestionare a acestora și stabilirea penalităților (lit. d)). Aceeași enumerare mai cuprinde justificările privind valoarea estimată (lit. e)) și justificările privind alegerea procedurii, criteriile de calificare, criteriul de atribuire și factorii de evaluare (lit. f)). Componența nominală a comisiei de evaluare nu figurează printre elementele enumerate la art. 9 alin. (3). Desemnarea membrilor comisiei de evaluare este reglementată separat, la art. 126 alin. (1) și (4) din Normele metodologice, iar decizia/dispoziția/ordinul de numire a comisiei este un document distinct al dosarului achiziției (art. 148 lit. g)), separat de strategia de contractare (art. 148 lit. a)).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 9 alin. (3) lit. b), c) și d)",
+      "citat": "Prin intermediul strategiei de contractare se documentează deciziile din etapa de planificare/pregătire a achiziției în legătură cu: [...] b) procedura de atribuire aleasă, precum și modalitățile speciale de atribuire a contractului de achiziție publică asociate, dacă este cazul; c) tipul de contract propus și modalitatea de implementare a acestuia; d) mecanismele de plată în cadrul contractului, alocarea riscurilor în cadrul acestuia, măsuri de gestionare a acestora",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -1266,26 +1268,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-017",
-    "tip": "multiplu",
+    "id": "N395A-018",
+    "tip": "unic",
     "test": 3,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele decizii din etapa de planificare/pregătire se documentează prin intermediul strategiei de contractare?",
+    "intrebare": "Prin ce începe etapa de organizare a procedurii de atribuire a contractului/acordului-cadru, potrivit art. 10 din Normele metodologice?",
     "variante": [
-      "Mecanismele de plată în cadrul contractului și alocarea riscurilor în cadrul acestuia",
-      "Procedura de atribuire aleasă și modalitățile speciale de atribuire asociate, dacă este cazul",
-      "Tipul de contract propus și modalitatea de implementare a acestuia",
-      "Componența nominală a comisiei de evaluare a ofertelor"
+      "Prin transmiterea documentației de atribuire în SEAP",
+      "Prin semnarea contractului de achiziție publică",
+      "Prin aprobarea referatelor de necesitate",
+      "Prin publicarea anunțului de intenție în JOUE"
     ],
     "corecte": [
-      0,
-      1,
-      2
+      0
     ],
-    "explicatie": "Art. 9 alin. (3) din Normele metodologice enumeră deciziile documentate prin strategia de contractare, printre care procedura de atribuire aleasă și modalitățile speciale de atribuire asociate (lit. b)), tipul de contract propus și modalitatea de implementare a acestuia (lit. c)) și mecanismele de plată, alocarea riscurilor, măsurile de gestionare a acestora și stabilirea penalităților (lit. d)). Aceeași enumerare mai cuprinde justificările privind valoarea estimată (lit. e)) și justificările privind alegerea procedurii, criteriile de calificare, criteriul de atribuire și factorii de evaluare (lit. f)). Componența nominală a comisiei de evaluare nu figurează printre elementele enumerate la art. 9 alin. (3). Desemnarea membrilor comisiei de evaluare este reglementată separat, la art. 126 alin. (1) și (4) din Normele metodologice, iar decizia/dispoziția/ordinul de numire a comisiei este un document distinct al dosarului achiziției (art. 148 lit. g)), separat de strategia de contractare (art. 148 lit. a)).",
+    "explicatie": "Art. 10 (în forma modificată prin H.G. nr. 419/2018) stabilește că etapa de organizare a procedurii începe prin transmiterea documentației de atribuire în SEAP și se finalizează odată cu încheierea contractului de achiziție publică/acordului-cadru. Semnarea contractului este momentul de final al etapei, nu de început — inversarea celor două borne este capcana tipică. Aprobarea referatelor de necesitate ține de debutul etapei de planificare (art. 9 alin. (1)), iar anunțul de intenție este o măsură de publicitate facultativă, care nu marchează începutul etapei de organizare.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 9 alin. (3) lit. b), c) și d)",
-      "citat": "Prin intermediul strategiei de contractare se documentează deciziile din etapa de planificare/pregătire a achiziției în legătură cu: [...] b) procedura de atribuire aleasă, precum și modalitățile speciale de atribuire a contractului de achiziție publică asociate, dacă este cazul; c) tipul de contract propus și modalitatea de implementare a acestuia; d) mecanismele de plată în cadrul contractului, alocarea riscurilor în cadrul acestuia, măsuri de gestionare a acestora",
+      "articol": "art. 10",
+      "citat": "Etapa de organizare a procedurii de atribuire a contractului/acordului-cadru începe prin transmiterea documentației de atribuire în SEAP și se finalizează odată cu încheierea contractului de achiziție publică/acordului-cadru.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -1314,29 +1314,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-018",
-    "tip": "unic",
-    "test": 3,
-    "intrebare": "Prin ce începe etapa de organizare a procedurii de atribuire a contractului/acordului-cadru, potrivit art. 10 din Normele metodologice?",
-    "variante": [
-      "Prin transmiterea documentației de atribuire în SEAP",
-      "Prin semnarea contractului de achiziție publică",
-      "Prin aprobarea referatelor de necesitate",
-      "Prin publicarea anunțului de intenție în JOUE"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 10 (în forma modificată prin H.G. nr. 419/2018) stabilește că etapa de organizare a procedurii începe prin transmiterea documentației de atribuire în SEAP și se finalizează odată cu încheierea contractului de achiziție publică/acordului-cadru. Semnarea contractului este momentul de final al etapei, nu de început — inversarea celor două borne este capcana tipică. Aprobarea referatelor de necesitate ține de debutul etapei de planificare (art. 9 alin. (1)), iar anunțul de intenție este o măsură de publicitate facultativă, care nu marchează începutul etapei de organizare.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 10",
-      "citat": "Etapa de organizare a procedurii de atribuire a contractului/acordului-cadru începe prin transmiterea documentației de atribuire în SEAP și se finalizează odată cu încheierea contractului de achiziție publică/acordului-cadru.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98A-019",
     "tip": "unic",
     "test": 3,
@@ -1356,6 +1333,29 @@ const INTREBARI = [
       "articol": "art. 7 alin. (7) lit. a)",
       "citat": "are obligația de a utiliza catalogul electronic pus la dispoziție de SEAP sau de a publica un anunț într-o secțiune dedicată a website-ului propriu sau al SEAP, însoțit de descrierea produselor, serviciilor sau a lucrărilor care urmează a fi achiziționate, pentru achizițiile a căror valoare estimată este mai mare de 200.000 lei, fără TVA, pentru produse și servicii, respectiv 560.000 lei, fără TVA, pentru lucrări;",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-019",
+    "tip": "unic",
+    "test": 3,
+    "intrebare": "Procesele de achiziție publică planificate a fi lansate de o autoritate contractantă pe parcursul unui an bugetar fac obiectul unei strategii anuale de achiziție publică atunci când cuprind cheltuieli de capital mai mari de:",
+    "variante": [
+      "225 milioane de lei",
+      "125 milioane de lei",
+      "50 milioane de lei",
+      "100 milioane de lei"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 11 alin. (2) (astfel cum a fost modificat prin H.G. nr. 419/2018) leagă obligația elaborării strategiei anuale de achiziție publică de un criteriu valoric: totalitatea proceselor de achiziție planificate pentru anul bugetar să cuprindă cheltuieli de capital mai mari de 125 milioane de lei. Strategia se elaborează în ultimul trimestru al anului anterior și se aprobă de conducătorul autorității contractante (alin. (3)). Celelalte valori nu au corespondent în text; capcana constă în confundarea acestui prag cu diverse praguri procedurale din Legea nr. 98/2016, care sunt exprimate în alte cuantumuri.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 11 alin. (2)",
+      "citat": "Totalitatea proceselor de achiziție publică planificate a fi lansate de o autoritate contractantă pe parcursul unui an bugetar, care cuprind cheltuieli de capital mai mari de 125 milioane de lei, fac obiectul unei strategii anuale de achiziție publică la nivelul autorității contractante",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -1383,32 +1383,9 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "OUGA-041",
-    "tip": "unic",
-    "test": 3,
-    "intrebare": "Cum sunt definite „listele de verificare” în O.U.G. nr. 98/2017 privind funcția de control ex ante și prin ce act se stabilesc ele?",
-    "variante": [
-      "Liste de verificare stabilite de Consiliul Național de Soluționare a Contestațiilor, folosite la soluționarea contestațiilor privind documentația de atribuire",
-      "Liste de verificare elaborate de fiecare autoritate contractantă în parte, în cadrul strategiei anuale de achiziție publică",
-      "Liste de verificare ale procedurilor de atribuire și ale intențiilor de modificări contractuale, stabilite prin proceduri operaționale ale ANAP, care înglobează atât aspecte de calitate, cât și de regularitate",
-      "Liste de verificare a documentației de atribuire, aprobate prin hotărâre a Guvernului, care cuprind exclusiv aspecte de regularitate"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 2 alin. (1) lit. f) definește listele de verificare ca instrumente ale ANAP, stabilite prin PROCEDURI OPERAȚIONALE proprii, care acoperă atât procedurile de atribuire, cât și intențiile de modificări contractuale și care înglobează ambele categorii de aspecte verificate — de calitate și de regularitate — detalierea lor realizându-se prin normele metodologice de aplicare a ordonanței. Varianta care le limitează la aspectele de regularitate este greșită tocmai prin această omisiune, iar aprobarea prin hotărâre a Guvernului privește normele metodologice (H.G. nr. 419/2018), nu listele în sine. Autoritățile contractante nu își stabilesc propriile liste de verificare — ele sunt subiectul controlului, nu autorul instrumentului. CNSC are atribuții de soluționare a contestațiilor potrivit Legii nr. 101/2016 și nu emite liste de verificare. Importanța practică a definiției este că avizul conform necondiționat se emite atunci când nu se constată abateri cu privire la aspectele cuprinse în listele de verificare (art. 14 alin. (1) lit. a)).",
-    "sursa": {
-      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
-      "articol": "art. 2 alin. (1) lit. f)",
-      "citat": "listele de verificare - liste de verificare ale procedurilor de atribuire și ale intențiilor de modificări contractuale, stabilite prin proceduri operaționale ale ANAP care înglobează atât aspecte de calitate, cât și de regularitate, detalierea elementelor ce vor face obiectul acestor două categorii realizându-se prin normele metodologice de aplicare a prezentei ordonanțe de urgență;",
-      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98A-020",
     "tip": "unic",
-    "test": 4,
+    "test": 3,
     "intrebare": "Câți operatori economici trebuie să consulte, ca regulă, autoritatea contractantă în cazul unei achiziții directe de produse cu valoarea estimată de 180.000 lei fără TVA, potrivit art. 7 alin. (7) lit. b) din Legea nr. 98/2016?",
     "variante": [
       "niciunul — poate plăti direct, pe baza angajamentului legal",
@@ -1429,48 +1406,48 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-019",
+    "id": "OUGA-041",
     "tip": "unic",
     "test": 4,
-    "intrebare": "Procesele de achiziție publică planificate a fi lansate de o autoritate contractantă pe parcursul unui an bugetar fac obiectul unei strategii anuale de achiziție publică atunci când cuprind cheltuieli de capital mai mari de:",
+    "intrebare": "Cum sunt definite „listele de verificare” în O.U.G. nr. 98/2017 privind funcția de control ex ante și prin ce act se stabilesc ele?",
     "variante": [
-      "225 milioane de lei",
-      "125 milioane de lei",
-      "50 milioane de lei",
-      "100 milioane de lei"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 11 alin. (2) (astfel cum a fost modificat prin H.G. nr. 419/2018) leagă obligația elaborării strategiei anuale de achiziție publică de un criteriu valoric: totalitatea proceselor de achiziție planificate pentru anul bugetar să cuprindă cheltuieli de capital mai mari de 125 milioane de lei. Strategia se elaborează în ultimul trimestru al anului anterior și se aprobă de conducătorul autorității contractante (alin. (3)). Celelalte valori nu au corespondent în text; capcana constă în confundarea acestui prag cu diverse praguri procedurale din Legea nr. 98/2016, care sunt exprimate în alte cuantumuri.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 11 alin. (2)",
-      "citat": "Totalitatea proceselor de achiziție publică planificate a fi lansate de o autoritate contractantă pe parcursul unui an bugetar, care cuprind cheltuieli de capital mai mari de 125 milioane de lei, fac obiectul unei strategii anuale de achiziție publică la nivelul autorității contractante",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L101A-006",
-    "tip": "unic",
-    "test": 4,
-    "intrebare": "Când este considerată „definitivă” excluderea unui candidat/ofertant de la o procedură de atribuire, astfel încât acesta să își piardă interesul de a contesta?",
-    "variante": [
-      "Din momentul consemnării excluderii în raportul procedurii de atribuire",
-      "De la data comunicării rezultatului procedurii, indiferent dacă excluderea a fost sau nu contestată",
-      "Când excluderea a fost notificată candidatului/ofertantului interesat și fie a fost considerată legală de către Consiliu/instanță, fie nu mai poate face obiectul unei căi de atac",
-      "Numai după pronunțarea unei hotărâri judecătorești definitive, în toate cazurile"
+      "Liste de verificare stabilite de Consiliul Național de Soluționare a Contestațiilor, folosite la soluționarea contestațiilor privind documentația de atribuire",
+      "Liste de verificare elaborate de fiecare autoritate contractantă în parte, în cadrul strategiei anuale de achiziție publică",
+      "Liste de verificare ale procedurilor de atribuire și ale intențiilor de modificări contractuale, stabilite prin proceduri operaționale ale ANAP, care înglobează atât aspecte de calitate, cât și de regularitate",
+      "Liste de verificare a documentației de atribuire, aprobate prin hotărâre a Guvernului, care cuprind exclusiv aspecte de regularitate"
     ],
     "corecte": [
       2
     ],
-    "explicatie": "Art. 3 alin. (3) condiționează caracterul definitiv al excluderii de două elemente: notificarea către cel exclus și, alternativ, fie confirmarea legalității de către Consiliu/instanță, fie epuizarea/expirarea căilor de atac. Simpla comunicare a rezultatului nu face excluderea definitivă cât timp mai poate fi atacată. Nu este nevoie întotdeauna de hotărâre judecătorească — este suficient ca excluderea să nu mai poată face obiectul unei căi de atac (de exemplu, prin expirarea termenului). Consemnarea în raportul procedurii este un act intern, fără acest efect.",
+    "explicatie": "Art. 2 alin. (1) lit. f) definește listele de verificare ca instrumente ale ANAP, stabilite prin PROCEDURI OPERAȚIONALE proprii, care acoperă atât procedurile de atribuire, cât și intențiile de modificări contractuale și care înglobează ambele categorii de aspecte verificate — de calitate și de regularitate — detalierea lor realizându-se prin normele metodologice de aplicare a ordonanței. Varianta care le limitează la aspectele de regularitate este greșită tocmai prin această omisiune, iar aprobarea prin hotărâre a Guvernului privește normele metodologice (H.G. nr. 419/2018), nu listele în sine. Autoritățile contractante nu își stabilesc propriile liste de verificare — ele sunt subiectul controlului, nu autorul instrumentului. CNSC are atribuții de soluționare a contestațiilor potrivit Legii nr. 101/2016 și nu emite liste de verificare. Importanța practică a definiției este că avizul conform necondiționat se emite atunci când nu se constată abateri cu privire la aspectele cuprinse în listele de verificare (art. 14 alin. (1) lit. a)).",
     "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 3 alin. (3)",
-      "citat": "se consideră că o persoană are sau a avut un interes în legătură cu o procedură de atribuire dacă nu a fost încă exclusă definitiv de la respectiva procedură. O excludere este definitivă în cazul în care a fost notificată candidatului/ofertantului interesat și fie a fost considerată legală de către Consiliu/instanță, fie nu mai poate face obiectul unei căi de atac.",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+      "articol": "art. 2 alin. (1) lit. f)",
+      "citat": "listele de verificare - liste de verificare ale procedurilor de atribuire și ale intențiilor de modificări contractuale, stabilite prin proceduri operaționale ale ANAP care înglobează atât aspecte de calitate, cât și de regularitate, detalierea elementelor ce vor face obiectul acestor două categorii realizându-se prin normele metodologice de aplicare a prezentei ordonanțe de urgență;",
+      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-020",
+    "tip": "unic",
+    "test": 4,
+    "intrebare": "Când se realizează strategia anuală de achiziție publică și cine o aprobă?",
+    "variante": [
+      "Se realizează în primul trimestru al anului în curs și se aprobă de consiliul de administrație",
+      "Se realizează după aprobarea bugetului și se aprobă de ordonatorul principal de credite ierarhic superior",
+      "Se realizează în ultimul trimestru al anului anterior și se aprobă de ANAP",
+      "Se realizează în ultimul trimestru al anului anterior anului căruia îi corespund procesele de achiziție și se aprobă de conducătorul autorității contractante"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 11 alin. (3) prevede că strategia anuală de achiziție publică se realizează în ultimul trimestru al anului anterior anului căruia îi corespund procesele de achiziție publică cuprinse în aceasta și se aprobă de conducătorul autorității contractante. ANAP nu aprobă documentele de planificare ale autorităților contractante. Modificările și completările ulterioare ale strategiei sunt permise și se aprobă în același regim (alin. (4)), iar introducerea unor necesități noi este condiționată de identificarea surselor de finanțare (alin. (5)).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 11 alin. (3)",
+      "citat": "Strategia anuală de achiziție publică se realizează în ultimul trimestru al anului anterior anului căruia îi corespund procesele de achiziție publică cuprinse în aceasta, și se aprobă de către conducătorul autorității contractante.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -1498,6 +1475,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L101A-006",
+    "tip": "unic",
+    "test": 4,
+    "intrebare": "Când este considerată „definitivă” excluderea unui candidat/ofertant de la o procedură de atribuire, astfel încât acesta să își piardă interesul de a contesta?",
+    "variante": [
+      "Din momentul consemnării excluderii în raportul procedurii de atribuire",
+      "De la data comunicării rezultatului procedurii, indiferent dacă excluderea a fost sau nu contestată",
+      "Când excluderea a fost notificată candidatului/ofertantului interesat și fie a fost considerată legală de către Consiliu/instanță, fie nu mai poate face obiectul unei căi de atac",
+      "Numai după pronunțarea unei hotărâri judecătorești definitive, în toate cazurile"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 3 alin. (3) condiționează caracterul definitiv al excluderii de două elemente: notificarea către cel exclus și, alternativ, fie confirmarea legalității de către Consiliu/instanță, fie epuizarea/expirarea căilor de atac. Simpla comunicare a rezultatului nu face excluderea definitivă cât timp mai poate fi atacată. Nu este nevoie întotdeauna de hotărâre judecătorească — este suficient ca excluderea să nu mai poată face obiectul unei căi de atac (de exemplu, prin expirarea termenului). Consemnarea în raportul procedurii este un act intern, fără acest efect.",
+    "sursa": {
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 3 alin. (3)",
+      "citat": "se consideră că o persoană are sau a avut un interes în legătură cu o procedură de atribuire dacă nu a fost încă exclusă definitiv de la respectiva procedură. O excludere este definitivă în cazul în care a fost notificată candidatului/ofertantului interesat și fie a fost considerată legală de către Consiliu/instanță, fie nu mai poate face obiectul unei căi de atac.",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98A-022",
     "tip": "unic",
     "test": 4,
@@ -1521,24 +1521,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-020",
+    "id": "N395A-021",
     "tip": "unic",
     "test": 4,
-    "intrebare": "Când se realizează strategia anuală de achiziție publică și cine o aprobă?",
+    "intrebare": "Ce reprezintă programul anual al achizițiilor publice, potrivit Normelor metodologice de aplicare a Legii nr. 98/2016?",
     "variante": [
-      "Se realizează în primul trimestru al anului în curs și se aprobă de consiliul de administrație",
-      "Se realizează după aprobarea bugetului și se aprobă de ordonatorul principal de credite ierarhic superior",
-      "Se realizează în ultimul trimestru al anului anterior și se aprobă de ANAP",
-      "Se realizează în ultimul trimestru al anului anterior anului căruia îi corespund procesele de achiziție și se aprobă de conducătorul autorității contractante"
+      "Un document facultativ, elaborat numai de autoritățile contractante care derulează proiecte finanțate din fonduri europene",
+      "Un instrument managerial utilizat pentru planificarea și monitorizarea portofoliului de procese de achiziție și pentru planificarea resurselor necesare derulării proceselor",
+      "Un act administrativ opozabil operatorilor economici, care dă naștere unui drept al acestora de a fi invitați la procedură",
+      "O anexă obligatorie la bugetul autorității contractante, aprobată de ANAP înainte de începerea exercițiului financiar"
     ],
     "corecte": [
-      3
+      1
     ],
-    "explicatie": "Art. 11 alin. (3) prevede că strategia anuală de achiziție publică se realizează în ultimul trimestru al anului anterior anului căruia îi corespund procesele de achiziție publică cuprinse în aceasta și se aprobă de conducătorul autorității contractante. ANAP nu aprobă documentele de planificare ale autorităților contractante. Modificările și completările ulterioare ale strategiei sunt permise și se aprobă în același regim (alin. (4)), iar introducerea unor necesități noi este condiționată de identificarea surselor de finanțare (alin. (5)).",
+    "explicatie": "Art. 12 alin. (1) definește programul anual al achizițiilor publice ca instrument managerial pentru planificarea și monitorizarea portofoliului de procese de achiziție, pentru planificarea resurselor și pentru verificarea îndeplinirii obiectivelor din strategiile de dezvoltare. Elaborarea lui este o obligație, nu o facultate, iar obligația nu este limitată la proiectele cu finanțare nerambursabilă (pentru acestea art. 13 impune, suplimentar, un program distinct pe proiect). Programul nu creează drepturi în favoarea operatorilor economici — este un document intern de planificare, chiar dacă extrase din el se publică în SEAP potrivit art. 12 alin. (6). ANAP nu aprobă programul; ea doar pune la dispoziție formularul, prin ordin al președintelui (art. 15).",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 11 alin. (3)",
-      "citat": "Strategia anuală de achiziție publică se realizează în ultimul trimestru al anului anterior anului căruia îi corespund procesele de achiziție publică cuprinse în aceasta, și se aprobă de către conducătorul autorității contractante.",
+      "articol": "art. 12 alin. (1)",
+      "citat": "Autoritatea contractantă are obligația de a elabora programul anual al achizițiilor publice, ca instrument managerial utilizat pentru planificarea și monitorizarea portofoliului de procese de achiziție la nivel de autoritate contractantă, pentru planificarea resurselor necesare derulării proceselor și pentru verificarea modului de îndeplinire a obiectivelor din strategia",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -1590,29 +1590,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-021",
-    "tip": "unic",
-    "test": 4,
-    "intrebare": "Ce reprezintă programul anual al achizițiilor publice, potrivit Normelor metodologice de aplicare a Legii nr. 98/2016?",
-    "variante": [
-      "Un document facultativ, elaborat numai de autoritățile contractante care derulează proiecte finanțate din fonduri europene",
-      "Un instrument managerial utilizat pentru planificarea și monitorizarea portofoliului de procese de achiziție și pentru planificarea resurselor necesare derulării proceselor",
-      "Un act administrativ opozabil operatorilor economici, care dă naștere unui drept al acestora de a fi invitați la procedură",
-      "O anexă obligatorie la bugetul autorității contractante, aprobată de ANAP înainte de începerea exercițiului financiar"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 12 alin. (1) definește programul anual al achizițiilor publice ca instrument managerial pentru planificarea și monitorizarea portofoliului de procese de achiziție, pentru planificarea resurselor și pentru verificarea îndeplinirii obiectivelor din strategiile de dezvoltare. Elaborarea lui este o obligație, nu o facultate, iar obligația nu este limitată la proiectele cu finanțare nerambursabilă (pentru acestea art. 13 impune, suplimentar, un program distinct pe proiect). Programul nu creează drepturi în favoarea operatorilor economici — este un document intern de planificare, chiar dacă extrase din el se publică în SEAP potrivit art. 12 alin. (6). ANAP nu aprobă programul; ea doar pune la dispoziție formularul, prin ordin al președintelui (art. 15).",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 12 alin. (1)",
-      "citat": "Autoritatea contractantă are obligația de a elabora programul anual al achizițiilor publice, ca instrument managerial utilizat pentru planificarea și monitorizarea portofoliului de procese de achiziție la nivel de autoritate contractantă, pentru planificarea resurselor necesare derulării proceselor și pentru verificarea modului de îndeplinire a obiectivelor din strategia",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGB-013",
     "tip": "unic",
     "test": 4,
@@ -1636,6 +1613,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395A-022",
+    "tip": "unic",
+    "test": 4,
+    "intrebare": "Când se elaborează, în forma inițială, programul anual al achizițiilor publice și pe ce bază?",
+    "variante": [
+      "În trimestrul IV al anului anterior, pe baza referatelor de necesitate transmise de compartimentele autorității contractante",
+      "În trimestrul III al anului anterior, pe baza strategiei anuale de achiziție publică aprobate de ANAP",
+      "În trimestrul I al anului în curs, pe baza bugetului aprobat al autorității contractante",
+      "În termen de 30 de zile de la aprobarea bugetului propriu, pe baza notelor justificative privind valoarea estimată"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 12 alin. (2) fixează momentul formei inițiale în trimestrul IV al anului anterior, iar sursa de informații o constituie referatele de necesitate (documentul reglementat de art. 3 din Norme). Trimestrul I al anului în curs este greșit: la acel moment programul deja există și doar se actualizează. Legătura cu bugetul apare abia la art. 12 alin. (4) — după aprobarea bugetului propriu programul se actualizează în funcție de fondurile aprobate, deci bugetul nu stă la baza formei inițiale, ci a actualizării. Strategia anuală de achiziție publică nu se aprobă de ANAP, ci de conducătorul autorității contractante (art. 11 alin. (3)).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 12 alin. (2)",
+      "citat": "Programul anual al achizițiilor publice se elaborează, în forma inițială, în trimestrul IV al anului anterior, pe baza referatelor de necesitate transmise de compartimentele autorităților contractante, și cuprinde totalitatea contractelor de achiziție publică/acordurilor-cadru pe care autoritatea contractantă intenționează să le atribuie în decursul anului următor.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98A-023",
     "tip": "unic",
     "test": 4,
@@ -1649,7 +1649,7 @@ const INTREBARI = [
     "corecte": [
       3
     ],
-    "explicatie": "Pragurile JOUE se modifică direct de către Comisia Europeană, conform art. 6 din Directiva 2014/24/UE, iar noile praguri înlocuiesc de drept pragurile din art. 7 alin. (1) de la data intrării lor în vigoare (art. 8 alin. (2)) — fără a fi nevoie de o hotărâre de Guvern sau de un ordin de ministru. Rolul ANAP este doar de publicitate: publică pragurile pe pagina sa de internet. Capcana este a crede că actualizarea pragurilor necesită un act normativ național; mecanismul este automat.",
+    "explicatie": "Pragurile JOUE se revizuiesc la nivelul Uniunii Europene, iar noile praguri înlocuiesc de drept pragurile din art. 7 alin. (1) de la data intrării lor în vigoare (art. 8 alin. (2)) — fără a fi nevoie de o hotărâre de Guvern sau de un ordin de ministru. Rolul ANAP este doar de publicitate: publică pragurile pe pagina sa de internet. Capcana este a crede că actualizarea pragurilor necesită un act normativ național; mecanismul este automat.",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 8 alin. (3)",
@@ -1707,24 +1707,26 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-022",
-    "tip": "unic",
+    "id": "N395A-023",
+    "tip": "multiplu",
     "test": 4,
-    "intrebare": "Când se elaborează, în forma inițială, programul anual al achizițiilor publice și pe ce bază?",
+    "intrebare": "De ce elemente are obligația să țină cont autoritatea contractantă atunci când stabilește forma inițială a programului anual al achizițiilor publice?",
     "variante": [
-      "În trimestrul IV al anului anterior, pe baza referatelor de necesitate transmise de compartimentele autorității contractante",
-      "În trimestrul III al anului anterior, pe baza strategiei anuale de achiziție publică aprobate de ANAP",
-      "În trimestrul I al anului în curs, pe baza bugetului aprobat al autorității contractante",
-      "În termen de 30 de zile de la aprobarea bugetului propriu, pe baza notelor justificative privind valoarea estimată"
+      "Gradul de prioritate a necesităților obiective identificate",
+      "Anticipările cu privire la sursele de finanțare ce urmează a fi identificate",
+      "Numărul de operatori economici înscriși în SEAP pentru codurile CPV vizate",
+      "Necesitățile obiective de produse, servicii și lucrări"
     ],
     "corecte": [
-      0
+      0,
+      1,
+      3
     ],
-    "explicatie": "Art. 12 alin. (2) fixează momentul formei inițiale în trimestrul IV al anului anterior, iar sursa de informații o constituie referatele de necesitate (documentul reglementat de art. 3 din Norme). Trimestrul I al anului în curs este greșit: la acel moment programul deja există și doar se actualizează. Legătura cu bugetul apare abia la art. 12 alin. (4) — după aprobarea bugetului propriu programul se actualizează în funcție de fondurile aprobate, deci bugetul nu stă la baza formei inițiale, ci a actualizării. Strategia anuală de achiziție publică nu se aprobă de ANAP, ci de conducătorul autorității contractante (art. 11 alin. (3)).",
+    "explicatie": "Art. 12 alin. (3) enumeră limitativ trei repere pentru forma inițială a programului: necesitățile obiective, gradul lor de prioritate și anticipările privind sursele de finanțare. Formularea „anticipările cu privire la sursele de finanțare ce urmează a fi identificate” este importantă: la momentul trimestrului IV bugetul nu este încă aprobat, așa că finanțarea este doar anticipată, urmând ca programul să fie actualizat după aprobarea bugetului (alin. (4)). Numărul de operatori economici înscriși în SEAP nu este un criteriu de planificare — el poate fi cel mult un element analizat în consultarea pieței (art. 18-19) sau în strategia anuală (art. 11), nu în stabilirea programului. Capcană: condiția „identificării surselor de finanțare” apare ca cerință fermă doar la modificarea/completarea ulterioară a programului (art. 14 alin. (2)), nu la forma inițială.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 12 alin. (2)",
-      "citat": "Programul anual al achizițiilor publice se elaborează, în forma inițială, în trimestrul IV al anului anterior, pe baza referatelor de necesitate transmise de compartimentele autorităților contractante, și cuprinde totalitatea contractelor de achiziție publică/acordurilor-cadru pe care autoritatea contractantă intenționează să le atribuie în decursul anului următor.",
+      "articol": "art. 12 alin. (3) lit. a)-c)",
+      "citat": "Atunci când stabilește forma inițială a programului anual al achizițiilor publice, autoritatea contractantă are obligația de a ține cont de: [...] a) necesitățile obiective de produse, servicii și lucrări; b) gradul de prioritate a necesităților prevăzute la lit. a); c) anticipările cu privire la sursele de finanțare ce urmează a fi identificate.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -1778,31 +1780,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-023",
-    "tip": "multiplu",
-    "test": 4,
-    "intrebare": "De ce elemente are obligația să țină cont autoritatea contractantă atunci când stabilește forma inițială a programului anual al achizițiilor publice?",
-    "variante": [
-      "Gradul de prioritate a necesităților obiective identificate",
-      "Anticipările cu privire la sursele de finanțare ce urmează a fi identificate",
-      "Numărul de operatori economici înscriși în SEAP pentru codurile CPV vizate",
-      "Necesitățile obiective de produse, servicii și lucrări"
-    ],
-    "corecte": [
-      0,
-      1,
-      3
-    ],
-    "explicatie": "Art. 12 alin. (3) enumeră limitativ trei repere pentru forma inițială a programului: necesitățile obiective, gradul lor de prioritate și anticipările privind sursele de finanțare. Formularea „anticipările cu privire la sursele de finanțare ce urmează a fi identificate” este importantă: la momentul trimestrului IV bugetul nu este încă aprobat, așa că finanțarea este doar anticipată, urmând ca programul să fie actualizat după aprobarea bugetului (alin. (4)). Numărul de operatori economici înscriși în SEAP nu este un criteriu de planificare — el poate fi cel mult un element analizat în consultarea pieței (art. 18-19) sau în strategia anuală (art. 11), nu în stabilirea programului. Capcană: condiția „identificării surselor de finanțare” apare ca cerință fermă doar la modificarea/completarea ulterioară a programului (art. 14 alin. (2)), nu la forma inițială.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 12 alin. (3) lit. a)-c)",
-      "citat": "Atunci când stabilește forma inițială a programului anual al achizițiilor publice, autoritatea contractantă are obligația de a ține cont de: [...] a) necesitățile obiective de produse, servicii și lucrări; b) gradul de prioritate a necesităților prevăzute la lit. a); c) anticipările cu privire la sursele de finanțare ce urmează a fi identificate.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGA-004",
     "tip": "multiplu",
     "test": 4,
@@ -1824,6 +1801,29 @@ const INTREBARI = [
       "articol": "art. 3 alin. (1) lit. a)-b), alin. (2) și (3)",
       "citat": "când termenul se socotește pe ore, acesta începe să curgă de la ora zero a zilei următoare; [...] când termenul se socotește pe zile, nu intră în calcul ziua de la care începe să curgă termenul, nici ziua când acesta se împlinește; [...] Când ultima zi a unui termen cade într-o zi nelucrătoare, termenul se prelungește până în prima zi lucrătoare care urmează. [...] se împlinește la ora 24,00 a ultimei zile în care se poate îndeplini actul respectiv.",
       "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-024",
+    "tip": "unic",
+    "test": 4,
+    "intrebare": "Ce obligație are autoritatea contractantă cu privire la programul anual al achizițiilor publice după aprobarea bugetului propriu?",
+    "variante": [
+      "Să transmită programul spre avizare ANAP, în termen de 10 zile de la aprobarea bugetului",
+      "Să reia integral procedura de elaborare a programului, pe baza unor noi referate de necesitate",
+      "Să publice integral programul în Monitorul Oficial al României, Partea a VI-a",
+      "Să își actualizeze programul anual al achizițiilor publice în funcție de fondurile aprobate"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 12 alin. (4) prevede o simplă actualizare a programului în funcție de fondurile aprobate prin bugetul propriu — logica fiind că forma inițială a fost construită pe anticipări privind sursele de finanțare (alin. (3) lit. c)). Nu există o avizare a programului de către ANAP; ANAP intervine prin controlul ex ante asupra documentației de atribuire, nu asupra planificării. Reluarea integrală a elaborării nu este cerută — referatele de necesitate pot fi doar modificate, în condițiile art. 3 alin. (3). Publicarea în Monitorul Oficial nu este prevăzută: publicitatea se face în SEAP, semestrial, prin extrase (art. 12 alin. (6)).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 12 alin. (4)",
+      "citat": "După aprobarea bugetului propriu, autoritatea contractantă are obligația de a-și actualiza programul anual al achizițiilor publice în funcție de fondurile aprobate.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -1899,52 +1899,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-024",
-    "tip": "unic",
-    "test": 5,
-    "intrebare": "Ce obligație are autoritatea contractantă cu privire la programul anual al achizițiilor publice după aprobarea bugetului propriu?",
-    "variante": [
-      "Să transmită programul spre avizare ANAP, în termen de 10 zile de la aprobarea bugetului",
-      "Să reia integral procedura de elaborare a programului, pe baza unor noi referate de necesitate",
-      "Să publice integral programul în Monitorul Oficial al României, Partea a VI-a",
-      "Să își actualizeze programul anual al achizițiilor publice în funcție de fondurile aprobate"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 12 alin. (4) prevede o simplă actualizare a programului în funcție de fondurile aprobate prin bugetul propriu — logica fiind că forma inițială a fost construită pe anticipări privind sursele de finanțare (alin. (3) lit. c)). Nu există o avizare a programului de către ANAP; ANAP intervine prin controlul ex ante asupra documentației de atribuire, nu asupra planificării. Reluarea integrală a elaborării nu este cerută — referatele de necesitate pot fi doar modificate, în condițiile art. 3 alin. (3). Publicarea în Monitorul Oficial nu este prevăzută: publicitatea se face în SEAP, semestrial, prin extrase (art. 12 alin. (6)).",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 12 alin. (4)",
-      "citat": "După aprobarea bugetului propriu, autoritatea contractantă are obligația de a-și actualiza programul anual al achizițiilor publice în funcție de fondurile aprobate.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98A-041",
-    "tip": "unic",
-    "test": 5,
-    "intrebare": "Un concurs de soluții este organizat ca procedură de atribuire distinctă, cu premii acordate participanților (art. 105 lit. b) din Legea nr. 98/2016). Cum se calculează valoarea estimată a achiziției?",
-    "variante": [
-      "Prin raportare la valoarea totală a premiilor sau plăților către participanți, la care se adaugă valoarea estimată, fără TVA, a contractului de servicii care poate fi încheiat prin negociere fără publicare prealabilă potrivit art. 104 alin. (7), dacă autoritatea contractantă și-a exprimat această intenție în anunțul de concurs.",
-      "Numai prin raportare la valoarea totală a premiilor sau plăților către participanți, orice contract subsecvent de servicii fiind estimat separat.",
-      "Exclusiv pe baza valorii estimate, fără TVA, a contractului de achiziție publică de servicii care urmează a fi atribuit ulterior, premiile fiind excluse din calcul.",
-      "Prin înmulțirea cu 48 a valorii lunare a premiilor acordate participanților la concurs."
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 13 alin. (2) reglementează concursul de soluții organizat ca procedură distinctă: baza de calcul este valoarea totală a premiilor/plăților, la care se adaugă valoarea estimată a contractului de servicii care poate fi atribuit ulterior câștigătorului prin negociere fără publicare prealabilă în temeiul art. 104 alin. (7), cu condiția ca intenția de a atribui acest contract să fi fost exprimată în anunțul de concurs. Varianta care exclude premiile descrie parțial regula de la art. 13 alin. (1) (concursul organizat în cadrul unei proceduri de atribuire a unui contract de servicii — art. 105 lit. a), unde valoarea se calculează pe baza valorii contractului de servicii, inclusiv a eventualelor premii. Varianta care ia în calcul doar premiile omite tocmai componenta adăugată de alin. (2). Înmulțirea cu 48 a valorii lunare este regula de la art. 21 lit. c) și art. 25 lit. b) pentru contractele fără preț total sau pe durată nedeterminată, nu pentru concursuri.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 13 alin. (2)",
-      "citat": "(2) În cazul concursului de soluții prevăzut la art. 105 lit. b), valoarea estimată se calculează prin raportare la valoarea totală a premiilor sau plăților către participanți și include valoarea estimată, fără TVA, a contractului de achiziție publică de servicii care poate fi încheiat în temeiul dispozițiilor art. 104 alin. (7), în cazul în care autoritatea contractantă și-a exprimat în anunțul de concurs intenția de a atribui acest contract.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395A-025",
     "tip": "unic",
     "test": 5,
@@ -1968,26 +1922,49 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L101A-016",
+    "id": "L98B-039",
     "tip": "multiplu",
     "test": 5,
-    "intrebare": "Care dintre următoarele elemente trebuie să le conțină, potrivit art. 10 din Legea nr. 101/2016, contestația formulată în scris? (selectați toate variantele corecte)",
+    "intrebare": "În care dintre următoarele cazuri are dreptul autoritatea contractantă să aplice procedura de negociere fără publicarea prealabilă a unui anunț de participare, potrivit art. 104 alin. (1) din Legea nr. 98/2016?",
     "variante": [
-      "Precizarea actului atacat al autorității contractante",
-      "Motivarea în fapt și în drept a contestației",
-      "Dovada achitării taxei judiciare de timbru",
-      "Denumirea și sediul autorității contractante"
+      "Dacă într-o licitație deschisă, licitație restrânsă ori procedură simplificată anterioară nu a fost depusă nicio ofertă/solicitare de participare sau au fost depuse numai oferte/solicitări neadecvate",
+      "Ca măsură strict necesară, din motive de extremă urgență determinate de evenimente imprevizibile care nu se datorează autorității contractante",
+      "Dacă într-o licitație deschisă anterioară au fost depuse numai oferte neconforme sau inacceptabile",
+      "Dacă lucrările, produsele sau serviciile pot fi furnizate numai de către un anumit operator economic, pentru motivele prevăzute la alin. (2)"
     ],
     "corecte": [
       0,
       1,
       3
     ],
-    "explicatie": "Art. 10 enumeră elementele obligatorii ale contestației: identificarea contestatorului (lit. a)), denumirea și sediul autorității contractante (lit. b)), obiectul contractului și procedura aplicată (lit. c)), precizarea actului atacat (lit. d)), obiectul contestației (lit. e)), motivarea în fapt și în drept (lit. f)), mijloacele de probă în măsura posibilului (lit. g)) și semnătura (lit. h)). Dovada taxei de timbru NU figurează și nici nu ar putea: art. 11 alin. (3) prevede că contestația pe cale administrativ-jurisdicțională nu se taxează. Lipsa informațiilor cerute de art. 10 atrage cererea de completare în 3 zile, sub sancțiunea anulării (art. 11 alin. (1)).",
+    "explicatie": "Art. 104 alin. (1) reglementează trei cazuri (lit. a)-c)): lipsa totală a ofertelor/solicitărilor ori numai oferte/solicitări NEADECVATE într-o procedură anterioară de licitație deschisă, licitație restrânsă sau procedură simplificată; unicitatea operatorului economic, pentru motivele de la alin. (2) (operă de artă, motive tehnice, drepturi exclusive); extrema urgență determinată de evenimente imprevizibile care nu se datorează autorității contractante. Capcana este varianta cu ofertele neconforme sau inacceptabile dintr-o licitație deschisă anterioară. Ofertele neconforme sau inacceptabile permit doar trecerea la negociere competitivă sau dialog competitiv (art. 70 alin. (2)), chiar fără anunț de participare în condițiile art. 70 alin. (3), dar nu la negocierea fără publicare prealabilă de la art. 104. Distincția e dată de art. 215: oferta neadecvată este cea „lipsită de relevanță față de obiectul contractului” (alin. (5^1)), iar inacceptabilitatea și neconformitatea sunt definite separat, la alin. (4) și (5).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 104 alin. (1)",
+      "citat": "a) dacă în cadrul unei proceduri de licitație deschisă, licitație restrânsă ori procedură simplificată organizate pentru achiziția produselor, serviciilor sau lucrărilor respective nu a fost depusă nicio ofertă/solicitare de participare sau au fost depuse numai oferte/solicitări de participare neadecvate [...] b) dacă lucrările, produsele sau serviciile pot fi furnizate numai de către un anumit operator economic pentru unul dintre motivele prevăzute la alin. (2); [...] c) ca o măsură strict necesară, atunci când perioadele de aplicare a procedurilor de licitație deschisă, licitație restrânsă, negociere competitivă sau procedură simplificată nu pot fi respectate din motive de extremă urgență",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L101A-008",
+    "tip": "unic",
+    "test": 5,
+    "intrebare": "Un ofertant formulează contestație împotriva aceluiași act al autorității contractante atât la CNSC, cât și la instanța de judecată. Care este consecința prevăzută de lege?",
+    "variante": [
+      "CNSC și instanța soluționează în paralel, rămânând valabilă prima hotărâre pronunțată",
+      "Instanța de judecată își declină automat competența în favoarea CNSC, care a fost sesizat primul",
+      "Ambele sesizări se anulează, iar ofertantul decade din dreptul de a mai contesta actul",
+      "Se prezumă că ofertantul a renunțat la calea administrativ-jurisdicțională"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 4 alin. (6) instituie o prezumție legală: dacă aceeași persoană atacă același act pe ambele căi, se consideră că a renunțat la calea administrativ-jurisdicțională (CNSC), litigiul rămânând la instanță. Nu există declinare automată în favoarea CNSC și nici anularea ambelor sesizări — dreptul la contestație nu se pierde. Soluționarea în paralel este exact ce urmărește legea să evite. A nu se confunda cu situația de la art. 4 alin. (3)-(4), unde persoane DIFERITE contestă același act la CNSC și la instanță — acolo intervine informarea reciprocă și posibila conexare la instanță.",
     "sursa": {
       "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 10 lit. b), d), f)",
-      "citat": "Contestația se formulează în scris și trebuie să conțină următoarele elemente: [...] b) denumirea și sediul autorității contractante; [...] d) precizarea actului atacat al autorității contractante; e) obiectul contestației; f) motivarea în fapt și în drept a contestației;",
+      "articol": "art. 4 alin. (6)",
+      "citat": "În cazul în care persoana care se consideră vătămată formulează contestație împotriva aceluiași act al autorității contractante atât la Consiliu, cât și la instanța de judecată, se prezumă că aceasta a renunțat la calea administrativ-jurisdicțională.",
       "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
     },
     "status": "ok"
@@ -2012,6 +1989,29 @@ const INTREBARI = [
       "articol": "art. 14",
       "citat": "În cazul acordului-cadru sau al sistemului dinamic de achiziții, valoarea estimată a achiziției se consideră a fi valoarea maximă estimată, fără TVA, a tuturor contractelor de achiziție publică subsecvente care se anticipează că vor fi atribuite în baza acordului-cadru sau prin utilizarea sistemului dinamic de achiziții pe întreaga sa durată.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-026",
+    "tip": "unic",
+    "test": 5,
+    "intrebare": "Cu ce periodicitate și în ce termen are obligația autoritatea contractantă de a publica în SEAP extrase din programul anual al achizițiilor publice, precum și orice modificare a acestora?",
+    "variante": [
+      "Semestrial, în termen de 5 zile lucrătoare",
+      "Lunar, în termen de 3 zile lucrătoare",
+      "Anual, în termen de 30 de zile de la aprobarea bugetului propriu",
+      "Trimestrial, în termen de 15 zile calendaristice"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 12 alin. (6) impune publicarea semestrială în SEAP a extraselor din program, precum și a oricărei modificări asupra acestora, în termen de 5 zile lucrătoare. Extrasele vizează numai contractele/acordurile-cadru de produse și servicii, respectiv de lucrări, a căror valoare estimată atinge pragurile la care textul face trimitere. Distractorii folosesc termene reale din alte contexte: 15 zile este, de exemplu, termenul maxim de prelungire pentru constituirea garanției de bună execuție (art. 39 alin. (3)), iar 3 zile lucrătoare este termenul de restituire a garanției de participare la solicitarea ofertantului necâștigător (art. 154^1 alin. (5) din Legea nr. 98/2016). Atenție și la unitatea de timp: termenul este exprimat în zile lucrătoare, nu calendaristice.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 12 alin. (6)",
+      "citat": "Autoritatea contractantă are obligația de a publica semestrial în SEAP extrase din programul anual al achizițiilor publice, precum și orice modificare asupra acestora, în termen de 5 zile lucrătoare, extrase care se referă la:",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -2062,29 +2062,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-026",
-    "tip": "unic",
-    "test": 5,
-    "intrebare": "Cu ce periodicitate și în ce termen are obligația autoritatea contractantă de a publica în SEAP extrase din programul anual al achizițiilor publice, precum și orice modificare a acestora?",
-    "variante": [
-      "Semestrial, în termen de 5 zile lucrătoare",
-      "Lunar, în termen de 3 zile lucrătoare",
-      "Anual, în termen de 30 de zile de la aprobarea bugetului propriu",
-      "Trimestrial, în termen de 15 zile calendaristice"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 12 alin. (6) impune publicarea semestrială în SEAP a extraselor din program, precum și a oricărei modificări asupra acestora, în termen de 5 zile lucrătoare. Extrasele vizează numai contractele/acordurile-cadru de produse și servicii, respectiv de lucrări, a căror valoare estimată atinge pragurile la care textul face trimitere. Distractorii folosesc termene reale din alte contexte: 15 zile este, de exemplu, termenul maxim de prelungire pentru constituirea garanției de bună execuție (art. 39 alin. (3)), iar 3 zile lucrătoare este termenul de restituire a garanției de participare la solicitarea ofertantului necâștigător (art. 154^1 alin. (5) din Legea nr. 98/2016). Atenție și la unitatea de timp: termenul este exprimat în zile lucrătoare, nu calendaristice.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 12 alin. (6)",
-      "citat": "Autoritatea contractantă are obligația de a publica semestrial în SEAP extrase din programul anual al achizițiilor publice, precum și orice modificare asupra acestora, în termen de 5 zile lucrătoare, extrase care se referă la:",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGB-014",
     "tip": "multiplu",
     "test": 5,
@@ -2106,29 +2083,6 @@ const INTREBARI = [
       "articol": "art. 3 alin. (4)",
       "citat": "Filtrele sunt utilizate pentru a repartiza procedurile de atribuire a contractelor și modificările contractuale, care urmează să fie introduse în programul de verificare, și se referă la: a) tipul contractului, respectiv contract de produse, contract de servicii sau contract de lucrări; b) valoarea estimată; c) codul CPV utilizat pentru descrierea achiziției în cauză.",
       "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98A-029",
-    "tip": "unic",
-    "test": 5,
-    "intrebare": "La calculul valorii estimate a unui contract de achiziție publică de LUCRĂRI, potrivit art. 16 din Legea nr. 98/2016, se ia în considerare:",
-    "variante": [
-      "exclusiv costul lucrărilor, fără nicio altă componentă",
-      "costul lucrărilor, din care se scade valoarea materialelor puse la dispoziție de autoritatea contractantă",
-      "costul lucrărilor plus valoarea studiilor de fezabilitate aferente, chiar dacă acestea fac obiectul altui contract",
-      "atât costul lucrărilor, cât și valoarea totală estimată a produselor și serviciilor puse la dispoziția contractantului de către autoritatea contractantă, necesare pentru executarea lucrărilor"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Regula anti-eludare de la art. 16: dacă autoritatea contractantă pune ea însăși la dispoziția contractantului produse sau servicii necesare executării lucrărilor, valoarea acestora se ADAUGĂ la costul lucrărilor — nu se scade și nu se ignoră. Altfel, valoarea contractului ar putea fi coborâtă artificial sub praguri prin furnizarea separată a materialelor. Studiul de fezabilitate atribuit prin contract separat urmează regulile proprii de la art. 9 alin. (1) lit. a), nu se cumulează automat cu lucrările.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 16",
-      "citat": "În cazul contractelor de achiziție publică de lucrări valoarea estimată a achiziției se calculează luând în considerare atât costul lucrărilor, cât și valoarea totală estimată a produselor și [...] puse la dispoziția contractantului de către autoritatea contractantă, necesare pentru executarea lucrărilor.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -2156,6 +2110,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98A-029",
+    "tip": "unic",
+    "test": 5,
+    "intrebare": "La calculul valorii estimate a unui contract de achiziție publică de LUCRĂRI, potrivit art. 16 din Legea nr. 98/2016, se ia în considerare:",
+    "variante": [
+      "exclusiv costul lucrărilor, fără nicio altă componentă",
+      "costul lucrărilor, din care se scade valoarea materialelor puse la dispoziție de autoritatea contractantă",
+      "costul lucrărilor plus valoarea studiilor de fezabilitate aferente, chiar dacă acestea fac obiectul altui contract",
+      "atât costul lucrărilor, cât și valoarea totală estimată a produselor și serviciilor puse la dispoziția contractantului de către autoritatea contractantă, necesare pentru executarea lucrărilor"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Regula anti-eludare de la art. 16: dacă autoritatea contractantă pune ea însăși la dispoziția contractantului produse sau servicii necesare executării lucrărilor, valoarea acestora se ADAUGĂ la costul lucrărilor — nu se scade și nu se ignoră. Altfel, valoarea contractului ar putea fi coborâtă artificial sub praguri prin furnizarea separată a materialelor. Studiul de fezabilitate atribuit prin contract separat urmează regulile proprii de la art. 9 alin. (1) lit. a), nu se cumulează automat cu lucrările.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 16",
+      "citat": "În cazul contractelor de achiziție publică de lucrări valoarea estimată a achiziției se calculează luând în considerare atât costul lucrărilor, cât și valoarea totală estimată a produselor și [...] puse la dispoziția contractantului de către autoritatea contractantă, necesare pentru executarea lucrărilor.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98A-030",
     "tip": "unic",
     "test": 5,
@@ -2175,6 +2152,29 @@ const INTREBARI = [
       "articol": "art. 17 alin. (2)",
       "citat": "În cazul în care valoarea cumulată a loturilor este egală sau mai mare decât pragurile valorice corespunzătoare prevăzute la art. 7 alin. (1), procedurile de atribuire reglementate de prezenta lege se aplică pentru atribuirea fiecărui lot, indiferent de valoarea estimată a acestuia.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-028",
+    "tip": "unic",
+    "test": 5,
+    "intrebare": "Cum se ține evidența achizițiilor directe de produse, servicii și lucrări și prin ce structură?",
+    "variante": [
+      "Ca anexă la strategia de contractare a fiecărei proceduri, ținută de comisia de evaluare",
+      "Ca secțiune distinctă a strategiei anuale de achiziție publică, ținută de conducătorul autorității contractante",
+      "Ca anexă la programul anual al achizițiilor publice, ținută prin compartimentul intern specializat în domeniul achizițiilor",
+      "Ca registru separat, ținut de compartimentul financiar-contabil, nesupus publicării"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 14 alin. (1) stabilește atât forma — anexă la programul anual al achizițiilor publice — cât și structura responsabilă: compartimentul intern specializat în domeniul achizițiilor, cel reglementat de art. 2 din Norme. Compartimentul financiar-contabil nu are această atribuție. Strategia anuală de achiziție publică (art. 11) este un alt document, iar strategia de contractare (art. 9 și art. 21 alin. (3) lit. b)) se întocmește pentru fiecare procedură în parte și face parte din documentele-suport, nu din evidența achizițiilor directe. Comisia de evaluare are atribuții doar în etapa de organizare a procedurii de atribuire.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 14 alin. (1)",
+      "citat": "Autoritatea contractantă, prin compartimentul intern specializat în domeniul achizițiilor, are obligația de a ține evidența achizițiilor directe de produse, servicii și lucrări, ca anexă la programul anual al achizițiilor publice.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -2317,24 +2317,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-028",
+    "id": "N395A-029",
     "tip": "unic",
     "test": 5,
-    "intrebare": "Cum se ține evidența achizițiilor directe de produse, servicii și lucrări și prin ce structură?",
+    "intrebare": "În ce condiție poate autoritatea contractantă să opereze modificări sau completări ulterioare în cadrul programului anual al achizițiilor publice?",
     "variante": [
-      "Ca anexă la strategia de contractare a fiecărei proceduri, ținută de comisia de evaluare",
-      "Ca secțiune distinctă a strategiei anuale de achiziție publică, ținută de conducătorul autorității contractante",
-      "Ca anexă la programul anual al achizițiilor publice, ținută prin compartimentul intern specializat în domeniul achizițiilor",
-      "Ca registru separat, ținut de compartimentul financiar-contabil, nesupus publicării"
+      "Numai cu acordul prealabil al ordonatorului principal de credite ierarhic superior",
+      "Numai o singură dată pe an, cu ocazia rectificării bugetare",
+      "Numai dacă modificările nu depășesc 10% din valoarea totală estimată a programului",
+      "Cu condiția identificării surselor de finanțare, modificările/completările aprobându-se și publicându-se conform art. 12 alin. (6)"
     ],
     "corecte": [
-      2
+      3
     ],
-    "explicatie": "Art. 14 alin. (1) stabilește atât forma — anexă la programul anual al achizițiilor publice — cât și structura responsabilă: compartimentul intern specializat în domeniul achizițiilor, cel reglementat de art. 2 din Norme. Compartimentul financiar-contabil nu are această atribuție. Strategia anuală de achiziție publică (art. 11) este un alt document, iar strategia de contractare (art. 9 și art. 21 alin. (3) lit. b)) se întocmește pentru fiecare procedură în parte și face parte din documentele-suport, nu din evidența achizițiilor directe. Comisia de evaluare are atribuții doar în etapa de organizare a procedurii de atribuire.",
+    "explicatie": "Art. 14 alin. (2) recunoaște un drept de modificare/completare fără limitări de frecvență, condiționat însă de identificarea surselor de finanțare — o cerință mai strictă decât la forma inițială, unde art. 12 alin. (3) lit. c) se mulțumea cu „anticipările” privind sursele. Textul trimite expres la regimul de aprobare și publicare de la art. 12 alin. (6), deci și modificările se publică în SEAP în termen de 5 zile lucrătoare. Nu există cerința unui acord al ordonatorului ierarhic superior, nu există limitarea la o singură modificare anuală și nici un prag procentual de 10% — acest din urmă procent apare în alt context, cel al modificărilor contractuale nesubstanțiale din Legea nr. 98/2016.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 14 alin. (1)",
-      "citat": "Autoritatea contractantă, prin compartimentul intern specializat în domeniul achizițiilor, are obligația de a ține evidența achizițiilor directe de produse, servicii și lucrări, ca anexă la programul anual al achizițiilor publice.",
+      "articol": "art. 14 alin. (2)",
+      "citat": "Autoritatea contractantă are dreptul de a opera modificări sau completări ulterioare în cadrul programului anual al achizițiilor publice, cu condiția identificării surselor de finanțare. Modificările/completările se aprobă și se publică conform prevederilor art. 12 alin. (6).",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -2363,29 +2363,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-029",
-    "tip": "unic",
-    "test": 6,
-    "intrebare": "În ce condiție poate autoritatea contractantă să opereze modificări sau completări ulterioare în cadrul programului anual al achizițiilor publice?",
-    "variante": [
-      "Numai cu acordul prealabil al ordonatorului principal de credite ierarhic superior",
-      "Numai o singură dată pe an, cu ocazia rectificării bugetare",
-      "Numai dacă modificările nu depășesc 10% din valoarea totală estimată a programului",
-      "Cu condiția identificării surselor de finanțare, modificările/completările aprobându-se și publicându-se conform art. 12 alin. (6)"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 14 alin. (2) recunoaște un drept de modificare/completare fără limitări de frecvență, condiționat însă de identificarea surselor de finanțare — o cerință mai strictă decât la forma inițială, unde art. 12 alin. (3) lit. c) se mulțumea cu „anticipările” privind sursele. Textul trimite expres la regimul de aprobare și publicare de la art. 12 alin. (6), deci și modificările se publică în SEAP în termen de 5 zile lucrătoare. Nu există cerința unui acord al ordonatorului ierarhic superior, nu există limitarea la o singură modificare anuală și nici un prag procentual de 10% — acest din urmă procent apare în alt context, cel al modificărilor contractuale nesubstanțiale din Legea nr. 98/2016.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 14 alin. (2)",
-      "citat": "Autoritatea contractantă are dreptul de a opera modificări sau completări ulterioare în cadrul programului anual al achizițiilor publice, cu condiția identificării surselor de finanțare. Modificările/completările se aprobă și se publică conform prevederilor art. 12 alin. (6).",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98A-032",
     "tip": "unic",
     "test": 6,
@@ -2399,12 +2376,35 @@ const INTREBARI = [
     "corecte": [
       3
     ],
-    "explicatie": "Excepția de la art. 19 lit. a) permite tratarea separată a loturilor mici: sub 399.120 lei (echivalent 80.000 euro) pentru produse sau servicii, respectiv sub 4.989.000 lei (echivalent 1.000.000 euro) pentru lucrări — 4.989.000 lei fiind distractorul b), valoarea reală pentru lucrări, nu pentru produse/servicii. 270.120 lei este pragul general al achiziției directe de produse/servicii (art. 7 alin. (5)), iar 698.460 lei este pragul JOUE de la art. 7 alin. (1) lit. b). Condiția suplimentară cumulativă: loturile astfel atribuite să nu depășească împreună 20% din valoarea globală a tuturor loturilor.",
+    "explicatie": "Excepția de la art. 19 lit. a) permite tratarea separată a loturilor mici: sub 399.120 lei (echivalent 80.000 euro) pentru produse sau servicii, respectiv sub 4.989.000 lei (echivalent 1.000.000 euro) pentru lucrări — 4.989.000 lei este deci valoarea reală pentru lucrări, nu pentru produse/servicii. 270.120 lei este pragul general al achiziției directe de produse/servicii (art. 7 alin. (5)), iar 698.460 lei este pragul JOUE de la art. 7 alin. (1) lit. b). Condiția suplimentară cumulativă: loturile astfel atribuite să nu depășească împreună 20% din valoarea globală a tuturor loturilor.",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 19 lit. a)",
       "citat": "valoarea estimată, fără TVA, a lotului respectiv este mai mică de 399 120 lei, în cazul achiziției de produse sau servicii, sau mai mică de 4 989 000 lei, în cazul achiziției de lucrări;",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-030",
+    "tip": "unic",
+    "test": 6,
+    "intrebare": "Prin ce act se pune la dispoziția autorităților contractante formularul de program anual al achizițiilor publice?",
+    "variante": [
+      "Prin ordin al președintelui ANAP",
+      "Prin hotărâre a Guvernului, la propunerea Ministerului Finanțelor",
+      "Prin instrucțiune a operatorului SEAP, publicată pe platforma electronică",
+      "Prin ordin comun al președintelui ANAP și al Comisiei Naționale de Prognoză"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 15 atribuie această competență exclusiv președintelui ANAP, printr-un ordin. Distractorul cu ordinul comun ANAP – Comisia Națională de Prognoză este o valoare reală din aceleași Norme, dar cu alt rol: art. 33 alin. (5) prevede că prin acest ordin comun se stabilește metodologia de calcul al ratei de actualizare folosite în criteriul „costul cel mai scăzut”. Formularul nu se aprobă prin hotărâre a Guvernului — hotărârea a aprobat Normele, care deleagă competența ANAP. Operatorul SEAP are atribuții tehnice de publicare (art. 24, art. 26), nu de reglementare a formularelor.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 15",
+      "citat": "Prin ordin al președintelui ANAP se pune la dispoziția autorităților contractante formularul de program anual al achizițiilor publice.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -2432,24 +2432,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-030",
+    "id": "N395A-031",
     "tip": "unic",
     "test": 6,
-    "intrebare": "Prin ce act se pune la dispoziția autorităților contractante formularul de program anual al achizițiilor publice?",
+    "intrebare": "În aplicarea art. 11 alin. (1) din Legea nr. 98/2016, cum calculează autoritatea contractantă valoarea estimată a unei achiziții?",
     "variante": [
-      "Prin ordin al președintelui ANAP",
-      "Prin hotărâre a Guvernului, la propunerea Ministerului Finanțelor",
-      "Prin instrucțiune a operatorului SEAP, publicată pe platforma electronică",
-      "Prin ordin comun al președintelui ANAP și al Comisiei Naționale de Prognoză"
+      "Având în vedere prețul mediu al ofertelor primite la o consultare de piață prealabilă, fără TVA",
+      "Având în vedere valoarea totală de plată, fără TVA, luând în considerare orice eventuale forme de opțiuni și prelungiri ale contractului prevăzute explicit în documentele achiziției",
+      "Având în vedere valoarea totală de plată, cu TVA inclus, fără a lua în calcul opțiunile și prelungirile, care se estimează separat",
+      "Având în vedere numai valoarea prestațiilor din primul an de derulare a contractului, fără TVA"
     ],
     "corecte": [
-      0
+      1
     ],
-    "explicatie": "Art. 15 atribuie această competență exclusiv președintelui ANAP, printr-un ordin. Distractorul cu ordinul comun ANAP – Comisia Națională de Prognoză este o valoare reală din aceleași Norme, dar cu alt rol: art. 33 alin. (5) prevede că prin acest ordin comun se stabilește metodologia de calcul al ratei de actualizare folosite în criteriul „costul cel mai scăzut”. Formularul nu se aprobă prin hotărâre a Guvernului — hotărârea a aprobat Normele, care deleagă competența ANAP. Operatorul SEAP are atribuții tehnice de publicare (art. 24, art. 26), nu de reglementare a formularelor.",
+    "explicatie": "Art. 16 alin. (1^1), introdus prin H.G. nr. 336/2023, precizează că baza de calcul este valoarea totală de plată fără TVA, incluzând orice opțiuni și prelungiri prevăzute explicit în documentele achiziției. Regula are consecințe directe asupra alegerii procedurii: ignorarea opțiunilor și prelungirilor ar conduce la o subestimare și, implicit, la aplicarea unei proceduri necorespunzătoare. TVA nu se include niciodată în valoarea estimată — este o constantă a întregii legislații de achiziții. Limitarea la primul an de derulare este greșită: valoarea se raportează la întreaga durată a contractului. Rezultatul consultării pieței poate fundamenta estimarea, dar nu constituie prin el însuși metoda de calcul prevăzută de normă.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 15",
-      "citat": "Prin ordin al președintelui ANAP se pune la dispoziția autorităților contractante formularul de program anual al achizițiilor publice.",
+      "articol": "art. 16 alin. (1^1)",
+      "citat": "În aplicarea art. 11 alin. (1) din Lege, autoritatea contractantă calculează valoarea estimată a unei achiziții având în vedere valoarea totală de plată, fără TVA, estimată de autoritatea contractantă, luând în considerare orice eventuale forme de opțiuni și prelungiri ale contractului prevăzute în mod explicit în documentele achiziției.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -2537,35 +2537,12 @@ const INTREBARI = [
     "corecte": [
       2
     ],
-    "explicatie": "Pentru contractele de produse prin cumpărare în rate, închiriere sau leasing încheiate pe durată nedeterminată (ori a căror durată nu poate fi stabilită la data estimării), valoarea estimată = valoarea lunară × 48. Aceeași formulă (×48) se regăsește la art. 25 lit. b) pentru serviciile fără preț total pe durată nedeterminată sau mai mare de 48 de luni. Valoarea reziduală (distractorul d)) se adaugă în alt caz: contractele pe durată determinată MAI MARE de 12 luni (art. 21 lit. b)). Multiplii 12 și 24 nu apar în aceste reguli.",
+    "explicatie": "Pentru contractele de produse prin cumpărare în rate, închiriere sau leasing încheiate pe durată nedeterminată (ori a căror durată nu poate fi stabilită la data estimării), valoarea estimată = valoarea lunară × 48. Aceeași formulă (×48) se regăsește la art. 25 lit. b) pentru serviciile fără preț total pe durată nedeterminată sau mai mare de 48 de luni. Valoarea reziduală (varianta care o adaugă la valoarea lunară) se adaugă în alt caz: contractele pe durată determinată MAI MARE de 12 luni (art. 21 lit. b)). Multiplii 12 și 24 nu apar în aceste reguli.",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 21 lit. c)",
       "citat": "în cazul contractelor de achiziție publică încheiate pe durată nedeterminată sau în cazul în care durata acestora nu poate fi stabilită la data estimării, valoarea estimată se calculează prin înmulțirea cu 48 a valorii lunare a contractului.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395A-031",
-    "tip": "unic",
-    "test": 6,
-    "intrebare": "În aplicarea art. 11 alin. (1) din Legea nr. 98/2016, cum calculează autoritatea contractantă valoarea estimată a unei achiziții?",
-    "variante": [
-      "Având în vedere prețul mediu al ofertelor primite la o consultare de piață prealabilă, fără TVA",
-      "Având în vedere valoarea totală de plată, fără TVA, luând în considerare orice eventuale forme de opțiuni și prelungiri ale contractului prevăzute explicit în documentele achiziției",
-      "Având în vedere valoarea totală de plată, cu TVA inclus, fără a lua în calcul opțiunile și prelungirile, care se estimează separat",
-      "Având în vedere numai valoarea prestațiilor din primul an de derulare a contractului, fără TVA"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 16 alin. (1^1), introdus prin H.G. nr. 336/2023, precizează că baza de calcul este valoarea totală de plată fără TVA, incluzând orice opțiuni și prelungiri prevăzute explicit în documentele achiziției. Regula are consecințe directe asupra alegerii procedurii: ignorarea opțiunilor și prelungirilor ar conduce la o subestimare și, implicit, la aplicarea unei proceduri necorespunzătoare. TVA nu se include niciodată în valoarea estimată — este o constantă a întregii legislații de achiziții. Limitarea la primul an de derulare este greșită: valoarea se raportează la întreaga durată a contractului. Rezultatul consultării pieței poate fundamenta estimarea, dar nu constituie prin el însuși metoda de calcul prevăzută de normă.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 16 alin. (1^1)",
-      "citat": "În aplicarea art. 11 alin. (1) din Lege, autoritatea contractantă calculează valoarea estimată a unei achiziții având în vedere valoarea totală de plată, fără TVA, estimată de autoritatea contractantă, luând în considerare orice eventuale forme de opțiuni și prelungiri ale contractului prevăzute în mod explicit în documentele achiziției.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -2591,6 +2568,29 @@ const INTREBARI = [
       "articol": "art. 3 alin. (5)",
       "citat": "Indicatorii de risc prevăzuți la alin. (2) și (3) sunt: a) impactul financiar al achiziției, respectiv al modificării contractuale; b) complexitatea obiectului contractului, respectiv a modificării contractuale; c) istoricul și experiența autorității contractante în aplicarea legislației menționate la art. 2 alin. (1) lit. g) din ordonanța de urgență.",
       "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-032",
+    "tip": "unic",
+    "test": 6,
+    "intrebare": "Care este criteriul relevant pentru punerea în corespondență a obiectului achiziției publice cu codul sau codurile CPV?",
+    "variante": [
+      "Clasificarea folosită în bugetul autorității contractante pentru linia de cheltuială respectivă",
+      "Ponderea valorică cea mai mare dintre elementele componente ale contractului",
+      "Codul CAEN principal al operatorilor economici cărora li se adresează achiziția",
+      "Activitatea care caracterizează scopul principal al contractului"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 16 alin. (2) impune alegerea codului sau codurilor CPV care descriu cât mai exact obiectul achiziției, criteriul determinant fiind activitatea ce caracterizează scopul principal al contractului. Ponderea valorică este un criteriu real, dar cu alt rol în legislația achizițiilor: el intervine la contractele mixte, pentru stabilirea regimului juridic aplicabil, nu la alegerea codului CPV. Clasificația bugetară nu are relevanță în identificarea CPV, iar codul CAEN descrie activitatea operatorului economic, nu obiectul contractului. Codul CPV corect este esențial pentru vizibilitatea anunțului și pentru raportarea achizițiilor, motiv pentru care este și una dintre informațiile minime obligatorii ale programului anual (art. 12 alin. (5) lit. b)).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 16 alin. (2)",
+      "citat": "Obiectul achiziției publice se pune în corespondență cu codul/codurile CPV care îl descriu cât mai exact, relevantă în acest context fiind activitatea ce caracterizează scopul principal al contractului.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -2642,29 +2642,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-032",
-    "tip": "unic",
-    "test": 6,
-    "intrebare": "Care este criteriul relevant pentru punerea în corespondență a obiectului achiziției publice cu codul sau codurile CPV?",
-    "variante": [
-      "Clasificarea folosită în bugetul autorității contractante pentru linia de cheltuială respectivă",
-      "Ponderea valorică cea mai mare dintre elementele componente ale contractului",
-      "Codul CAEN principal al operatorilor economici cărora li se adresează achiziția",
-      "Activitatea care caracterizează scopul principal al contractului"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 16 alin. (2) impune alegerea codului sau codurilor CPV care descriu cât mai exact obiectul achiziției, criteriul determinant fiind activitatea ce caracterizează scopul principal al contractului. Ponderea valorică este un criteriu real, dar cu alt rol în legislația achizițiilor: el intervine la contractele mixte, pentru stabilirea regimului juridic aplicabil, nu la alegerea codului CPV. Clasificația bugetară nu are relevanță în identificarea CPV, iar codul CAEN descrie activitatea operatorului economic, nu obiectul contractului. Codul CPV corect este esențial pentru vizibilitatea anunțului și pentru raportarea achizițiilor, motiv pentru care este și una dintre informațiile minime obligatorii ale programului anual (art. 12 alin. (5) lit. b)).",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 16 alin. (2)",
-      "citat": "Obiectul achiziției publice se pune în corespondență cu codul/codurile CPV care îl descriu cât mai exact, relevantă în acest context fiind activitatea ce caracterizează scopul principal al contractului.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98-N103",
     "tip": "unic",
     "test": 6,
@@ -2684,6 +2661,31 @@ const INTREBARI = [
       "articol": "art. 23",
       "citat": "În cazul contractelor de achiziție publică de servicii având ca obiect servicii bancare sau alte servicii financiare, valoarea estimată a achiziției se calculează pe baza onorariilor, comisioanelor ce urmează a fi plătite, dobânzilor și a oricăror altor forme de remunerare aferente serviciilor respective.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-033",
+    "tip": "multiplu",
+    "test": 6,
+    "intrebare": "Potrivit art. 17 alin. (1) din Normele metodologice aprobate prin H.G. nr. 395/2016, în funcție de care aspecte alege autoritatea contractantă procedura de atribuire?",
+    "variante": [
+      "Sursa de finanțare a contractului, respectiv fonduri publice naționale sau fonduri europene",
+      "Valoarea estimată a achiziției",
+      "Complexitatea contractului/acordului-cadru ce urmează a fi atribuit",
+      "Îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire"
+    ],
+    "corecte": [
+      1,
+      2,
+      3
+    ],
+    "explicatie": "Art. 17 alin. (1) din Normele metodologice enumeră trei aspecte: valoarea estimată a achiziției (lit. a)), complexitatea contractului/acordului-cadru ce urmează a fi atribuit (lit. b)) și îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire (lit. c)). Sursa de finanțare nu figurează printre aspectele enumerate la art. 17 alin. (1). În cadrul art. 17, fondurile nerambursabile apar doar la alin. (3), potrivit căruia, la proiectele finanțate din astfel de fonduri și/sau având ca obiect cercetarea-dezvoltarea, prevederile articolului se aplică prin raportare la durata contractului de finanțare/proiect. Capcană: sursa de finanțare este o informație obligatorie a programului anual al achizițiilor publice, potrivit art. 12 alin. (5) lit. d) din Normele metodologice.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 17 alin. (1) lit. a)-c)",
+      "citat": "Autoritatea contractantă alege procedura de atribuire în funcție de următoarele aspecte: a) valoarea estimată a achiziției; b) complexitatea contractului/acordului-cadru ce urmează a fi atribuit; c) îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -2757,26 +2759,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-033",
-    "tip": "multiplu",
+    "id": "N395A-034",
+    "tip": "unic",
     "test": 6,
-    "intrebare": "Potrivit art. 17 alin. (1) din Normele metodologice aprobate prin H.G. nr. 395/2016, în funcție de care aspecte alege autoritatea contractantă procedura de atribuire?",
+    "intrebare": "Cum se aplică regulile privind estimarea valorii și alegerea modalității de atribuire în cazul în care autoritatea contractantă implementează proiecte finanțate din fonduri nerambursabile și/sau având ca obiect cercetarea-dezvoltarea?",
     "variante": [
-      "Sursa de finanțare a contractului, respectiv fonduri publice naționale sau fonduri europene",
-      "Valoarea estimată a achiziției",
-      "Complexitatea contractului/acordului-cadru ce urmează a fi atribuit",
-      "Îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire"
+      "Prin raportare la durata contractului de finanțare/proiect",
+      "Prin raportare la durata de sustenabilitate impusă de finanțator după închiderea proiectului",
+      "Prin raportare la perioada de 12 luni anterioară inițierii procedurii",
+      "Prin raportare la exercițiul bugetar anual al autorității contractante"
     ],
     "corecte": [
-      1,
-      2,
-      3
+      0
     ],
-    "explicatie": "Art. 17 alin. (1) din Normele metodologice enumeră trei aspecte: valoarea estimată a achiziției (lit. a)), complexitatea contractului/acordului-cadru ce urmează a fi atribuit (lit. b)) și îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire (lit. c)). Sursa de finanțare nu figurează printre aspectele enumerate la art. 17 alin. (1). În cadrul art. 17, fondurile nerambursabile apar doar la alin. (3), potrivit căruia, la proiectele finanțate din astfel de fonduri și/sau având ca obiect cercetarea-dezvoltarea, prevederile articolului se aplică prin raportare la durata contractului de finanțare/proiect. Capcană: sursa de finanțare este o informație obligatorie a programului anual al achizițiilor publice, potrivit art. 12 alin. (5) lit. d) din Normele metodologice.",
+    "explicatie": "Art. 17 alin. (3) înlocuiește reperul temporal obișnuit cu durata contractului de finanțare/proiect, tocmai pentru că un proiect se derulează frecvent peste mai multe exerciții bugetare. Raportarea la exercițiul bugetar anual este regula implicită pentru achizițiile finanțate din bugetul propriu, dar nu se aplică proiectelor. Perioada de 12 luni anterioare este un reper folosit în alte contexte de agregare a valorii, nu aici. Durata de sustenabilitate post-implementare nu are relevanță la estimarea valorii. Reținem simetria cu art. 13: pentru aceleași proiecte se elaborează și un program al achizițiilor publice distinct pe proiect.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 17 alin. (1) lit. a)-c)",
-      "citat": "Autoritatea contractantă alege procedura de atribuire în funcție de următoarele aspecte: a) valoarea estimată a achiziției; b) complexitatea contractului/acordului-cadru ce urmează a fi atribuit; c) îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire.",
+      "articol": "art. 17 alin. (3)",
+      "citat": "În cazul în care autoritatea contractantă implementează proiecte finanțate din fonduri nerambursabile și/sau având ca obiect cercetarea-dezvoltarea, prevederile prezentului articol se aplică prin raportare la durata contractului de finanțare/proiect.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -2828,50 +2828,48 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-034",
+    "id": "L98A-045",
     "tip": "unic",
     "test": 7,
-    "intrebare": "Cum se aplică regulile privind estimarea valorii și alegerea modalității de atribuire în cazul în care autoritatea contractantă implementează proiecte finanțate din fonduri nerambursabile și/sau având ca obiect cercetarea-dezvoltarea?",
+    "intrebare": "Legea nr. 98/2016 nu se aplică anumitor contracte atribuite de o autoritate contractantă care furnizează servicii poștale, în scopul desfășurării unor activități expres enumerate. Care dintre următoarele NU se numără printre aceste activități?",
     "variante": [
-      "Prin raportare la durata contractului de finanțare/proiect",
-      "Prin raportare la durata de sustenabilitate impusă de finanțator după închiderea proiectului",
-      "Prin raportare la perioada de 12 luni anterioară inițierii procedurii",
-      "Prin raportare la exercițiul bugetar anual al autorității contractante"
+      "Servicii financiare care fac obiectul codurilor CPV cuprinse între 66100000-1 și 66720000-3, incluzând în principal mandate poștale și transferuri pe bază de conturi curente poștale.",
+      "Servicii de transport aerian de mărfuri prestate cu aeronave proprii pentru terți, fără legătură cu trimiterile poștale.",
+      "Servicii filatelice.",
+      "Servicii de logistică, constând în servicii care combină livrarea fizică și/sau depozitarea cu alte funcții decât cele poștale."
     ],
     "corecte": [
-      0
+      1
     ],
-    "explicatie": "Art. 17 alin. (3) înlocuiește reperul temporal obișnuit cu durata contractului de finanțare/proiect, tocmai pentru că un proiect se derulează frecvent peste mai multe exerciții bugetare. Raportarea la exercițiul bugetar anual este regula implicită pentru achizițiile finanțate din bugetul propriu, dar nu se aplică proiectelor. Perioada de 12 luni anterioare este un reper folosit în alte contexte de agregare a valorii, nu aici. Durata de sustenabilitate post-implementare nu are relevanță la estimarea valorii. Reținem simetria cu art. 13: pentru aceleași proiecte se elaborează și un program al achizițiilor publice distinct pe proiect.",
+    "explicatie": "Art. 26 alin. (2) enumeră limitativ patru activități pentru care legea nu se aplică atunci când achiziția este realizată de o autoritate contractantă furnizoare de servicii poștale: serviciile cu valoare adăugată legate de poșta electronică, serviciile financiare din intervalul CPV 66100000-1 – 66720000-3, serviciile filatelice și serviciile de logistică. Transportul aerian de mărfuri pentru terți nu figurează în această listă, deci nu beneficiază de exceptare în temeiul acestui text. Capcană conexă: art. 26 alin. (1) exceptează separat contractele sectoriale (atribuite de autorități care aplică legea privind achizițiile sectoriale) — nu confundați cele două alineate. De asemenea, exceptarea de la alin. (2) este funcțională: ea operează doar în scopul desfășurării activităților enumerate, nu pentru orice achiziție a operatorului poștal.",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 17 alin. (3)",
-      "citat": "În cazul în care autoritatea contractantă implementează proiecte finanțate din fonduri nerambursabile și/sau având ca obiect cercetarea-dezvoltarea, prevederile prezentului articol se aplică prin raportare la durata contractului de finanțare/proiect.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 26 alin. (2)",
+      "citat": "(2) Prezenta lege nu se aplică contractelor de achiziție publică, acordurilor-cadru și concursurilor de soluții atribuite sau organizate de o autoritate contractantă care furnizează servicii poștale în sensul dispozițiilor legii privind achizițiile sectoriale în scopul desfășurării următoarelor activități: a) servicii cu valoare adăugată în legătură cu poșta electronică, furnizate integral prin mijloace electronice [...] b) servicii financiare care fac obiectul codurilor CPV cuprinse între 66100000-1 și 66720000-3 și al dispozițiilor legii privind achizițiile sectoriale, care includ, în principal, mandate poștale și transferuri pe bază de conturi curente poștale; c) servicii filatelice; d) servicii de logistică, constând în servicii care combină livrarea fizică și/sau depozitarea cu alte funcții decât cele poștale.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
   {
-    "id": "L98C-051",
-    "tip": "multiplu",
+    "id": "N395A-035",
+    "tip": "unic",
     "test": 7,
-    "intrebare": "Care dintre următoarele afirmații privind perioadele de referință pentru dovedirea experienței similare (art. 179 din Legea nr. 98/2016) sunt corecte?",
+    "intrebare": "În ce etapă a procesului de achiziție publică se derulează consultarea pieței și cum se inițiază aceasta?",
     "variante": [
-      "Atunci când este necesar pentru asigurarea unui nivel corespunzător de concurență, autoritatea contractantă poate lua în considerare și lucrări, livrări sau servicii relevante realizate anterior perioadelor de referință",
-      "Lista lucrărilor realizate acoperă cel mult ultimii 5 ani",
-      "Lista principalelor livrări de produse sau prestări de servicii acoperă cel mult ultimii 3 ani",
-      "Perioadele de referință sunt fixe și nu pot fi extinse în niciun caz"
+      "În etapa de organizare a procedurii, prin transmiterea de invitații individuale operatorilor economici selectați de autoritatea contractantă",
+      "În etapa de evaluare a ofertelor, prin solicitarea de clarificări adresate ofertanților",
+      "În etapa de executare a contractului, prin publicarea unui anunț de intenție în Jurnalul Oficial al Uniunii Europene",
+      "În etapa de planificare/pregătire, prin publicarea în SEAP, precum și prin orice alte mijloace, a unui anunț privind consultarea"
     ],
     "corecte": [
-      0,
-      1,
-      2
+      3
     ],
-    "explicatie": "Art. 179 lit. a) prevede pentru lucrări o perioadă de cel mult ultimii 5 ani, însoțită de certificate de bună execuție pentru lucrările cele mai importante, iar lit. b) prevede pentru produse și servicii o perioadă de cel mult ultimii 3 ani, cu indicarea valorilor, datelor și beneficiarilor publici sau privați. Ambele litere conțin aceeași supapă: atunci când este necesar în scopul asigurării unui nivel corespunzător de concurență, autoritatea contractantă poate stabili că sunt luate în considerare și realizări mai vechi de 5, respectiv 3 ani. De aceea afirmația că perioadele de referință sunt fixe și nu pot fi extinse este falsă. Capcana clasică este inversarea perioadelor: 5 ani corespund lucrărilor (cu ciclu de execuție lung), iar 3 ani produselor și serviciilor.",
+    "explicatie": "Art. 18 alin. (1) plasează consultarea pieței în etapa de planificare/pregătire, ca parte a procesului de achiziție publică, și impune inițierea prin publicarea în SEAP a unui anunț privind consultarea, publicitate ce poate fi dublată prin orice alte mijloace. Consultarea este justificată de achiziționarea unor produse, servicii sau lucrări cu grad ridicat de complexitate tehnică, financiară sau contractuală ori din domenii cu progres tehnologic rapid. Invitațiile individuale nu pot înlocui anunțul — ele sunt posibile doar ulterior, ca întâlniri individuale sau comune (art. 19 alin. (4)). Etapa de organizare a procedurii începe prin transmiterea documentației de atribuire în SEAP (art. 10), iar solicitările de clarificări adresate ofertanților țin de evaluarea ofertelor, nu de consultarea pieței.",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 179 lit. a) și b)",
-      "citat": "o listă a lucrărilor realizate în cursul unei perioade care acoperă cel mult ultimii 5 ani, însoțită de certificate de bună execuție pentru lucrările cele mai importante; atunci când este necesar în scopul asigurării unui nivel corespunzător de concurență, autoritatea contractantă poate stabili că sunt luate în considerare lucrări relevante realizate cu mai mult de 5 ani în urmă; b) lista principalelor livrări de produse efectuate sau a principalelor servicii prestate în cursul unei perioade care acoperă cel mult ultimii 3 ani, cu indicarea valorilor, datelor și a beneficiarilor publici sau privați",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 18 alin. (1)",
+      "citat": "În condițiile art. 139 din Lege, autoritatea contractantă poate derula un proces de consultare a pieței, ca parte a procesului de achiziție publică, în cadrul etapei de planificare/pregătire, care se inițiază prin publicarea în SEAP, precum și prin orice alte mijloace, a unui anunț privind consultarea, în cazul în care dorește achiziționarea unor produse/servicii/lucrări cu grad ridicat de complexitate tehnică, financiară sau contractuală, ori din domenii cu un rapid progres tehnologic.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -2922,24 +2920,26 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-035",
-    "tip": "unic",
+    "id": "N395A-036",
+    "tip": "multiplu",
     "test": 7,
-    "intrebare": "În ce etapă a procesului de achiziție publică se derulează consultarea pieței și cum se inițiază aceasta?",
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele elemente trebuie să fie cuprinse în anunțul privind consultarea pieței?",
     "variante": [
-      "În etapa de organizare a procedurii, prin transmiterea de invitații individuale operatorilor economici selectați de autoritatea contractantă",
-      "În etapa de evaluare a ofertelor, prin solicitarea de clarificări adresate ofertanților",
-      "În etapa de executare a contractului, prin publicarea unui anunț de intenție în Jurnalul Oficial al Uniunii Europene",
-      "În etapa de planificare/pregătire, prin publicarea în SEAP, precum și prin orice alte mijloace, a unui anunț privind consultarea"
+      "Denumirea autorității contractante și datele de contact",
+      "Valoarea estimată a contractului care urmează să fie atribuit ca urmare a consultării",
+      "Adresa de internet unde sunt publicate informațiile cu privire la procesul de consultare a pieței",
+      "Aspectele supuse consultării"
     ],
     "corecte": [
+      0,
+      2,
       3
     ],
-    "explicatie": "Art. 18 alin. (1) plasează consultarea pieței în etapa de planificare/pregătire, ca parte a procesului de achiziție publică, și impune inițierea prin publicarea în SEAP a unui anunț privind consultarea, publicitate ce poate fi dublată prin orice alte mijloace. Consultarea este justificată de achiziționarea unor produse, servicii sau lucrări cu grad ridicat de complexitate tehnică, financiară sau contractuală ori din domenii cu progres tehnologic rapid. Invitațiile individuale nu pot înlocui anunțul — ele sunt posibile doar ulterior, ca întâlniri individuale sau comune (art. 19 alin. (4)). Etapa de organizare a procedurii începe prin transmiterea documentației de atribuire în SEAP (art. 10), iar solicitările de clarificări adresate ofertanților țin de evaluarea ofertelor, nu de consultarea pieței.",
+    "explicatie": "Art. 18 alin. (2) din Normele metodologice stabilește conținutul minim al anunțului privind consultarea pieței: denumirea autorității contractante și datele de contact (lit. a)), adresa de internet unde sunt publicate informațiile despre consultare (lit. b)), descrierea necesităților obiective și a constrângerilor (lit. c)), aspectele supuse consultării (lit. d)), termenul de transmitere a propunerilor (lit. e)), termenul de desfășurare a consultării (lit. f)) și descrierea modalității de desfășurare (lit. g)). Valoarea estimată nu figurează în lista de la art. 18 alin. (2). Art. 18 alin. (3) arată că aspectele supuse consultării privesc soluțiile tehnice, financiare sau contractuale și aspecte legate de strategia de contractare. Capcană: valoarea estimată este obligatorie în programul anual al achizițiilor publice (art. 12 alin. (5) lit. c) din Normele metodologice).",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 18 alin. (1)",
-      "citat": "În condițiile art. 139 din Lege, autoritatea contractantă poate derula un proces de consultare a pieței, ca parte a procesului de achiziție publică, în cadrul etapei de planificare/pregătire, care se inițiază prin publicarea în SEAP, precum și prin orice alte mijloace, a unui anunț privind consultarea, în cazul în care dorește achiziționarea unor produse/servicii/lucrări cu grad ridicat de complexitate tehnică, financiară sau contractuală, ori din domenii cu un rapid progres tehnologic.",
+      "articol": "art. 18 alin. (2) lit. a)-d)",
+      "citat": "Anunțul prevăzut la alin. (1) trebuie să conțină cel puțin următoarele elemente: a) denumirea autorității contractante și datele de contact; b) adresa de internet unde sunt publicate informațiile cu privire la procesul de consultare a pieței; c) descrierea necesităților obiective și constrângerilor de natură tehnică, financiară și/sau contractuală ce caracterizează nevoia autorității contractante în raport cu care se organizează respectiva consultare; d) aspectele supuse consultării;",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -2968,6 +2968,31 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98A-038",
+    "tip": "multiplu",
+    "test": 7,
+    "intrebare": "Care dintre următoarele contracte de servicii sunt EXCEPTATE de la aplicarea Legii nr. 98/2016, potrivit art. 29 alin. (1)? (selectați toate variantele corecte)",
+    "variante": [
+      "cumpărarea sau închirierea, prin orice mijloace financiare, de terenuri ori clădiri existente",
+      "contractele de muncă",
+      "serviciile de ambulanță pentru transportul pacienților",
+      "serviciile de arbitraj, mediere și alte forme de soluționare alternativă a disputelor"
+    ],
+    "corecte": [
+      0,
+      1,
+      3
+    ],
+    "explicatie": "Art. 29 alin. (1) exceptează, printre altele, cumpărarea/închirierea de terenuri, clădiri existente și alte bunuri imobile (lit. a)), serviciile de arbitraj și mediere (lit. c)), anumite servicii juridice, serviciile financiare privind instrumente financiare, împrumuturile și contractele de muncă (lit. g)). Capcana din varianta privind serviciile de ambulanță pentru transportul pacienților: serviciile de apărare civilă, protecție civilă și prevenirea pericolelor prestate de persoane fără scop patrimonial sunt exceptate, DAR „cu excepția serviciilor de ambulanță pentru transportul pacienților\" — acestea rămân deci supuse legii (excepție la excepție).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 29 alin. (1)",
+      "citat": "de servicii care au ca obiect: a) cumpărarea sau închirierea, prin orice mijloace financiare, de terenuri, clădiri existente, alte bunuri imobile ori a drepturilor asupra acestora; [...] c) servicii de arbitraj, mediere și alte forme de soluționare alternativă a disputelor; [...] g) contracte de muncă; h) servicii de apărare civilă, protecție civilă și prevenirea pericolelor, prestate de persoane fără scop patrimonial [...] cu excepția serviciilor de ambulanță pentru transportul pacienților;",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "N395A-001",
     "tip": "unic",
     "test": 7,
@@ -2987,31 +3012,6 @@ const INTREBARI = [
       "articol": "formula introductivă (preambul)",
       "citat": "În temeiul art. 108 din Constituția României, republicată, și al art. 233 din Legea nr. 98/2016 privind achizițiile publice, Guvernul României adoptă prezenta hotărâre.",
       "fisier": "02_HG_395-2016_act_de_aprobare.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395A-036",
-    "tip": "multiplu",
-    "test": 7,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele elemente trebuie să fie cuprinse în anunțul privind consultarea pieței?",
-    "variante": [
-      "Denumirea autorității contractante și datele de contact",
-      "Valoarea estimată a contractului care urmează să fie atribuit ca urmare a consultării",
-      "Adresa de internet unde sunt publicate informațiile cu privire la procesul de consultare a pieței",
-      "Aspectele supuse consultării"
-    ],
-    "corecte": [
-      0,
-      2,
-      3
-    ],
-    "explicatie": "Art. 18 alin. (2) din Normele metodologice stabilește conținutul minim al anunțului privind consultarea pieței: denumirea autorității contractante și datele de contact (lit. a)), adresa de internet unde sunt publicate informațiile despre consultare (lit. b)), descrierea necesităților obiective și a constrângerilor (lit. c)), aspectele supuse consultării (lit. d)), termenul de transmitere a propunerilor (lit. e)), termenul de desfășurare a consultării (lit. f)) și descrierea modalității de desfășurare (lit. g)). Valoarea estimată nu figurează în lista de la art. 18 alin. (2). Art. 18 alin. (3) arată că aspectele supuse consultării privesc soluțiile tehnice, financiare sau contractuale și aspecte legate de strategia de contractare. Capcană: valoarea estimată este obligatorie în programul anual al achizițiilor publice (art. 12 alin. (5) lit. c) din Normele metodologice).",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 18 alin. (2) lit. a)-d)",
-      "citat": "Anunțul prevăzut la alin. (1) trebuie să conțină cel puțin următoarele elemente: a) denumirea autorității contractante și datele de contact; b) adresa de internet unde sunt publicate informațiile cu privire la procesul de consultare a pieței; c) descrierea necesităților obiective și constrângerilor de natură tehnică, financiară și/sau contractuală ce caracterizează nevoia autorității contractante în raport cu care se organizează respectiva consultare; d) aspectele supuse consultării;",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -3085,27 +3085,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98A-038",
-    "tip": "multiplu",
+    "id": "N395A-037",
+    "tip": "unic",
     "test": 7,
-    "intrebare": "Care dintre următoarele contracte de servicii sunt EXCEPTATE de la aplicarea Legii nr. 98/2016, potrivit art. 29 alin. (1)? (selectați toate variantele corecte)",
+    "intrebare": "Care este termenul-limită până la care autoritatea contractantă are obligația de a publica în SEAP rezultatul procesului de consultare a pieței?",
     "variante": [
-      "cumpărarea sau închirierea, prin orice mijloace financiare, de terenuri ori clădiri existente",
-      "contractele de muncă",
-      "serviciile de ambulanță pentru transportul pacienților",
-      "serviciile de arbitraj, mediere și alte forme de soluționare alternativă a disputelor"
+      "În termen de 15 zile de la data publicării anunțului privind consultarea",
+      "Cel mai târziu la data-limită de depunere a ofertelor",
+      "În termen de 5 zile lucrătoare de la încheierea procesului de consultare",
+      "Cel mai târziu la momentul inițierii procedurii de atribuire"
     ],
     "corecte": [
-      0,
-      1,
       3
     ],
-    "explicatie": "Art. 29 alin. (1) exceptează, printre altele, cumpărarea/închirierea de terenuri, clădiri existente și alte bunuri imobile (lit. a)), serviciile de arbitraj și mediere (lit. c)), anumite servicii juridice, serviciile financiare privind instrumente financiare, împrumuturile și contractele de muncă (lit. g)). Capcana din varianta privind serviciile de ambulanță pentru transportul pacienților: serviciile de apărare civilă, protecție civilă și prevenirea pericolelor prestate de persoane fără scop patrimonial sunt exceptate, DAR „cu excepția serviciilor de ambulanță pentru transportul pacienților\" — acestea rămân deci supuse legii (excepție la excepție).",
+    "explicatie": "Art. 19 alin. (5) leagă termenul de publicare de un eveniment procedural, nu de o durată fixă: rezultatul consultării trebuie să fie public cel târziu la momentul inițierii procedurii de atribuire. Rațiunea ține de principiul transparenței și de egalitatea de tratament — toți potențialii ofertanți trebuie să aibă acces la aceleași informații atunci când încep să își pregătească ofertele. Publicarea abia la data-limită de depunere a ofertelor ar fi tardivă și ar avantaja participanții la consultare. Termenele de 5 zile lucrătoare și de 15 zile sunt valori reale din alte contexte ale Normelor (publicarea extraselor din programul anual, respectiv prelungirea termenului de constituire a garanției de bună execuție), dar nu se aplică aici.",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 29 alin. (1)",
-      "citat": "de servicii care au ca obiect: a) cumpărarea sau închirierea, prin orice mijloace financiare, de terenuri, clădiri existente, alte bunuri imobile ori a drepturilor asupra acestora; [...] c) servicii de arbitraj, mediere și alte forme de soluționare alternativă a disputelor; [...] g) contracte de muncă; h) servicii de apărare civilă, protecție civilă și prevenirea pericolelor, prestate de persoane fără scop patrimonial [...] cu excepția serviciilor de ambulanță pentru transportul pacienților;",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 19 alin. (5)",
+      "citat": "Autoritatea contractantă are obligația de a publica în SEAP rezultatul procesului de consultare a pieței, dar nu mai târziu de momentul inițierii procedurii de atribuire.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -3156,29 +3154,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-037",
-    "tip": "unic",
-    "test": 7,
-    "intrebare": "Care este termenul-limită până la care autoritatea contractantă are obligația de a publica în SEAP rezultatul procesului de consultare a pieței?",
-    "variante": [
-      "În termen de 15 zile de la data publicării anunțului privind consultarea",
-      "Cel mai târziu la data-limită de depunere a ofertelor",
-      "În termen de 5 zile lucrătoare de la încheierea procesului de consultare",
-      "Cel mai târziu la momentul inițierii procedurii de atribuire"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 19 alin. (5) leagă termenul de publicare de un eveniment procedural, nu de o durată fixă: rezultatul consultării trebuie să fie public cel târziu la momentul inițierii procedurii de atribuire. Rațiunea ține de principiul transparenței și de egalitatea de tratament — toți potențialii ofertanți trebuie să aibă acces la aceleași informații atunci când încep să își pregătească ofertele. Publicarea abia la data-limită de depunere a ofertelor ar fi tardivă și ar avantaja participanții la consultare. Termenele de 5 zile lucrătoare și de 15 zile sunt valori reale din alte contexte ale Normelor (publicarea extraselor din programul anual, respectiv prelungirea termenului de constituire a garanției de bună execuție), dar nu se aplică aici.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 19 alin. (5)",
-      "citat": "Autoritatea contractantă are obligația de a publica în SEAP rezultatul procesului de consultare a pieței, dar nu mai târziu de momentul inițierii procedurii de atribuire.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L500-N103",
     "tip": "unic",
     "test": 7,
@@ -3198,6 +3173,29 @@ const INTREBARI = [
       "articol": "art. 7^1",
       "citat": "Deficitul bugetar calculat conform Sistemului european de conturi se raportează potrivit metodologiei europene de către instituțiile abilitate în acest scop.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-038",
+    "tip": "unic",
+    "test": 7,
+    "intrebare": "Ce regim au opiniile, sugestiile sau recomandările primite de autoritatea contractantă în cadrul procesului de consultare a pieței?",
+    "variante": [
+      "Autoritatea contractantă este obligată să răspundă motivat fiecărei persoane care le-a transmis, în termen de 10 zile",
+      "Autoritatea contractantă este obligată să le preia integral în documentația de atribuire",
+      "Autoritatea contractantă le poate lua în considerare în cazul în care le consideră relevante",
+      "Autoritatea contractantă este obligată să le supună avizului conform al ANAP înainte de a le prelua"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 19 alin. (3) consacră caracterul facultativ al preluării: autoritatea contractantă poate lua în considerare opiniile, sugestiile sau recomandările primite, numai dacă le consideră relevante. Consultarea pieței este un instrument de informare, nu un mecanism de codecizie, tocmai pentru a nu permite operatorilor economici să modeleze documentația în avantajul lor. Nu există obligația unui răspuns individual motivat; obligația de transparență se îndeplinește prin publicarea rezultatului consultării (alin. (5)). ANAP nu emite aviz conform asupra rezultatului consultării — avizul conform intervine în controlul ex ante al documentației de atribuire. Autoritatea poate însă decide, potrivit alin. (2), ca transmiterea să se facă numai prin mijloace electronice, la o adresă dedicată.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 19 alin. (2) și (3)",
+      "citat": "Autoritatea contractantă poate decide ca opiniile, sugestiile sau recomandările să fie transmise numai prin mijloace electronice la o adresă dedicată. [...] Autoritatea contractantă poate lua în considerare opiniile, sugestiile sau recomandările primite, în cazul în care le consideră relevante.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -3248,32 +3246,9 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-038",
-    "tip": "unic",
-    "test": 7,
-    "intrebare": "Ce regim au opiniile, sugestiile sau recomandările primite de autoritatea contractantă în cadrul procesului de consultare a pieței?",
-    "variante": [
-      "Autoritatea contractantă este obligată să răspundă motivat fiecărei persoane care le-a transmis, în termen de 10 zile",
-      "Autoritatea contractantă este obligată să le preia integral în documentația de atribuire",
-      "Autoritatea contractantă le poate lua în considerare în cazul în care le consideră relevante",
-      "Autoritatea contractantă este obligată să le supună avizului conform al ANAP înainte de a le prelua"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 19 alin. (3) consacră caracterul facultativ al preluării: autoritatea contractantă poate lua în considerare opiniile, sugestiile sau recomandările primite, numai dacă le consideră relevante. Consultarea pieței este un instrument de informare, nu un mecanism de codecizie, tocmai pentru a nu permite operatorilor economici să modeleze documentația în avantajul lor. Nu există obligația unui răspuns individual motivat; obligația de transparență se îndeplinește prin publicarea rezultatului consultării (alin. (5)). ANAP nu emite aviz conform asupra rezultatului consultării — avizul conform intervine în controlul ex ante al documentației de atribuire. Autoritatea poate însă decide, potrivit alin. (2), ca transmiterea să se facă numai prin mijloace electronice, la o adresă dedicată.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 19 alin. (2) și (3)",
-      "citat": "Autoritatea contractantă poate decide ca opiniile, sugestiile sau recomandările să fie transmise numai prin mijloace electronice la o adresă dedicată. [...] Autoritatea contractantă poate lua în considerare opiniile, sugestiile sau recomandările primite, în cazul în care le consideră relevante.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98A-046",
     "tip": "multiplu",
-    "test": 8,
+    "test": 7,
     "intrebare": "Care dintre următoarele condiții trebuie îndeplinite în mod CUMULATIV pentru ca atribuirea unui contract de către o autoritate contractantă unei persoane juridice controlate („in-house”) să fie exceptată de la aplicarea Legii nr. 98/2016, potrivit art. 31 alin. (1)?",
     "variante": [
       "Nu există participare privată directă la capitalul persoanei juridice controlate, cu excepția formelor de participare a capitalului privat care nu oferă controlul sau dreptul de veto, dar a căror existență este necesară potrivit dispozițiilor legale, în conformitate cu Tratatele, și care nu exercită o influență determinantă asupra acesteia.",
@@ -3292,6 +3267,29 @@ const INTREBARI = [
       "articol": "art. 31 alin. (1)",
       "citat": "(1) Prezenta lege nu se aplică contractelor de achiziție publică/acordurilor-cadru atribuite de o autoritate contractantă unei persoane juridice de drept privat sau de drept public în cazul în care sunt îndeplinite cumulativ următoarele condiții: a) autoritatea contractantă exercită asupra persoanei juridice în cauză un control similar [...] b) mai mult de 80% din activitățile persoanei juridice controlate sunt efectuate în vederea îndeplinirii sarcinilor care îi sunt încredințate de către autoritatea contractantă [...] c) nu există participare privată directă la capitalul persoanei juridice controlate, cu excepția formelor de participare a capitalului privat care nu oferă controlul sau dreptul de veto, dar a căror existență este necesară potrivit dispozițiilor legale, în conformitate cu Tratatele, și care nu exercită o influență determinantă asupra persoanei juridice controlate.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-039",
+    "tip": "unic",
+    "test": 8,
+    "intrebare": "Care dintre următoarele NU face parte din documentația de atribuire, potrivit art. 20 alin. (1) din Norme?",
+    "variante": [
+      "Strategia de contractare",
+      "Proiectul de contract conținând clauzele contractuale obligatorii",
+      "Caietul de sarcini sau documentul descriptiv",
+      "DUAE și instrucțiunile către ofertanți/candidați"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Documentația de atribuire este alcătuită din patru componente: DUAE și instrucțiunile către ofertanți/candidați, caietul de sarcini sau documentul descriptiv, proiectul de contract cu clauzele contractuale obligatorii și formularele/modelele de documente. Strategia de contractare nu face parte din documentația de atribuire, ci din documentele-suport, alături de declarația privind persoanele care dețin funcții de decizie (art. 21 alin. (3) lit. b)) — distincția este relevantă practic, pentru că documentele-suport se transmit spre publicare în SEAP împreună cu documentația, dar au un alt regim și o altă finalitate (fundamentarea deciziilor autorității și verificarea de către ANAP). Reținem și că documentul descriptiv înlocuiește caietul de sarcini doar la dialog competitiv, negociere și parteneriat pentru inovare.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 20 alin. (1) lit. a)-d)",
+      "citat": "Documentația de atribuire este alcătuită din următoarele: a) DUAE și instrucțiunile către ofertanți/candidați. [...] b) caietul de sarcini sau documentul descriptiv, acesta din urmă fiind aplicabil în cazul procedurilor de dialog competitiv, de negociere sau de parteneriat pentru inovare; [...] c) proiectul de contract conținând clauzele contractuale obligatorii; d) formulare și modele de documente.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -3319,24 +3317,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-039",
+    "id": "N395A-040",
     "tip": "unic",
     "test": 8,
-    "intrebare": "Care dintre următoarele NU face parte din documentația de atribuire, potrivit art. 20 alin. (1) din Norme?",
+    "intrebare": "Ce rol au, potrivit Normelor metodologice, informațiile cuprinse în instrucțiunile către ofertanți/candidați?",
     "variante": [
-      "Strategia de contractare",
-      "Proiectul de contract conținând clauzele contractuale obligatorii",
-      "Caietul de sarcini sau documentul descriptiv",
-      "DUAE și instrucțiunile către ofertanți/candidați"
+      "Constituie bază pentru generarea automată de către SEAP a anunțului de participare/simplificat/de concurs",
+      "Constituie bază pentru calcularea valorii estimate a contractului de achiziție publică",
+      "Constituie anexă la contractul de achiziție publică ce urmează a fi semnat cu ofertantul câștigător",
+      "Constituie bază pentru elaborarea de către ANAP a avizului conform asupra documentației de atribuire"
     ],
     "corecte": [
       0
     ],
-    "explicatie": "Documentația de atribuire este alcătuită din patru componente: DUAE și instrucțiunile către ofertanți/candidați, caietul de sarcini sau documentul descriptiv, proiectul de contract cu clauzele contractuale obligatorii și formularele/modelele de documente. Strategia de contractare nu face parte din documentația de atribuire, ci din documentele-suport, alături de declarația privind persoanele care dețin funcții de decizie (art. 21 alin. (3) lit. b)) — distincția este relevantă practic, pentru că documentele-suport se transmit spre publicare în SEAP împreună cu documentația, dar au un alt regim și o altă finalitate (fundamentarea deciziilor autorității și verificarea de către ANAP). Reținem și că documentul descriptiv înlocuiește caietul de sarcini doar la dialog competitiv, negociere și parteneriat pentru inovare.",
+    "explicatie": "Art. 20 alin. (3) precizează că instrucțiunile către ofertanți/candidați cuprind formalitățile procedurale — modul de structurare a informațiilor, precizări privind garanțiile solicitate, modul de întocmire a propunerii tehnice și financiare, criteriul de atribuire, termenele procedurale și căile de atac — iar toate aceste informații constituie baza pentru generarea automată de către SEAP a anunțului de participare/simplificat/de concurs. Este motivul pentru care erorile din instrucțiuni se propagă direct în anunț. Avizul conform al ANAP se emite în cadrul controlului ex ante, pe baza întregii documentații, nu doar a instrucțiunilor. Instrucțiunile nu devin anexă la contract — anexă devine, de exemplu, garanția de bună execuție (art. 40 alin. (1^1)). Valoarea estimată se determină anterior, în etapa de planificare (art. 16).",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 20 alin. (1) lit. a)-d)",
-      "citat": "Documentația de atribuire este alcătuită din următoarele: a) DUAE și instrucțiunile către ofertanți/candidați. [...] b) caietul de sarcini sau documentul descriptiv, acesta din urmă fiind aplicabil în cazul procedurilor de dialog competitiv, de negociere sau de parteneriat pentru inovare; [...] c) proiectul de contract conținând clauzele contractuale obligatorii; d) formulare și modele de documente.",
+      "articol": "art. 20 alin. (3)",
+      "citat": "Instrucțiunile către ofertanți/candidați prevăzute la alin. (1) lit. a) conțin detaliile referitoare la formalitățile ce trebuie îndeplinite în legătură cu procedura de atribuire în cauză, [...] Toate aceste informații constituie bază pentru generarea automată de către SEAP a anunțului de participare/simplificat/de concurs.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -3434,24 +3432,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-040",
+    "id": "N395A-041",
     "tip": "unic",
     "test": 8,
-    "intrebare": "Ce rol au, potrivit Normelor metodologice, informațiile cuprinse în instrucțiunile către ofertanți/candidați?",
+    "intrebare": "Ce se întâmplă în cazul în care există discrepanțe între informațiile prevăzute în DUAE și cele prevăzute în anunțul de participare/simplificat/de concurs?",
     "variante": [
-      "Constituie bază pentru generarea automată de către SEAP a anunțului de participare/simplificat/de concurs",
-      "Constituie bază pentru calcularea valorii estimate a contractului de achiziție publică",
-      "Constituie anexă la contractul de achiziție publică ce urmează a fi semnat cu ofertantul câștigător",
-      "Constituie bază pentru elaborarea de către ANAP a avizului conform asupra documentației de atribuire"
+      "Prevalează informațiile din anunț, DUAE urmând a fi revizuit corespunzător",
+      "Prevalează informația mai favorabilă operatorilor economici, stabilită de comisia de evaluare",
+      "Prevalează informațiile din DUAE, anunțul urmând a fi corectat printr-o erată publicată în SEAP",
+      "Procedura de atribuire se anulează de drept, ca urmare a neconcordanței documentelor achiziției"
     ],
     "corecte": [
       0
     ],
-    "explicatie": "Art. 20 alin. (3) precizează că instrucțiunile către ofertanți/candidați cuprind formalitățile procedurale — modul de structurare a informațiilor, precizări privind garanțiile solicitate, modul de întocmire a propunerii tehnice și financiare, criteriul de atribuire, termenele procedurale și căile de atac — iar toate aceste informații constituie baza pentru generarea automată de către SEAP a anunțului de participare/simplificat/de concurs. Este motivul pentru care erorile din instrucțiuni se propagă direct în anunț. Avizul conform al ANAP se emite în cadrul controlului ex ante, pe baza întregii documentații, nu doar a instrucțiunilor. Instrucțiunile nu devin anexă la contract — anexă devine, de exemplu, garanția de bună execuție (art. 40 alin. (1^1)). Valoarea estimată se determină anterior, în etapa de planificare (art. 16).",
+    "explicatie": "Art. 20 alin. (7) instituie prevalența anunțului de participare/simplificat/de concurs, DUAE fiind cel care se revizuiește. Soluția este firească: anunțul este actul de publicitate cu forță juridică, generat automat de SEAP pe baza instrucțiunilor către ofertanți, în timp ce DUAE este un formular declarativ preliminar. Discrepanța nu conduce la anularea procedurii — remediul este corectarea DUAE. Nu există regula „informației mai favorabile”, iar comisia de evaluare nu are competența de a alege între cerințe contradictorii. Capcană conexă: criteriile de calificare și de selecție care apar în caietul de sarcini, dar nu și în anunț, sunt considerate clauze nescrise (art. 30 alin. (6)) — tot o expresie a supremației anunțului.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 20 alin. (3)",
-      "citat": "Instrucțiunile către ofertanți/candidați prevăzute la alin. (1) lit. a) conțin detaliile referitoare la formalitățile ce trebuie îndeplinite în legătură cu procedura de atribuire în cauză, [...] Toate aceste informații constituie bază pentru generarea automată de către SEAP a anunțului de participare/simplificat/de concurs.",
+      "articol": "art. 20 alin. (7)",
+      "citat": "În cazul în care există discrepanțe între informațiile prevăzute în DUAE și cele prevăzute în anunțul de participare/simplificat/de concurs, prevalează informațiile din anunț, DUAE urmând a fi revizuit corespunzător.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -3504,29 +3502,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-041",
-    "tip": "unic",
-    "test": 8,
-    "intrebare": "Ce se întâmplă în cazul în care există discrepanțe între informațiile prevăzute în DUAE și cele prevăzute în anunțul de participare/simplificat/de concurs?",
-    "variante": [
-      "Prevalează informațiile din anunț, DUAE urmând a fi revizuit corespunzător",
-      "Prevalează informația mai favorabilă operatorilor economici, stabilită de comisia de evaluare",
-      "Prevalează informațiile din DUAE, anunțul urmând a fi corectat printr-o erată publicată în SEAP",
-      "Procedura de atribuire se anulează de drept, ca urmare a neconcordanței documentelor achiziției"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 20 alin. (7) instituie prevalența anunțului de participare/simplificat/de concurs, DUAE fiind cel care se revizuiește. Soluția este firească: anunțul este actul de publicitate cu forță juridică, generat automat de SEAP pe baza instrucțiunilor către ofertanți, în timp ce DUAE este un formular declarativ preliminar. Discrepanța nu conduce la anularea procedurii — remediul este corectarea DUAE. Nu există regula „informației mai favorabile”, iar comisia de evaluare nu are competența de a alege între cerințe contradictorii. Capcană conexă: criteriile de calificare și de selecție care apar în caietul de sarcini, dar nu și în anunț, sunt considerate clauze nescrise (art. 30 alin. (6)) — tot o expresie a supremației anunțului.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 20 alin. (7)",
-      "citat": "În cazul în care există discrepanțe între informațiile prevăzute în DUAE și cele prevăzute în anunțul de participare/simplificat/de concurs, prevalează informațiile din anunț, DUAE urmând a fi revizuit corespunzător.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGB-017",
     "tip": "unic",
     "test": 8,
@@ -3573,27 +3548,27 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500-N104",
+    "id": "N395A-042",
     "tip": "multiplu",
     "test": 8,
-    "intrebare": "Potrivit principiului publicității consacrat de Legea nr. 500/2002 privind finanțele publice, prin care dintre următoarele se realizează deschiderea și transparența sistemului bugetar?",
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în cazul acordului-cadru, care dintre următoarele informații specifice trebuie să se regăsească în anunțul de participare/simplificat?",
     "variante": [
-      "difuzarea prin mijloacele de informare în masă a tuturor informațiilor și documentelor privind conținutul bugetului, inclusiv a celor nepublicabile prevăzute de lege",
-      "publicarea în Monitorul Oficial al României, Partea I, a actelor normative de aprobare a bugetelor și a conturilor anuale de execuție a acestora",
-      "dezbaterea publică a conturilor generale anuale de execuție a bugetelor, cu prilejul aprobării acestora",
-      "dezbaterea publică a proiectelor de buget, cu prilejul aprobării acestora"
+      "Frecvența de atribuire a contractelor subsecvente",
+      "Opțiunea de a atribui contractele subsecvente cu sau fără reluarea competiției, în cazul acordului-cadru încheiat cu mai mulți operatori economici",
+      "Numele persoanelor desemnate în comisia de evaluare a ofertelor",
+      "Numărul sau intervalul în care se va încadra numărul de operatori economici care vor fi parte a acordului-cadru"
     ],
     "corecte": [
+      0,
       1,
-      2,
       3
     ],
-    "explicatie": "Art. 9 enumeră patru mijloace ale transparenței: dezbaterea publică a proiectelor de buget (lit. a)), dezbaterea publică a conturilor generale anuale de execuție (lit. b)), publicarea în Monitorul Oficial, Partea I, a actelor de aprobare a bugetelor și a conturilor de execuție (lit. c)) și mijloacele de informare în masă (lit. d)). Varianta despre difuzarea tuturor informațiilor, inclusiv a celor nepublicabile, este greșită: lit. d) exceptează expres informațiile și documentele nepublicabile prevăzute de lege. Capcana de examen constă tocmai în omiterea acestei excepții. Dezbaterea publică are loc, atât la proiectele de buget, cât și la conturile de execuție, cu prilejul aprobării lor, potrivit art. 9 lit. a) și b).",
+    "explicatie": "Art. 20 alin. (8) din Normele metodologice impune un set minim de informații specifice acordului-cadru: numărul sau intervalul de operatori economici (lit. a)), opțiunea atribuirii contractelor subsecvente cu/fără reluarea competiției (lit. b)), opțiunea licitației electronice la reluarea competiției (lit. c)), frecvența de atribuire a contractelor subsecvente (lit. d)), criteriul de atribuire și factorii de evaluare pentru contractele subsecvente (lit. e)), estimările cantităților minime și maxime (lit. f)), estimarea valorii celui mai mare contract subsecvent (lit. g)) și estimarea valorii maxime a acordului-cadru (lit. h)). Numele membrilor comisiei de evaluare nu figurează în acest set de informații specifice acordului-cadru. Art. 21 alin. (6) din Normele metodologice cere precizarea în anunțul de participare/simplificat a numelui, prenumelui și funcției persoanelor care dețin funcții de decizie, prevăzute la alin. (5), în vederea analizării unei situații de conflict de interese — de aici plauzibilitatea distractorului, dar regula nu este specifică acordului-cadru. Estimarea valorii celui mai mare contract subsecvent contează și pentru garanția de participare, a cărei valoare nu poate depăși, în cazul acordului-cadru, 1% din valoarea estimată a celui mai mare contract subsecvent (art. 35 din Normele metodologice).",
     "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 9",
-      "citat": "Sistemul bugetar este deschis și transparent, acestea realizându-se prin: a) dezbaterea publică a proiectelor de buget, cu prilejul aprobării acestora; b) dezbaterea publică a conturilor generale anuale de execuție a bugetelor, cu prilejul aprobării acestora; c) publicarea în Monitorul Oficial al României, Partea I, a actelor normative de aprobare a bugetelor și conturilor anuale de execuție a acestora; d) mijloacele de informare în masa, pentru difuzarea informațiilor asupra conținutului bugetului, exceptând informațiile și documentele nepublicabile, prevăzute de lege.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 20 alin. (8) lit. a), b) și d)",
+      "citat": "În cazul acordului-cadru, anunțul de participare/ simplificat trebuie să conțină și un set minim de informații specifice referitoare la: [...] a) numărul sau intervalul în care se va încadra numărul de operatori economici care vor fi parte a acordului-cadru ce urmează să fie încheiat; b) opțiunea de a atribui contractele subsecvente încheierii acordului-cadru cu/fără reluarea competiției, în cazul în care acordul-cadru urmează să fie încheiat cu mai mulți operatori economici; [...] d) frecvența de atribuire a contractelor subsecvente;",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -3621,26 +3596,49 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-042",
+    "id": "L500-N104",
     "tip": "multiplu",
     "test": 8,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în cazul acordului-cadru, care dintre următoarele informații specifice trebuie să se regăsească în anunțul de participare/simplificat?",
+    "intrebare": "Potrivit principiului publicității consacrat de Legea nr. 500/2002 privind finanțele publice, prin care dintre următoarele se realizează deschiderea și transparența sistemului bugetar?",
     "variante": [
-      "Frecvența de atribuire a contractelor subsecvente",
-      "Opțiunea de a atribui contractele subsecvente cu sau fără reluarea competiției, în cazul acordului-cadru încheiat cu mai mulți operatori economici",
-      "Numele persoanelor desemnate în comisia de evaluare a ofertelor",
-      "Numărul sau intervalul în care se va încadra numărul de operatori economici care vor fi parte a acordului-cadru"
+      "difuzarea prin mijloacele de informare în masă a tuturor informațiilor și documentelor privind conținutul bugetului, inclusiv a celor nepublicabile prevăzute de lege",
+      "publicarea în Monitorul Oficial al României, Partea I, a actelor normative de aprobare a bugetelor și a conturilor anuale de execuție a acestora",
+      "dezbaterea publică a conturilor generale anuale de execuție a bugetelor, cu prilejul aprobării acestora",
+      "dezbaterea publică a proiectelor de buget, cu prilejul aprobării acestora"
     ],
     "corecte": [
-      0,
       1,
+      2,
       3
     ],
-    "explicatie": "Art. 20 alin. (8) din Normele metodologice impune un set minim de informații specifice acordului-cadru: numărul sau intervalul de operatori economici (lit. a)), opțiunea atribuirii contractelor subsecvente cu/fără reluarea competiției (lit. b)), opțiunea licitației electronice la reluarea competiției (lit. c)), frecvența de atribuire a contractelor subsecvente (lit. d)), criteriul de atribuire și factorii de evaluare pentru contractele subsecvente (lit. e)), estimările cantităților minime și maxime (lit. f)), estimarea valorii celui mai mare contract subsecvent (lit. g)) și estimarea valorii maxime a acordului-cadru (lit. h)). Numele membrilor comisiei de evaluare nu figurează în acest set de informații specifice acordului-cadru. Art. 21 alin. (6) din Normele metodologice cere precizarea în anunțul de participare/simplificat a numelui, prenumelui și funcției persoanelor care dețin funcții de decizie, prevăzute la alin. (5), în vederea analizării unei situații de conflict de interese — de aici plauzibilitatea distractorului, dar regula nu este specifică acordului-cadru. Estimarea valorii celui mai mare contract subsecvent contează și pentru garanția de participare, a cărei valoare nu poate depăși, în cazul acordului-cadru, 1% din valoarea estimată a celui mai mare contract subsecvent (art. 35 din Normele metodologice).",
+    "explicatie": "Art. 9 enumeră patru mijloace ale transparenței: dezbaterea publică a proiectelor de buget (lit. a)), dezbaterea publică a conturilor generale anuale de execuție (lit. b)), publicarea în Monitorul Oficial, Partea I, a actelor de aprobare a bugetelor și a conturilor de execuție (lit. c)) și mijloacele de informare în masă (lit. d)). Varianta despre difuzarea tuturor informațiilor, inclusiv a celor nepublicabile, este greșită: lit. d) exceptează expres informațiile și documentele nepublicabile prevăzute de lege. Capcana de examen constă tocmai în omiterea acestei excepții. Dezbaterea publică are loc, atât la proiectele de buget, cât și la conturile de execuție, cu prilejul aprobării lor, potrivit art. 9 lit. a) și b).",
+    "sursa": {
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 9",
+      "citat": "Sistemul bugetar este deschis și transparent, acestea realizându-se prin: a) dezbaterea publică a proiectelor de buget, cu prilejul aprobării acestora; b) dezbaterea publică a conturilor generale anuale de execuție a bugetelor, cu prilejul aprobării acestora; c) publicarea în Monitorul Oficial al României, Partea I, a actelor normative de aprobare a bugetelor și conturilor anuale de execuție a acestora; d) mijloacele de informare în masa, pentru difuzarea informațiilor asupra conținutului bugetului, exceptând informațiile și documentele nepublicabile, prevăzute de lege.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-043",
+    "tip": "unic",
+    "test": 8,
+    "intrebare": "Care este limita maximă a valorii totale a primelor care pot fi acordate participanților la dialog, în cazul procedurii de dialog competitiv?",
+    "variante": [
+      "5% din valoarea estimată a contractului care urmează să fie atribuit",
+      "10% din bugetul disponibil al autorității contractante pentru achiziția respectivă",
+      "1% din valoarea estimată a contractului care urmează să fie atribuit",
+      "2% din valoarea estimată a contractului care urmează să fie atribuit"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 20 alin. (14) plafonează valoarea totală a primelor la 2% din valoarea estimată a contractului, primele stabilindu-se în limita bugetului disponibil și în funcție de cheltuielile specifice implicate de participarea la dialog; ele se reflectă ca o cheltuială de aceeași natură cu achiziția publică. Procentul de 1% este o valoare reală, dar cu alt rol: este plafonul garanției de participare (art. 154 alin. (2) din Legea nr. 98/2016). Nu există praguri de 5% sau de 10% în această materie. Reține corelativul de la alin. (15): operatorul economic a cărui ofertă este declarată câștigătoare este exceptat de la acordarea primelor, întrucât el este deja remunerat prin contract.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 20 alin. (8) lit. a), b) și d)",
-      "citat": "În cazul acordului-cadru, anunțul de participare/ simplificat trebuie să conțină și un set minim de informații specifice referitoare la: [...] a) numărul sau intervalul în care se va încadra numărul de operatori economici care vor fi parte a acordului-cadru ce urmează să fie încheiat; b) opțiunea de a atribui contractele subsecvente încheierii acordului-cadru cu/fără reluarea competiției, în cazul în care acordul-cadru urmează să fie încheiat cu mai mulți operatori economici; [...] d) frecvența de atribuire a contractelor subsecvente;",
+      "articol": "art. 20 alin. (14)",
+      "citat": "Primele se stabilesc în limita bugetului disponibil al autorității contractante și în funcție de cheltuielile specifice implicate de participarea la dialog, valoarea totală a primelor respective neputând depăși 2% din valoarea estimată a contractului care urmează să fie atribuit. Primele se reflectă ca o cheltuială de aceeași natură cu achiziția publică.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -3692,29 +3690,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-043",
-    "tip": "unic",
-    "test": 8,
-    "intrebare": "Care este limita maximă a valorii totale a primelor care pot fi acordate participanților la dialog, în cazul procedurii de dialog competitiv?",
-    "variante": [
-      "5% din valoarea estimată a contractului care urmează să fie atribuit",
-      "10% din bugetul disponibil al autorității contractante pentru achiziția respectivă",
-      "1% din valoarea estimată a contractului care urmează să fie atribuit",
-      "2% din valoarea estimată a contractului care urmează să fie atribuit"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 20 alin. (14) plafonează valoarea totală a primelor la 2% din valoarea estimată a contractului, primele stabilindu-se în limita bugetului disponibil și în funcție de cheltuielile specifice implicate de participarea la dialog; ele se reflectă ca o cheltuială de aceeași natură cu achiziția publică. Procentul de 1% este o valoare reală, dar cu alt rol: este plafonul garanției de participare (art. 154 alin. (2) din Legea nr. 98/2016). Nu există praguri de 5% sau de 10% în această materie. Reține corelativul de la alin. (15): operatorul economic a cărui ofertă este declarată câștigătoare este exceptat de la acordarea primelor, întrucât el este deja remunerat prin contract.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 20 alin. (14)",
-      "citat": "Primele se stabilesc în limita bugetului disponibil al autorității contractante și în funcție de cheltuielile specifice implicate de participarea la dialog, valoarea totală a primelor respective neputând depăși 2% din valoarea estimată a contractului care urmează să fie atribuit. Primele se reflectă ca o cheltuială de aceeași natură cu achiziția publică.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "ALOP-010",
     "tip": "unic",
     "test": 8,
@@ -3740,7 +3715,7 @@ const INTREBARI = [
   {
     "id": "L98E-001",
     "tip": "unic",
-    "test": 9,
+    "test": 8,
     "intrebare": "În care dintre următoarele situații NU se aplică Legea nr. 98/2016 unui contract de achiziție publică din domeniile apărării și securității naționale, chiar dacă acel contract nu este exceptat în temeiul art. 37 alin. (1)?",
     "variante": [
       "Atunci când atribuirea și executarea contractului reprezintă informații secrete de stat, în conformitate cu dispozițiile legale privind protecția informațiilor clasificate.",
@@ -3756,29 +3731,6 @@ const INTREBARI = [
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 37 alin. (4) lit. a)",
       "citat": "Prezenta lege nu se aplică contractelor de achiziție publică/acordurilor-cadru sau concursurilor de soluții în legătură cu care este îndeplinită cel puțin una dintre următoarele condiții: a) atribuirea și executarea contractului de achiziție publică/acordului-cadru sau a concursului de soluții reprezintă informații secrete de stat, în conformitate cu dispozițiile legale privind protecția informațiilor clasificate;",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98-N107",
-    "tip": "unic",
-    "test": 9,
-    "intrebare": "Potrivit Legii nr. 98/2016, o autoritate contractantă alege să atribuie un singur contract mixt, cu părți obiectiv separabile, atribuirea unui singur contract fiind justificată de motive obiective. Contractul cuprinde achiziții supuse Legii nr. 98/2016, o parte care face obiectul actelor normative emise în temeiul art. 20 alin. (3) din O.U.G. nr. 114/2011, în legătură cu situațiile prevăzute la art. 346 din TFUE, și o parte care face obiectul O.U.G. nr. 114/2011. Ce regim juridic se aplică atribuirii?",
-    "variante": [
-      "Regimul juridic se stabilește în funcție de obiectul principal al contractului, determinat după cea mai mare dintre valorile estimate ale părților",
-      "Criteriul aplicabil părții supuse actelor normative emise în temeiul art. 20 alin. (3) din O.U.G. nr. 114/2011: contractul poate fi atribuit fără aplicarea dispozițiilor Legii nr. 98/2016",
-      "Contractul se atribuie potrivit Legii nr. 98/2016, indiferent de valoarea părților care, dacă ar fi cuprinse în contracte separate, ar fi supuse unui alt act normativ",
-      "Criteriul aplicabil părții supuse O.U.G. nr. 114/2011: contractul poate fi atribuit în conformitate cu dispozițiile O.U.G. nr. 114/2011"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 38 alin. (3) din Legea nr. 98/2016 stabilește două criterii pentru contractul unic: lit. a) (parte supusă actelor emise în temeiul art. 20 alin. (3) din O.U.G. nr. 114/2011, art. 346 TFUE) permite atribuirea fără aplicarea Legii nr. 98/2016, iar lit. b) (parte supusă O.U.G. nr. 114/2011) permite atribuirea potrivit O.U.G. nr. 114/2011. Când ambele sunt incidente, art. 38 alin. (5) dă prioritate lit. a), de aceea criteriul O.U.G. nr. 114/2011 este eliminat. Atribuirea potrivit Legii nr. 98/2016 indiferent de valoarea părților este regula generală de la art. 34 alin. (3), care exceptează expres situația în care se aplică art. 38. Determinarea obiectului principal după cea mai mare valoare estimată este regula de la art. 35 alin. (2), pentru contractele mixte servicii/produse supuse aceleiași legi.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 38",
-      "citat": "a) atunci când o parte a contractului face obiectul actelor normative emise în temeiul art. 20 alin. (3) din Ordonanța de urgență a Guvernului nr. 114/2011, aprobată cu modificări și completări prin Legea nr. 195/2012, în legătură cu situațiile prevăzute la art. 346 din TFUE, contractul poate fi atribuit fără aplicarea dispozițiilor prezentei legi, cu condiția ca atribuirea unui singur contract să fie justificată de motive obiective; [...] (5) În cazul în care, în legătură cu un anumit contract, sunt aplicabile atât dispozițiile alin. (3) lit. a), cât și ale alin. (3) lit. b), se aplică dispozițiile alin. (3) lit. a).",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -3807,6 +3759,31 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98C-051",
+    "tip": "multiplu",
+    "test": 9,
+    "intrebare": "Care dintre următoarele afirmații privind perioadele de referință pentru dovedirea experienței similare (art. 179 din Legea nr. 98/2016) sunt corecte?",
+    "variante": [
+      "Atunci când este necesar pentru asigurarea unui nivel corespunzător de concurență, autoritatea contractantă poate lua în considerare și lucrări, livrări sau servicii relevante realizate anterior perioadelor de referință",
+      "Lista lucrărilor realizate acoperă cel mult ultimii 5 ani",
+      "Lista principalelor livrări de produse sau prestări de servicii acoperă cel mult ultimii 3 ani",
+      "Perioadele de referință sunt fixe și nu pot fi extinse în niciun caz"
+    ],
+    "corecte": [
+      0,
+      1,
+      2
+    ],
+    "explicatie": "Art. 179 lit. a) prevede pentru lucrări o perioadă de cel mult ultimii 5 ani, însoțită de certificate de bună execuție pentru lucrările cele mai importante, iar lit. b) prevede pentru produse și servicii o perioadă de cel mult ultimii 3 ani, cu indicarea valorilor, datelor și beneficiarilor publici sau privați. Ambele litere conțin aceeași supapă: atunci când este necesar în scopul asigurării unui nivel corespunzător de concurență, autoritatea contractantă poate stabili că sunt luate în considerare și realizări mai vechi de 5, respectiv 3 ani. De aceea afirmația că perioadele de referință sunt fixe și nu pot fi extinse este falsă. Capcana clasică este inversarea perioadelor: 5 ani corespund lucrărilor (cu ciclu de execuție lung), iar 3 ani produselor și serviciilor.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 179 lit. a) și b)",
+      "citat": "o listă a lucrărilor realizate în cursul unei perioade care acoperă cel mult ultimii 5 ani, însoțită de certificate de bună execuție pentru lucrările cele mai importante; atunci când este necesar în scopul asigurării unui nivel corespunzător de concurență, autoritatea contractantă poate stabili că sunt luate în considerare lucrări relevante realizate cu mai mult de 5 ani în urmă; b) lista principalelor livrări de produse efectuate sau a principalelor servicii prestate în cursul unei perioade care acoperă cel mult ultimii 3 ani, cu indicarea valorilor, datelor și a beneficiarilor publici sau privați",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L500B-002",
     "tip": "unic",
     "test": 9,
@@ -3826,6 +3803,29 @@ const INTREBARI = [
       "articol": "art. 10 alin. (2)",
       "citat": "Este interzisă elaborarea de acte normative prin care se creează cadrul legal pentru constituirea de venituri care pot fi utilizate în sistem extrabugetar, cu excepția prevederilor art. 67.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-045",
+    "tip": "unic",
+    "test": 9,
+    "intrebare": "Ce conțin documentele-suport care se transmit spre publicare în SEAP împreună cu documentația de atribuire?",
+    "variante": [
+      "Declarația privind persoanele ce dețin funcții de decizie în cadrul autorității contractante și strategia de contractare",
+      "Referatul de necesitate și nota privind determinarea valorii estimate",
+      "Programul anual al achizițiilor publice și strategia anuală de achiziție publică",
+      "Procesul-verbal al ședinței de deschidere a ofertelor și raportul procedurii de atribuire"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 21 alin. (3) enumeră limitativ două documente-suport: declarația privind persoanele care dețin funcții de decizie în cadrul autorității contractante — inclusiv cele cu putere de reprezentare din partea furnizorilor de servicii auxiliare achiziției, cu datele lor de identificare — și strategia de contractare. Referatul de necesitate și programul anual sunt documente ale etapei de planificare, cu circuit intern, care nu se publică în această calitate. Procesul-verbal de deschidere și raportul procedurii aparțin etapei de evaluare, ulterioară publicării documentației. Reține corelația cu art. 21 alin. (6): numele, prenumele și funcția persoanelor cu funcții de decizie se preiau și în anunțul de participare/simplificat, pentru a permite operatorilor economici să analizeze incidența unei situații de conflict de interese potrivit art. 60 din Lege.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 21 alin. (3) lit. a) și b)",
+      "citat": "Documentele-suport conțin: a) declarația privind persoanele ce dețin funcții de decizie în cadrul autorității contractante, respectiv cele cu putere de reprezentare din partea furnizorilor de servicii auxiliare achiziției, precum și datele de identificare ale acestora; b) strategia de contractare.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -3876,25 +3876,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-045",
+    "id": "L98E-002",
     "tip": "unic",
     "test": 9,
-    "intrebare": "Ce conțin documentele-suport care se transmit spre publicare în SEAP împreună cu documentația de atribuire?",
+    "intrebare": "Un contract de achiziție publică care implică aspecte de apărare sau securitate este cofinanțat în cea mai mare parte, dar nu integral, de o instituție financiară internațională. Ce soluție prevede Legea nr. 98/2016 în privința procedurii de atribuire aplicabile?",
     "variante": [
-      "Declarația privind persoanele ce dețin funcții de decizie în cadrul autorității contractante și strategia de contractare",
-      "Referatul de necesitate și nota privind determinarea valorii estimate",
-      "Programul anual al achizițiilor publice și strategia anuală de achiziție publică",
-      "Procesul-verbal al ședinței de deschidere a ofertelor și raportul procedurii de atribuire"
+      "Se aplică regulile instituției finanțatoare numai cu acordul prealabil al ANAP, comunicat Comisiei Europene.",
+      "Se aplică obligatoriu procedurile Legii nr. 98/2016, cofinanțarea externă fiind lipsită de relevanță juridică.",
+      "Părțile convin asupra procedurilor de atribuire aplicabile.",
+      "Legea nr. 98/2016 nu se aplică, contractul fiind atribuit exclusiv potrivit regulilor instituției finanțatoare."
     ],
     "corecte": [
-      0
+      2
     ],
-    "explicatie": "Art. 21 alin. (3) enumeră limitativ două documente-suport: declarația privind persoanele care dețin funcții de decizie în cadrul autorității contractante — inclusiv cele cu putere de reprezentare din partea furnizorilor de servicii auxiliare achiziției, cu datele lor de identificare — și strategia de contractare. Referatul de necesitate și programul anual sunt documente ale etapei de planificare, cu circuit intern, care nu se publică în această calitate. Procesul-verbal de deschidere și raportul procedurii aparțin etapei de evaluare, ulterioară publicării documentației. Reține corelația cu art. 21 alin. (6): numele, prenumele și funcția persoanelor cu funcții de decizie se preiau și în anunțul de participare/simplificat, pentru a permite operatorilor economici să analizeze incidența unei situații de conflict de interese potrivit art. 60 din Lege.",
+    "explicatie": "Art. 39 alin. (5) stabilește că, pentru contractele și concursurile de soluții din domeniul apărării ori securității cofinanțate în cea mai mare parte de o organizație internațională sau de o instituție financiară internațională, părțile convin asupra procedurilor de atribuire aplicabile. Varianta potrivit căreia legea nu se aplică, contractul fiind atribuit exclusiv după regulile instituției finanțatoare, redă regula vecină, dar diferită, de la art. 39 alin. (4): exceptarea totală de la lege operează doar când contractul este finanțat INTEGRAL de organizația ori instituția respectivă — nuanța „integral” versus „în cea mai mare parte” este capcana clasică a articolului. Varianta care impune obligatoriu procedurile Legii nr. 98/2016 ignoră existența alin. (5). Varianta care condiționează aplicarea regulilor instituției finanțatoare de ANAP inventează un acord prealabil al acesteia: rolul ANAP, potrivit art. 39 alin. (2) și (3), este de a fi informată despre acordurile internaționale și de a comunica informațiile Comisiei Europene, nu de a autoriza procedura.",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 21 alin. (3) lit. a) și b)",
-      "citat": "Documentele-suport conțin: a) declarația privind persoanele ce dețin funcții de decizie în cadrul autorității contractante, respectiv cele cu putere de reprezentare din partea furnizorilor de servicii auxiliare achiziției, precum și datele de identificare ale acestora; b) strategia de contractare.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 39 alin. (5)",
+      "citat": "În cazul contractelor de achiziție publică/acordurilor-cadru și al concursurilor de soluții care implică aspecte de apărare sau securitate cofinanțate în cea mai mare parte de o organizație internațională ori de o instituție financiară internațională, părțile convin asupra procedurilor de atribuire aplicabile.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -3922,25 +3922,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98E-002",
+    "id": "N395A-046",
     "tip": "unic",
     "test": 9,
-    "intrebare": "Un contract de achiziție publică care implică aspecte de apărare sau securitate este cofinanțat în cea mai mare parte, dar nu integral, de o instituție financiară internațională. Ce soluție prevede Legea nr. 98/2016 în privința procedurii de atribuire aplicabile?",
+    "intrebare": "Ce trebuie să conțină justificarea alegerii procedurii în cazul aplicării procedurii simplificate?",
     "variante": [
-      "Se aplică regulile instituției finanțatoare numai cu acordul prealabil al ANAP, comunicat Comisiei Europene.",
-      "Se aplică obligatoriu procedurile Legii nr. 98/2016, cofinanțarea externă fiind lipsită de relevanță juridică.",
-      "Părțile convin asupra procedurilor de atribuire aplicabile.",
-      "Legea nr. 98/2016 nu se aplică, contractul fiind atribuit exclusiv potrivit regulilor instituției finanțatoare."
+      "O analiză comparativă între procedura simplificată și licitația deschisă, sub aspectul obiectului, naturii și complexității contractului",
+      "Avizul conform al ANAP privind oportunitatea aplicării procedurii simplificate",
+      "O justificare a urgenței care face imposibilă respectarea termenelor de la licitația deschisă",
+      "Numai explicații cu privire la determinarea valorii estimate a contractului/acordului-cadru"
     ],
     "corecte": [
-      2
+      3
     ],
-    "explicatie": "Art. 39 alin. (5) stabilește că, pentru contractele și concursurile de soluții din domeniul apărării ori securității cofinanțate în cea mai mare parte de o organizație internațională sau de o instituție financiară internațională, părțile convin asupra procedurilor de atribuire aplicabile. Varianta potrivit căreia legea nu se aplică, contractul fiind atribuit exclusiv după regulile instituției finanțatoare, redă regula vecină, dar diferită, de la art. 39 alin. (4): exceptarea totală de la lege operează doar când contractul este finanțat INTEGRAL de organizația ori instituția respectivă — nuanța „integral” versus „în cea mai mare parte” este capcana clasică a articolului. Varianta care impune obligatoriu procedurile Legii nr. 98/2016 ignoră existența alin. (5). Varianta care condiționează aplicarea regulilor instituției finanțatoare de ANAP inventează un acord prealabil al acesteia: rolul ANAP, potrivit art. 39 alin. (2) și (3), este de a fi informată despre acordurile internaționale și de a comunica informațiile Comisiei Europene, nu de a autoriza procedura.",
+    "explicatie": "Art. 21 alin. (4) diferențiază două situații. La alegerea între licitația deschisă și licitația restrânsă, autoritatea contractantă are în vedere obiectul, natura și complexitatea contractului. În schimb, la procedura simplificată justificarea se reduce la explicații privind determinarea valorii estimate, prin raportare la art. 7 alin. (2) din Lege — pentru că însuși accesul la procedura simplificată depinde exclusiv de încadrarea valorică sub pragurile europene. Raportarea la obiectul, natura și complexitatea contractului privește cealaltă ipoteză — alegerea între licitația deschisă și cea restrânsă —, nu procedura simplificată. ANAP nu emite un aviz de oportunitate asupra alegerii procedurii, ci controlează ex ante documentația în condițiile O.U.G. nr. 98/2017. Justificarea urgenței este specifică negocierii fără publicare prealabilă, nu procedurii simplificate.",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 39 alin. (5)",
-      "citat": "În cazul contractelor de achiziție publică/acordurilor-cadru și al concursurilor de soluții care implică aspecte de apărare sau securitate cofinanțate în cea mai mare parte de o organizație internațională ori de o instituție financiară internațională, părțile convin asupra procedurilor de atribuire aplicabile.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 21 alin. (4)",
+      "citat": "În justificarea alegerii între procedura de licitație deschisă și procedura de licitație restrânsă, autoritatea contractantă va avea în vedere obiectul, natura și complexitatea contractului de achiziție publică/acordului-cadru. În cazul aplicării procedurii simplificate, justificarea alegerii procedurii conține numai explicații cu privire la determinarea valorii estimate a contractului/acordului-cadru, având în vedere prevederile de la art. 7 alin. (2) din Lege.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -3968,29 +3968,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-046",
-    "tip": "unic",
-    "test": 9,
-    "intrebare": "Ce trebuie să conțină justificarea alegerii procedurii în cazul aplicării procedurii simplificate?",
-    "variante": [
-      "O analiză comparativă între procedura simplificată și licitația deschisă, sub aspectul obiectului, naturii și complexității contractului",
-      "Avizul conform al ANAP privind oportunitatea aplicării procedurii simplificate",
-      "O justificare a urgenței care face imposibilă respectarea termenelor de la licitația deschisă",
-      "Numai explicații cu privire la determinarea valorii estimate a contractului/acordului-cadru"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 21 alin. (4) diferențiază două situații. La alegerea între licitația deschisă și licitația restrânsă, autoritatea contractantă are în vedere obiectul, natura și complexitatea contractului. În schimb, la procedura simplificată justificarea se reduce la explicații privind determinarea valorii estimate, prin raportare la art. 7 alin. (2) din Lege — pentru că însuși accesul la procedura simplificată depinde exclusiv de încadrarea valorică sub pragurile europene. Raportarea la obiectul, natura și complexitatea contractului privește cealaltă ipoteză — alegerea între licitația deschisă și cea restrânsă —, nu procedura simplificată. ANAP nu emite un aviz de oportunitate asupra alegerii procedurii, ci controlează ex ante documentația în condițiile O.U.G. nr. 98/2017. Justificarea urgenței este specifică negocierii fără publicare prealabilă, nu procedurii simplificate.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 21 alin. (4)",
-      "citat": "În justificarea alegerii între procedura de licitație deschisă și procedura de licitație restrânsă, autoritatea contractantă va avea în vedere obiectul, natura și complexitatea contractului de achiziție publică/acordului-cadru. În cazul aplicării procedurii simplificate, justificarea alegerii procedurii conține numai explicații cu privire la determinarea valorii estimate a contractului/acordului-cadru, având în vedere prevederile de la art. 7 alin. (2) din Lege.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGB-018",
     "tip": "unic",
     "test": 9,
@@ -4010,6 +3987,31 @@ const INTREBARI = [
       "articol": "art. 3 alin. (9) lit. b)",
       "citat": "proceduri de atribuire sau modificări contractuale cărora li se asociază unul dintre următoarele tipuri de riscuri, ca urmare a aplicării cumulative a indicatorilor prevăzuți la alin. (5): risc foarte ridicat, risc ridicat, risc mediu sau risc scăzut.",
       "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395-N102",
+    "tip": "multiplu",
+    "test": 9,
+    "intrebare": "Potrivit art. 22 alin. (2) din Normele metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele documente se semnează cu semnătură electronică extinsă, bazată pe un certificat calificat, și se încarcă în SEAP de către autoritatea contractantă înregistrată?",
+    "variante": [
+      "Strategia de contractare, ca document-suport",
+      "Caietul de sarcini sau, după caz, documentul descriptiv",
+      "Proiectul de contract conținând clauzele contractuale obligatorii",
+      "DUAE și instrucțiunile către ofertanți/candidați"
+    ],
+    "corecte": [
+      0,
+      1,
+      2
+    ],
+    "explicatie": "Art. 22 alin. (2) din Norme trimite la documentele prevăzute la art. 20 alin. (1) lit. b)-d) și la documentele-suport de la art. 21 alin. (3). Potrivit art. 20 alin. (1), lit. b) este caietul de sarcini sau documentul descriptiv, lit. c) proiectul de contract conținând clauzele contractuale obligatorii, iar lit. d) formularele și modelele de documente. Strategia de contractare este document-suport, alături de declarația privind persoanele cu funcții de decizie, conform art. 21 alin. (3) lit. b). DUAE și instrucțiunile către ofertanți/candidați formează lit. a) a art. 20 alin. (1), care nu este inclusă în trimiterea la lit. b)-d); pentru DUAE, art. 20 alin. (5) prevede generarea electronică și atașarea lui în SEAP. Capcana constă în intervalul de litere: documentația de atribuire are patru componente, dar art. 22 alin. (2) le menționează doar pe cele de la lit. b)-d).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 22 alin. (2)",
+      "citat": "Documentele prevăzute la art. 20 alin. (1) lit. b)-d) și art. 21 alin. (3) vor fi semnate cu semnătură electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor de servicii de certificare acreditat și încărcate în SEAP în secțiunile specifice disponibile în sistemul informatic și numai de către autoritățile contractante înregistrate.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -4062,31 +4064,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395-N102",
-    "tip": "multiplu",
-    "test": 9,
-    "intrebare": "Potrivit art. 22 alin. (2) din Normele metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele documente se semnează cu semnătură electronică extinsă, bazată pe un certificat calificat, și se încarcă în SEAP de către autoritatea contractantă înregistrată?",
-    "variante": [
-      "Strategia de contractare, ca document-suport",
-      "Caietul de sarcini sau, după caz, documentul descriptiv",
-      "Proiectul de contract conținând clauzele contractuale obligatorii",
-      "DUAE și instrucțiunile către ofertanți/candidați"
-    ],
-    "corecte": [
-      0,
-      1,
-      2
-    ],
-    "explicatie": "Art. 22 alin. (2) din Norme trimite la documentele prevăzute la art. 20 alin. (1) lit. b)-d) și la documentele-suport de la art. 21 alin. (3). Potrivit art. 20 alin. (1), lit. b) este caietul de sarcini sau documentul descriptiv, lit. c) proiectul de contract conținând clauzele contractuale obligatorii, iar lit. d) formularele și modelele de documente. Strategia de contractare este document-suport, alături de declarația privind persoanele cu funcții de decizie, conform art. 21 alin. (3) lit. b). DUAE și instrucțiunile către ofertanți/candidați formează lit. a) a art. 20 alin. (1), care nu este inclusă în trimiterea la lit. b)-d); pentru DUAE, art. 20 alin. (5) prevede generarea electronică și atașarea lui în SEAP. Capcana constă în intervalul de litere: documentația de atribuire are patru componente, dar art. 22 alin. (2) le menționează doar pe cele de la lit. b)-d).",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 22 alin. (2)",
-      "citat": "Documentele prevăzute la art. 20 alin. (1) lit. b)-d) și art. 21 alin. (3) vor fi semnate cu semnătură electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor de servicii de certificare acreditat și încărcate în SEAP în secțiunile specifice disponibile în sistemul informatic și numai de către autoritățile contractante înregistrate.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98E-004",
     "tip": "unic",
     "test": 9,
@@ -4106,6 +4083,29 @@ const INTREBARI = [
       "articol": "art. 42",
       "citat": "Toate procedurile de atribuire organizate de o unitate de achiziții centralizate se realizează prin mijloace electronice de comunicare, în conformitate cu prevederile art. 64-66 și ale normelor metodologice de aplicare a prezentei legi.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-047",
+    "tip": "unic",
+    "test": 9,
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în ce termene are obligația operatorul SEAP de a publica anunțurile în SEAP?",
+    "variante": [
+      "În cel mult două zile lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege și, în cazul anunțului de participare simplificat, în cel mult o zi lucrătoare de la primirea acceptului de publicare",
+      "În cel mult 3 zile lucrătoare pentru orice tip de anunț, indiferent de procedură",
+      "În cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege și, în cazul anunțului de participare simplificat, în cel mult două zile lucrătoare de la primirea acceptului de publicare",
+      "În aceeași zi în care ANAP emite avizul conform, pentru toate anunțurile supuse controlului ex ante"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 24 alin. (5) din Normele metodologice stabilește două termene distincte: cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege și, pentru anunțul de participare simplificat, cel mult două zile lucrătoare de la primirea acceptului de publicare. Varianta cu două zile lucrătoare după condițiile art. 147 și o zi lucrătoare pentru anunțul simplificat inversează cele două termene. Un termen unic de 3 zile lucrătoare pentru orice anunț nu apare la art. 24 alin. (5). Nici emiterea avizului conform nu declanșează publicarea în aceeași zi: termenul de o zi lucrătoare curge de la îndeplinirea condițiilor art. 147 din Lege, potrivit căruia anunțurile nu pot fi publicate la nivel național înainte de publicarea în JOUE (alin. (1)), cu excepția situației în care autoritatea contractantă nu a fost notificată de Oficiul pentru Publicații al Uniunii Europene cu privire la publicare în termen de 48 de ore de la confirmarea primirii anunțului (art. 147 alin. (2) din Lege).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 24 alin. (5)",
+      "citat": "Operatorul SEAP are obligația de a publica anunțul în SEAP în cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege și, în cazul anunțului de participare simplificat, în cel mult două zile lucrătoare de la primirea acceptului de publicare.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -4156,55 +4156,9 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-047",
-    "tip": "unic",
-    "test": 9,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în ce termene are obligația operatorul SEAP de a publica anunțurile în SEAP?",
-    "variante": [
-      "În cel mult două zile lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege și, în cazul anunțului de participare simplificat, în cel mult o zi lucrătoare de la primirea acceptului de publicare",
-      "În cel mult 3 zile lucrătoare pentru orice tip de anunț, indiferent de procedură",
-      "În cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege și, în cazul anunțului de participare simplificat, în cel mult două zile lucrătoare de la primirea acceptului de publicare",
-      "În aceeași zi în care ANAP emite avizul conform, pentru toate anunțurile supuse controlului ex ante"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 24 alin. (5) din Normele metodologice stabilește două termene distincte: cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege și, pentru anunțul de participare simplificat, cel mult două zile lucrătoare de la primirea acceptului de publicare. Varianta cu două zile lucrătoare după condițiile art. 147 și o zi lucrătoare pentru anunțul simplificat inversează cele două termene. Un termen unic de 3 zile lucrătoare pentru orice anunț nu apare la art. 24 alin. (5). Nici emiterea avizului conform nu declanșează publicarea în aceeași zi: termenul de o zi lucrătoare curge de la îndeplinirea condițiilor art. 147 din Lege, potrivit căruia anunțurile nu pot fi publicate la nivel național înainte de publicarea în JOUE (alin. (1)), cu excepția situației în care autoritatea contractantă nu a fost notificată de Oficiul pentru Publicații al Uniunii Europene cu privire la publicare în termen de 48 de ore de la confirmarea primirii anunțului (art. 147 alin. (2) din Lege).",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 24 alin. (5)",
-      "citat": "Operatorul SEAP are obligația de a publica anunțul în SEAP în cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege și, în cazul anunțului de participare simplificat, în cel mult două zile lucrătoare de la primirea acceptului de publicare.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "ALOP-011",
-    "tip": "unic",
-    "test": 9,
-    "intrebare": "Ce este angajamentul legal și ce condiții de formă trebuie să îndeplinească, potrivit Normelor ALOP?",
-    "variante": [
-      "documentul intern prin care se dă dispoziție compartimentului financiar să întocmească instrumentele de plată",
-      "orice act prin care o autoritate competentă afectează fonduri publice unor anumite destinații, în limita creditelor bugetare aprobate",
-      "orice act juridic din care rezultă sau ar putea rezulta o obligație pe seama fondurilor publice; trebuie să aibă formă scrisă și să fie semnat de ordonatorul de credite",
-      "orice act juridic generator de obligații pe seama fondurilor publice, care poate fi încheiat și verbal pentru cheltuieli de valoare redusă"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Angajamentul legal este faza execuției bugetare reprezentând orice act juridic din care rezultă sau ar putea rezulta o obligație pe seama fondurilor publice; forma scrisă și semnătura ordonatorului de credite sunt obligatorii, fără excepție de valoare — deci varianta cu forma verbală este falsă. Varianta privind afectarea de fonduri publice unor anumite destinații este definiția angajamentului BUGETAR, iar cea cu documentul intern care dispune întocmirea instrumentelor de plată definește ordonanțarea de plată — cele două capcane clasice între fazele ALOP. Angajamentul legal ia forma unui contract de achiziție publică, a unei comenzi, convenții, a unui contract de muncă etc.",
-    "sursa": {
-      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
-      "articol": "pct. 1 (angajarea)",
-      "citat": "Angajamentul legal - faza în procesul execuției bugetare reprezentând orice act juridic din care rezultă sau ar putea rezultă o obligație pe seama fondurilor publice. Angajamentul legal trebuie să se prezinte sub forma scrisă și să fie semnat de ordonatorul de credite.",
-      "fisier": "09_Norme_ALOP_1792-2002.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98A-053",
     "tip": "unic",
-    "test": 10,
+    "test": 9,
     "intrebare": "Mai multe autorități contractante convin să efectueze în comun anumite achiziții specifice. Care este regimul răspunderii pentru îndeplinirea obligațiilor prevăzute de Legea nr. 98/2016?",
     "variante": [
       "Răspunde exclusiv autoritatea contractantă care a transmis spre publicare anunțul de participare.",
@@ -4221,6 +4175,52 @@ const INTREBARI = [
       "articol": "art. 44 alin. (2) și (4)",
       "citat": "(2) În cazul în care o procedură de achiziție publică este organizată în întregime în comun, în numele și pe seama tuturor autorităților contractante prevăzute la alin. (1), acestea sunt responsabile în mod solidar pentru îndeplinirea obligațiilor care le revin în temeiul prezentei legi. [...] (4) În cazul în care o procedură de achiziție publică nu este organizată în întregime în numele și pe seama autorităților contractante prevăzute la alin. (1), acestea sunt responsabile în mod solidar numai cu privire la activitățile efectuate în comun.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395-N103",
+    "tip": "unic",
+    "test": 9,
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, ce se întâmplă atunci când, din motive de natură tehnică, operatorul SEAP nu are posibilitatea transmiterii unui anunț spre publicare în Jurnalul Oficial al Uniunii Europene?",
+    "variante": [
+      "Autorității contractante îi revine responsabilitatea transmiterii anunțului prin mijloace proprii, iar operatorul SEAP o înștiințează în termen de o zi lucrătoare de la primirea confirmării din partea Oficiului pentru Publicații al Uniunii Europene",
+      "Autorității contractante îi revine responsabilitatea transmiterii anunțului prin mijloace proprii, iar operatorul SEAP o înștiințează în cel mult 3 zile lucrătoare de la producerea situației",
+      "Operatorul SEAP reia transmiterea după remedierea problemei tehnice, iar anunțul se publică în SEAP în cel mult două zile lucrătoare de la primirea acceptului de publicare",
+      "Autorității contractante îi revine responsabilitatea transmiterii anunțului prin mijloace proprii, iar operatorul SEAP o înștiințează în cel mult o zi lucrătoare de la expirarea termenelor necesare exercitării controlului ex ante de către ANAP"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 26 din Norme pune în sarcina autorității contractante transmiterea anunțului spre JOUE, prin mijloace proprii, iar operatorul SEAP trebuie să o înștiințeze în cel mult o zi lucrătoare de la expirarea termenelor necesare controlului ex ante al ANAP. Termenul de 3 zile lucrătoare provine din art. 7 din Norme și privește transmiterea către operatorul SEAP a modificărilor datelor de înregistrare. Termenul de o zi lucrătoare de la primirea confirmării Oficiului pentru Publicații al Uniunii Europene este cel de publicare a anunțurilor în SEAP, prevăzut la art. 56. Termenul de cel mult două zile lucrătoare de la primirea acceptului de publicare se aplică, potrivit art. 24 alin. (5), publicării în SEAP a anunțului de participare simplificat, iar art. 26 nu lasă transmiterea în sarcina operatorului SEAP. Capcana este momentul de la care curge termenul de o zi lucrătoare: art. 26 îl raportează la expirarea termenelor controlului ex ante, nu la confirmarea Oficiului pentru Publicații de la art. 56.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 26",
+      "citat": "În cazul în care, din motive de natură tehnică, operatorul SEAP nu are posibilitatea transmiterii unui anumit anunț spre publicare în Jurnalul Oficial al Uniunii Europene, autorității contractante îi revine responsabilitatea transmiterii spre publicare a anunțului respectiv prin mijloace proprii. Operatorul SEAP are obligația de a înștiința autoritatea contractantă cu privire la apariția unei astfel de situații, în cel mult o zi lucrătoare de la expirarea termenelor necesare exercitării controlului ex ante de către ANAP.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "ALOP-011",
+    "tip": "unic",
+    "test": 10,
+    "intrebare": "Ce este angajamentul legal și ce condiții de formă trebuie să îndeplinească, potrivit Normelor ALOP?",
+    "variante": [
+      "documentul intern prin care se dă dispoziție compartimentului financiar să întocmească instrumentele de plată",
+      "orice act prin care o autoritate competentă afectează fonduri publice unor anumite destinații, în limita creditelor bugetare aprobate",
+      "orice act juridic din care rezultă sau ar putea rezulta o obligație pe seama fondurilor publice; trebuie să aibă formă scrisă și să fie semnat de ordonatorul de credite",
+      "orice act juridic generator de obligații pe seama fondurilor publice, care poate fi încheiat și verbal pentru cheltuieli de valoare redusă"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Angajamentul legal este faza execuției bugetare reprezentând orice act juridic din care rezultă sau ar putea rezulta o obligație pe seama fondurilor publice; forma scrisă și semnătura ordonatorului de credite sunt obligatorii, fără excepție de valoare — deci varianta cu forma verbală este falsă. Varianta privind afectarea de fonduri publice unor anumite destinații este definiția angajamentului BUGETAR, iar cea cu documentul intern care dispune întocmirea instrumentelor de plată definește ordonanțarea de plată — cele două capcane clasice între fazele ALOP. Angajamentul legal ia forma unui contract de achiziție publică, a unei comenzi, convenții, a unui contract de muncă etc.",
+    "sursa": {
+      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+      "articol": "pct. 1 (angajarea)",
+      "citat": "Angajamentul legal - faza în procesul execuției bugetare reprezentând orice act juridic din care rezultă sau ar putea rezultă o obligație pe seama fondurilor publice. Angajamentul legal trebuie să se prezinte sub forma scrisă și să fie semnat de ordonatorul de credite.",
+      "fisier": "09_Norme_ALOP_1792-2002.txt"
     },
     "status": "ok"
   },
@@ -4250,25 +4250,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395-N103",
+    "id": "L98E-007",
     "tip": "unic",
     "test": 10,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, ce se întâmplă atunci când, din motive de natură tehnică, operatorul SEAP nu are posibilitatea transmiterii unui anunț spre publicare în Jurnalul Oficial al Uniunii Europene?",
+    "intrebare": "Ce limitare impune Legea nr. 98/2016 autorităților contractante naționale care recurg la mecanismele de achiziție transfrontalieră prevăzute la art. 46-48?",
     "variante": [
-      "Autorității contractante îi revine responsabilitatea transmiterii anunțului prin mijloace proprii, iar operatorul SEAP o înștiințează în termen de o zi lucrătoare de la primirea confirmării din partea Oficiului pentru Publicații al Uniunii Europene",
-      "Autorității contractante îi revine responsabilitatea transmiterii anunțului prin mijloace proprii, iar operatorul SEAP o înștiințează în cel mult 3 zile lucrătoare de la producerea situației",
-      "Operatorul SEAP reia transmiterea după remedierea problemei tehnice, iar anunțul se publică în SEAP în cel mult două zile lucrătoare de la primirea acceptului de publicare",
-      "Autorității contractante îi revine responsabilitatea transmiterii anunțului prin mijloace proprii, iar operatorul SEAP o înștiințează în cel mult o zi lucrătoare de la expirarea termenelor necesare exercitării controlului ex ante de către ANAP"
+      "Nu le pot utiliza decât cu aprobarea prealabilă a ANAP, comunicată Comisiei Europene.",
+      "Nu le pot folosi decât pentru contracte de produse, nu și pentru contracte de lucrări sau de servicii.",
+      "Nu le pot folosi în scopul evitării aplicării normelor imperative naționale de drept public care li se aplică potrivit dreptului Uniunii Europene.",
+      "Nu le pot folosi pentru achiziții a căror valoare estimată se situează sub pragurile prevăzute la art. 7 alin. (1)."
     ],
     "corecte": [
-      3
+      2
     ],
-    "explicatie": "Art. 26 din Norme pune în sarcina autorității contractante transmiterea anunțului spre JOUE, prin mijloace proprii, iar operatorul SEAP trebuie să o înștiințeze în cel mult o zi lucrătoare de la expirarea termenelor necesare controlului ex ante al ANAP. Termenul de 3 zile lucrătoare provine din art. 7 din Norme și privește transmiterea către operatorul SEAP a modificărilor datelor de înregistrare. Termenul de o zi lucrătoare de la primirea confirmării Oficiului pentru Publicații al Uniunii Europene este cel de publicare a anunțurilor în SEAP, prevăzut la art. 56. Termenul de cel mult două zile lucrătoare de la primirea acceptului de publicare se aplică, potrivit art. 24 alin. (5), publicării în SEAP a anunțului de participare simplificat, iar art. 26 nu lasă transmiterea în sarcina operatorului SEAP. Capcana este momentul de la care curge termenul de o zi lucrătoare: art. 26 îl raportează la expirarea termenelor controlului ex ante, nu la confirmarea Oficiului pentru Publicații de la art. 56.",
+    "explicatie": "Art. 45 alin. (2) conține o clauză antiabuz: instrumentele transfrontaliere (utilizarea unei unități de achiziții centralizate din alt stat membru, atribuirea în comun, entitatea comună) nu pot fi folosite pentru a evita normele imperative naționale de drept public aplicabile statutului sau activităților autorității contractante. Este simetrică cu art. 45 alin. (1), care precizează că aceste mecanisme nu aduc atingere art. 31 (cooperarea „in-house”/între autorități contractante). Aprobarea prealabilă a ANAP nu este cerută de text — ANAP intervine cu obligații de informare în alt context, cel al acordurilor internaționale de la art. 39 alin. (2) și (3). Nici limitarea la contractele peste praguri, nici limitarea la contractele de produse nu au vreun suport în text: art. 46 alin. (4) permite expres atribuirea în comun de contracte, acorduri-cadru și sisteme dinamice de achiziții pentru lucrări, produse sau servicii.",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 26",
-      "citat": "În cazul în care, din motive de natură tehnică, operatorul SEAP nu are posibilitatea transmiterii unui anumit anunț spre publicare în Jurnalul Oficial al Uniunii Europene, autorității contractante îi revine responsabilitatea transmiterii spre publicare a anunțului respectiv prin mijloace proprii. Operatorul SEAP are obligația de a înștiința autoritatea contractantă cu privire la apariția unei astfel de situații, în cel mult o zi lucrătoare de la expirarea termenelor necesare exercitării controlului ex ante de către ANAP.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 45 alin. (2)",
+      "citat": "Autoritățile contractante naționale nu vor folosi mijloacele și instrumentele reglementate de dispozițiile art. 46-48 în scopul evitării aplicării normelor imperative naționale de drept public care, în conformitate cu dreptul Uniunii Europene, se aplică statutului sau activităților acestora.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -4296,25 +4296,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98E-007",
+    "id": "N395A-048",
     "tip": "unic",
     "test": 10,
-    "intrebare": "Ce limitare impune Legea nr. 98/2016 autorităților contractante naționale care recurg la mecanismele de achiziție transfrontalieră prevăzute la art. 46-48?",
+    "intrebare": "Ce poate face autoritatea contractantă în situația în care stabilește două termene de răspuns la solicitările de clarificări adresate de operatorii economici?",
     "variante": [
-      "Nu le pot utiliza decât cu aprobarea prealabilă a ANAP, comunicată Comisiei Europene.",
-      "Nu le pot folosi decât pentru contracte de produse, nu și pentru contracte de lucrări sau de servicii.",
-      "Nu le pot folosi în scopul evitării aplicării normelor imperative naționale de drept public care li se aplică potrivit dreptului Uniunii Europene.",
-      "Nu le pot folosi pentru achiziții a căror valoare estimată se situează sub pragurile prevăzute la art. 7 alin. (1)."
+      "Poate grupa pe cele două termene întrebările și răspunsurile aferente, pe baza unor criterii precum data înregistrării solicitării sau complexitatea aspectelor incidente",
+      "Poate transmite răspunsurile individual, numai operatorilor economici care au formulat întrebările",
+      "Poate publica răspunsurile numai la al doilea termen, comasând toate clarificările într-un singur document",
+      "Poate refuza să răspundă solicitărilor primite după primul termen, dacă acestea repetă întrebări anterioare"
     ],
     "corecte": [
-      2
+      0
     ],
-    "explicatie": "Art. 45 alin. (2) conține o clauză antiabuz: instrumentele transfrontaliere (utilizarea unei unități de achiziții centralizate din alt stat membru, atribuirea în comun, entitatea comună) nu pot fi folosite pentru a evita normele imperative naționale de drept public aplicabile statutului sau activităților autorității contractante. Este simetrică cu art. 45 alin. (1), care precizează că aceste mecanisme nu aduc atingere art. 31 (cooperarea „in-house”/între autorități contractante). Aprobarea prealabilă a ANAP nu este cerută de text — ANAP intervine cu obligații de informare în alt context, cel al acordurilor internaționale de la art. 39 alin. (2) și (3). Nici limitarea la contractele peste praguri, nici limitarea la contractele de produse nu au vreun suport în text: art. 46 alin. (4) permite expres atribuirea în comun de contracte, acorduri-cadru și sisteme dinamice de achiziții pentru lucrări, produse sau servicii.",
+    "explicatie": "Art. 27 alin. (4) permite gruparea întrebărilor și a răspunsurilor pe cele două termene, folosind criterii precum data înregistrării solicitării sau complexitatea aspectelor incidente, cu condiția asigurării unui timp adecvat pentru elaborarea ofertelor. Comasarea tuturor răspunsurilor la al doilea termen ar contraveni tocmai acestei cerințe de timp adecvat. Răspunsurile nu se transmit individual, ci se postează în SEAP la secțiunea specifică, semnate cu semnătură electronică extinsă bazată pe un certificat calificat (art. 27 alin. (1)) — regula transparenței impune ca toți participanții să primească aceeași informație. Autoritatea contractantă anunță, potrivit alin. (3), că va răspunde solicitărilor adresate până la termenul-limită stabilit, deci nu poate selecta discreționar întrebările la care răspunde.",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 45 alin. (2)",
-      "citat": "Autoritățile contractante naționale nu vor folosi mijloacele și instrumentele reglementate de dispozițiile art. 46-48 în scopul evitării aplicării normelor imperative naționale de drept public care, în conformitate cu dreptul Uniunii Europene, se aplică statutului sau activităților acestora.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 27 alin. (4)",
+      "citat": "În situația în care sunt stabilite două termene de răspuns ale autorității contractante la solicitările de clarificări adresate de operatorii economici, aceasta poate grupa pe cele două termene întrebările și răspunsurile aferente, pe baza unor criterii cum ar fi data înregistrării solicitării de clarificări, complexitatea aspectelor incidente, asigurându-se că timpul acordat pentru elaborarea ofertelor este unul adecvat.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -4342,29 +4342,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-048",
-    "tip": "unic",
-    "test": 10,
-    "intrebare": "Ce poate face autoritatea contractantă în situația în care stabilește două termene de răspuns la solicitările de clarificări adresate de operatorii economici?",
-    "variante": [
-      "Poate grupa pe cele două termene întrebările și răspunsurile aferente, pe baza unor criterii precum data înregistrării solicitării sau complexitatea aspectelor incidente",
-      "Poate transmite răspunsurile individual, numai operatorilor economici care au formulat întrebările",
-      "Poate publica răspunsurile numai la al doilea termen, comasând toate clarificările într-un singur document",
-      "Poate refuza să răspundă solicitărilor primite după primul termen, dacă acestea repetă întrebări anterioare"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 27 alin. (4) permite gruparea întrebărilor și a răspunsurilor pe cele două termene, folosind criterii precum data înregistrării solicitării sau complexitatea aspectelor incidente, cu condiția asigurării unui timp adecvat pentru elaborarea ofertelor. Comasarea tuturor răspunsurilor la al doilea termen ar contraveni tocmai acestei cerințe de timp adecvat. Răspunsurile nu se transmit individual, ci se postează în SEAP la secțiunea specifică, semnate cu semnătură electronică extinsă bazată pe un certificat calificat (art. 27 alin. (1)) — regula transparenței impune ca toți participanții să primească aceeași informație. Autoritatea contractantă anunță, potrivit alin. (3), că va răspunde solicitărilor adresate până la termenul-limită stabilit, deci nu poate selecta discreționar întrebările la care răspunde.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 27 alin. (4)",
-      "citat": "În situația în care sunt stabilite două termene de răspuns ale autorității contractante la solicitările de clarificări adresate de operatorii economici, aceasta poate grupa pe cele două termene întrebările și răspunsurile aferente, pe baza unor criterii cum ar fi data înregistrării solicitării de clarificări, complexitatea aspectelor incidente, asigurându-se că timpul acordat pentru elaborarea ofertelor este unul adecvat.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98-N110",
     "tip": "unic",
     "test": 10,
@@ -4388,25 +4365,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L101A-015",
+    "id": "N395A-049",
     "tip": "unic",
     "test": 10,
-    "intrebare": "Potrivit Legii nr. 101/2016, o procedură de atribuire este împărțită pe 5 loturi, iar un ofertant depune contestație doar pentru lotul 2. Măsurile de remediere adoptate de autoritatea contractantă ca urmare a contestației:",
+    "intrebare": "Care este raportul dintre procesul de calificare și cel de selecție a candidaților, potrivit Normelor metodologice?",
     "variante": [
-      "nu pot fi adoptate, întrucât procedurile pe loturi se remediază numai prin decizia Consiliului",
-      "privesc numai loturile pentru care s-a depus contestație, adică lotul 2",
-      "privesc lotul contestat și loturile similare ca obiect, la aprecierea autorității contractante",
-      "privesc obligatoriu toate cele 5 loturi, pentru a asigura tratamentul egal al ofertanților"
+      "Selecția precedă calificarea și are ca scop eliminarea candidaților care nu îndeplinesc cerințele minime",
+      "Selecția și calificarea se desfășoară simultan, prin acordarea unui punctaj unic fiecărui candidat",
+      "Selecția înlocuiește calificarea în cazul procedurilor care se desfășoară în mai multe etape",
+      "Selecția este un proces distinct care urmează procesului de calificare și are ca scop doar limitarea numărului de candidați calificați"
     ],
     "corecte": [
-      1
+      3
     ],
-    "explicatie": "Art. 9 alin. (6) din Legea nr. 101/2016 limitează expres sfera măsurilor de remediere adoptate potrivit alin. (1) la loturile pentru care s-a depus contestație — aici, numai lotul 2. Textul folosește termenul „numai”, astfel că extinderea obligatorie a măsurilor la toate cele 5 loturi contrazice art. 9 alin. (6). Nici extinderea la loturi „similare” ca obiect, la aprecierea autorității contractante, nu are temei: art. 9 alin. (6) nu lasă o asemenea marjă de apreciere. Varianta potrivit căreia măsurile de remediere nu pot fi adoptate este falsă: art. 9 alin. (1) permite autorității contractante să adopte singură măsurile de remediere pe care le consideră necesare, în cel mult 3 zile de la primirea contestației, fără a aștepta decizia Consiliului.",
+    "explicatie": "Art. 29 alin. (3) așază cele două procese în succesiune: mai întâi calificarea, care verifică îndeplinirea cerințelor minime, apoi selecția, al cărei scop este exclusiv limitarea numărului de candidați calificați care vor depune oferta în etapa a doua a licitației restrânse sau vor participa la dialog/negocieri. Selecția se realizează prin acordarea unui punctaj care reflectă capacitatea candidatului de a îndeplini contractul, deci nu este o simplă verificare de tip admis/respins. Ordinea inversă și simultaneitatea sunt greșite, la fel ca ideea înlocuirii calificării: art. 30 alin. (3) impune expres ca criteriile de selecție să se raporteze la criteriile de calificare stabilite prin documentația de atribuire.",
     "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 9 alin. (6)",
-      "citat": "În cazul în care, în cadrul aceleiași proceduri de atribuire, autoritatea contractantă achiziționează produse, servicii sau lucrări defalcate pe loturi, măsurile de remediere adoptate potrivit alin. (1) privesc numai loturile pentru care s-a depus contestație.",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 29 alin. (3)",
+      "citat": "Selecția candidaților reprezintă un proces distinct care urmează procesului de calificare și care are ca scop doar limitarea numărului de candidați calificați care vor depune oferta în etapa a doua a licitației restrânse sau, după caz, care vor participa la dialog/negocieri. Selecția se realizează prin acordarea pentru fiecare candidat în parte a unui punctaj care trebuie să reflecte capacitatea acestuia de a îndeplini contractul ce urmează să fie atribuit.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -4436,25 +4413,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-049",
+    "id": "L101A-015",
     "tip": "unic",
     "test": 10,
-    "intrebare": "Care este raportul dintre procesul de calificare și cel de selecție a candidaților, potrivit Normelor metodologice?",
+    "intrebare": "Potrivit Legii nr. 101/2016, o procedură de atribuire este împărțită pe 5 loturi, iar un ofertant depune contestație doar pentru lotul 2. Măsurile de remediere adoptate de autoritatea contractantă ca urmare a contestației:",
     "variante": [
-      "Selecția precedă calificarea și are ca scop eliminarea candidaților care nu îndeplinesc cerințele minime",
-      "Selecția și calificarea se desfășoară simultan, prin acordarea unui punctaj unic fiecărui candidat",
-      "Selecția înlocuiește calificarea în cazul procedurilor care se desfășoară în mai multe etape",
-      "Selecția este un proces distinct care urmează procesului de calificare și are ca scop doar limitarea numărului de candidați calificați"
+      "nu pot fi adoptate, întrucât procedurile pe loturi se remediază numai prin decizia Consiliului",
+      "privesc numai loturile pentru care s-a depus contestație, adică lotul 2",
+      "privesc lotul contestat și loturile similare ca obiect, la aprecierea autorității contractante",
+      "privesc obligatoriu toate cele 5 loturi, pentru a asigura tratamentul egal al ofertanților"
     ],
     "corecte": [
-      3
+      1
     ],
-    "explicatie": "Art. 29 alin. (3) așază cele două procese în succesiune: mai întâi calificarea, care verifică îndeplinirea cerințelor minime, apoi selecția, al cărei scop este exclusiv limitarea numărului de candidați calificați care vor depune oferta în etapa a doua a licitației restrânse sau vor participa la dialog/negocieri. Selecția se realizează prin acordarea unui punctaj care reflectă capacitatea candidatului de a îndeplini contractul, deci nu este o simplă verificare de tip admis/respins. Ordinea inversă și simultaneitatea sunt greșite, la fel ca ideea înlocuirii calificării: art. 30 alin. (3) impune expres ca criteriile de selecție să se raporteze la criteriile de calificare stabilite prin documentația de atribuire.",
+    "explicatie": "Art. 9 alin. (6) din Legea nr. 101/2016 limitează expres sfera măsurilor de remediere adoptate potrivit alin. (1) la loturile pentru care s-a depus contestație — aici, numai lotul 2. Textul folosește termenul „numai”, astfel că extinderea obligatorie a măsurilor la toate cele 5 loturi contrazice art. 9 alin. (6). Nici extinderea la loturi „similare” ca obiect, la aprecierea autorității contractante, nu are temei: art. 9 alin. (6) nu lasă o asemenea marjă de apreciere. Varianta potrivit căreia măsurile de remediere nu pot fi adoptate este falsă: art. 9 alin. (1) permite autorității contractante să adopte singură măsurile de remediere pe care le consideră necesare, în cel mult 3 zile de la primirea contestației, fără a aștepta decizia Consiliului.",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 29 alin. (3)",
-      "citat": "Selecția candidaților reprezintă un proces distinct care urmează procesului de calificare și care are ca scop doar limitarea numărului de candidați calificați care vor depune oferta în etapa a doua a licitației restrânse sau, după caz, care vor participa la dialog/negocieri. Selecția se realizează prin acordarea pentru fiecare candidat în parte a unui punctaj care trebuie să reflecte capacitatea acestuia de a îndeplini contractul ce urmează să fie atribuit.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 9 alin. (6)",
+      "citat": "În cazul în care, în cadrul aceleiași proceduri de atribuire, autoritatea contractantă achiziționează produse, servicii sau lucrări defalcate pe loturi, măsurile de remediere adoptate potrivit alin. (1) privesc numai loturile pentru care s-a depus contestație.",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
     },
     "status": "ok"
   },
@@ -4505,29 +4482,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N111",
-    "tip": "unic",
-    "test": 10,
-    "intrebare": "Potrivit Legii nr. 98/2016, în măsura în care intră sub incidența anexelor relevante la Apendicele I al Uniunii Europene la AAP și a celorlalte acorduri internaționale care prevăd obligații în sarcina Uniunii Europene, autoritățile contractante acordă lucrărilor, produselor, serviciilor și operatorilor economici ai semnatarilor acestor acorduri:",
-    "variante": [
-      "dreptul de a participa la procedurile de atribuire numai în calitate de subcontractanți sau de terți susținători",
-      "un tratament egal, numai dacă operatorii economici respectivi depun oferta în asociere cu un operator economic din Uniunea Europeană",
-      "un tratament egal numai pentru contractele de produse, contractele de lucrări și de servicii fiind rezervate operatorilor economici din Uniunea Europeană",
-      "un tratament egal cu cel acordat lucrărilor, produselor, serviciilor și operatorilor economici din Uniunea Europeană"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 49 alin. (2) din Legea nr. 98/2016 obligă autoritățile contractante să acorde lucrărilor, produselor, serviciilor și operatorilor economici ai semnatarilor AAP și ai celorlalte acorduri internaționale care prevăd obligații în sarcina Uniunii Europene un tratament egal cu cel acordat celor din Uniunea Europeană. Textul nu condiționează acest tratament de asocierea cu un operator din Uniunea Europeană; asocierea este doar una dintre calitățile în care un operator economic poate participa (ofertant asociat), potrivit art. 53 alin. (1). Tot art. 53 alin. (1) enumeră calitățile de subcontractant și terț susținător, dar ca opțiuni ale oricărui operator economic, nu ca limitări pentru operatorii din statele semnatare. Art. 49 alin. (2) enumeră deopotrivă lucrările, produsele și serviciile, deci nu permite rezervarea lucrărilor și serviciilor pentru operatorii din Uniunea Europeană.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 49 alin. (2)",
-      "citat": "(2) În măsura în care intră sub incidența anexelor 1, 2, 4 și 5, 6 și 7 la Apendicele I al Uniunii Europene la AAP și a celorlalte acorduri internaționale care prevăd obligații în sarcina Uniunii Europene, autoritățile contractante acordă lucrărilor, produselor, serviciilor și operatorilor economici ai semnatarilor acestor acorduri un tratament egal cu cel acordat lucrărilor, produselor, serviciilor și operatorilor economici din Uniunea Europeană.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395A-050",
     "tip": "unic",
     "test": 10,
@@ -4547,6 +4501,29 @@ const INTREBARI = [
       "articol": "art. 30 alin. (6)",
       "citat": "Criteriile de calificare și criteriile de selecție care se regăsesc în caietul de sarcini ori în documentația descriptivă și care nu sunt prevăzute în anunțul de participare/simplificat/ de concurs sunt considerate clauze nescrise.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N111",
+    "tip": "unic",
+    "test": 10,
+    "intrebare": "Potrivit Legii nr. 98/2016, în măsura în care intră sub incidența anexelor relevante la Apendicele I al Uniunii Europene la AAP și a celorlalte acorduri internaționale care prevăd obligații în sarcina Uniunii Europene, autoritățile contractante acordă lucrărilor, produselor, serviciilor și operatorilor economici ai semnatarilor acestor acorduri:",
+    "variante": [
+      "dreptul de a participa la procedurile de atribuire numai în calitate de subcontractanți sau de terți susținători",
+      "un tratament egal, numai dacă operatorii economici respectivi depun oferta în asociere cu un operator economic din Uniunea Europeană",
+      "un tratament egal numai pentru contractele de produse, contractele de lucrări și de servicii fiind rezervate operatorilor economici din Uniunea Europeană",
+      "un tratament egal cu cel acordat lucrărilor, produselor, serviciilor și operatorilor economici din Uniunea Europeană"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 49 alin. (2) din Legea nr. 98/2016 obligă autoritățile contractante să acorde lucrărilor, produselor, serviciilor și operatorilor economici ai semnatarilor AAP și ai celorlalte acorduri internaționale care prevăd obligații în sarcina Uniunii Europene un tratament egal cu cel acordat celor din Uniunea Europeană. Textul nu condiționează acest tratament de asocierea cu un operator din Uniunea Europeană; asocierea este doar una dintre calitățile în care un operator economic poate participa (ofertant asociat), potrivit art. 53 alin. (1). Tot art. 53 alin. (1) enumeră calitățile de subcontractant și terț susținător, dar ca opțiuni ale oricărui operator economic, nu ca limitări pentru operatorii din statele semnatare. Art. 49 alin. (2) enumeră deopotrivă lucrările, produsele și serviciile, deci nu permite rezervarea lucrărilor și serviciilor pentru operatorii din Uniunea Europeană.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 49 alin. (2)",
+      "citat": "(2) În măsura în care intră sub incidența anexelor 1, 2, 4 și 5, 6 și 7 la Apendicele I al Uniunii Europene la AAP și a celorlalte acorduri internaționale care prevăd obligații în sarcina Uniunii Europene, autoritățile contractante acordă lucrărilor, produselor, serviciilor și operatorilor economici ai semnatarilor acestor acorduri un tratament egal cu cel acordat lucrărilor, produselor, serviciilor și operatorilor economici din Uniunea Europeană.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -4574,6 +4551,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395A-051",
+    "tip": "unic",
+    "test": 10,
+    "intrebare": "La ce se pot referi criteriile de selecție stabilite de autoritatea contractantă?",
+    "variante": [
+      "La calitatea propunerii tehnice prezentate de candidat în etapa de selecție",
+      "Numai la situația economică și financiară și/sau la capacitatea tehnică și profesională, cu raportare la criteriile de calificare stabilite prin documentația de atribuire",
+      "La orice element care demonstrează seriozitatea candidatului, inclusiv la motivele de excludere",
+      "Numai la capacitatea de exercitare a activității profesionale, dovedită prin certificatul constatator"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 30 alin. (3) limitează dublu criteriile de selecție: material — pot privi doar situația economică și financiară și/sau capacitatea tehnică și profesională — și funcțional, întrucât trebuie să se raporteze la criterii de calificare deja stabilite prin documentația de atribuire. Motivele de excludere nu pot deveni criterii de selecție: ele funcționează ca filtru eliminatoriu, nu ca element de departajare punctată. Capacitatea de exercitare a activității profesionale este un criteriu de calificare, dar nu poate fi folosită la selecție, textul enumerând limitativ celelalte două domenii. Propunerea tehnică nu se evaluează în etapa de selecție — ea aparține etapei de evaluare a ofertelor, unde se aplică factorii de evaluare ai criteriului de atribuire.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 30 alin. (3)",
+      "citat": "Criteriile de selecție pot privi numai situația economică și financiară și/sau capacitatea tehnică și profesională și trebuie să se raporteze la criterii de calificare ce au fost stabilite de autoritatea contractantă prin documentația de atribuire.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98B-041",
     "tip": "unic",
     "test": 10,
@@ -4597,24 +4597,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-051",
+    "id": "N395A-052",
     "tip": "unic",
     "test": 10,
-    "intrebare": "La ce se pot referi criteriile de selecție stabilite de autoritatea contractantă?",
+    "intrebare": "Prin ce fel de criterii minime de calificare nu are dreptul autoritatea contractantă să restricționeze participarea la procedura de atribuire?",
     "variante": [
-      "La calitatea propunerii tehnice prezentate de candidat în etapa de selecție",
-      "Numai la situația economică și financiară și/sau la capacitatea tehnică și profesională, cu raportare la criteriile de calificare stabilite prin documentația de atribuire",
-      "La orice element care demonstrează seriozitatea candidatului, inclusiv la motivele de excludere",
-      "Numai la capacitatea de exercitare a activității profesionale, dovedită prin certificatul constatator"
+      "Prin criterii care impun prezentarea unor certificate de asigurare a calității",
+      "Prin criterii care se referă la capacitatea tehnică și profesională a ofertanților",
+      "Prin criterii care nu prezintă relevanță în raport cu natura și complexitatea contractului ori care sunt disproporționate în raport cu acestea",
+      "Prin criterii care se referă la experiența similară a operatorului economic în ultimii 5 ani"
     ],
     "corecte": [
-      1
+      2
     ],
-    "explicatie": "Art. 30 alin. (3) limitează dublu criteriile de selecție: material — pot privi doar situația economică și financiară și/sau capacitatea tehnică și profesională — și funcțional, întrucât trebuie să se raporteze la criterii de calificare deja stabilite prin documentația de atribuire. Motivele de excludere nu pot deveni criterii de selecție: ele funcționează ca filtru eliminatoriu, nu ca element de departajare punctată. Capacitatea de exercitare a activității profesionale este un criteriu de calificare, dar nu poate fi folosită la selecție, textul enumerând limitativ celelalte două domenii. Propunerea tehnică nu se evaluează în etapa de selecție — ea aparține etapei de evaluare a ofertelor, unde se aplică factorii de evaluare ai criteriului de atribuire.",
+    "explicatie": "Art. 31 alin. (1) interzice două categorii de cerințe minime de calificare: cele lipsite de relevanță în raport cu natura și complexitatea contractului și cele disproporționate în raport cu acestea. Este transpunerea principiului proporționalității în materia calificării. Celelalte variante descriu cerințe perfect legale: capacitatea tehnică și profesională, standardele de asigurare a calității și experiența similară sunt criterii de calificare recunoscute de Legea nr. 98/2016; ele devin nelegale doar dacă, în concret, sunt nerelevante sau disproporționate. Regula specială de la alin. (2) merge în același sens: un anumit nivel al indicatorilor economici sau financiari poate fi impus numai dacă indicatorii au o legătură concretă cu un eventual risc de neîndeplinire a contractului.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 30 alin. (3)",
-      "citat": "Criteriile de selecție pot privi numai situația economică și financiară și/sau capacitatea tehnică și profesională și trebuie să se raporteze la criterii de calificare ce au fost stabilite de autoritatea contractantă prin documentația de atribuire.",
+      "articol": "art. 31 alin. (1) lit. a) și b)",
+      "citat": "Autoritatea contractantă nu are dreptul de a restricționa participarea la procedura de atribuire a contractului de achiziție publică prin introducerea unor criteriile minime de calificare, care: a) nu prezintă relevanță în raport cu natura și complexitatea contractului de achiziție publică ce urmează să fie atribuit; b) sunt disproporționate în raport cu natura și complexitatea contractului de achiziție publică ce urmează a fi atribuit.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -4644,32 +4644,9 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500-014",
-    "tip": "unic",
-    "test": 10,
-    "intrebare": "Potrivit principiului unității monetare din Legea nr. 500/2002:",
-    "variante": [
-      "bugetul se exprimă în moneda națională, dar plățile externe se evidențiază exclusiv în valută",
-      "operațiunile aferente fondurilor europene se exprimă obligatoriu în euro",
-      "toate operațiunile bugetare se exprimă atât în lei, cât și în euro, pentru comparabilitate",
-      "toate operațiunile bugetare se exprimă în moneda națională"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 13 formulează lapidar principiul unității monetare: toate operațiunile bugetare se exprimă în moneda națională. Nu există excepții pentru fondurile europene sau pentru operațiunile externe — acestea se evidențiază în buget tot în lei (de exemplu, contribuția României la bugetul UE se cuprinde în bugetul de stat la valoarea stabilită potrivit reglementărilor UE, dar exprimată în moneda națională — art. 14^1). Variantele cu dublă exprimare sau cu evidențiere exclusivă în valută contrazic textul legii.",
-    "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 13",
-      "citat": "Toate operațiunile bugetare se exprima în moneda națională.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98B-002",
     "tip": "unic",
-    "test": 11,
+    "test": 10,
     "intrebare": "Potrivit Legii nr. 98/2016, un operator economic care, potrivit legislației statului în care este stabilit, are dreptul să presteze o activitate inclusă în obiectul achiziției poate fi respins de autoritatea contractantă numai pe motiv că legislația statului membru în care se atribuie contractul i-ar impune să fie persoană fizică sau persoană juridică?",
     "variante": [
       "Nu, un astfel de operator economic nu poate fi respins numai pentru acest motiv",
@@ -4690,24 +4667,47 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "ALOP-032",
+    "id": "L500-014",
     "tip": "unic",
     "test": 11,
-    "intrebare": "Prin ce structuri se efectuează plata cheltuielilor instituțiilor publice și care este excepția prevăzută de Normele metodologice ALOP?",
+    "intrebare": "Potrivit principiului unității monetare din Legea nr. 500/2002:",
     "variante": [
-      "Prin casieria proprie a instituției publice, cu excepția plăților care depășesc plafonul stabilit prin hotărâre a Guvernului.",
-      "Prin unitățile de trezorerie și contabilitate publică la care instituțiile au conturile deschise, cu excepția plăților în valută, care se efectuează prin bănci, sau a altor plăți prevăzute de lege să se efectueze prin bănci.",
-      "Exclusiv prin unitățile de trezorerie și contabilitate publică, fără nicio excepție.",
-      "Prin bănci comerciale, cu excepția plăților în lei, care se efectuează prin unitățile de trezorerie și contabilitate publică."
+      "bugetul se exprimă în moneda națională, dar plățile externe se evidențiază exclusiv în valută",
+      "operațiunile aferente fondurilor europene se exprimă obligatoriu în euro",
+      "toate operațiunile bugetare se exprimă atât în lei, cât și în euro, pentru comparabilitate",
+      "toate operațiunile bugetare se exprimă în moneda națională"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 13 formulează lapidar principiul unității monetare: toate operațiunile bugetare se exprimă în moneda națională. Nu există excepții pentru fondurile europene sau pentru operațiunile externe — acestea se evidențiază în buget tot în lei (de exemplu, contribuția României la bugetul UE se cuprinde în bugetul de stat la valoarea stabilită potrivit reglementărilor UE, dar exprimată în moneda națională — art. 14^1). Variantele cu dublă exprimare sau cu evidențiere exclusivă în valută contrazic textul legii.",
+    "sursa": {
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 13",
+      "citat": "Toate operațiunile bugetare se exprima în moneda națională.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "ALOP-031",
+    "tip": "unic",
+    "test": 11,
+    "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), care este consecința lipsei vizei de control financiar preventiv propriu de pe o ordonanțare de plată?",
+    "variante": [
+      "Ordonanțarea se consideră tacit avizată dacă viza nu a fost refuzată în termen de 3 zile lucrătoare de la primire.",
+      "Ordonanțarea este nulă și fără valoare pentru conducătorul compartimentului financiar (financiar-contabil) care urmează să facă plata, dacă nu este autorizată în condițiile prevăzute de lege.",
+      "Ordonanțarea produce efecte, însă plata poate fi efectuată numai după expirarea unui termen de 30 de zile de la emitere.",
+      "Ordonanțarea rămâne pe deplin valabilă, răspunderea revenind exclusiv ordonatorului de credite care a semnat-o."
     ],
     "corecte": [
       1
     ],
-    "explicatie": "Pct. 4 din Normele ALOP prevede că plata cheltuielilor se efectuează de persoanele autorizate care poartă denumirea generică de contabil, în limita creditelor bugetare și destinațiilor aprobate, prin unitățile de trezorerie și contabilitate publică la care instituțiile își au conturile deschise, cu excepția plăților în valută, care se efectuează prin bănci, sau a altor plăți prevăzute de lege să se efectueze prin bănci. Varianta cu plata prin bănci comerciale, cu excepția plăților în lei, inversează regula cu excepția. Varianta cu plata exclusiv prin unitățile de trezorerie, fără nicio excepție, elimină excepția expresă din text. Varianta cu plata prin casieria proprie confundă regula cu plățile în numerar: potrivit pct. 4, instituțiile publice iau măsuri pentru reducerea la maximum a plăților în numerar, efectuând prin casieria proprie numai cheltuielile de volum redus care nu se justifică a fi efectuate prin virament. Tot pct. 4 prevede că plata cheltuielilor este asigurată de șeful compartimentului financiar (financiar-contabil), iar în instituțiile publice fără un asemenea compartiment, de persoana desemnată de ordonatorul de credite.",
+    "explicatie": "Pct. 3 din Normele ALOP prevede că ordonanțările de plată nevizate de persoana desemnată să exercite controlul financiar preventiv propriu sunt nule și fără valoare pentru conducătorul compartimentului financiar (financiar-contabil) care urmează să facă plata, dacă nu sunt autorizate în condițiile prevăzute de lege. Coerent, pct. 4 prevede că plata nu se poate efectua când nu există viza de control financiar preventiv propriu pe ordonanțarea de plată și nici autorizarea prevăzută de lege. Varianta cu efectuarea plății după un termen de 30 de zile introduce un termen pe care Normele nu îl prevăd; lipsa vizei împiedică plata (pct. 4). Varianta cu avizarea tacită după 3 zile lucrătoare este contrazisă de pct. 3, potrivit căruia nicio ordonanțare nu poate fi prezentată spre semnare ordonatorului de credite decât după ce viza a fost acordată. Varianta cu valabilitatea deplină a ordonanțării, cu răspunderea exclusivă a ordonatorului care a semnat-o, contrazice textul: tocmai pentru conducătorul compartimentului financiar documentul este nul și fără valoare. Potrivit pct. 1, angajarea și ordonanțarea cheltuielilor se efectuează numai cu viza prealabilă de control financiar preventiv propriu, potrivit dispozițiilor legale.",
     "sursa": {
       "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
-      "articol": "pct. 4 (plata cheltuielilor)",
-      "citat": "Plata cheltuielilor se efectuează de persoanele autorizate care, potrivit legii, poarta denumirea generica de contabil, în limita creditelor bugetare și destinațiilor aprobate în condițiile dispozițiilor legale, prin unitățile de trezorerie și contabilitate publică la care își au conturile deschise, cu excepția plăților în valută, care se efectuează prin bănci, sau a altor plati prevăzute de lege să se efectueze prin bănci.",
+      "articol": "pct. 3 (ordonanțarea cheltuielilor)",
+      "citat": "Ordonantarile de plată nevizate de persoana desemnată să exercite controlul financiar preventiv propriu sunt nule și fără valoare pentru conducătorul compartimentului financiar (financiar-contabil) care urmează să facă plata, dacă nu sunt autorizate în condițiile prevăzute de lege.",
       "fisier": "09_Norme_ALOP_1792-2002.txt"
     },
     "status": "ok"
@@ -4736,29 +4736,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-052",
-    "tip": "unic",
-    "test": 11,
-    "intrebare": "Prin ce fel de criterii minime de calificare nu are dreptul autoritatea contractantă să restricționeze participarea la procedura de atribuire?",
-    "variante": [
-      "Prin criterii care impun prezentarea unor certificate de asigurare a calității",
-      "Prin criterii care se referă la capacitatea tehnică și profesională a ofertanților",
-      "Prin criterii care nu prezintă relevanță în raport cu natura și complexitatea contractului ori care sunt disproporționate în raport cu acestea",
-      "Prin criterii care se referă la experiența similară a operatorului economic în ultimii 5 ani"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 31 alin. (1) interzice două categorii de cerințe minime de calificare: cele lipsite de relevanță în raport cu natura și complexitatea contractului și cele disproporționate în raport cu acestea. Este transpunerea principiului proporționalității în materia calificării. Celelalte variante descriu cerințe perfect legale: capacitatea tehnică și profesională, standardele de asigurare a calității și experiența similară sunt criterii de calificare recunoscute de Legea nr. 98/2016; ele devin nelegale doar dacă, în concret, sunt nerelevante sau disproporționate. Regula specială de la alin. (2) merge în același sens: un anumit nivel al indicatorilor economici sau financiari poate fi impus numai dacă indicatorii au o legătură concretă cu un eventual risc de neîndeplinire a contractului.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 31 alin. (1) lit. a) și b)",
-      "citat": "Autoritatea contractantă nu are dreptul de a restricționa participarea la procedura de atribuire a contractului de achiziție publică prin introducerea unor criteriile minime de calificare, care: a) nu prezintă relevanță în raport cu natura și complexitatea contractului de achiziție publică ce urmează să fie atribuit; b) sunt disproporționate în raport cu natura și complexitatea contractului de achiziție publică ce urmează a fi atribuit.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98B-003",
     "tip": "unic",
     "test": 11,
@@ -4778,6 +4755,29 @@ const INTREBARI = [
       "articol": "art. 53 alin. (1^1)",
       "citat": "Autoritatea contractantă exclude din procedura de atribuire orice persoană fizică sau juridică, având calitatea de ofertant individual/ofertant asociat/candidat/terț susținător/subcontractant, care nu se încadrează în definiția de la art. 3 alin. (1) lit. jj), fără a mai fi necesară verificarea încadrării în prevederile art. 164, 165 și 167.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-053",
+    "tip": "unic",
+    "test": 11,
+    "intrebare": "Care este ponderea maximă care poate fi alocată factorului preț în cazul contractelor prevăzute la art. 187 alin. (8) din Legea nr. 98/2016, pentru care aplicarea criteriului „cel mai bun raport calitate-preț” sau „cel mai bun raport calitate-cost” este obligatorie?",
+    "variante": [
+      "20%",
+      "60%",
+      "80%",
+      "40%"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 32 alin. (6), în forma modificată prin H.G. nr. 336/2023, prevede că pentru contractele de la art. 187 alin. (8) din Lege criteriile calitate-preț sau calitate-cost se aplică obligatoriu, iar ponderea alocată factorului preț nu poate fi mai mare de 40%. Limita urmărește să împiedice transformarea criteriului calitativ într-un criteriu de preț deghizat. Procentul de 80% este o valoare reală, dar cu alt rol: pragul sub care o ofertă este considerată cu preț aparent neobișnuit de scăzut, prin raportare la valoarea estimată (art. 136 alin. (4) din Norme). 20% și 60% nu au corespondent normativ în această materie. Reține că plafonul este un maxim: ponderea poate fi și mai mică, dar nu mai mare.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 32 alin. (6)",
+      "citat": "Criteriile de atribuire prevăzute la alin. (1) se aplică în mod obligatoriu în cazul contractelor de achiziție publică/acordurilor-cadru prevăzute la art. 187 alin. (8) din Lege, iar ponderea alocată factorului preț nu poate fi mai mare de 40%.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -4805,24 +4805,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-053",
+    "id": "N395A-054",
     "tip": "unic",
     "test": 11,
-    "intrebare": "Care este ponderea maximă care poate fi alocată factorului preț în cazul contractelor prevăzute la art. 187 alin. (8) din Legea nr. 98/2016, pentru care aplicarea criteriului „cel mai bun raport calitate-preț” sau „cel mai bun raport calitate-cost” este obligatorie?",
+    "intrebare": "Poate autoritatea contractantă să utilizeze organizarea, calificarea și experiența personalului desemnat să efectueze efectiv activitățile contractului atât ca factor de evaluare, cât și ca element al calificării și selecției?",
     "variante": [
-      "20%",
-      "60%",
-      "80%",
-      "40%"
+      "Nu, autoritatea contractantă nu poate folosi personalul desemnat pentru activitățile contractului ca parte a procesului de calificare și selecție",
+      "Da, cu condiția ca ponderea factorului de evaluare aferent să nu depășească 40%",
+      "Da, dar numai în cazul procedurilor care se desfășoară în mai multe etape",
+      "Da, dacă acest lucru este menționat expres în anunțul de participare și în DUAE"
     ],
     "corecte": [
-      3
+      0
     ],
-    "explicatie": "Art. 32 alin. (6), în forma modificată prin H.G. nr. 336/2023, prevede că pentru contractele de la art. 187 alin. (8) din Lege criteriile calitate-preț sau calitate-cost se aplică obligatoriu, iar ponderea alocată factorului preț nu poate fi mai mare de 40%. Limita urmărește să împiedice transformarea criteriului calitativ într-un criteriu de preț deghizat. Procentul de 80% este o valoare reală, dar cu alt rol: pragul sub care o ofertă este considerată cu preț aparent neobișnuit de scăzut, prin raportare la valoarea estimată (art. 136 alin. (4) din Norme). 20% și 60% nu au corespondent normativ în această materie. Reține că plafonul este un maxim: ponderea poate fi și mai mică, dar nu mai mare.",
+    "explicatie": "Art. 32 alin. (4) interzice dubla utilizare: dacă organizarea, calificarea sau experiența personalului desemnat pentru executarea contractului este folosită ca factor de evaluare — posibilitate deschisă de alin. (3) atunci când calitatea personalului are impact semnificativ asupra executării — acel personal nu mai poate fi folosit și în calificare/selecție. Alin. (5) arată soluția practică: în astfel de proceduri, criteriile de calificare privind personalul se pot referi doar la personalul permanent, în special de conducere, al operatorului economic, adică la alte persoane decât cele desemnate pentru contract. Plafonul de 40% privește factorul preț la contractele de la art. 187 alin. (8), nu factorul „personal”. Menționarea în anunț sau în DUAE nu poate valida o dublă utilizare interzisă de normă.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 32 alin. (6)",
-      "citat": "Criteriile de atribuire prevăzute la alin. (1) se aplică în mod obligatoriu în cazul contractelor de achiziție publică/acordurilor-cadru prevăzute la art. 187 alin. (8) din Lege, iar ponderea alocată factorului preț nu poate fi mai mare de 40%.",
+      "articol": "art. 32 alin. (4)",
+      "citat": "Autoritatea contractantă nu poate folosi organizarea/ calificarea și/sau experiența personalului desemnat pentru a efectua activitățile contractului, respectiv cel precizat la alin. (3), ca parte a procesului de calificare și selecție în cadrul procedurii de atribuire a respectivului contract.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -4874,54 +4874,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-054",
-    "tip": "unic",
-    "test": 11,
-    "intrebare": "Poate autoritatea contractantă să utilizeze organizarea, calificarea și experiența personalului desemnat să efectueze efectiv activitățile contractului atât ca factor de evaluare, cât și ca element al calificării și selecției?",
-    "variante": [
-      "Nu, autoritatea contractantă nu poate folosi personalul desemnat pentru activitățile contractului ca parte a procesului de calificare și selecție",
-      "Da, cu condiția ca ponderea factorului de evaluare aferent să nu depășească 40%",
-      "Da, dar numai în cazul procedurilor care se desfășoară în mai multe etape",
-      "Da, dacă acest lucru este menționat expres în anunțul de participare și în DUAE"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 32 alin. (4) interzice dubla utilizare: dacă organizarea, calificarea sau experiența personalului desemnat pentru executarea contractului este folosită ca factor de evaluare — posibilitate deschisă de alin. (3) atunci când calitatea personalului are impact semnificativ asupra executării — acel personal nu mai poate fi folosit și în calificare/selecție. Alin. (5) arată soluția practică: în astfel de proceduri, criteriile de calificare privind personalul se pot referi doar la personalul permanent, în special de conducere, al operatorului economic, adică la alte persoane decât cele desemnate pentru contract. Plafonul de 40% privește factorul preț la contractele de la art. 187 alin. (8), nu factorul „personal”. Menționarea în anunț sau în DUAE nu poate valida o dublă utilizare interzisă de normă.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 32 alin. (4)",
-      "citat": "Autoritatea contractantă nu poate folosi organizarea/ calificarea și/sau experiența personalului desemnat pentru a efectua activitățile contractului, respectiv cel precizat la alin. (3), ca parte a procesului de calificare și selecție în cadrul procedurii de atribuire a respectivului contract.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "OUGB-020",
-    "tip": "multiplu",
-    "test": 11,
-    "intrebare": "Care dintre următoarele aspecte de oportunitate și/sau de natură tehnică NU fac obiectul controlului ex ante, potrivit art. 4 alin. (7) din Normele metodologice de aplicare a O.U.G. nr. 98/2017?",
-    "variante": [
-      "Succesiunea și durata activităților în cadrul contractului",
-      "Identificarea nevoii autorității contractante și stabilirea necesității cu privire la obiectul contractului",
-      "Alegerea tipului de procedură de atribuire aplicat",
-      "Stabilirea specificațiilor tehnice și/sau alegerea standardelor de performanță aferente acestora"
-    ],
-    "corecte": [
-      0,
-      1,
-      3
-    ],
-    "explicatie": "Art. 4 alin. (7) exclude din controlul ex ante aspectele de oportunitate și de natură tehnică: identificarea nevoii și stabilirea necesității (lit. a), analiza opțiunilor (lit. b), stabilirea specificațiilor tehnice/standardelor de performanță (lit. c), succesiunea și durata activităților (lit. d), conformitatea propunerii tehnice cu caietul de sarcini (lit. e, cu excepții), prețurile ofertanților (lit. f, cu excepția indiciilor de preț neobișnuit de scăzut) și aspectele din rapoartele experților cooptați (lit. g, cu excepții). În schimb, ALEGEREA TIPULUI DE PROCEDURĂ este expres un aspect de CALITATE controlat de ANAP — art. 4 alin. (1) lit. a). Capcană: specificațiile tehnice devin totuși aspect de calitate în sectoarele specifice stabilite prin ordin al președintelui ANAP (alin. (2)).",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
-      "articol": "art. 4 alin. (7) lit. a), c) și d)",
-      "citat": "Aspectele de oportunitate și/sau de natură tehnică, cum ar fi următoarele, nu fac obiectul controlului ex ante: a) identificarea nevoii autorității contractante și stabilirea necesității cu privire la obiectul contractului pentru care se lansează procedura de atribuire; [...] c) stabilirea specificațiilor tehnice și/sau alegerea standardelor de performanță aferente acestora; d) succesiunea și durata activităților în cadrul contractului;",
-      "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98B-005",
     "tip": "unic",
     "test": 11,
@@ -4945,48 +4897,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L101A-008",
+    "id": "OUGB-012",
     "tip": "unic",
     "test": 11,
-    "intrebare": "Un ofertant formulează contestație împotriva aceluiași act al autorității contractante atât la CNSC, cât și la instanța de judecată. Care este consecința prevăzută de lege?",
+    "intrebare": "Cum și în ce termen este împuternicită echipa de control (verificatorii ex ante prevăzuți la art. 2 alin. (2) lit. b) din norme) pentru o procedură de atribuire inclusă în programul de verificare?",
     "variante": [
-      "CNSC și instanța soluționează în paralel, rămânând valabilă prima hotărâre pronunțată",
-      "Instanța de judecată își declină automat competența în favoarea CNSC, care a fost sesizat primul",
-      "Ambele sesizări se anulează, iar ofertantul decade din dreptul de a mai contesta actul",
-      "Se prezumă că ofertantul a renunțat la calea administrativ-jurisdicțională"
+      "Prin hotărâre a Guvernului, în termen de 3 zile de la includerea în programul de verificare",
+      "Prin decizie de verificare aprobată prin ordin al președintelui ANAP, în termen de o zi lucrătoare de la publicarea anunțului de participare",
+      "Prin decizie a conducătorului structurii de control ex ante, în termen de două zile lucrătoare de la selectare",
+      "Prin ordin al ministrului finanțelor publice, în termen de o zi lucrătoare de la publicarea anunțului de participare"
     ],
     "corecte": [
-      3
+      1
     ],
-    "explicatie": "Art. 4 alin. (6) instituie o prezumție legală: dacă aceeași persoană atacă același act pe ambele căi, se consideră că a renunțat la calea administrativ-jurisdicțională (CNSC), litigiul rămânând la instanță. Nu există declinare automată în favoarea CNSC și nici anularea ambelor sesizări — dreptul la contestație nu se pierde. Soluționarea în paralel este exact ce urmărește legea să evite. A nu se confunda cu situația de la art. 4 alin. (3)-(4), unde persoane DIFERITE contestă același act la CNSC și la instanță — acolo intervine informarea reciprocă și posibila conexare la instanță.",
+    "explicatie": "Art. 2 alin. (5) din norme: echipa de control este împuternicită prin decizie de verificare, aprobată prin ordin al PREȘEDINTELUI ANAP, în baza programului de verificare, în termen de O ZI LUCRĂTOARE de la publicarea anunțului (respectiv de la includerea în program a modificării contractuale sau a negocierii fără publicare prealabilă). Ordinul și decizia se transmit apoi autorităților contractante selectate în maximum o zi lucrătoare de la aprobare (alin. (6)). Competența aparține președintelui ANAP, nu Guvernului, nu ministrului finanțelor (ANAP nu mai este sub autoritatea exclusivă a MFP pentru acest control) și nu conducătorului structurii de control.",
     "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 4 alin. (6)",
-      "citat": "În cazul în care persoana care se consideră vătămată formulează contestație împotriva aceluiași act al autorității contractante atât la Consiliu, cât și la instanța de judecată, se prezumă că aceasta a renunțat la calea administrativ-jurisdicțională.",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98B-043",
-    "tip": "unic",
-    "test": 11,
-    "intrebare": "Ce regim au subcontractanții propuși în ofertă sau implicați/declarați ulterior semnării contractului, în ceea ce privește obligațiile din domeniul mediului, social și al relațiilor de muncă?",
-    "variante": [
-      "Trebuie să respecte aceleași obligații ca ofertanții, prevăzute în documentația de atribuire potrivit art. 51 alin. (1).",
-      "Le revin aceste obligații numai dacă valoarea activităților subcontractate depășește 10% din valoarea contractului.",
-      "Le revin aceste obligații numai subcontractanților declarați la momentul depunerii ofertei, nu și celor implicați ulterior semnării contractului.",
-      "Nu le revin astfel de obligații, răspunderea pentru respectarea lor fiind exclusiv a contractantului principal."
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 55 alin. (2) extinde asupra subcontractanților același standard aplicabil ofertanților, trimițând expres la reglementările indicate în documentația de atribuire potrivit art. 51 alin. (1). Textul acoperă deopotrivă subcontractanții propuși în ofertă și pe cei implicați sau declarați ulterior semnării contractului, ceea ce infirmă varianta care limitează obligația la momentul depunerii ofertei. Ideea că răspunderea ar aparține exclusiv contractantului este contrazisă de lege, care instituie obligația direct în sarcina subcontractanților. Pragul de 10% nu există în acest text; procentul de 10% apare la art. 60 alin. (2), în definiția acționarului sau asociatului semnificativ. Reține și obligația de declarare din art. 55 alin. (1): categoriile de servicii/lucrări subcontractate, procentul sau valoarea aferentă și datele de identificare ale subcontractanților cunoscuți.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 55 alin. (2)",
-      "citat": "(2) Subcontractanții propuși în ofertă sau implicați/declarați ulterior semnării contractului trebuie să respecte aceleași obligații ca ofertanții, în domeniul mediului, social și al relațiilor de muncă, stabilite prin legislația adoptată la nivelul Uniunii Europene, legislația națională, prin acorduri colective sau prin tratatele și acordurile internaționale în aceste domenii, prevăzute în documentația de atribuire potrivit art. 51 alin. (1).",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+      "articol": "art. 2 alin. (5)",
+      "citat": "Echipa de control prevăzută la alin. (2) lit. b) este împuternicită prin decizie de verificare, aprobată prin ordin al președintelui ANAP, în baza programului de verificare, în termen de o zi lucrătoare de la publicarea anunțului de participare/de concurs/de participare simplificat/de concesionare",
+      "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
     },
     "status": "ok"
   },
@@ -5015,6 +4944,54 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L101A-016",
+    "tip": "multiplu",
+    "test": 11,
+    "intrebare": "Care dintre următoarele elemente trebuie să le conțină, potrivit art. 10 din Legea nr. 101/2016, contestația formulată în scris? (selectați toate variantele corecte)",
+    "variante": [
+      "Precizarea actului atacat al autorității contractante",
+      "Motivarea în fapt și în drept a contestației",
+      "Dovada achitării taxei judiciare de timbru",
+      "Denumirea și sediul autorității contractante"
+    ],
+    "corecte": [
+      0,
+      1,
+      3
+    ],
+    "explicatie": "Art. 10 enumeră elementele obligatorii ale contestației: identificarea contestatorului (lit. a)), denumirea și sediul autorității contractante (lit. b)), obiectul contractului și procedura aplicată (lit. c)), precizarea actului atacat (lit. d)), obiectul contestației (lit. e)), motivarea în fapt și în drept (lit. f)), mijloacele de probă în măsura posibilului (lit. g)) și semnătura (lit. h)). Dovada taxei de timbru NU figurează și nici nu ar putea: art. 11 alin. (3) prevede că contestația pe cale administrativ-jurisdicțională nu se taxează. Lipsa informațiilor cerute de art. 10 atrage cererea de completare în 3 zile, sub sancțiunea anulării (art. 11 alin. (1)).",
+    "sursa": {
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 10 lit. b), d), f)",
+      "citat": "Contestația se formulează în scris și trebuie să conțină următoarele elemente: [...] b) denumirea și sediul autorității contractante; [...] d) precizarea actului atacat al autorității contractante; e) obiectul contestației; f) motivarea în fapt și în drept a contestației;",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98B-043",
+    "tip": "unic",
+    "test": 11,
+    "intrebare": "Ce regim au subcontractanții propuși în ofertă sau implicați/declarați ulterior semnării contractului, în ceea ce privește obligațiile din domeniul mediului, social și al relațiilor de muncă?",
+    "variante": [
+      "Trebuie să respecte aceleași obligații ca ofertanții, prevăzute în documentația de atribuire potrivit art. 51 alin. (1).",
+      "Le revin aceste obligații numai dacă valoarea activităților subcontractate depășește 10% din valoarea contractului.",
+      "Le revin aceste obligații numai subcontractanților declarați la momentul depunerii ofertei, nu și celor implicați ulterior semnării contractului.",
+      "Nu le revin astfel de obligații, răspunderea pentru respectarea lor fiind exclusiv a contractantului principal."
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 55 alin. (2) extinde asupra subcontractanților același standard aplicabil ofertanților, trimițând expres la reglementările indicate în documentația de atribuire potrivit art. 51 alin. (1). Textul acoperă deopotrivă subcontractanții propuși în ofertă și pe cei implicați sau declarați ulterior semnării contractului, ceea ce infirmă varianta care limitează obligația la momentul depunerii ofertei. Ideea că răspunderea ar aparține exclusiv contractantului este contrazisă de lege, care instituie obligația direct în sarcina subcontractanților. Pragul de 10% nu există în acest text; procentul de 10% apare la art. 60 alin. (2), în definiția acționarului sau asociatului semnificativ. Reține și obligația de declarare din art. 55 alin. (1): categoriile de servicii/lucrări subcontractate, procentul sau valoarea aferentă și datele de identificare ale subcontractanților cunoscuți.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 55 alin. (2)",
+      "citat": "(2) Subcontractanții propuși în ofertă sau implicați/declarați ulterior semnării contractului trebuie să respecte aceleași obligații ca ofertanții, în domeniul mediului, social și al relațiilor de muncă, stabilite prin legislația adoptată la nivelul Uniunii Europene, legislația națională, prin acorduri colective sau prin tratatele și acordurile internaționale în aceste domenii, prevăzute în documentația de atribuire potrivit art. 51 alin. (1).",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98B-006",
     "tip": "multiplu",
     "test": 11,
@@ -5035,29 +5012,6 @@ const INTREBARI = [
       "articol": "art. 56 alin. (1)",
       "citat": "Autoritatea contractantă poate rezerva dreptul de participare la procedura de atribuire doar unităților protejate autorizate conform Legii nr. 448/2006 privind protecția și promovarea drepturilor persoanelor cu handicap, republicată, cu modificările și completările ulterioare, și întreprinderilor sociale de inserție prevăzute de Legea nr. 219/2015 privind economia socială.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "OUGA-011",
-    "tip": "unic",
-    "test": 11,
-    "intrebare": "Potrivit O.U.G. nr. 98/2017, ce verifică ANAP în cadrul controlului ex ante după comunicarea unui avertisment de integritate emis de Agenția Națională de Integritate?",
-    "variante": [
-      "Doar procedurile deja incluse în programul de verificare, celelalte fiind exceptate",
-      "Legalitatea avertismentului de integritate emis de Agenția Națională de Integritate",
-      "Averea și interesele personale ale membrilor comisiei de evaluare",
-      "Măsurile de remediere adoptate de autoritatea contractantă, până la semnarea contractului, indiferent dacă procedura a fost sau nu inclusă în programul de verificare"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Potrivit art. 7 alin. (6) din O.U.G. nr. 98/2017, după comunicarea la ANAP a avertismentului de integritate/notificării Agenției Naționale de Integritate, ANAP verifică, în cadrul controlului ex ante, măsurile de remediere adoptate de autoritatea contractantă până la semnarea contractului, indiferent dacă procedura a fost sau nu inclusă în programul de verificare. Varianta care limitează verificarea la procedurile deja incluse în program contrazice tocmai această ultimă precizare a art. 7 alin. (6). Obiectul verificării îl constituie măsurile de remediere ale autorității contractante, nu avertismentul însuși, astfel că ANAP nu verifică legalitatea avertismentului de integritate. Nici averea și interesele membrilor comisiei de evaluare nu fac obiectul controlului ex ante, care vizează conformitatea cu dispozițiile legale din domeniul achizițiilor publice (art. 5 alin. (2)). Autoritatea contractantă informează ANAP despre măsurile de remediere în 3 zile lucrătoare de la primirea avertismentului (art. 10 alin. (2)), iar constatările ANAP se comunică Agenției Naționale de Integritate, fără emiterea unui aviz conform (art. 14 alin. (9^1)).",
-    "sursa": {
-      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
-      "articol": "art. 7 alin. (6)",
-      "citat": "ANAP verifică, în cadrul controlului ex ante, măsurile de remediere adoptate de către autoritatea contractantă după comunicarea la ANAP a avertismentului de integritate/notificării emis(e) de către Agenția Națională de Integritate, până la semnarea contractului, [...] indiferent dacă procedurile de atribuire a contractelor în cauză au fost incluse sau nu în programul de verificare",
-      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
     },
     "status": "ok"
   },
@@ -5085,25 +5039,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500-N106",
+    "id": "OUGA-011",
     "tip": "unic",
     "test": 11,
-    "intrebare": "Potrivit Legii nr. 500/2002 privind finanțele publice, cheltuielile bugetare reprezentând contribuția României la bugetul Uniunii Europene:",
+    "intrebare": "Potrivit O.U.G. nr. 98/2017, ce verifică ANAP în cadrul controlului ex ante după comunicarea unui avertisment de integritate emis de Agenția Națională de Integritate?",
     "variante": [
-      "se asigură din Fondul de rezervă bugetară la dispoziția Guvernului, pe bază de hotărâri ale Guvernului",
-      "se cuprind în bugetul fondurilor externe nerambursabile, la valoarea stabilită prin legea bugetară anuală",
-      "se cuprind în bugetul trezoreriei statului, aprobat prin hotărâre a Guvernului",
-      "se cuprind în bugetul de stat, la valoarea stabilită potrivit reglementărilor Uniunii Europene"
+      "Doar procedurile deja incluse în programul de verificare, celelalte fiind exceptate",
+      "Legalitatea avertismentului de integritate emis de Agenția Națională de Integritate",
+      "Averea și interesele personale ale membrilor comisiei de evaluare",
+      "Măsurile de remediere adoptate de autoritatea contractantă, până la semnarea contractului, indiferent dacă procedura a fost sau nu inclusă în programul de verificare"
     ],
     "corecte": [
       3
     ],
-    "explicatie": "Art. 14^1 prevede că cheltuielile reprezentând contribuția României la bugetul Uniunii Europene se cuprind în bugetul de stat, la valoarea stabilită potrivit reglementărilor Uniunii Europene. Bugetul fondurilor externe nerambursabile este un buget distinct din sfera legii (art. 1 alin. (2) lit. i)) și privește sumele primite, nu contribuția plătită de România; în plus, valoarea contribuției nu o stabilește legea bugetară națională. Fondul de rezervă bugetară la dispoziția Guvernului finanțează cheltuieli urgente sau neprevăzute apărute în timpul exercițiului (art. 30 alin. (2)). Bugetul trezoreriei statului se aprobă prin hotărâre a Guvernului (art. 16 alin. (1) lit. f)), dar nu este bugetul în care art. 14^1 plasează contribuția. Atât bugetul-gazdă, cât și reperul valorii sunt fixate de art. 14^1.",
+    "explicatie": "Potrivit art. 7 alin. (6) din O.U.G. nr. 98/2017, după comunicarea la ANAP a avertismentului de integritate/notificării Agenției Naționale de Integritate, ANAP verifică, în cadrul controlului ex ante, măsurile de remediere adoptate de autoritatea contractantă până la semnarea contractului, indiferent dacă procedura a fost sau nu inclusă în programul de verificare. Varianta care limitează verificarea la procedurile deja incluse în program contrazice tocmai această ultimă precizare a art. 7 alin. (6). Obiectul verificării îl constituie măsurile de remediere ale autorității contractante, nu avertismentul însuși, astfel că ANAP nu verifică legalitatea avertismentului de integritate. Nici averea și interesele membrilor comisiei de evaluare nu fac obiectul controlului ex ante, care vizează conformitatea cu dispozițiile legale din domeniul achizițiilor publice (art. 5 alin. (2)). Autoritatea contractantă informează ANAP despre măsurile de remediere în 3 zile lucrătoare de la primirea avertismentului (art. 10 alin. (2)), iar constatările ANAP se comunică Agenției Naționale de Integritate, fără emiterea unui aviz conform (art. 14 alin. (9^1)).",
     "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 14^1",
-      "citat": "Cheltuielile bugetare reprezentând contribuția României la bugetul Uniunii Europene se cuprind în bugetul de stat, la valoarea stabilită potrivit reglementărilor Uniunii Europene.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+      "articol": "art. 7 alin. (6)",
+      "citat": "ANAP verifică, în cadrul controlului ex ante, măsurile de remediere adoptate de către autoritatea contractantă după comunicarea la ANAP a avertismentului de integritate/notificării emis(e) de către Agenția Națională de Integritate, până la semnarea contractului, [...] indiferent dacă procedurile de atribuire a contractelor în cauză au fost incluse sau nu în programul de verificare",
+      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
     },
     "status": "ok"
   },
@@ -5133,24 +5087,71 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98B-044",
+    "id": "L500-N106",
     "tip": "unic",
-    "test": 12,
-    "intrebare": "Care este obligația autorității contractante pe parcursul aplicării procedurii de atribuire, în materia conflictului de interese, potrivit art. 58 din Legea nr. 98/2016?",
+    "test": 11,
+    "intrebare": "Potrivit Legii nr. 500/2002 privind finanțele publice, cheltuielile bugetare reprezentând contribuția României la bugetul Uniunii Europene:",
     "variante": [
-      "De a identifica situațiile de conflict de interese, remedierea acestora fiind atribuția exclusivă a ANAP.",
-      "De a sesiza Consiliul Național de Soluționare a Contestațiilor ori de câte ori identifică o situație potențial generatoare de conflict de interese.",
-      "De a lua toate măsurile necesare pentru a preveni, identifica și remedia situațiile de conflict de interese, în scopul evitării denaturării concurenței și al asigurării tratamentului egal pentru toți operatorii economici.",
-      "De a solicita membrilor comisiei de evaluare declarații de imparțialitate, această formalitate epuizând obligațiile sale legale."
+      "se asigură din Fondul de rezervă bugetară la dispoziția Guvernului, pe bază de hotărâri ale Guvernului",
+      "se cuprind în bugetul fondurilor externe nerambursabile, la valoarea stabilită prin legea bugetară anuală",
+      "se cuprind în bugetul trezoreriei statului, aprobat prin hotărâre a Guvernului",
+      "se cuprind în bugetul de stat, la valoarea stabilită potrivit reglementărilor Uniunii Europene"
     ],
     "corecte": [
-      2
+      3
     ],
-    "explicatie": "Art. 58 stabilește o obligație în trei timpi — prevenire, identificare și remediere — cu o finalitate expresă: evitarea denaturării concurenței și asigurarea tratamentului egal. Obligația aparține autorității contractante, nu ANAP, care exercită funcții de control ex ante și de îndrumare, nu de remediere a fiecărei situații concrete. Declarațiile de imparțialitate sunt un instrument util, dar nu epuizează obligația legală, care presupune și demersuri active: potrivit art. 62 alin. (1) și (2), autoritatea contractantă analizează situația și solicită punctul de vedere al candidatului/ofertantului, iar potrivit alin. (3) adoptă măsuri precum înlocuirea persoanelor responsabile cu evaluarea sau eliminarea ofertantului aflat în relație cu persoanele cu funcții de decizie. Sesizarea CNSC nu este o obligație prevăzută aici — CNSC soluționează contestații, la sesizarea persoanelor vătămate.",
+    "explicatie": "Art. 14^1 prevede că cheltuielile reprezentând contribuția României la bugetul Uniunii Europene se cuprind în bugetul de stat, la valoarea stabilită potrivit reglementărilor Uniunii Europene. Bugetul fondurilor externe nerambursabile este un buget distinct din sfera legii (art. 1 alin. (2) lit. i)) și privește sumele primite, nu contribuția plătită de România; în plus, valoarea contribuției nu o stabilește legea bugetară națională. Fondul de rezervă bugetară la dispoziția Guvernului finanțează cheltuieli urgente sau neprevăzute apărute în timpul exercițiului (art. 30 alin. (2)). Bugetul trezoreriei statului se aprobă prin hotărâre a Guvernului (art. 16 alin. (1) lit. f)), dar nu este bugetul în care art. 14^1 plasează contribuția. Atât bugetul-gazdă, cât și reperul valorii sunt fixate de art. 14^1.",
+    "sursa": {
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 14^1",
+      "citat": "Cheltuielile bugetare reprezentând contribuția României la bugetul Uniunii Europene se cuprind în bugetul de stat, la valoarea stabilită potrivit reglementărilor Uniunii Europene.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-057",
+    "tip": "unic",
+    "test": 11,
+    "intrebare": "Până la ce dată se calculează și se actualizează nivelul ratei de actualizare care va fi utilizată în procedurile de atribuire desfășurate în anul următor și unde se publică?",
+    "variante": [
+      "Până cel târziu la data de 15 ianuarie a anului în care se aplică, publicându-se pe site-ul ANAP",
+      "Până cel târziu la data de 1 decembrie, publicându-se în SEAP",
+      "Până cel târziu la data de 31 decembrie, publicându-se în Monitorul Oficial al României, Partea I",
+      "Până cel târziu la data de 15 decembrie, publicându-se pe site-ul Ministerului Finanțelor Publice"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 33 alin. (6) prevede că rata de actualizare se calculează și se actualizează în fiecare an, în ultimul trimestru, până cel târziu la data de 15 decembrie, și se publică pe site-ul Ministerului Finanțelor Publice. Data anterioară anului de aplicare este esențială: autoritățile trebuie să cunoască rata înainte de a iniția procedurile din anul următor. Metodologia de calcul se stabilește, potrivit alin. (5), prin ordin comun al ANAP și al Comisiei Naționale de Prognoză, iar ordinele anuale de revizuire a ratei se publică în Monitorul Oficial — de unde plauzibilitatea distractorilor. Nici ANAP, nici SEAP nu sunt locul de publicare a nivelului ratei, iar 31 decembrie și 15 ianuarie ar fi termene tardive în raport cu logica textului.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 33 alin. (6)",
+      "citat": "Nivelul ratei de actualizare ce va fi utilizată în procedurile de atribuire ce vor fi desfășurate în anul următor se va calcula și actualiza în fiecare an, în ultimul trimestru, până la cel târziu data de 15 decembrie, prin aplicarea metodologiei prevăzute la alin. (5), și se va publica pe site-ul Ministerului Finanțelor Publice.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N602",
+    "tip": "multiplu",
+    "test": 12,
+    "intrebare": "Potrivit Legii nr. 98/2016, metoda utilizată de autoritatea contractantă pentru evaluarea costurilor determinate de efectele externe asupra mediului, în cadrul calculării costurilor pe parcursul ciclului de viață, trebuie să îndeplinească în mod cumulativ anumite condiții. Care dintre următoarele se numără printre aceste condiții?",
+    "variante": [
+      "Metoda se bazează pe criterii nediscriminatorii și verificabile în mod obiectiv.",
+      "Datele solicitate pot fi furnizate numai de operatori economici stabiliți în statele membre ale Uniunii Europene.",
+      "Metoda a fost stabilită în vederea aplicării repetate sau continue.",
+      "Metoda este accesibilă tuturor părților interesate."
+    ],
+    "corecte": [
+      0,
+      3
+    ],
+    "explicatie": "Art. 192 alin. (2) enumeră trei condiții cumulative: criterii nediscriminatorii și verificabile în mod obiectiv (lit. a), accesibilitatea metodei pentru toate părțile interesate (lit. b) și posibilitatea furnizării datelor printr-un efort rezonabil de operatori economici cu diligență obișnuită (lit. c). Aplicarea repetată sau continuă nu este o condiție: lit. a) are în vedere tocmai metoda care nu a fost stabilită în acest scop, cerând ca ea să nu favorizeze sau să dezavantajeze nejustificat anumiți operatori economici. Limitarea la operatori din statele membre contrazice lit. c), care include expres operatorii din țări terțe parte la Acordul privind achizițiile publice al Organizației Mondiale a Comerțului sau la alte acorduri internaționale asumate de Uniunea Europeană. Costurile vizate sunt cele definite la art. 191 lit. b), cu condiția ca valoarea lor pecuniară să poată fi determinată și verificată. Dacă o metodă comună de calcul a devenit obligatorie printr-un act adoptat la nivelul Uniunii Europene, art. 192 alin. (3) impune aplicarea acelei metode.",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 58",
-      "citat": "Pe parcursul aplicării procedurii de atribuire, autoritatea contractantă are obligația de a lua toate măsurile necesare pentru a preveni, identifica și remedia situațiile de conflict de interese, în scopul evitării denaturării concurenței și al asigurării tratamentului egal pentru toți operatorii economici.",
+      "articol": "art. 192 alin. (2)",
+      "citat": "Metoda utilizată de autoritatea contractantă pentru evaluarea costurilor determinate de efectele externe asupra mediului prevăzute la art. 191 lit. b) trebuie să îndeplinească în mod cumulativ următoarele condiții: a) se bazează pe criterii nediscriminatorii și verificabile în mod obiectiv; în special, în cazul în care nu a fost stabilită în vederea aplicării repetate sau continue, nu favorizează sau dezavantajează în mod nejustificat anumiți operatori economici; b) este accesibilă tuturor părților interesate; c) datele solicitate pot fi furnizate printr-un efort rezonabil de către operatori economici care dau dovadă de o diligență obișnuită, inclusiv de operatori economici din țări terțe [...]",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -5179,29 +5180,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-057",
-    "tip": "unic",
-    "test": 12,
-    "intrebare": "Până la ce dată se calculează și se actualizează nivelul ratei de actualizare care va fi utilizată în procedurile de atribuire desfășurate în anul următor și unde se publică?",
-    "variante": [
-      "Până cel târziu la data de 15 ianuarie a anului în care se aplică, publicându-se pe site-ul ANAP",
-      "Până cel târziu la data de 1 decembrie, publicându-se în SEAP",
-      "Până cel târziu la data de 31 decembrie, publicându-se în Monitorul Oficial al României, Partea I",
-      "Până cel târziu la data de 15 decembrie, publicându-se pe site-ul Ministerului Finanțelor Publice"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 33 alin. (6) prevede că rata de actualizare se calculează și se actualizează în fiecare an, în ultimul trimestru, până cel târziu la data de 15 decembrie, și se publică pe site-ul Ministerului Finanțelor Publice. Data anterioară anului de aplicare este esențială: autoritățile trebuie să cunoască rata înainte de a iniția procedurile din anul următor. Metodologia de calcul se stabilește, potrivit alin. (5), prin ordin comun al ANAP și al Comisiei Naționale de Prognoză, iar ordinele anuale de revizuire a ratei se publică în Monitorul Oficial — de unde plauzibilitatea distractorilor. Nici ANAP, nici SEAP nu sunt locul de publicare a nivelului ratei, iar 31 decembrie și 15 ianuarie ar fi termene tardive în raport cu logica textului.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 33 alin. (6)",
-      "citat": "Nivelul ratei de actualizare ce va fi utilizată în procedurile de atribuire ce vor fi desfășurate în anul următor se va calcula și actualiza în fiecare an, în ultimul trimestru, până la cel târziu data de 15 decembrie, prin aplicarea metodologiei prevăzute la alin. (5), și se va publica pe site-ul Ministerului Finanțelor Publice.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98B-008",
     "tip": "unic",
     "test": 12,
@@ -5221,6 +5199,29 @@ const INTREBARI = [
       "articol": "art. 59",
       "citat": "prin conflict de interese se înțelege orice situație în care membrii personalului autorității contractante sau ai unui furnizor de servicii de achiziție care acționează în numele autorității contractante, care sunt implicați în desfășurarea procedurii de atribuire sau care pot influența rezultatul acesteia au, în mod direct sau indirect, un interes financiar, economic sau un alt interes personal, care ar putea fi perceput ca element care compromite imparțialitatea ori independența lor în contextul procedurii de atribuire.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-058",
+    "tip": "unic",
+    "test": 12,
+    "intrebare": "Cum se stabilește oferta câștigătoare în cazul în care criteriul de atribuire utilizat este „prețul cel mai scăzut”?",
+    "variante": [
+      "Numai prin compararea prețurilor prezentate în cadrul ofertelor admisibile, fără să fie cuantificate alte elemente de natură tehnică sau alte avantaje",
+      "Prin compararea prețurilor tuturor ofertelor depuse, inclusiv a celor declarate inacceptabile sau neconforme",
+      "Prin compararea costurilor pe ciclul de viață actualizate în anul inițierii procedurii",
+      "Prin compararea prețurilor, corectate cu punctajele acordate pentru avantajele tehnice suplimentare oferite"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 34 stabilește că „prețul cel mai scăzut” presupune exclusiv compararea prețurilor din ofertele admisibile, fără cuantificarea niciunui alt element tehnic sau avantaj rezultat din modul de îndeplinire a contractului. Două detalii sunt esențiale: baza de comparație o formează doar ofertele admisibile — ofertele inacceptabile sau neconforme sunt eliminate anterior, deci nu intră în clasament — și nu se admite niciun corectiv calitativ, altfel criteriul s-ar transforma în „cel mai bun raport calitate-preț” (art. 32). Compararea costurilor pe ciclul de viață actualizate corespunde criteriului „costul cel mai scăzut” (art. 33 alin. (7)), care este un criteriu distinct, deși ambele sunt criterii pur monetare.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 34",
+      "citat": "În cazul în care criteriul utilizat este «prețul cel mai scăzut», astfel cum este prevăzut la art. 187 alin. (3) lit. d) din Lege, stabilirea ofertei câștigătoare se realizează numai prin compararea prețurilor prezentate în cadrul ofertelor admisibile, fără să fie cuantificate alte elemente de natură tehnică sau alte avantaje care rezultă din modul de îndeplinire a contractului de către operatorii economici participanți la procedura de atribuire.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -5271,24 +5272,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-058",
+    "id": "N395-N601",
     "tip": "unic",
     "test": 12,
-    "intrebare": "Cum se stabilește oferta câștigătoare în cazul în care criteriul de atribuire utilizat este „prețul cel mai scăzut”?",
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, ce reprezintă garanția de participare și ce scop are?",
     "variante": [
-      "Numai prin compararea prețurilor prezentate în cadrul ofertelor admisibile, fără să fie cuantificate alte elemente de natură tehnică sau alte avantaje",
-      "Prin compararea prețurilor tuturor ofertelor depuse, inclusiv a celor declarate inacceptabile sau neconforme",
-      "Prin compararea costurilor pe ciclul de viață actualizate în anul inițierii procedurii",
-      "Prin compararea prețurilor, corectate cu punctajele acordate pentru avantajele tehnice suplimentare oferite"
+      "Un instrument aferent modului de prezentare a ofertei, care protejează autoritatea contractantă numai în intervalul dintre data-limită de depunere a ofertelor și deschiderea acestora",
+      "Un instrument aferent executării contractului, pe care ofertantul câștigător îl constituie după semnarea contractului de achiziție publică",
+      "Un instrument constituit de contractant pentru a asigura autoritatea contractantă de îndeplinirea cantitativă, calitativă și în perioada convenită a contractului",
+      "Un instrument aferent modului de prezentare a ofertei, care protejează autoritatea contractantă față de riscul unui comportament necorespunzător al ofertantului pe toată perioada implicării sale în procedura de atribuire"
     ],
     "corecte": [
-      0
+      3
     ],
-    "explicatie": "Art. 34 stabilește că „prețul cel mai scăzut” presupune exclusiv compararea prețurilor din ofertele admisibile, fără cuantificarea niciunui alt element tehnic sau avantaj rezultat din modul de îndeplinire a contractului. Două detalii sunt esențiale: baza de comparație o formează doar ofertele admisibile — ofertele inacceptabile sau neconforme sunt eliminate anterior, deci nu intră în clasament — și nu se admite niciun corectiv calitativ, altfel criteriul s-ar transforma în „cel mai bun raport calitate-preț” (art. 32). Compararea costurilor pe ciclul de viață actualizate corespunde criteriului „costul cel mai scăzut” (art. 33 alin. (7)), care este un criteriu distinct, deși ambele sunt criterii pur monetare.",
+    "explicatie": "Art. 35 alin. (1) din Normele metodologice definește garanția de participare ca instrument aferent modului de prezentare a ofertei, al cărui scop este protejarea autorității contractante față de riscul unui comportament necorespunzător al ofertantului pe toată perioada implicării sale în procedura de atribuire. Varianta despre îndeplinirea cantitativă, calitativă și în perioada convenită a contractului descrie garanția de bună execuție, potrivit art. 39 alin. (1) din Norme, nu garanția de participare. Varianta care limitează protecția la intervalul dintre data-limită de depunere și deschiderea ofertelor contrazice sintagma „pe toată perioada implicării sale în procedura de atribuire” din art. 35 alin. (1); de altfel, art. 37 alin. (1) lit. b) și c) din Norme prevede reținerea garanției și după stabilirea ofertei câștigătoare. Varianta cu instrumentul constituit după semnarea contractului descrie tot garanția de bună execuție, pe care contractantul o constituie în legătură cu executarea contractului (art. 39 alin. (1) din Norme). Plafonul valoric în vigoare al garanției de participare este cel din art. 154 alin. (2) din Legea nr. 98/2016 (1% din valoarea estimată a contractului); în Norme, art. 35 alin. (3), sub care textul consolidat mai afișează literele a) și b), este abrogat.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 34",
-      "citat": "În cazul în care criteriul utilizat este «prețul cel mai scăzut», astfel cum este prevăzut la art. 187 alin. (3) lit. d) din Lege, stabilirea ofertei câștigătoare se realizează numai prin compararea prețurilor prezentate în cadrul ofertelor admisibile, fără să fie cuantificate alte elemente de natură tehnică sau alte avantaje care rezultă din modul de îndeplinire a contractului de către operatorii economici participanți la procedura de atribuire.",
+      "articol": "art. 35 alin. (1)",
+      "citat": "Garanția de participare reprezintă un instrument aferent modului de prezentare a ofertei, care are drept scop protejarea autorității contractante față de riscul unui comportament necorespunzător al ofertantului pe toată perioada implicării sale în procedura de atribuire.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -5336,29 +5337,6 @@ const INTREBARI = [
       "articol": "art. 60 alin. (2)",
       "citat": "prin acționar sau asociat semnificativ se înțelege persoana care exercită drepturi aferente unor acțiuni care, cumulate, reprezintă cel puțin 10% din capitalul social sau îi conferă deținătorului cel puțin 10% din totalul drepturilor de vot în adunarea generală.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395A-059",
-    "tip": "unic",
-    "test": 12,
-    "intrebare": "Care este, în prezent, temeiul juridic al plafonului de 1% aplicabil valorii garanției de participare?",
-    "variante": [
-      "Art. 39 alin. (1) din Normele metodologice aprobate prin H.G. nr. 395/2016",
-      "Art. 36 alin. (1) din Normele metodologice aprobate prin H.G. nr. 395/2016",
-      "Art. 35 alin. (3) din Normele metodologice aprobate prin H.G. nr. 395/2016, în vigoare în forma inițială",
-      "Art. 154 alin. (2) din Legea nr. 98/2016, dispozițiile corespunzătoare din Norme fiind abrogate în anul 2023"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Prin H.G. nr. 336/2023, alin. (2) și (3) ale art. 35 din Norme au fost abrogate, iar din art. 35 a rămas în vigoare doar alin. (1), care definește garanția de participare ca instrument aferent modului de prezentare a ofertei, având drept scop protejarea autorității contractante față de un comportament necorespunzător al ofertantului. Regula de plafonare a fost mutată la nivel de lege: art. 154 alin. (2) din Legea nr. 98/2016 prevede că valoarea garanției de participare nu poate depăși 1% din valoarea estimată a contractului, respectiv, la acordul-cadru, din valoarea estimată a celui mai mare contract subsecvent. Art. 36 alin. (1) a fost și el abrogat în 2023, iar art. 39 alin. (1) privește garanția de bună execuție, nu pe cea de participare. Capcana clasică este citarea art. 35 alin. (3) din Norme ca text în vigoare.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 35 alin. (1); art. 35 alin. (2) și (3) — abrogate",
-      "citat": "Garanția de participare reprezintă un instrument aferent modului de prezentare a ofertei, care are drept scop protejarea autorității contractante față de riscul unui comportament necorespunzător al ofertantului pe toată perioada implicării sale în procedura de atribuire.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -5411,29 +5389,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98B-011",
-    "tip": "unic",
-    "test": 12,
-    "intrebare": "Pe ce perioadă minimă îi este interzis ofertantului declarat câștigător să angajeze, în scopul îndeplinirii contractului de achiziție publică, persoane care au fost implicate în procesul de verificare/evaluare a ofertelor, și care este sancțiunea încălcării acestei interdicții?",
-    "variante": [
-      "Cel puțin 24 de luni de la atribuire, sub sancțiunea excluderii de la procedurile viitoare",
-      "Cel puțin 6 luni de la semnarea contractului, sub sancțiunea unei amenzi contravenționale",
-      "Cel puțin 3 ani de la încheierea contractului, sub sancțiunea nulității absolute a contractului",
-      "Cel puțin 12 luni de la încheierea contractului, sub sancțiunea rezoluțiunii ori rezilierii de drept a contractului"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 61 instituie interdicția pe o perioadă de cel puțin 12 luni de la încheierea contractului, iar sancțiunea este rezoluțiunea ori rezilierea de drept a contractului respectiv. Interdicția vizează angajarea sau orice alte înțelegeri privind prestarea de servicii, direct ori indirect, cu persoane implicate în verificarea/evaluarea ofertelor ori cu angajați/foști angajați ai autorității contractante sau ai furnizorului de servicii de achiziție cu care aceasta a încetat relațiile contractuale ulterior atribuirii. Termenele de 6 luni, 24 de luni și 3 ani nu au suport în text, iar sancțiunile alternative (amendă, excludere, nulitate absolută) sunt fabricate — legea prevede expres desființarea de drept a contractului.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 61",
-      "citat": "Ofertantul declarat câștigător cu care autoritatea contractantă a încheiat contractul de achiziție publică nu are dreptul de a angaja sau încheia orice alte înțelegeri privind prestarea de servicii, direct ori indirect, în scopul îndeplinirii contractului de achiziție publică, cu persoane fizice sau juridice care au fost implicate în procesul de verificare/evaluare a solicitărilor de participare/ofertelor [...] pe parcursul unei perioade de cel puțin 12 luni de la încheierea contractului, sub sancțiunea rezoluțiunii ori rezilierii de drept a contractului respectiv.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395A-060",
     "tip": "unic",
     "test": 12,
@@ -5453,6 +5408,29 @@ const INTREBARI = [
       "articol": "art. 36 alin. (4)",
       "citat": "Instrumentele de garantare prevăzute la art. 154 alin. (4) lit. b) din Lege se transmit în SEAP împreună cu oferta și celelalte documente ale acesteia, cel mai târziu la data și ora-limită de depunere a ofertelor, și trebuie să prevadă că plata garanției de participare se va executa necondiționat, respectiv la prima cerere a beneficiarului, pe baza declarației acestuia cu privire la culpa persoanei garantate.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98B-011",
+    "tip": "unic",
+    "test": 12,
+    "intrebare": "Pe ce perioadă minimă îi este interzis ofertantului declarat câștigător să angajeze, în scopul îndeplinirii contractului de achiziție publică, persoane care au fost implicate în procesul de verificare/evaluare a ofertelor, și care este sancțiunea încălcării acestei interdicții?",
+    "variante": [
+      "Cel puțin 24 de luni de la atribuire, sub sancțiunea excluderii de la procedurile viitoare",
+      "Cel puțin 6 luni de la semnarea contractului, sub sancțiunea unei amenzi contravenționale",
+      "Cel puțin 3 ani de la încheierea contractului, sub sancțiunea nulității absolute a contractului",
+      "Cel puțin 12 luni de la încheierea contractului, sub sancțiunea rezoluțiunii ori rezilierii de drept a contractului"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 61 instituie interdicția pe o perioadă de cel puțin 12 luni de la încheierea contractului, iar sancțiunea este rezoluțiunea ori rezilierea de drept a contractului respectiv. Interdicția vizează angajarea sau orice alte înțelegeri privind prestarea de servicii, direct ori indirect, cu persoane implicate în verificarea/evaluarea ofertelor ori cu angajați/foști angajați ai autorității contractante sau ai furnizorului de servicii de achiziție cu care aceasta a încetat relațiile contractuale ulterior atribuirii. Termenele de 6 luni, 24 de luni și 3 ani nu au suport în text, iar sancțiunile alternative (amendă, excludere, nulitate absolută) sunt fabricate — legea prevede expres desființarea de drept a contractului.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 61",
+      "citat": "Ofertantul declarat câștigător cu care autoritatea contractantă a încheiat contractul de achiziție publică nu are dreptul de a angaja sau încheia orice alte înțelegeri privind prestarea de servicii, direct ori indirect, în scopul îndeplinirii contractului de achiziție publică, cu persoane fizice sau juridice care au fost implicate în procesul de verificare/evaluare a solicitărilor de participare/ofertelor [...] pe parcursul unei perioade de cel puțin 12 luni de la încheierea contractului, sub sancțiunea rezoluțiunii ori rezilierii de drept a contractului respectiv.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -5503,6 +5481,31 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395A-061",
+    "tip": "multiplu",
+    "test": 12,
+    "intrebare": "Potrivit art. 37 alin. (1) din Normele metodologice aprobate prin H.G. nr. 395/2016, în care dintre următoarele situații are autoritatea contractantă obligația de a reține garanția de participare?",
+    "variante": [
+      "Ofertantul își retrage oferta în perioada de valabilitate a acesteia",
+      "Oferta ofertantului fiind stabilită câștigătoare, acesta nu constituie garanția de bună execuție",
+      "Oferta ofertantului fiind stabilită câștigătoare, acesta refuză să semneze contractul de achiziție publică/acordul-cadru în perioada de valabilitate a ofertei",
+      "Oferta ofertantului este declarată inacceptabilă întrucât prețul depășește valoarea estimată a contractului"
+    ],
+    "corecte": [
+      0,
+      1,
+      2
+    ],
+    "explicatie": "Art. 37 alin. (1) din Normele metodologice enumeră situațiile de reținere: retragerea ofertei în perioada de valabilitate (lit. a)), neconstituirea garanției de bună execuție de către ofertantul câștigător (lit. b)), nedeschiderea contului la dispoziția autorității contractante când părțile convin constituirea garanției de bună execuție prin rețineri succesive (lit. b^1)) și refuzul câștigătorului de a semna contractul/acordul-cadru în perioada de valabilitate a ofertei (lit. c)). Aceste situații corespund scopului garanției definit la art. 35 alin. (1): protejarea autorității contractante față de riscul unui comportament necorespunzător al ofertantului. Declararea ofertei ca inacceptabilă pentru că prețul depășește valoarea estimată nu figurează printre situațiile de la art. 37 alin. (1), iar garanția ofertanților a căror ofertă nu a fost stabilită câștigătoare se restituie potrivit art. 154^1 alin. (3) din Legea nr. 98/2016. Excepții: la acordul-cadru nu se aplică lit. b) (art. 37 alin. (2)), iar refuzul semnării nu atrage reținerea când ANAP a emis aviz conform condiționat și autoritatea contractantă a finalizat procedura fără a remedia abaterile constatate (art. 37 alin. (3)).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 37 alin. (1) lit. a), b) și c)",
+      "citat": "Autoritatea contractantă are obligația de a reține garanția de participare atunci când ofertantul se află în oricare dintre următoarele situații: a) își retrage oferta în perioada de valabilitate a acesteia; b) oferta sa fiind stabilită câștigătoare, nu constituie garanția de bună execuție; [...] c) oferta sa fiind stabilită câștigătoare, refuză să semneze contractul de achiziție publică/acordul-cadru în perioada de valabilitate a ofertei.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98B-012",
     "tip": "unic",
     "test": 12,
@@ -5549,31 +5552,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-061",
-    "tip": "multiplu",
-    "test": 12,
-    "intrebare": "Potrivit art. 37 alin. (1) din Normele metodologice aprobate prin H.G. nr. 395/2016, în care dintre următoarele situații are autoritatea contractantă obligația de a reține garanția de participare?",
-    "variante": [
-      "Ofertantul își retrage oferta în perioada de valabilitate a acesteia",
-      "Oferta ofertantului fiind stabilită câștigătoare, acesta nu constituie garanția de bună execuție",
-      "Oferta ofertantului fiind stabilită câștigătoare, acesta refuză să semneze contractul de achiziție publică/acordul-cadru în perioada de valabilitate a ofertei",
-      "Oferta ofertantului este declarată inacceptabilă întrucât prețul depășește valoarea estimată a contractului"
-    ],
-    "corecte": [
-      0,
-      1,
-      2
-    ],
-    "explicatie": "Art. 37 alin. (1) din Normele metodologice enumeră situațiile de reținere: retragerea ofertei în perioada de valabilitate (lit. a)), neconstituirea garanției de bună execuție de către ofertantul câștigător (lit. b)), nedeschiderea contului la dispoziția autorității contractante când părțile convin constituirea garanției de bună execuție prin rețineri succesive (lit. b^1)) și refuzul câștigătorului de a semna contractul/acordul-cadru în perioada de valabilitate a ofertei (lit. c)). Aceste situații corespund scopului garanției definit la art. 35 alin. (1): protejarea autorității contractante față de riscul unui comportament necorespunzător al ofertantului. Declararea ofertei ca inacceptabilă pentru că prețul depășește valoarea estimată nu figurează printre situațiile de la art. 37 alin. (1), iar garanția ofertanților a căror ofertă nu a fost stabilită câștigătoare se restituie potrivit art. 154^1 alin. (3) din Legea nr. 98/2016. Excepții: la acordul-cadru nu se aplică lit. b) (art. 37 alin. (2)), iar refuzul semnării nu atrage reținerea când ANAP a emis aviz conform condiționat și autoritatea contractantă a finalizat procedura fără a remedia abaterile constatate (art. 37 alin. (3)).",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 37 alin. (1) lit. a), b) și c)",
-      "citat": "Autoritatea contractantă are obligația de a reține garanția de participare atunci când ofertantul se află în oricare dintre următoarele situații: a) își retrage oferta în perioada de valabilitate a acesteia; b) oferta sa fiind stabilită câștigătoare, nu constituie garanția de bună execuție; [...] c) oferta sa fiind stabilită câștigătoare, refuză să semneze contractul de achiziție publică/acordul-cadru în perioada de valabilitate a ofertei.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98B-013",
     "tip": "unic",
     "test": 12,
@@ -5593,6 +5571,29 @@ const INTREBARI = [
       "articol": "art. 63 alin. (2)",
       "citat": "Autoritatea contractantă publică prin mijloace electronice denumirea și datele de identificare ale ofertantului/candidatului/ subcontractantului propus/terțului susținător, în termen de maximum 5 zile de la expirarea termenului-limită de depunere a solicitărilor de participare/ofertelor, cu excepția persoanelor fizice, în cazul cărora se publică doar numele.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-062",
+    "tip": "unic",
+    "test": 12,
+    "intrebare": "În ce situație NU reține autoritatea contractantă garanția de participare, deși ofertantul desemnat câștigător refuză să semneze contractul de achiziție publică/acordul-cadru în perioada de valabilitate a ofertei?",
+    "variante": [
+      "Atunci când ofertantul a formulat contestație împotriva rezultatului procedurii, respinsă ulterior de CNSC",
+      "Atunci când între data depunerii ofertei și data semnării contractului au trecut mai mult de 90 de zile",
+      "Atunci când refuzul este motivat de creșterea prețurilor de piață după depunerea ofertei",
+      "Atunci când procedura a făcut obiectul controlului ex ante, ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a finalizat procedura fără a remedia abaterile constatate"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 37 alin. (3) instituie o excepție de protecție a ofertantului: dacă procedura a fost supusă controlului ex ante, ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a derulat și finalizat procedura fără a remedia abaterile constatate, refuzul de semnare nu atrage reținerea garanției; în acest caz nu se aplică nici art. 37 alin. (1) lit. c), nici art. 144 alin. (1) din Norme. Rațiunea este că viciul provine din conduita autorității contractante, nu a ofertantului. Creșterea prețurilor de piață este un risc asumat de ofertant pe durata de valabilitate a ofertei și nu îl exonerează. Nu există un termen de 90 de zile care să stingă obligația de a semna — durata relevantă este perioada de valabilitate a ofertei, care poate fi și prelungită. Formularea unei contestații respinse nu este cauză de exonerare.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 37 alin. (3)",
+      "citat": "Autoritatea contractantă nu reține garanția de participare în cazul în care ofertantul desemnat câștigător refuză să semneze contractul de achiziție publică/acordul-cadru în perioada de valabilitate a ofertei, atribuit în urma unei proceduri de atribuire care a făcut obiectul controlului ex ante și în care ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a derulat și finalizat procedura de atribuire fără a remedia abaterile constatate de ANAP, în acest caz nefiind aplicabile dispozițiile alin. (1) lit. c) și ale art. 144 alin. (1).",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -5622,29 +5623,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-062",
-    "tip": "unic",
-    "test": 13,
-    "intrebare": "În ce situație NU reține autoritatea contractantă garanția de participare, deși ofertantul desemnat câștigător refuză să semneze contractul de achiziție publică/acordul-cadru în perioada de valabilitate a ofertei?",
-    "variante": [
-      "Atunci când ofertantul a formulat contestație împotriva rezultatului procedurii, respinsă ulterior de CNSC",
-      "Atunci când între data depunerii ofertei și data semnării contractului au trecut mai mult de 90 de zile",
-      "Atunci când refuzul este motivat de creșterea prețurilor de piață după depunerea ofertei",
-      "Atunci când procedura a făcut obiectul controlului ex ante, ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a finalizat procedura fără a remedia abaterile constatate"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 37 alin. (3) instituie o excepție de protecție a ofertantului: dacă procedura a fost supusă controlului ex ante, ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a derulat și finalizat procedura fără a remedia abaterile constatate, refuzul de semnare nu atrage reținerea garanției; în acest caz nu se aplică nici art. 37 alin. (1) lit. c), nici art. 144 alin. (1) din Norme. Rațiunea este că viciul provine din conduita autorității contractante, nu a ofertantului. Creșterea prețurilor de piață este un risc asumat de ofertant pe durata de valabilitate a ofertei și nu îl exonerează. Nu există un termen de 90 de zile care să stingă obligația de a semna — durata relevantă este perioada de valabilitate a ofertei, care poate fi și prelungită. Formularea unei contestații respinse nu este cauză de exonerare.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 37 alin. (3)",
-      "citat": "Autoritatea contractantă nu reține garanția de participare în cazul în care ofertantul desemnat câștigător refuză să semneze contractul de achiziție publică/acordul-cadru în perioada de valabilitate a ofertei, atribuit în urma unei proceduri de atribuire care a făcut obiectul controlului ex ante și în care ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a derulat și finalizat procedura de atribuire fără a remedia abaterile constatate de ANAP, în acest caz nefiind aplicabile dispozițiile alin. (1) lit. c) și ale art. 144 alin. (1).",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "ALOP-014",
     "tip": "unic",
     "test": 13,
@@ -5664,6 +5642,29 @@ const INTREBARI = [
       "articol": "pct. 1 (angajarea)",
       "citat": "Ordonatorii de credite nu pot angaja cheltuieli într-o perioadă în care se știe ca bunul, lucrarea sau serviciul nu va putea fi executat, receptionat și plătit până la data de 31 decembrie a exercițiului bugetar curent [...] cu excepția acțiunilor multianuale.",
       "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395-garantie-buna-executie",
+    "tip": "unic",
+    "test": 13,
+    "intrebare": "În ce termen de la data semnării contractului de achiziție publică se constituie garanția de bună execuție, potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016?",
+    "variante": [
+      "5 zile lucrătoare",
+      "10 zile calendaristice",
+      "3 zile lucrătoare",
+      "15 zile lucrătoare"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 39 alin. (3) din Normele metodologice (forma modificată prin H.G. nr. 375/2022): garanția de bună execuție se constituie în 5 zile lucrătoare de la data semnării contractului de achiziție publică sau a contractului subsecvent. Atenție la capcana din distractori: 15 zile nu este termenul de constituire, ci limita maximă până la care termenul poate fi prelungit, la solicitarea justificată a contractantului. Garanția de bună execuție nu poate depăși 10% din prețul contractului fără TVA (art. 154 alin. (3) din Legea nr. 98/2016).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 39 alin. (3)",
+      "citat": "Garanția de bună execuție se constituie în termen de 5 zile lucrătoare de la data semnării contractului de achiziție publică/contractului subsecvent. Acest termen poate fi prelungit la solicitarea justificată a contractantului, fără a depăși 15 zile de la data semnării contractului de achiziție publică/contractului subsecvent.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -5691,25 +5692,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395-garantie-buna-executie",
+    "id": "L98-N112",
     "tip": "unic",
     "test": 13,
-    "intrebare": "În ce termen de la data semnării contractului de achiziție publică se constituie garanția de bună execuție, potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016?",
+    "intrebare": "Potrivit Legii nr. 98/2016, o autoritate contractantă impune utilizarea unor instrumente și dispozitive care nu sunt disponibile cu caracter general și, ca mijloc alternativ de acces, oferă acces direct, liber, complet și gratuit, prin mijloace electronice, la aceste instrumente și dispozitive. De la ce moment trebuie oferit acest acces?",
     "variante": [
-      "5 zile lucrătoare",
-      "10 zile calendaristice",
-      "3 zile lucrătoare",
-      "15 zile lucrătoare"
+      "De la data stabilită pentru deschiderea ofertelor",
+      "Numai la cererea operatorului economic care dovedește că lipsa accesului nu îi poate fi atribuită",
+      "În termen de maximum 5 zile de la expirarea termenului-limită de depunere a ofertelor",
+      "De la data publicării anunțului de participare, adresa de internet la care sunt accesibile fiind specificată în anunț"
     ],
     "corecte": [
-      0
+      3
     ],
-    "explicatie": "Art. 39 alin. (3) din Normele metodologice (forma modificată prin H.G. nr. 375/2022): garanția de bună execuție se constituie în 5 zile lucrătoare de la data semnării contractului de achiziție publică sau a contractului subsecvent. Atenție la capcana din distractori: 15 zile nu este termenul de constituire, ci limita maximă până la care termenul poate fi prelungit, la solicitarea justificată a contractantului. Garanția de bună execuție nu poate depăși 10% din prețul contractului fără TVA (art. 154 alin. (3) din Legea nr. 98/2016).",
+    "explicatie": "Art. 66 alin. (2) lit. a) din Legea nr. 98/2016 cere ca accesul direct, liber, complet și gratuit la instrumentele și dispozitivele impuse să fie oferit de la data publicării anunțului de participare, iar adresa de internet să fie specificată în cuprinsul anunțului. Data stabilită pentru deschiderea ofertelor este momentul de la care autoritatea contractantă ia cunoștință de conținutul ofertelor, potrivit art. 65 alin. (3), nu momentul asigurării accesului. Condiția ca lipsa accesului să nu poată fi atribuită operatorului economic aparține altui mijloc alternativ, cel al dispozitivelor provizorii puse la dispoziție gratuit online, de la art. 66 alin. (2) lit. b). Termenul de maximum 5 zile de la expirarea termenului-limită de depunere privește publicarea datelor de identificare ale ofertanților, potrivit art. 63 alin. (2).",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 39 alin. (3)",
-      "citat": "Garanția de bună execuție se constituie în termen de 5 zile lucrătoare de la data semnării contractului de achiziție publică/contractului subsecvent. Acest termen poate fi prelungit la solicitarea justificată a contractantului, fără a depăși 15 zile de la data semnării contractului de achiziție publică/contractului subsecvent.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 66 alin. (2) lit. a)",
+      "citat": "a) oferă acces direct, liber, complet și gratuit, prin mijloace electronice, la instrumentele și dispozitivele prevăzute la alin. (1) de la data publicării anunțului de participare; în cuprinsul anunțului de participare se specifică adresa de internet la care sunt accesibile aceste instrumente și dispozitive;",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -5760,25 +5761,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N112",
+    "id": "N395A-063",
     "tip": "unic",
     "test": 13,
-    "intrebare": "Potrivit Legii nr. 98/2016, o autoritate contractantă impune utilizarea unor instrumente și dispozitive care nu sunt disponibile cu caracter general și, ca mijloc alternativ de acces, oferă acces direct, liber, complet și gratuit, prin mijloace electronice, la aceste instrumente și dispozitive. De la ce moment trebuie oferit acest acces?",
+    "intrebare": "Ce obligație are contractantul în cazul în care, pe parcursul executării contractului de achiziție publică, se suplimentează valoarea acestuia?",
     "variante": [
-      "De la data stabilită pentru deschiderea ofertelor",
-      "Numai la cererea operatorului economic care dovedește că lipsa accesului nu îi poate fi atribuită",
-      "În termen de maximum 5 zile de la expirarea termenului-limită de depunere a ofertelor",
-      "De la data publicării anunțului de participare, adresa de internet la care sunt accesibile fiind specificată în anunț"
+      "Să prelungească doar perioada de valabilitate a garanției de bună execuție, fără a-i modifica valoarea",
+      "Să completeze garanția de bună execuție în corelație cu noua valoare a contractului de achiziție publică",
+      "Nicio obligație suplimentară, garanția de bună execuție rămânând la nivelul stabilit inițial",
+      "Să constituie o garanție de participare suplimentară, proporțională cu valoarea actului adițional"
     ],
     "corecte": [
-      3
+      1
     ],
-    "explicatie": "Art. 66 alin. (2) lit. a) din Legea nr. 98/2016 cere ca accesul direct, liber, complet și gratuit la instrumentele și dispozitivele impuse să fie oferit de la data publicării anunțului de participare, iar adresa de internet să fie specificată în cuprinsul anunțului. Data stabilită pentru deschiderea ofertelor este momentul de la care autoritatea contractantă ia cunoștință de conținutul ofertelor, potrivit art. 65 alin. (3), nu momentul asigurării accesului. Condiția ca lipsa accesului să nu poată fi atribuită operatorului economic aparține altui mijloc alternativ, cel al dispozitivelor provizorii puse la dispoziție gratuit online, de la art. 66 alin. (2) lit. b). Termenul de maximum 5 zile de la expirarea termenului-limită de depunere privește publicarea datelor de identificare ale ofertanților, potrivit art. 63 alin. (2).",
+    "explicatie": "Art. 39 alin. (5) impune completarea garanției de bună execuție în corelație cu noua valoare a contractului, tocmai pentru ca protecția autorității contractante să rămână proporțională cu obligațiile asumate. Garanția de participare nu are legătură cu executarea contractului — ea privește doar comportamentul în procedura de atribuire (art. 35 alin. (1)). Menținerea garanției la nivelul inițial ar lăsa neacoperită partea suplimentată. Simpla prelungire a valabilității nu este suficientă, întrucât problema este de cuantum, nu de durată. Reține și termenele de la art. 39 alin. (3): garanția de bună execuție se constituie în 5 zile lucrătoare de la semnarea contractului sau a contractului subsecvent, termen care poate fi prelungit la solicitarea justificată a contractantului, fără a depăși 15 zile de la semnare. O regulă înrudită apare la art. 41: în situația executării parțiale sau totale a garanției, contractantul trebuie să o reîntregească raportat la restul rămas de executat.",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 66 alin. (2) lit. a)",
-      "citat": "a) oferă acces direct, liber, complet și gratuit, prin mijloace electronice, la instrumentele și dispozitivele prevăzute la alin. (1) de la data publicării anunțului de participare; în cuprinsul anunțului de participare se specifică adresa de internet la care sunt accesibile aceste instrumente și dispozitive;",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 39 alin. (5)",
+      "citat": "În cazul în care pe parcursul executării contractului de achiziție publică se suplimentează valoarea acestuia, contractantul are obligația de a completa garanția de bună execuție în corelație cu noua valoare a contactului de achiziție publică.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -5806,29 +5807,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395A-063",
-    "tip": "unic",
-    "test": 13,
-    "intrebare": "Ce obligație are contractantul în cazul în care, pe parcursul executării contractului de achiziție publică, se suplimentează valoarea acestuia?",
-    "variante": [
-      "Să prelungească doar perioada de valabilitate a garanției de bună execuție, fără a-i modifica valoarea",
-      "Să completeze garanția de bună execuție în corelație cu noua valoare a contractului de achiziție publică",
-      "Nicio obligație suplimentară, garanția de bună execuție rămânând la nivelul stabilit inițial",
-      "Să constituie o garanție de participare suplimentară, proporțională cu valoarea actului adițional"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 39 alin. (5) impune completarea garanției de bună execuție în corelație cu noua valoare a contractului, tocmai pentru ca protecția autorității contractante să rămână proporțională cu obligațiile asumate. Garanția de participare nu are legătură cu executarea contractului — ea privește doar comportamentul în procedura de atribuire (art. 35 alin. (1)). Menținerea garanției la nivelul inițial ar lăsa neacoperită partea suplimentată. Simpla prelungire a valabilității nu este suficientă, întrucât problema este de cuantum, nu de durată. Reține și termenele de la art. 39 alin. (3): garanția de bună execuție se constituie în 5 zile lucrătoare de la semnarea contractului sau a contractului subsecvent, termen care poate fi prelungit la solicitarea justificată a contractantului, fără a depăși 15 zile de la semnare. O regulă înrudită apare la art. 41: în situația executării parțiale sau totale a garanției, contractantul trebuie să o reîntregească raportat la restul rămas de executat.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 39 alin. (5)",
-      "citat": "În cazul în care pe parcursul executării contractului de achiziție publică se suplimentează valoarea acestuia, contractantul are obligația de a completa garanția de bună execuție în corelație cu noua valoare a contactului de achiziție publică.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGB-022",
     "tip": "unic",
     "test": 13,
@@ -5848,29 +5826,6 @@ const INTREBARI = [
       "articol": "art. 5 alin. (4) raportat la art. 4 alin. (2)",
       "citat": "Termenul prevăzut la alin. (1) se prelungește cu 5 zile lucrătoare în cazul verificărilor aferente documentațiilor de atribuire prevăzute la art. 4 alin. (2).",
       "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "OUGA-013",
-    "tip": "unic",
-    "test": 13,
-    "intrebare": "În ce termen trebuie să transmită autoritatea contractantă către ANAP înștiințarea privind semnarea contractului cu ofertantul declarat câștigător, în cadrul unei proceduri supuse controlului ex ante?",
-    "variante": [
-      "În termen de 3 zile lucrătoare de la data semnării",
-      "În termen de 48 de ore de la data semnării",
-      "În termen de 5 zile lucrătoare de la data semnării",
-      "În termen de o zi lucrătoare de la data semnării"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 10 alin. (1) lit. h) prevede termenul de 3 zile lucrătoare de la data semnării pentru înștiințarea ANAP. Termenul de o zi lucrătoare este cel aplicabil altor documente din același articol (documentația de atribuire, deciziile comisiei de evaluare, raportul procedurii, contestațiile); 5 zile lucrătoare este termenul de notificare prealabilă la negocierea fără publicare și la modificările contractuale (art. 20-21); 48 de ore este termenul în care se poate achita jumătate din minimul amenzii (art. 26 alin. (2)). Încălcarea acestei obligații este contravenția cea mai grav sancționată din ordonanță: amendă de la 20.000 la 30.000 lei (art. 26 alin. (1) lit. b) pct. (iii)).",
-    "sursa": {
-      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
-      "articol": "art. 10 alin. (1) lit. h)",
-      "citat": "înștiințarea privind semnarea contractului, după caz, cu ofertantul/ofertanții declarat/declarați câștigător/câștigători, în termen de 3 zile lucrătoare de la data semnării",
-      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
     },
     "status": "ok"
   },
@@ -5924,6 +5879,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "OUGA-013",
+    "tip": "unic",
+    "test": 13,
+    "intrebare": "În ce termen trebuie să transmită autoritatea contractantă către ANAP înștiințarea privind semnarea contractului cu ofertantul declarat câștigător, în cadrul unei proceduri supuse controlului ex ante?",
+    "variante": [
+      "În termen de 3 zile lucrătoare de la data semnării",
+      "În termen de 48 de ore de la data semnării",
+      "În termen de 5 zile lucrătoare de la data semnării",
+      "În termen de o zi lucrătoare de la data semnării"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 10 alin. (1) lit. h) prevede termenul de 3 zile lucrătoare de la data semnării pentru înștiințarea ANAP. Termenul de o zi lucrătoare este cel aplicabil altor documente din același articol (documentația de atribuire, deciziile comisiei de evaluare, raportul procedurii, contestațiile); 5 zile lucrătoare este termenul de notificare prealabilă la negocierea fără publicare și la modificările contractuale (art. 20-21); 48 de ore este termenul în care se poate achita jumătate din minimul amenzii (art. 26 alin. (2)). Încălcarea acestei obligații este contravenția cea mai grav sancționată din ordonanță: amendă de la 20.000 la 30.000 lei (art. 26 alin. (1) lit. b) pct. (iii)).",
+    "sursa": {
+      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+      "articol": "art. 10 alin. (1) lit. h)",
+      "citat": "înștiințarea privind semnarea contractului, după caz, cu ofertantul/ofertanții declarat/declarați câștigător/câștigători, în termen de 3 zile lucrătoare de la data semnării",
+      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98B-016",
     "tip": "unic",
     "test": 13,
@@ -5943,6 +5921,29 @@ const INTREBARI = [
       "articol": "art. 69 alin. (1)",
       "citat": "Autoritatea contractantă atribuie contractele de achiziție publică/acordurile-cadru, în cazul în care valoarea estimată este mai mare sau egală cu pragurile valorice prevăzute la art. 7 alin. (1), prin aplicarea procedurilor de licitație deschisă sau licitație restrânsă.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-065",
+    "tip": "unic",
+    "test": 13,
+    "intrebare": "Ce obligație are autoritatea contractantă anterior emiterii unei pretenții asupra garanției de bună execuție?",
+    "variante": [
+      "Să obțină acordul prealabil al emitentului instrumentului de garantare cu privire la cuantumul pretenției",
+      "Să notifice pretenția atât contractantului, cât și emitentului instrumentului de garantare, precizând obligațiile care nu au fost respectate și modul de calcul al prejudiciului",
+      "Să solicite instanței de judecată constatarea culpei contractantului, printr-o hotărâre definitivă",
+      "Să notifice pretenția exclusiv contractantului, emitentul instrumentului de garantare fiind înștiințat doar după executarea garanției"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 41 permite emiterea de pretenții oricând pe parcursul îndeplinirii contractului, în limita prejudiciului creat și numai dacă neîndeplinirea obligațiilor este imputabilă contractantului. Condiția prealabilă este o dublă notificare — către contractant și către emitentul instrumentului de garantare — cu precizarea obligațiilor nerespectate și a modului de calcul al prejudiciului. Notificarea exclusiv a contractantului nu este suficientă, iar acordul emitentului nu se cere: potrivit art. 36 alin. (4), plata se execută necondiționat, la prima cerere a beneficiarului. Nu este necesară nici o hotărâre judecătorească prealabilă. După executarea parțială sau totală a garanției, contractantul are obligația de a o reîntregi raportat la restul rămas de executat. Capcană de sistematizare: restituirea garanției de bună execuție nu mai este reglementată în Norme — art. 42 a fost abrogat prin H.G. nr. 336/2023, termenele de eliberare/restituire aflându-se acum la art. 154^2 din Legea nr. 98/2016.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 41",
+      "citat": "Autoritatea contractantă are dreptul de a emite pretenții asupra garanției de bună execuție, oricând pe parcursul îndeplinirii contractului de achiziție publică/contractului subsecvent, în limita prejudiciului creat, în cazul în care contractantul nu își îndeplinește din culpa sa obligațiile asumate prin contract. Anterior emiterii unei pretenții asupra garanției de bună execuție autoritatea contractantă are obligația de a notifica pretenția atât contractantului, cât și emitentului instrumentului de garantare, precizând obligațiile care nu au fost respectate, precum și modul de calcul al prejudiciului.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -5989,29 +5990,6 @@ const INTREBARI = [
       "articol": "art. 70 alin. (2)",
       "citat": "Autoritatea contractantă are dreptul de a aplica procedura de negociere competitivă sau procedura de dialog competitiv pentru achiziția de lucrări, produse sau servicii în cazul în care, în urma unei proceduri simplificate, de licitație deschisă sau de licitație restrânsă, au fost depuse numai oferte neconforme sau inacceptabile.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395A-065",
-    "tip": "unic",
-    "test": 13,
-    "intrebare": "Ce obligație are autoritatea contractantă anterior emiterii unei pretenții asupra garanției de bună execuție?",
-    "variante": [
-      "Să obțină acordul prealabil al emitentului instrumentului de garantare cu privire la cuantumul pretenției",
-      "Să notifice pretenția atât contractantului, cât și emitentului instrumentului de garantare, precizând obligațiile care nu au fost respectate și modul de calcul al prejudiciului",
-      "Să solicite instanței de judecată constatarea culpei contractantului, printr-o hotărâre definitivă",
-      "Să notifice pretenția exclusiv contractantului, emitentul instrumentului de garantare fiind înștiințat doar după executarea garanției"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 41 permite emiterea de pretenții oricând pe parcursul îndeplinirii contractului, în limita prejudiciului creat și numai dacă neîndeplinirea obligațiilor este imputabilă contractantului. Condiția prealabilă este o dublă notificare — către contractant și către emitentul instrumentului de garantare — cu precizarea obligațiilor nerespectate și a modului de calcul al prejudiciului. Notificarea exclusiv a contractantului nu este suficientă, iar acordul emitentului nu se cere: potrivit art. 36 alin. (4), plata se execută necondiționat, la prima cerere a beneficiarului. Nu este necesară nici o hotărâre judecătorească prealabilă. După executarea parțială sau totală a garanției, contractantul are obligația de a o reîntregi raportat la restul rămas de executat. Capcană de sistematizare: restituirea garanției de bună execuție nu mai este reglementată în Norme — art. 42 a fost abrogat prin H.G. nr. 336/2023, termenele de eliberare/restituire aflându-se acum la art. 154^2 din Legea nr. 98/2016.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 41",
-      "citat": "Autoritatea contractantă are dreptul de a emite pretenții asupra garanției de bună execuție, oricând pe parcursul îndeplinirii contractului de achiziție publică/contractului subsecvent, în limita prejudiciului creat, în cazul în care contractantul nu își îndeplinește din culpa sa obligațiile asumate prin contract. Anterior emiterii unei pretenții asupra garanției de bună execuție autoritatea contractantă are obligația de a notifica pretenția atât contractantului, cât și emitentului instrumentului de garantare, precizând obligațiile care nu au fost respectate, precum și modul de calcul al prejudiciului.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -6064,7 +6042,7 @@ const INTREBARI = [
   {
     "id": "N395B-001",
     "tip": "unic",
-    "test": 14,
+    "test": 13,
     "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în aplicarea art. 7 alin. (7) lit. b) și c) din Legea nr. 98/2016 (achiziția directă), cum se poate realiza consultarea operatorilor economici în vederea obținerii ofertelor?",
     "variante": [
       "Exclusiv prin intermediul catalogului electronic pus la dispoziție de SEAP",
@@ -6108,6 +6086,30 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395B-002",
+    "tip": "multiplu",
+    "test": 14,
+    "intrebare": "Care dintre următoarele îi sunt INTERZISE ofertantului/candidatului în cadrul aceleiași proceduri de atribuire, potrivit art. 47 din Normele metodologice, sub sancțiunea excluderii?",
+    "variante": [
+      "Să oferteze pe mai multe loturi diferite",
+      "Să depună două sau mai multe candidaturi/oferte individuale și/sau comune",
+      "Să depună ofertă alternativă, atunci când documentația de atribuire permite acest lucru",
+      "Să depună ofertă individuală/comună și să fie nominalizat ca subcontractant în cadrul unei alte oferte"
+    ],
+    "corecte": [
+      1,
+      3
+    ],
+    "explicatie": "Art. 47 interzice cumulul de oferte: depunerea a două sau mai multe candidaturi/oferte atrage excluderea tuturor ofertelor în cauză, iar cumulul ofertant + subcontractant nominalizat în altă ofertă atrage excluderea ofertei individuale sau, după caz, a celei în care este ofertant asociat. Chiar în partea introductivă a articolului se precizează că interdicțiile NU afectează posibilitatea de a depune ofertă alternativă și nici de a oferta pe mai multe loturi diferite — acestea sunt distractorii. Atenție: sancțiunea este excluderea potrivit procedurii de la art. 167 din Lege.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 47",
+      "citat": "fără a afecta posibilitatea operatorilor economici de a depune ofertă alternativă sau de a oferta pe mai multe loturi diferite, ofertantul/candidatul nu are dreptul ca în cadrul aceleiași proceduri de atribuire: a) să depună două sau mai multe candidaturi/oferte individuale și/sau comune, sub sancțiunea excluderii din competiție a tuturor candidaturilor/ofertelor în cauză; b) să depună ofertă individuală/comună și să fie nominalizat ca subcontractant în cadrul unei alte oferte",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "ALOP-015",
     "tip": "unic",
     "test": 14,
@@ -6127,29 +6129,6 @@ const INTREBARI = [
       "articol": "pct. 1 (angajarea cheltuielilor)",
       "citat": "b) Angajamentul bugetar - orice act prin care o autoritate competentă, potrivit legii, afectează fonduri publice unor anumite destinații, în limita creditelor bugetare aprobate.",
       "fisier": "09_Norme_ALOP_1792-2002.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L500-021",
-    "tip": "unic",
-    "test": 14,
-    "intrebare": "Ce se întâmplă, potrivit Legii nr. 500/2002, dacă legile bugetare anuale, depuse în termen legal, nu au fost adoptate de Parlament până cel târziu la data de 15 decembrie a anului anterior?",
-    "variante": [
-      "Legile bugetare se consideră adoptate tacit în forma depusă de Guvern.",
-      "Se aplică automat bugetul anului precedent, fără nicio altă formalitate, până la data de 31 martie.",
-      "Guvernul va solicita Parlamentului aplicarea procedurii de urgență.",
-      "Guvernul aprobă bugetul prin ordonanță de urgență, urmând ca Parlamentul să îl ratifice ulterior."
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 17 alin. (2) prevede expres că, dacă legile bugetare depuse în termen legal nu au fost adoptate până cel târziu la 15 decembrie a anului anterior, Guvernul solicită Parlamentului aplicarea procedurii de urgență. Nu există adoptare tacită a legii bugetare și nici aprobare a bugetului prin ordonanță de urgență — bugetul este de competența exclusivă a Parlamentului, potrivit art. 17 alin. (1). Aplicarea bugetului anului precedent (regula 1/12) este o soluție reală, dar ea intervine abia în temeiul art. 37 alin. (1), dacă legile bugetare nu au fost adoptate cu cel puțin 3 zile înainte de expirarea exercițiului bugetar, și nu este limitată la 31 martie. Capcana este confuzia dintre termenul de declanșare a procedurii de urgență (15 decembrie) și termenul-limită de depunere a proiectului la Parlament (15 noiembrie, art. 35 alin. (4)).",
-    "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 17 alin. (2)",
-      "citat": "În cazul în care legile bugetare anuale, depuse în termen legal, nu au fost adoptate de către Parlament până cel târziu la data de 15 decembrie a anului anterior anului la care se referă proiectul de buget, Guvernul va solicita Parlamentului aplicarea procedurii de urgență.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
   },
@@ -6177,26 +6156,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395B-002",
-    "tip": "multiplu",
+    "id": "L500-021",
+    "tip": "unic",
     "test": 14,
-    "intrebare": "Care dintre următoarele îi sunt INTERZISE ofertantului/candidatului în cadrul aceleiași proceduri de atribuire, potrivit art. 47 din Normele metodologice, sub sancțiunea excluderii?",
+    "intrebare": "Ce se întâmplă, potrivit Legii nr. 500/2002, dacă legile bugetare anuale, depuse în termen legal, nu au fost adoptate de Parlament până cel târziu la data de 15 decembrie a anului anterior?",
     "variante": [
-      "Să oferteze pe mai multe loturi diferite",
-      "Să depună două sau mai multe candidaturi/oferte individuale și/sau comune",
-      "Să depună ofertă alternativă, atunci când documentația de atribuire permite acest lucru",
-      "Să depună ofertă individuală/comună și să fie nominalizat ca subcontractant în cadrul unei alte oferte"
+      "Legile bugetare se consideră adoptate tacit în forma depusă de Guvern.",
+      "Se aplică automat bugetul anului precedent, fără nicio altă formalitate, până la data de 31 martie.",
+      "Guvernul va solicita Parlamentului aplicarea procedurii de urgență.",
+      "Guvernul aprobă bugetul prin ordonanță de urgență, urmând ca Parlamentul să îl ratifice ulterior."
     ],
     "corecte": [
-      1,
-      3
+      2
     ],
-    "explicatie": "Art. 47 interzice cumulul de oferte: depunerea a două sau mai multe candidaturi/oferte atrage excluderea tuturor ofertelor în cauză, iar cumulul ofertant + subcontractant nominalizat în altă ofertă atrage excluderea ofertei individuale sau, după caz, a celei în care este ofertant asociat. Chiar în partea introductivă a articolului se precizează că interdicțiile NU afectează posibilitatea de a depune ofertă alternativă și nici de a oferta pe mai multe loturi diferite — acestea sunt distractorii. Atenție: sancțiunea este excluderea potrivit procedurii de la art. 167 din Lege.",
+    "explicatie": "Art. 17 alin. (2) prevede expres că, dacă legile bugetare depuse în termen legal nu au fost adoptate până cel târziu la 15 decembrie a anului anterior, Guvernul solicită Parlamentului aplicarea procedurii de urgență. Nu există adoptare tacită a legii bugetare și nici aprobare a bugetului prin ordonanță de urgență — bugetul este de competența exclusivă a Parlamentului, potrivit art. 17 alin. (1). Aplicarea bugetului anului precedent (regula 1/12) este o soluție reală, dar ea intervine abia în temeiul art. 37 alin. (1), dacă legile bugetare nu au fost adoptate cu cel puțin 3 zile înainte de expirarea exercițiului bugetar, și nu este limitată la 31 martie. Capcana este confuzia dintre termenul de declanșare a procedurii de urgență (15 decembrie) și termenul-limită de depunere a proiectului la Parlament (15 noiembrie, art. 35 alin. (4)).",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 47",
-      "citat": "fără a afecta posibilitatea operatorilor economici de a depune ofertă alternativă sau de a oferta pe mai multe loturi diferite, ofertantul/candidatul nu are dreptul ca în cadrul aceleiași proceduri de atribuire: a) să depună două sau mai multe candidaturi/oferte individuale și/sau comune, sub sancțiunea excluderii din competiție a tuturor candidaturilor/ofertelor în cauză; b) să depună ofertă individuală/comună și să fie nominalizat ca subcontractant în cadrul unei alte oferte",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 17 alin. (2)",
+      "citat": "În cazul în care legile bugetare anuale, depuse în termen legal, nu au fost adoptate de către Parlament până cel târziu la data de 15 decembrie a anului anterior anului la care se referă proiectul de buget, Guvernul va solicita Parlamentului aplicarea procedurii de urgență.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
   },
@@ -6224,6 +6202,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395B-003",
+    "tip": "unic",
+    "test": 14,
+    "intrebare": "Ce statut au, potrivit Normelor metodologice, subcontractanții pe ale căror capacități se bazează ofertantul/candidatul pentru demonstrarea îndeplinirii anumitor criterii de calificare și selecție?",
+    "variante": [
+      "Trebuie excluși din procedură, deoarece cumulul de calități este interzis",
+      "Sunt considerați și terți susținători, caz în care acordul de subcontractare reprezintă, în același timp, și angajamentul ferm",
+      "Sunt considerați simpli subcontractanți, fără vreo obligație suplimentară",
+      "Devin automat ofertanți asociați, cu răspundere solidară"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 48 alin. (1) asimilează subcontractanții pe capacitățile cărora se sprijină ofertantul cu terții susținători, iar acordul de subcontractare ține loc de angajament ferm. Varianta potrivit căreia sunt simpli subcontractanți ignoră tocmai această dublă calitate. Cumulul subcontractant + terț susținător nu este interzis (interdicția de la art. 47 vizează cumulul ofertant + subcontractant în altă ofertă). Asocierea cu răspundere solidară este o instituție diferită (participarea în comun la procedură), care nu se naște automat din subcontractare.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 48 alin. (1)",
+      "citat": "Subcontractanții pe a căror capacități ofertantul/candidatul se bazează pentru demonstrarea îndeplinirii anumitor criterii de calificare și selecție sunt considerați și terți susținători, caz în care acordul de subcontractare reprezintă, în același timp, și angajamentul ferm.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "OUGA-042",
     "tip": "unic",
     "test": 14,
@@ -6243,6 +6244,29 @@ const INTREBARI = [
       "articol": "art. 10 alin. (1) lit. f)",
       "citat": "f) raportul procedurii de atribuire și rapoartele intermediare întocmite în cazul procedurilor de atribuire ce se desfășoară în mai multe etape, înainte de a fi aprobate de către conducătorul autorității contractante, în termen de o zi lucrătoare de la întocmirea respectivelor documente, precum și raportul procedurii aprobat de conducătorul autorității contractante, în termen de o zi lucrătoare de la aprobarea acestuia;",
       "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98B-020",
+    "tip": "unic",
+    "test": 14,
+    "intrebare": "Pentru ca autoritatea contractantă să poată reduce la cel puțin 15 zile perioada de depunere a ofertelor la licitația deschisă în baza unui anunț de intenție, acesta trebuie să fi fost transmis spre publicare:",
+    "variante": [
+      "Cu cel puțin 52 de zile înainte de data transmiterii anunțului de participare",
+      "Oricând în cursul anului bugetar, fără o condiție de termen",
+      "Cu o perioadă cuprinsă între 35 de zile și 12 luni înainte de data transmiterii anunțului de participare",
+      "Cu o perioadă cuprinsă între 15 zile și 6 luni înainte de data transmiterii anunțului de participare"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 74 alin. (2) permite reducerea perioadei de la 35 la cel puțin 15 zile dacă sunt îndeplinite cumulativ două condiții: anunțul de intenție a inclus toate informațiile necesare pentru anunțul de participare (în măsura în care erau disponibile la publicarea sa) și a fost transmis spre publicare cu o perioadă cuprinsă între 35 de zile și 12 luni înainte de anunțul de participare. Intervalul 52 de zile este o capcană din legislația veche (O.U.G. nr. 34/2006 folosea termene de 52 de zile la licitația deschisă). Intervalul „15 zile-6 luni” este inventat, iar lipsa oricărei condiții de termen contrazice caracterul cumulativ al condițiilor. Aceleași condiții privind anunțul de intenție (35 de zile-12 luni) se regăsesc și la licitația restrânsă (art. 79 alin. (3)) și la negocierea competitivă (art. 84 alin. (3)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 74 alin. (2)",
+      "citat": "aceasta are dreptul de a reduce perioada prevăzută la alin. (1) la cel puțin 15 zile dacă sunt îndeplinite în mod cumulativ următoarele condiții: [...] b) anunțul de intenție a fost transmis spre publicare cu o perioadă cuprinsă între 35 de zile și 12 luni înainte de data transmiterii anunțului de participare.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -6272,52 +6296,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98B-020",
-    "tip": "unic",
-    "test": 14,
-    "intrebare": "Pentru ca autoritatea contractantă să poată reduce la cel puțin 15 zile perioada de depunere a ofertelor la licitația deschisă în baza unui anunț de intenție, acesta trebuie să fi fost transmis spre publicare:",
-    "variante": [
-      "Cu cel puțin 52 de zile înainte de data transmiterii anunțului de participare",
-      "Oricând în cursul anului bugetar, fără o condiție de termen",
-      "Cu o perioadă cuprinsă între 35 de zile și 12 luni înainte de data transmiterii anunțului de participare",
-      "Cu o perioadă cuprinsă între 15 zile și 6 luni înainte de data transmiterii anunțului de participare"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 74 alin. (2) permite reducerea perioadei de la 35 la cel puțin 15 zile dacă sunt îndeplinite cumulativ două condiții: anunțul de intenție a inclus toate informațiile necesare pentru anunțul de participare (în măsura în care erau disponibile la publicarea sa) și a fost transmis spre publicare cu o perioadă cuprinsă între 35 de zile și 12 luni înainte de anunțul de participare. Intervalul 52 de zile este o capcană din legislația veche (O.U.G. nr. 34/2006 folosea termene de 52 de zile la licitația deschisă). Intervalul „15 zile-6 luni” este inventat, iar lipsa oricărei condiții de termen contrazice caracterul cumulativ al condițiilor. Aceleași condiții privind anunțul de intenție (35 de zile-12 luni) se regăsesc și la licitația restrânsă (art. 79 alin. (3)) și la negocierea competitivă (art. 84 alin. (3)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 74 alin. (2)",
-      "citat": "aceasta are dreptul de a reduce perioada prevăzută la alin. (1) la cel puțin 15 zile dacă sunt îndeplinite în mod cumulativ următoarele condiții: [...] b) anunțul de intenție a fost transmis spre publicare cu o perioadă cuprinsă între 35 de zile și 12 luni înainte de data transmiterii anunțului de participare.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395B-003",
-    "tip": "unic",
-    "test": 14,
-    "intrebare": "Ce statut au, potrivit Normelor metodologice, subcontractanții pe ale căror capacități se bazează ofertantul/candidatul pentru demonstrarea îndeplinirii anumitor criterii de calificare și selecție?",
-    "variante": [
-      "Trebuie excluși din procedură, deoarece cumulul de calități este interzis",
-      "Sunt considerați și terți susținători, caz în care acordul de subcontractare reprezintă, în același timp, și angajamentul ferm",
-      "Sunt considerați simpli subcontractanți, fără vreo obligație suplimentară",
-      "Devin automat ofertanți asociați, cu răspundere solidară"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 48 alin. (1) asimilează subcontractanții pe capacitățile cărora se sprijină ofertantul cu terții susținători, iar acordul de subcontractare ține loc de angajament ferm. Varianta potrivit căreia sunt simpli subcontractanți ignoră tocmai această dublă calitate. Cumulul subcontractant + terț susținător nu este interzis (interdicția de la art. 47 vizează cumulul ofertant + subcontractant în altă ofertă). Asocierea cu răspundere solidară este o instituție diferită (participarea în comun la procedură), care nu se naște automat din subcontractare.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 48 alin. (1)",
-      "citat": "Subcontractanții pe a căror capacități ofertantul/candidatul se bazează pentru demonstrarea îndeplinirii anumitor criterii de calificare și selecție sunt considerați și terți susținători, caz în care acordul de subcontractare reprezintă, în același timp, și angajamentul ferm.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGB-023",
     "tip": "unic",
     "test": 14,
@@ -6337,6 +6315,29 @@ const INTREBARI = [
       "articol": "art. 5 alin. (3)",
       "citat": "În cazul emiterii unui aviz conform condiționat, în termen de 5 zile lucrătoare de la publicarea anunțului de participare/de participare simplificat/de concurs/de concesionare pentru documentația aferentă acestuia, ANAP va transmite autorității/entității contractante concluziile asupra modului în care au fost implementate măsurile de remediere ce au făcut obiectul respectivului aviz.",
       "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395B-004",
+    "tip": "unic",
+    "test": 14,
+    "intrebare": "În ce condiții are autoritatea contractantă obligația de a lua în considerare susținerea unui terț ca probă a îndeplinirii criteriilor minime impuse prin documentația de atribuire?",
+    "variante": [
+      "Numai dacă susținerea vizează exclusiv situația economică și financiară",
+      "Dacă, în mod cumulativ, terțul poate dovedi că deține resursele invocate, iar ofertantul poate demonstra că va dispune efectiv de resursele entităților care acordă susținerea",
+      "Dacă terțul se angajează să devină asociat al ofertantului în cazul câștigării contractului",
+      "Numai dacă terțul susținător constituie o garanție de participare distinctă"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 48 alin. (2) impune două condiții CUMULATIVE: terțul dovedește că deține resursele invocate, iar ofertantul demonstrează că va dispune efectiv de ele pentru realizarea contractului (în cazul în care terțul nu este declarat subcontractant). Nu se cere nicio garanție de participare din partea terțului și nici transformarea lui în asociat. Susținerea poate viza atât situația economică și financiară, cât și capacitatea tehnică și profesională, deci limitarea la componenta financiară este falsă.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 48 alin. (2)",
+      "citat": "dacă sunt îndeplinite în mod cumulativ următoarele condiții: a) terțul/terții susținător(i) pot dovedi că dețin resursele invocate ca element de susținere a ofertantului/candidatului; b) ofertantul/candidatul poate demonstra că va dispune efectiv de resursele entităților ce acordă susținerea, necesare pentru realizarea contractului",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -6387,29 +6388,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395B-004",
-    "tip": "unic",
-    "test": 14,
-    "intrebare": "În ce condiții are autoritatea contractantă obligația de a lua în considerare susținerea unui terț ca probă a îndeplinirii criteriilor minime impuse prin documentația de atribuire?",
-    "variante": [
-      "Numai dacă susținerea vizează exclusiv situația economică și financiară",
-      "Dacă, în mod cumulativ, terțul poate dovedi că deține resursele invocate, iar ofertantul poate demonstra că va dispune efectiv de resursele entităților care acordă susținerea",
-      "Dacă terțul se angajează să devină asociat al ofertantului în cazul câștigării contractului",
-      "Numai dacă terțul susținător constituie o garanție de participare distinctă"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 48 alin. (2) impune două condiții CUMULATIVE: terțul dovedește că deține resursele invocate, iar ofertantul demonstrează că va dispune efectiv de ele pentru realizarea contractului (în cazul în care terțul nu este declarat subcontractant). Nu se cere nicio garanție de participare din partea terțului și nici transformarea lui în asociat. Susținerea poate viza atât situația economică și financiară, cât și capacitatea tehnică și profesională, deci limitarea la componenta financiară este falsă.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 48 alin. (2)",
-      "citat": "dacă sunt îndeplinite în mod cumulativ următoarele condiții: a) terțul/terții susținător(i) pot dovedi că dețin resursele invocate ca element de susținere a ofertantului/candidatului; b) ofertantul/candidatul poate demonstra că va dispune efectiv de resursele entităților ce acordă susținerea, necesare pentru realizarea contractului",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98-N202",
     "tip": "unic",
     "test": 14,
@@ -6428,29 +6406,6 @@ const INTREBARI = [
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 75",
       "citat": "Ofertantul depune oferta elaborată în conformitate cu informațiile și cerințele prevăzute în documentele achiziției, însoțită de documentele sau de documentul unic de achiziție european, în conformitate cu dispozițiile art. 193-197, după caz, care demonstrează îndeplinirea criteriilor de calificare stabilite de autoritatea contractantă.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98B-022",
-    "tip": "unic",
-    "test": 14,
-    "intrebare": "În cadrul procedurii de licitație restrânsă, cine are dreptul de a depune ofertă în etapa a doua?",
-    "variante": [
-      "Numai candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă",
-      "Numai primii trei candidați clasați în ordinea prețului estimat",
-      "Orice operator economic interesat, în urma publicării anunțului de participare",
-      "Orice operator economic care a achiziționat documentația de atribuire"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 76 descrie mecanismul licitației restrânse: orice operator economic poate depune o SOLICITARE DE PARTICIPARE în prima etapă, dar numai candidații care îndeplinesc criteriile de calificare și selecție au dreptul să depună OFERTA în etapa ulterioară. Varianta potrivit căreia orice operator economic interesat poate depune ofertă descrie licitația deschisă (art. 71), unde orice operator depune direct ofertă. Clasamentul după preț estimat nu există ca mecanism de selecție, iar achiziționarea documentației nu mai este o condiție de participare (documentația este disponibilă gratuit în SEAP). Capcană conexă: autoritatea nu poate invita în etapa a doua un operator care nu a depus solicitare de participare în prima etapă (art. 78 alin. (9)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 76",
-      "citat": "În cadrul procedurii de licitație restrânsă orice operator economic are dreptul de a depune o solicitare de participare în urma publicării unui anunț de participare, urmând ca numai candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă să aibă dreptul de a depune oferta în etapa ulterioară.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -6479,6 +6434,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98B-022",
+    "tip": "unic",
+    "test": 14,
+    "intrebare": "În cadrul procedurii de licitație restrânsă, cine are dreptul de a depune ofertă în etapa a doua?",
+    "variante": [
+      "Numai candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă",
+      "Numai primii trei candidați clasați în ordinea prețului estimat",
+      "Orice operator economic interesat, în urma publicării anunțului de participare",
+      "Orice operator economic care a achiziționat documentația de atribuire"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 76 descrie mecanismul licitației restrânse: orice operator economic poate depune o SOLICITARE DE PARTICIPARE în prima etapă, dar numai candidații care îndeplinesc criteriile de calificare și selecție au dreptul să depună OFERTA în etapa ulterioară. Varianta potrivit căreia orice operator economic interesat poate depune ofertă descrie licitația deschisă (art. 71), unde orice operator depune direct ofertă. Clasamentul după preț estimat nu există ca mecanism de selecție, iar achiziționarea documentației nu mai este o condiție de participare (documentația este disponibilă gratuit în SEAP). Capcană conexă: autoritatea nu poate invita în etapa a doua un operator care nu a depus solicitare de participare în prima etapă (art. 78 alin. (9)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 76",
+      "citat": "În cadrul procedurii de licitație restrânsă orice operator economic are dreptul de a depune o solicitare de participare în urma publicării unui anunț de participare, urmând ca numai candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă să aibă dreptul de a depune oferta în etapa ulterioară.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98-N203",
     "tip": "unic",
     "test": 14,
@@ -6498,6 +6476,29 @@ const INTREBARI = [
       "articol": "art. 77",
       "citat": "Licitația restrânsă se inițiază prin transmiterea spre publicare a unui anunț de participare, în conformitate cu prevederile art. 144 alin. (2) și (3), prin care autoritatea contractantă solicită operatorilor economici depunerea de solicitări de participare în vederea furnizării informațiilor și documentelor pentru calificare și selecție stabilite de autoritatea contractantă.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395-N105",
+    "tip": "unic",
+    "test": 14,
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, pentru situația în care contractantul întâmpină dificultăți pe parcursul executării contractului, iar susținerea terțului vizează situația economică și financiară și/sau capacitatea tehnică și profesională, ce trebuie să includă autoritatea contractantă în contract?",
+    "variante": [
+      "Clauze prin care cerința privind autorizațiile specifice se consideră îndeplinită dacă unul dintre membrii asocierii deține autorizația solicitată",
+      "Clauze specifice care să îi permită să urmărească orice pretenție la daune a contractantului împotriva terțului susținător pentru nerespectarea angajamentului ferm, de exemplu printr-o cesiune a drepturilor contractantului către autoritatea contractantă, cu titlu de garanție",
+      "Clauze care să îi permită să atribuie contractul ofertantului clasat pe locul următor, dacă acesta îndeplinește toate criteriile de calificare",
+      "Clauze prin care terțul susținător devine subcontractant nominalizat, acordul de subcontractare ținând loc de angajament ferm"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 50 alin. (2) din Norme obligă autoritatea contractantă să includă în contract clauze specifice care să îi permită să urmărească orice pretenție la daune a contractantului împotriva terțului susținător pentru nerespectarea angajamentului ferm, cum ar fi o cesiune a drepturilor contractantului către autoritatea contractantă, cu titlu de garanție. Tot în această situație, art. 50 alin. (1) prevede că ofertantul/candidatul trebuie să garanteze, prin actul încheiat cu terțul, materializarea aspectelor ce fac obiectul angajamentului ferm. Atribuirea contractului ofertantului clasat pe locul următor este soluția art. 66 alin. (2), aplicabilă în evaluare, când ofertantul clasat primul nu demonstrează îndeplinirea criteriilor de calificare. Regula că acordul de subcontractare reprezintă și angajament ferm vine din art. 48 alin. (1) și privește subcontractanții pe capacitatea cărora se bazează ofertantul, nu transformarea terțului în subcontractant prin contract. Îndeplinirea cerinței privind autorizațiile specifice de către un membru al asocierii este reglementată de art. 51 alin. (1) și nu privește executarea angajamentului terțului susținător.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 50",
+      "citat": "În cazul în care contractantul întâmpină dificultăți pe parcursul executării contractului de achiziție publică/acordului-cadru [...] Autoritatea contractantă va trebui, de asemenea, să includă în contract clauze specifice care să permită autorității contractante să urmărească orice pretenție la daune pe care contractantul ar putea să o aibă împotriva terțului/terților susținător/susținători pentru nerespectarea obligațiilor asumate prin angajamentul ferm, cum ar fi, dar fără a se limita la, printr-o cesiune a drepturilor contractantului către autoritatea contractantă, cu titlu de garanție.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -6523,29 +6524,6 @@ const INTREBARI = [
       "articol": "art. 15 alin. (1)",
       "citat": "Procedura de soluționare a contestațiilor se desfășoară cu respectarea principiilor legalității, celerității, contradictorialității, asigurării dreptului la apărare, imparțialității și independenței activității administrativ-jurisdicționale.",
       "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395-N105",
-    "tip": "unic",
-    "test": 15,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, pentru situația în care contractantul întâmpină dificultăți pe parcursul executării contractului, iar susținerea terțului vizează situația economică și financiară și/sau capacitatea tehnică și profesională, ce trebuie să includă autoritatea contractantă în contract?",
-    "variante": [
-      "Clauze prin care cerința privind autorizațiile specifice se consideră îndeplinită dacă unul dintre membrii asocierii deține autorizația solicitată",
-      "Clauze specifice care să îi permită să urmărească orice pretenție la daune a contractantului împotriva terțului susținător pentru nerespectarea angajamentului ferm, de exemplu printr-o cesiune a drepturilor contractantului către autoritatea contractantă, cu titlu de garanție",
-      "Clauze care să îi permită să atribuie contractul ofertantului clasat pe locul următor, dacă acesta îndeplinește toate criteriile de calificare",
-      "Clauze prin care terțul susținător devine subcontractant nominalizat, acordul de subcontractare ținând loc de angajament ferm"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 50 alin. (2) din Norme obligă autoritatea contractantă să includă în contract clauze specifice care să îi permită să urmărească orice pretenție la daune a contractantului împotriva terțului susținător pentru nerespectarea angajamentului ferm, cum ar fi o cesiune a drepturilor contractantului către autoritatea contractantă, cu titlu de garanție. Tot în această situație, art. 50 alin. (1) prevede că ofertantul/candidatul trebuie să garanteze, prin actul încheiat cu terțul, materializarea aspectelor ce fac obiectul angajamentului ferm. Atribuirea contractului ofertantului clasat pe locul următor este soluția art. 66 alin. (2), aplicabilă în evaluare, când ofertantul clasat primul nu demonstrează îndeplinirea criteriilor de calificare. Regula că acordul de subcontractare reprezintă și angajament ferm vine din art. 48 alin. (1) și privește subcontractanții pe capacitatea cărora se bazează ofertantul, nu transformarea terțului în subcontractant prin contract. Îndeplinirea cerinței privind autorizațiile specifice de către un membru al asocierii este reglementată de art. 51 alin. (1) și nu privește executarea angajamentului terțului susținător.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 50",
-      "citat": "În cazul în care contractantul întâmpină dificultăți pe parcursul executării contractului de achiziție publică/acordului-cadru [...] Autoritatea contractantă va trebui, de asemenea, să includă în contract clauze specifice care să permită autorității contractante să urmărească orice pretenție la daune pe care contractantul ar putea să o aibă împotriva terțului/terților susținător/susținători pentru nerespectarea obligațiilor asumate prin angajamentul ferm, cum ar fi, dar fără a se limita la, printr-o cesiune a drepturilor contractantului către autoritatea contractantă, cu titlu de garanție.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -6598,25 +6576,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "ALOP-016",
+    "id": "N395B-005",
     "tip": "unic",
     "test": 15,
-    "intrebare": "Care este raportul de ordine dintre angajamentul bugetar și angajamentul legal, potrivit Normelor metodologice ALOP?",
+    "intrebare": "Ofertantul subcontractează o parte din contract, iar documentația de atribuire cere o autorizație specifică. Când se consideră îndeplinită cerința privind autorizația?",
     "variante": [
-      "Angajamentul bugetar precedă angajamentul legal, fiind interzisă ordonatorilor de credite aprobarea unor angajamente legale fără asigurarea că au fost rezervate fondurile publice necesare plății acestora în exercițiul bugetar, cu excepția acțiunilor multianuale.",
-      "Angajamentul legal precedă angajamentul bugetar, rezervarea creditelor efectuându-se numai după semnarea contractului de către ordonatorul de credite.",
-      "Angajamentul bugetar se întocmește numai la finele exercițiului bugetar, pentru regularizarea angajamentelor legale încheiate în cursul anului.",
-      "Cele două documente se întocmesc întotdeauna simultan, iar ordinea întocmirii lor nu produce efecte juridice."
+      "Numai dacă ofertantul principal deține el însuși autorizația",
+      "Cerințele privind autorizațiile specifice nu pot fi niciodată îndeplinite prin subcontractanți",
+      "Dacă oricare dintre membrii asocierii deține autorizația, indiferent cine execută partea respectivă de contract",
+      "Dacă subcontractantul nominalizat deține autorizația solicitată, cu condiția ca acesta să execute partea din contract pentru care este solicitată autorizația respectivă"
     ],
     "corecte": [
-      0
+      3
     ],
-    "explicatie": "Potrivit pct. 1 lit. b) din Normele ALOP, angajamentul bugetar prin care au fost rezervate fonduri publice unei anumite destinații, în limita creditelor bugetare aprobate, precedă angajamentul legal, iar ordonatorilor de credite le este interzisă aprobarea unor angajamente legale fără asigurarea că au fost rezervate fondurile publice necesare plății acestora în exercițiul bugetar, cu excepția acțiunilor multianuale. Varianta potrivit căreia angajamentul legal precedă angajamentul bugetar, cu rezervarea creditelor după semnarea contractului, inversează această ordine. Varianta cu întocmirea simultană, fără efecte ale ordinii, este contrazisă de același text, care impune ordinea în aplicarea principiului anualității, pentru ca angajamentele legale să poată fi plătite în exercițiul bugetar respectiv. Varianta cu întocmirea angajamentului bugetar numai la finele exercițiului, pentru regularizare, confundă angajamentul bugetar cu analiza de la finele anului a angajamentelor bugetare globale, făcută de persoana desemnată să exercite controlul financiar preventiv propriu (pct. 1). Tot pct. 1 lit. b) precizează că angajamentele legale «sunt precedate de angajamente bugetare, respectiv de rezervarea creditelor necesare plății angajamentelor legale».",
+    "explicatie": "Art. 51 alin. (2) permite îndeplinirea cerinței prin subcontractantul nominalizat, dar cu condiția esențială ca tocmai acesta să execute partea de contract pentru care este cerută autorizația. Aceeași logică se aplică și asocierilor (alin. (1)): membrul care deține autorizația trebuie să execute partea respectivă — deci varianta care ignoră această condiție este greșită. Ideea generală este corelarea dintre deținătorul autorizației și executantul efectiv al activității autorizate.",
     "sursa": {
-      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
-      "articol": "pct. 1 (angajarea cheltuielilor)",
-      "citat": "În vederea respectării acestei cerințe, angajamentul bugetar prin care au fost rezervate fonduri publice unei anumite destinații, în limita creditelor bugetare aprobate, preceda angajamentul legal. [...] Este interzis ordonatorilor de credite aprobarea unor angajamente legale fără asigurarea ca au fost rezervate și fondurile publice necesare plății acestora în exercițiul bugetar, cu excepția acțiunilor multianuale.",
-      "fisier": "09_Norme_ALOP_1792-2002.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 51 alin. (2)",
+      "citat": "cerința prevăzută la alin. (1) se consideră îndeplinită dacă subcontractantul nominalizat deține autorizația solicitată prin documentația de atribuire, cu condiția ca acesta să execute partea din contract pentru care este solicitată autorizația respectivă.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -6644,25 +6622,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395B-005",
+    "id": "ALOP-016",
     "tip": "unic",
     "test": 15,
-    "intrebare": "Ofertantul subcontractează o parte din contract, iar documentația de atribuire cere o autorizație specifică. Când se consideră îndeplinită cerința privind autorizația?",
+    "intrebare": "Care este raportul de ordine dintre angajamentul bugetar și angajamentul legal, potrivit Normelor metodologice ALOP?",
     "variante": [
-      "Numai dacă ofertantul principal deține el însuși autorizația",
-      "Cerințele privind autorizațiile specifice nu pot fi niciodată îndeplinite prin subcontractanți",
-      "Dacă oricare dintre membrii asocierii deține autorizația, indiferent cine execută partea respectivă de contract",
-      "Dacă subcontractantul nominalizat deține autorizația solicitată, cu condiția ca acesta să execute partea din contract pentru care este solicitată autorizația respectivă"
+      "Angajamentul bugetar precedă angajamentul legal, fiind interzisă ordonatorilor de credite aprobarea unor angajamente legale fără asigurarea că au fost rezervate fondurile publice necesare plății acestora în exercițiul bugetar, cu excepția acțiunilor multianuale.",
+      "Angajamentul legal precedă angajamentul bugetar, rezervarea creditelor efectuându-se numai după semnarea contractului de către ordonatorul de credite.",
+      "Angajamentul bugetar se întocmește numai la finele exercițiului bugetar, pentru regularizarea angajamentelor legale încheiate în cursul anului.",
+      "Cele două documente se întocmesc întotdeauna simultan, iar ordinea întocmirii lor nu produce efecte juridice."
     ],
     "corecte": [
-      3
+      0
     ],
-    "explicatie": "Art. 51 alin. (2) permite îndeplinirea cerinței prin subcontractantul nominalizat, dar cu condiția esențială ca tocmai acesta să execute partea de contract pentru care este cerută autorizația. Aceeași logică se aplică și asocierilor (alin. (1)): membrul care deține autorizația trebuie să execute partea respectivă — deci varianta care ignoră această condiție este greșită. Ideea generală este corelarea dintre deținătorul autorizației și executantul efectiv al activității autorizate.",
+    "explicatie": "Potrivit pct. 1 lit. b) din Normele ALOP, angajamentul bugetar prin care au fost rezervate fonduri publice unei anumite destinații, în limita creditelor bugetare aprobate, precedă angajamentul legal, iar ordonatorilor de credite le este interzisă aprobarea unor angajamente legale fără asigurarea că au fost rezervate fondurile publice necesare plății acestora în exercițiul bugetar, cu excepția acțiunilor multianuale. Varianta potrivit căreia angajamentul legal precedă angajamentul bugetar, cu rezervarea creditelor după semnarea contractului, inversează această ordine. Varianta cu întocmirea simultană, fără efecte ale ordinii, este contrazisă de același text, care impune ordinea în aplicarea principiului anualității, pentru ca angajamentele legale să poată fi plătite în exercițiul bugetar respectiv. Varianta cu întocmirea angajamentului bugetar numai la finele exercițiului, pentru regularizare, confundă angajamentul bugetar cu analiza de la finele anului a angajamentelor bugetare globale, făcută de persoana desemnată să exercite controlul financiar preventiv propriu (pct. 1). Tot pct. 1 lit. b) precizează că angajamentele legale «sunt precedate de angajamente bugetare, respectiv de rezervarea creditelor necesare plății angajamentelor legale».",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 51 alin. (2)",
-      "citat": "cerința prevăzută la alin. (1) se consideră îndeplinită dacă subcontractantul nominalizat deține autorizația solicitată prin documentația de atribuire, cu condiția ca acesta să execute partea din contract pentru care este solicitată autorizația respectivă.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+      "articol": "pct. 1 (angajarea cheltuielilor)",
+      "citat": "În vederea respectării acestei cerințe, angajamentul bugetar prin care au fost rezervate fonduri publice unei anumite destinații, în limita creditelor bugetare aprobate, preceda angajamentul legal. [...] Este interzis ordonatorilor de credite aprobarea unor angajamente legale fără asigurarea ca au fost rezervate și fondurile publice necesare plății acestora în exercițiul bugetar, cu excepția acțiunilor multianuale.",
+      "fisier": "09_Norme_ALOP_1792-2002.txt"
     },
     "status": "ok"
   },
@@ -6737,6 +6715,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98B-026",
+    "tip": "unic",
+    "test": 15,
+    "intrebare": "La licitația restrânsă, dacă autoritatea contractantă a publicat un anunț de intenție care îndeplinește condițiile legale, perioada pentru depunerea ofertelor în etapa a doua poate fi redusă la cel puțin:",
+    "variante": [
+      "10 zile",
+      "20 de zile",
+      "15 zile",
+      "5 zile"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 79 alin. (3) permite reducerea perioadei pentru depunerea ofertelor (etapa a doua) la cel puțin 10 zile, dacă anunțul de intenție a inclus toate informațiile necesare și a fost transmis spre publicare cu 35 de zile până la 12 luni înainte de anunțul de participare. Atenție: reducerea privește DOAR termenul pentru oferte, nu și pe cel pentru solicitările de participare. Valoarea de 15 zile este reală cu alt rol: reducerea cu anunț de intenție la licitația deschisă (art. 74 alin. (2)) și minimul de urgență pentru solicitări la restrânsă (art. 79 alin. (5) lit. a)). Reducerea cu „5 zile” privește depunerea electronică (alin. (4)), nu anunțul de intenție, iar 20 de zile nu figurează în text.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 79 alin. (3)",
+      "citat": "În cazul în care autoritatea contractantă a publicat un anunț de intenție referitor la contractul de achiziție publică/acordul-cadru ce urmează a fi atribuit, aceasta are dreptul de a reduce perioada prevăzută la alin. (2) la cel puțin 10 zile dacă sunt îndeplinite în mod cumulativ următoarele condiții",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "OUGB-024",
     "tip": "unic",
     "test": 15,
@@ -6760,24 +6761,47 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98B-026",
+    "id": "N395B-007",
     "tip": "unic",
     "test": 15,
-    "intrebare": "La licitația restrânsă, dacă autoritatea contractantă a publicat un anunț de intenție care îndeplinește condițiile legale, perioada pentru depunerea ofertelor în etapa a doua poate fi redusă la cel puțin:",
+    "intrebare": "Ce obligație are autoritatea contractantă care se află într-una dintre situațiile ce permit folosirea altor mijloace de comunicare decât cele electronice pentru depunerea ofertelor?",
     "variante": [
-      "10 zile",
-      "20 de zile",
-      "15 zile",
-      "5 zile"
+      "Să publice o erată la anunțul de participare cu cel puțin 3 zile lucrătoare înainte de depunerea ofertelor",
+      "Să obțină acordul scris al tuturor operatorilor economici interesați",
+      "Să notifice în prealabil ANAP și să obțină avizul acesteia",
+      "Să indice în raportul procedurii de atribuire motivele concrete care au condus la solicitarea altor mijloace de comunicare decât cele electronice"
     ],
     "corecte": [
-      0
+      3
     ],
-    "explicatie": "Art. 79 alin. (3) permite reducerea perioadei pentru depunerea ofertelor (etapa a doua) la cel puțin 10 zile, dacă anunțul de intenție a inclus toate informațiile necesare și a fost transmis spre publicare cu 35 de zile până la 12 luni înainte de anunțul de participare. Atenție: reducerea privește DOAR termenul pentru oferte, nu și pe cel pentru solicitările de participare. Valoarea de 15 zile este reală cu alt rol: reducerea cu anunț de intenție la licitația deschisă (art. 74 alin. (2)) și minimul de urgență pentru solicitări la restrânsă (art. 79 alin. (5) lit. a)). Reducerea cu „5 zile” privește depunerea electronică (alin. (4)), nu anunțul de intenție, iar 20 de zile nu figurează în text.",
+    "explicatie": "Art. 52 alin. (3) impune o obligație de motivare ex post: motivele concrete se consemnează în raportul procedurii de atribuire. Nu există un aviz prealabil al ANAP pentru această situație. Erata de 3 zile lucrătoare este o obligație reală, dar din alt context — art. 55 alin. (1), pentru modificarea informațiilor dintr-un anunț publicat. Acordul operatorilor economici nu este cerut de normă.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 52 alin. (3)",
+      "citat": "are obligația de a indica în raportul procedurii de atribuire motivele concrete care au condus la solicitarea altor mijloace de comunicare în procesul de depunere a ofertelor decât cele electronice.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98B-027",
+    "tip": "unic",
+    "test": 15,
+    "intrebare": "În cazul unei situații de urgență, demonstrată în mod corespunzător, la licitația restrânsă autoritatea contractantă poate stabili perioade reduse care nu pot fi mai mici de:",
+    "variante": [
+      "6 zile pentru depunerea solicitărilor de participare și 9 zile pentru depunerea ofertelor",
+      "10 zile pentru depunerea solicitărilor de participare și 15 zile pentru depunerea ofertelor",
+      "15 zile pentru depunerea solicitărilor de participare și 15 zile pentru depunerea ofertelor",
+      "15 zile pentru depunerea solicitărilor de participare și 10 zile pentru depunerea ofertelor"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 79 alin. (5) prevede, pentru situația de urgență la licitația restrânsă: minimum 15 zile pentru solicitările de participare (de la transmiterea spre publicare a anunțului) și minimum 10 zile pentru oferte (de la transmiterea invitației la etapa a doua). Varianta cu 10 zile pentru solicitări și 15 zile pentru oferte inversează valorile — capcană tipică. Varianta 15/15 confundă termenul de urgență de la licitația deschisă (15 zile, art. 74 alin. (3)) cu cel pentru oferte de aici. Valorile 6/9 zile sunt reale, dar aparțin procedurii simplificate în caz de urgență (art. 113 alin. (10): 6 zile pentru servicii/produse, 9 zile pentru lucrări). Aceleași reduceri de urgență 15/10 se aplică și negocierii competitive (art. 84 alin. (5)).",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 79 alin. (3)",
-      "citat": "În cazul în care autoritatea contractantă a publicat un anunț de intenție referitor la contractul de achiziție publică/acordul-cadru ce urmează a fi atribuit, aceasta are dreptul de a reduce perioada prevăzută la alin. (2) la cel puțin 10 zile dacă sunt îndeplinite în mod cumulativ următoarele condiții",
+      "articol": "art. 79 alin. (5)",
+      "citat": "a) o perioadă redusă pentru depunerea solicitărilor de participare, care nu poate fi mai mică de 15 zile de la data transmiterii spre publicare a anunțului de participare; b) o perioadă redusă pentru depunerea ofertelor, care nu poate fi mai mică de 10 zile de la data transmiterii invitației de participare la etapa a doua a procedurii de atribuire.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -6852,52 +6876,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98B-027",
-    "tip": "unic",
-    "test": 15,
-    "intrebare": "În cazul unei situații de urgență, demonstrată în mod corespunzător, la licitația restrânsă autoritatea contractantă poate stabili perioade reduse care nu pot fi mai mici de:",
-    "variante": [
-      "6 zile pentru depunerea solicitărilor de participare și 9 zile pentru depunerea ofertelor",
-      "10 zile pentru depunerea solicitărilor de participare și 15 zile pentru depunerea ofertelor",
-      "15 zile pentru depunerea solicitărilor de participare și 15 zile pentru depunerea ofertelor",
-      "15 zile pentru depunerea solicitărilor de participare și 10 zile pentru depunerea ofertelor"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 79 alin. (5) prevede, pentru situația de urgență la licitația restrânsă: minimum 15 zile pentru solicitările de participare (de la transmiterea spre publicare a anunțului) și minimum 10 zile pentru oferte (de la transmiterea invitației la etapa a doua). Varianta cu 10 zile pentru solicitări și 15 zile pentru oferte inversează valorile — capcană tipică. Varianta 15/15 confundă termenul de urgență de la licitația deschisă (15 zile, art. 74 alin. (3)) cu cel pentru oferte de aici. Valorile 6/9 zile sunt reale, dar aparțin procedurii simplificate în caz de urgență (art. 113 alin. (10): 6 zile pentru servicii/produse, 9 zile pentru lucrări). Aceleași reduceri de urgență 15/10 se aplică și negocierii competitive (art. 84 alin. (5)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 79 alin. (5)",
-      "citat": "a) o perioadă redusă pentru depunerea solicitărilor de participare, care nu poate fi mai mică de 15 zile de la data transmiterii spre publicare a anunțului de participare; b) o perioadă redusă pentru depunerea ofertelor, care nu poate fi mai mică de 10 zile de la data transmiterii invitației de participare la etapa a doua a procedurii de atribuire.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395B-007",
-    "tip": "unic",
-    "test": 15,
-    "intrebare": "Ce obligație are autoritatea contractantă care se află într-una dintre situațiile ce permit folosirea altor mijloace de comunicare decât cele electronice pentru depunerea ofertelor?",
-    "variante": [
-      "Să publice o erată la anunțul de participare cu cel puțin 3 zile lucrătoare înainte de depunerea ofertelor",
-      "Să obțină acordul scris al tuturor operatorilor economici interesați",
-      "Să notifice în prealabil ANAP și să obțină avizul acesteia",
-      "Să indice în raportul procedurii de atribuire motivele concrete care au condus la solicitarea altor mijloace de comunicare decât cele electronice"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 52 alin. (3) impune o obligație de motivare ex post: motivele concrete se consemnează în raportul procedurii de atribuire. Nu există un aviz prealabil al ANAP pentru această situație. Erata de 3 zile lucrătoare este o obligație reală, dar din alt context — art. 55 alin. (1), pentru modificarea informațiilor dintr-un anunț publicat. Acordul operatorilor economici nu este cerut de normă.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 52 alin. (3)",
-      "citat": "are obligația de a indica în raportul procedurii de atribuire motivele concrete care au condus la solicitarea altor mijloace de comunicare în procesul de depunere a ofertelor decât cele electronice.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98-N204",
     "tip": "unic",
     "test": 15,
@@ -6967,6 +6945,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395-N106",
+    "tip": "unic",
+    "test": 15,
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, cum se transmit spre publicare către operatorul SEAP anunțurile prevăzute la art. 142 din Legea nr. 98/2016?",
+    "variante": [
+      "Prin transmiterea anunțului de către autoritatea contractantă direct Oficiului pentru Publicații al Uniunii Europene, operatorul SEAP preluându-l după primirea confirmării",
+      "Numai prin mijloace electronice, prin completarea formularelor specifice disponibile în SEAP, și numai de către autoritățile contractante înregistrate",
+      "Prin mijloace electronice sau, la alegerea autorității contractante, prin intermediul serviciilor poștale ori prin fax",
+      "Prin mijloace electronice, fie de către autoritatea contractantă înregistrată, fie de către furnizorul de servicii auxiliare achiziției contractat de aceasta"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 54 din Norme prevede că anunțurile prevăzute la art. 142 din Lege se transmit operatorului SEAP numai prin mijloace electronice, prin completarea formularelor specifice din SEAP, și numai de către autoritățile contractante înregistrate. Serviciile poștale și faxul sunt mijloacele prevăzute la art. 52 alin. (2) pentru comunicările care, în situațiile excepționale de la art. 52 alin. (1), nu se realizează electronic, nu pentru transmiterea anunțurilor. Furnizorii de servicii auxiliare achiziției pot sprijini autoritatea contractantă potrivit art. 2 alin. (6), însă art. 54 rezervă transmiterea anunțurilor autorităților contractante înregistrate. Transmiterea de către autoritatea contractantă spre JOUE, prin mijloace proprii, este soluția excepțională din art. 26, pentru cazul în care operatorul SEAP nu poate transmite anunțul din motive tehnice. Publicarea în SEAP după confirmarea Oficiului pentru Publicații al Uniunii Europene este o obligație a operatorului SEAP, prevăzută la art. 56.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 54",
+      "citat": "Transmiterea spre publicare a anunțurilor prevăzute la art. 142 din Lege către operatorul SEAP se realizează numai prin mijloace electronice, prin completarea formularelor specifice disponibile în SEAP [...] și numai de către autoritățile contractante înregistrate.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98B-028",
     "tip": "unic",
     "test": 15,
@@ -7013,25 +7014,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395-N106",
+    "id": "L98-N206",
     "tip": "unic",
     "test": 16,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, cum se transmit spre publicare către operatorul SEAP anunțurile prevăzute la art. 142 din Legea nr. 98/2016?",
+    "intrebare": "Potrivit Legii nr. 98/2016, în procedura de negociere competitivă, ce stabilește autoritatea contractantă în cadrul descrierii, din documentația de atribuire, a necesităților și caracteristicilor solicitate pentru produsele, lucrările sau serviciile care urmează a fi achiziționate?",
     "variante": [
-      "Prin transmiterea anunțului de către autoritatea contractantă direct Oficiului pentru Publicații al Uniunii Europene, operatorul SEAP preluându-l după primirea confirmării",
-      "Numai prin mijloace electronice, prin completarea formularelor specifice disponibile în SEAP, și numai de către autoritățile contractante înregistrate",
-      "Prin mijloace electronice sau, la alegerea autorității contractante, prin intermediul serviciilor poștale ori prin fax",
-      "Prin mijloace electronice, fie de către autoritatea contractantă înregistrată, fie de către furnizorul de servicii auxiliare achiziției contractat de aceasta"
+      "Numărul maxim de oferte care pot fi negociate în fiecare rundă de negocieri",
+      "Cerințele minime în legătură cu acestea, pe care ofertele trebuie să le îndeplinească",
+      "Obiectivele intermediare care trebuie realizate de ofertanți și plata prețului în tranșe corespunzătoare",
+      "Un termen orientativ pentru desfășurarea procedurii de atribuire"
     ],
     "corecte": [
       1
     ],
-    "explicatie": "Art. 54 din Norme prevede că anunțurile prevăzute la art. 142 din Lege se transmit operatorului SEAP numai prin mijloace electronice, prin completarea formularelor specifice din SEAP, și numai de către autoritățile contractante înregistrate. Serviciile poștale și faxul sunt mijloacele prevăzute la art. 52 alin. (2) pentru comunicările care, în situațiile excepționale de la art. 52 alin. (1), nu se realizează electronic, nu pentru transmiterea anunțurilor. Furnizorii de servicii auxiliare achiziției pot sprijini autoritatea contractantă potrivit art. 2 alin. (6), însă art. 54 rezervă transmiterea anunțurilor autorităților contractante înregistrate. Transmiterea de către autoritatea contractantă spre JOUE, prin mijloace proprii, este soluția excepțională din art. 26, pentru cazul în care operatorul SEAP nu poate transmite anunțul din motive tehnice. Publicarea în SEAP după confirmarea Oficiului pentru Publicații al Uniunii Europene este o obligație a operatorului SEAP, prevăzută la art. 56.",
+    "explicatie": "Art. 83 alin. (1) și (2) prevede că, după ce definește obiectul achiziției prin descrierea necesităților și a caracteristicilor solicitate, autoritatea contractantă stabilește care sunt cerințele minime pe care ofertele trebuie să le îndeplinească; aceste cerințe minime nu pot face obiect al negocierilor și nici nu pot fi modificate pe parcursul acestora (art. 85 alin. (2) și (4)). Termenul orientativ pentru desfășurarea procedurii se stabilește în dialogul competitiv, prin anunțul de participare și/sau documentul descriptiv (art. 90 alin. (2)). Obiectivele intermediare și plata prețului în tranșe sunt specifice parteneriatului pentru inovare (art. 101 alin. (2)). Legea nu prevede un număr maxim de oferte pe rundă: negocierile în runde succesive se pot desfășura numai dacă opțiunea a fost indicată în anunț sau alt document al achiziției, iar reducerea numărului de oferte se face numai pe baza factorilor de evaluare (art. 85 alin. (8)-(10)). Conformitatea ofertelor inițiale cu aceste cerințe minime se evaluează în etapa a doua, potrivit art. 82 alin. (1) lit. b).",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 54",
-      "citat": "Transmiterea spre publicare a anunțurilor prevăzute la art. 142 din Lege către operatorul SEAP se realizează numai prin mijloace electronice, prin completarea formularelor specifice disponibile în SEAP [...] și numai de către autoritățile contractante înregistrate.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 83",
+      "citat": "În cuprinsul documentației de atribuire autoritatea contractantă definește obiectul achiziției prin descrierea necesităților autorității contractante și a caracteristicilor solicitate pentru produsele, lucrările sau serviciile care urmează a fi achiziționate [...] În cadrul descrierii elementelor prevăzute la alin. (1), autoritatea contractantă stabilește care sunt cerințele minime în legătură cu acestea pe care ofertele trebuie să le îndeplinească.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -7059,25 +7060,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N206",
+    "id": "N395B-009",
     "tip": "unic",
     "test": 16,
-    "intrebare": "Potrivit Legii nr. 98/2016, în procedura de negociere competitivă, ce stabilește autoritatea contractantă în cadrul descrierii, din documentația de atribuire, a necesităților și caracteristicilor solicitate pentru produsele, lucrările sau serviciile care urmează a fi achiziționate?",
+    "intrebare": "După publicarea unui anunț intervin modificări față de informațiile existente în acesta. Până când trebuie publicat anunțul de tip erată la anunțul inițial?",
     "variante": [
-      "Numărul maxim de oferte care pot fi negociate în fiecare rundă de negocieri",
-      "Cerințele minime în legătură cu acestea, pe care ofertele trebuie să le îndeplinească",
-      "Obiectivele intermediare care trebuie realizate de ofertanți și plata prețului în tranșe corespunzătoare",
-      "Un termen orientativ pentru desfășurarea procedurii de atribuire"
+      "Nu mai târziu de 3 zile calendaristice înainte de data-limită de depunere a ofertelor",
+      "Oricând, până cel târziu la data și ora-limită de depunere a ofertelor",
+      "Nu mai târziu de 5 zile lucrătoare înainte de data-limită de depunere a ofertelor",
+      "Nu mai târziu de 3 zile lucrătoare înainte de data stabilită pentru depunerea ofertelor sau solicitărilor de participare"
     ],
     "corecte": [
-      1
+      3
     ],
-    "explicatie": "Art. 83 alin. (1) și (2) prevede că, după ce definește obiectul achiziției prin descrierea necesităților și a caracteristicilor solicitate, autoritatea contractantă stabilește care sunt cerințele minime pe care ofertele trebuie să le îndeplinească; aceste cerințe minime nu pot face obiect al negocierilor și nici nu pot fi modificate pe parcursul acestora (art. 85 alin. (2) și (4)). Termenul orientativ pentru desfășurarea procedurii se stabilește în dialogul competitiv, prin anunțul de participare și/sau documentul descriptiv (art. 90 alin. (2)). Obiectivele intermediare și plata prețului în tranșe sunt specifice parteneriatului pentru inovare (art. 101 alin. (2)). Legea nu prevede un număr maxim de oferte pe rundă: negocierile în runde succesive se pot desfășura numai dacă opțiunea a fost indicată în anunț sau alt document al achiziției, iar reducerea numărului de oferte se face numai pe baza factorilor de evaluare (art. 85 alin. (8)-(10)). Conformitatea ofertelor inițiale cu aceste cerințe minime se evaluează în etapa a doua, potrivit art. 82 alin. (1) lit. b).",
+    "explicatie": "Art. 55 alin. (1) cere publicarea eratei nu mai târziu de 3 zile LUCRĂTOARE înainte de data depunerii — capcana principală este confuzia zile lucrătoare/zile calendaristice. Termenul de 5 zile lucrătoare nu apare aici. Publicarea „oricând până la termen\" ar goli de sens obligația de a lăsa operatorilor timp de reacție; mai mult, dacă modificările presupun timp suplimentar pentru reacția potențialilor ofertanți, art. 55 alin. (2) obligă la prelungirea termenului-limită de depunere, în condițiile art. 153 din Lege.",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 83",
-      "citat": "În cuprinsul documentației de atribuire autoritatea contractantă definește obiectul achiziției prin descrierea necesităților autorității contractante și a caracteristicilor solicitate pentru produsele, lucrările sau serviciile care urmează a fi achiziționate [...] În cadrul descrierii elementelor prevăzute la alin. (1), autoritatea contractantă stabilește care sunt cerințele minime în legătură cu acestea pe care ofertele trebuie să le îndeplinească.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 55 alin. (1)",
+      "citat": "autoritatea contractantă are obligația de a transmite spre publicare un anunț de tip erată la anunțul inițial, care trebuie să fie publicat nu mai târziu de 3 zile lucrătoare înainte de data stabilită pentru depunerea ofertelor sau solicitărilor de participare.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -7105,52 +7106,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "ALOP-017",
-    "tip": "unic",
-    "test": 16,
-    "intrebare": "Ce regulă de plafonare se aplică valorii angajamentelor legale, potrivit Normelor metodologice ALOP?",
-    "variante": [
-      "Valoarea lor poate depăși cu până la 10% valoarea angajamentelor bugetare, cu aprobarea prealabilă a ordonatorului principal de credite.",
-      "Valoarea lor nu poate depăși valoarea angajamentelor bugetare și, respectiv, a creditelor bugetare aprobate, cu excepția angajamentelor legale aferente acțiunilor multianuale, care nu pot depăși creditele de angajament aprobate în buget.",
-      "Valoarea lor nu este plafonată în faza angajării, plafonarea operând exclusiv în faza plății, în limita creditelor bugetare deschise.",
-      "Valoarea lor nu poate depăși, în niciun caz, creditele de angajament aprobate în buget, indiferent de tipul acțiunii finanțate."
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Pct. 1 lit. b) din Normele ALOP prevede că valoarea angajamentelor legale nu poate depăși valoarea angajamentelor bugetare și, respectiv, a creditelor bugetare aprobate, cu excepția angajamentelor legale aferente acțiunilor multianuale, care nu pot depăși creditele de angajament aprobate în buget. Varianta cu o depășire de până la 10%, cu aprobarea ordonatorului principal de credite, introduce o toleranță pe care textul nu o prevede; dimpotrivă, pct. 1 interzice ordonatorilor de credite să ia cu bună știință măsuri care au ca obiect angajarea de cheltuieli peste sumele aprobate în buget, cu excepția angajamentelor multianuale. Varianta potrivit căreia plafonul ar fi întotdeauna creditul de angajament, indiferent de tipul acțiunii, extinde la toate cheltuielile regula specifică acțiunilor multianuale; pentru celelalte, angajarea «se face numai în limita creditelor bugetare aprobate» (pct. 1). Varianta potrivit căreia plafonarea operează doar la plată contrazice rațiunea fazei de angajare, în care angajamentul bugetar rezervă creditele înaintea angajamentului legal (pct. 1 lit. b)). Corolarul enunțat de pct. 1 lit. b) este că angajarea cheltuielilor se face întotdeauna în limita disponibilului de credite bugetare și, respectiv, a disponibilului de credite de angajament pentru acțiuni multianuale.",
-    "sursa": {
-      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
-      "articol": "pct. 1 (angajarea cheltuielilor)",
-      "citat": "Valoarea angajamentelor legale nu poate depăși valoarea angajamentelor bugetare și, respectiv, a creditelor bugetare aprobate, cu excepția angajamentelor legale aferente acțiunilor multianuale care nu pot depăși creditele de angajament aprobate în buget.",
-      "fisier": "09_Norme_ALOP_1792-2002.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395B-009",
-    "tip": "unic",
-    "test": 16,
-    "intrebare": "După publicarea unui anunț intervin modificări față de informațiile existente în acesta. Până când trebuie publicat anunțul de tip erată la anunțul inițial?",
-    "variante": [
-      "Nu mai târziu de 3 zile calendaristice înainte de data-limită de depunere a ofertelor",
-      "Oricând, până cel târziu la data și ora-limită de depunere a ofertelor",
-      "Nu mai târziu de 5 zile lucrătoare înainte de data-limită de depunere a ofertelor",
-      "Nu mai târziu de 3 zile lucrătoare înainte de data stabilită pentru depunerea ofertelor sau solicitărilor de participare"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 55 alin. (1) cere publicarea eratei nu mai târziu de 3 zile LUCRĂTOARE înainte de data depunerii — capcana principală este confuzia zile lucrătoare/zile calendaristice. Termenul de 5 zile lucrătoare nu apare aici. Publicarea „oricând până la termen\" ar goli de sens obligația de a lăsa operatorilor timp de reacție; mai mult, dacă modificările presupun timp suplimentar pentru reacția potențialilor ofertanți, art. 55 alin. (2) obligă la prelungirea termenului-limită de depunere, în condițiile art. 153 din Lege.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 55 alin. (1)",
-      "citat": "autoritatea contractantă are obligația de a transmite spre publicare un anunț de tip erată la anunțul inițial, care trebuie să fie publicat nu mai târziu de 3 zile lucrătoare înainte de data stabilită pentru depunerea ofertelor sau solicitărilor de participare.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98B-046",
     "tip": "unic",
     "test": 16,
@@ -7174,25 +7129,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98B-047",
+    "id": "ALOP-017",
     "tip": "unic",
     "test": 16,
-    "intrebare": "În cazul unei situații de urgență demonstrate în mod corespunzător, care fac imposibil de respectat perioadele obișnuite ale negocierii competitive, ce perioade reduse poate stabili autoritatea contractantă?",
+    "intrebare": "Ce regulă de plafonare se aplică valorii angajamentelor legale, potrivit Normelor metodologice ALOP?",
     "variante": [
-      "Cel puțin 15 zile atât pentru depunerea solicitărilor de participare, cât și pentru depunerea ofertelor inițiale.",
-      "Cel puțin 15 zile pentru depunerea solicitărilor de participare, de la data transmiterii spre publicare a anunțului de participare, și cel puțin 10 zile pentru depunerea ofertelor inițiale, de la data transmiterii invitației de participare la etapa a doua.",
-      "Cel puțin 6 zile pentru depunerea solicitărilor de participare și cel puțin 9 zile pentru depunerea ofertelor inițiale.",
-      "Cel puțin 10 zile pentru depunerea solicitărilor de participare și cel puțin 15 zile pentru depunerea ofertelor inițiale."
+      "Valoarea lor poate depăși cu până la 10% valoarea angajamentelor bugetare, cu aprobarea prealabilă a ordonatorului principal de credite.",
+      "Valoarea lor nu poate depăși valoarea angajamentelor bugetare și, respectiv, a creditelor bugetare aprobate, cu excepția angajamentelor legale aferente acțiunilor multianuale, care nu pot depăși creditele de angajament aprobate în buget.",
+      "Valoarea lor nu este plafonată în faza angajării, plafonarea operând exclusiv în faza plății, în limita creditelor bugetare deschise.",
+      "Valoarea lor nu poate depăși, în niciun caz, creditele de angajament aprobate în buget, indiferent de tipul acțiunii finanțate."
     ],
     "corecte": [
       1
     ],
-    "explicatie": "Art. 84 alin. (5) prevede două perioade reduse distincte și asimetrice: minimum 15 zile pentru solicitările de participare, calculate de la transmiterea spre publicare a anunțului de participare (lit. a), și minimum 10 zile pentru ofertele inițiale, calculate de la transmiterea invitației de participare la etapa a doua (lit. b). Varianta cu 15 zile pentru ambele confundă regimul cu cel de la licitația deschisă, unde urgența permite o singură perioadă redusă de minimum 15 zile pentru oferte (art. 74 alin. (3)). Inversarea termenelor (10 și 15) este o capcană clasică. Termenele de 6 și 9 zile aparțin procedurii simplificate, potrivit art. 113 alin. (10). Atenție și la punctul de plecare al curgerii: pentru prima etapă se ia data transmiterii spre publicare a anunțului, nu data publicării efective.",
+    "explicatie": "Pct. 1 lit. b) din Normele ALOP prevede că valoarea angajamentelor legale nu poate depăși valoarea angajamentelor bugetare și, respectiv, a creditelor bugetare aprobate, cu excepția angajamentelor legale aferente acțiunilor multianuale, care nu pot depăși creditele de angajament aprobate în buget. Varianta cu o depășire de până la 10%, cu aprobarea ordonatorului principal de credite, introduce o toleranță pe care textul nu o prevede; dimpotrivă, pct. 1 interzice ordonatorilor de credite să ia cu bună știință măsuri care au ca obiect angajarea de cheltuieli peste sumele aprobate în buget, cu excepția angajamentelor multianuale. Varianta potrivit căreia plafonul ar fi întotdeauna creditul de angajament, indiferent de tipul acțiunii, extinde la toate cheltuielile regula specifică acțiunilor multianuale; pentru celelalte, angajarea «se face numai în limita creditelor bugetare aprobate» (pct. 1). Varianta potrivit căreia plafonarea operează doar la plată contrazice rațiunea fazei de angajare, în care angajamentul bugetar rezervă creditele înaintea angajamentului legal (pct. 1 lit. b)). Corolarul enunțat de pct. 1 lit. b) este că angajarea cheltuielilor se face întotdeauna în limita disponibilului de credite bugetare și, respectiv, a disponibilului de credite de angajament pentru acțiuni multianuale.",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 84 alin. (5)",
-      "citat": "(5) În cazul în care o situație de urgență, demonstrată în mod corespunzător de către autoritatea contractantă, face imposibil de respectat perioadele prevăzute la alin. (1) sau (2) ori cea rezultată în urma aplicării alin. (4), autoritatea contractantă poate stabili: a) o perioadă redusă pentru depunerea solicitărilor de participare, care nu poate fi mai mică de 15 zile de la data transmiterii spre publicare a anunțului de participare; b) o perioadă redusă pentru depunerea ofertelor inițiale, care nu poate fi mai mică de 10 zile de la data transmiterii invitației de participare la etapa a doua a procedurii de atribuire.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+      "articol": "pct. 1 (angajarea cheltuielilor)",
+      "citat": "Valoarea angajamentelor legale nu poate depăși valoarea angajamentelor bugetare și, respectiv, a creditelor bugetare aprobate, cu excepția angajamentelor legale aferente acțiunilor multianuale care nu pot depăși creditele de angajament aprobate în buget.",
+      "fisier": "09_Norme_ALOP_1792-2002.txt"
     },
     "status": "ok"
   },
@@ -7220,6 +7175,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98B-047",
+    "tip": "unic",
+    "test": 16,
+    "intrebare": "În cazul unei situații de urgență demonstrate în mod corespunzător, care fac imposibil de respectat perioadele obișnuite ale negocierii competitive, ce perioade reduse poate stabili autoritatea contractantă?",
+    "variante": [
+      "Cel puțin 15 zile atât pentru depunerea solicitărilor de participare, cât și pentru depunerea ofertelor inițiale.",
+      "Cel puțin 15 zile pentru depunerea solicitărilor de participare, de la data transmiterii spre publicare a anunțului de participare, și cel puțin 10 zile pentru depunerea ofertelor inițiale, de la data transmiterii invitației de participare la etapa a doua.",
+      "Cel puțin 6 zile pentru depunerea solicitărilor de participare și cel puțin 9 zile pentru depunerea ofertelor inițiale.",
+      "Cel puțin 10 zile pentru depunerea solicitărilor de participare și cel puțin 15 zile pentru depunerea ofertelor inițiale."
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 84 alin. (5) prevede două perioade reduse distincte și asimetrice: minimum 15 zile pentru solicitările de participare, calculate de la transmiterea spre publicare a anunțului de participare (lit. a), și minimum 10 zile pentru ofertele inițiale, calculate de la transmiterea invitației de participare la etapa a doua (lit. b). Varianta cu 15 zile pentru ambele confundă regimul cu cel de la licitația deschisă, unde urgența permite o singură perioadă redusă de minimum 15 zile pentru oferte (art. 74 alin. (3)). Inversarea termenelor (10 și 15) este o capcană clasică. Termenele de 6 și 9 zile aparțin procedurii simplificate, potrivit art. 113 alin. (10). Atenție și la punctul de plecare al curgerii: pentru prima etapă se ia data transmiterii spre publicare a anunțului, nu data publicării efective.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 84 alin. (5)",
+      "citat": "(5) În cazul în care o situație de urgență, demonstrată în mod corespunzător de către autoritatea contractantă, face imposibil de respectat perioadele prevăzute la alin. (1) sau (2) ori cea rezultată în urma aplicării alin. (4), autoritatea contractantă poate stabili: a) o perioadă redusă pentru depunerea solicitărilor de participare, care nu poate fi mai mică de 15 zile de la data transmiterii spre publicare a anunțului de participare; b) o perioadă redusă pentru depunerea ofertelor inițiale, care nu poate fi mai mică de 10 zile de la data transmiterii invitației de participare la etapa a doua a procedurii de atribuire.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "OUGB-025",
     "tip": "unic",
     "test": 16,
@@ -7239,29 +7217,6 @@ const INTREBARI = [
       "articol": "art. 6 alin. (1) lit. a) și b)",
       "citat": "ANAP are obligația ca în termen de maximum două zile lucrătoare de la data încărcării anunțului tip erată în SEAP: a) fie să emită către operatorul SEAP acceptul de publicare pentru anunțul respectiv, [...] b) fie să respingă publicarea anunțului, caz în care emite autorității/entității contractante aviz conform condiționat.",
       "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L500-026",
-    "tip": "unic",
-    "test": 16,
-    "intrebare": "Cine are, potrivit Legii nr. 500/2002, calitatea de ordonator principal de credite?",
-    "variante": [
-      "Miniștrii, conducătorii celorlalte organe de specialitate ale administrației publice centrale, conducătorii altor autorități publice și conducătorii instituțiilor publice autonome.",
-      "Numai miniștrii și conducătorii instituțiilor publice autonome.",
-      "Conducătorii tuturor instituțiilor publice cu personalitate juridică, indiferent de subordonare.",
-      "Conducătorii compartimentelor financiar-contabile din ministere și din celelalte organe de specialitate ale administrației publice centrale."
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 20 alin. (2) enumeră limitativ ordonatorii principali de credite: miniștrii, conducătorii celorlalte organe de specialitate ale administrației publice centrale, conducătorii altor autorități publice și conducătorii instituțiilor publice autonome. Enumerarea nu se reduce la miniștri și instituții autonome. Conducătorii instituțiilor publice cu personalitate juridică din subordinea sau coordonarea ordonatorilor principali sunt, potrivit alin. (3), ordonatori secundari sau terțiari, după caz — deci nu orice conducător de instituție cu personalitate juridică este ordonator principal. Conducătorul compartimentului financiar-contabil nu este niciodată ordonator de credite; dimpotrivă, art. 20 alin. (4) îl exclude expres de la posibilitatea delegării acestei calități, iar art. 52 alin. (2) consacră principiul separării atribuțiilor.",
-    "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 20 alin. (1) și (2)",
-      "citat": "Ordonatorii de credite sunt de 3 categorii: ordonatori principali, ordonatori secundari și ordonatori terțiari. [...] Ordonatorii principali de credite sunt miniștrii, conducătorii celorlalte organe de specialitate ale administrației publice centrale, conducătorii altor autorități publice și conducătorii instituțiilor publice autonome.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
   },
@@ -7291,25 +7246,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98B-030",
+    "id": "L500-026",
     "tip": "unic",
     "test": 16,
-    "intrebare": "Ce obligații are autoritatea contractantă atunci când intenționează să încheie negocierile în cadrul procedurii de negociere competitivă?",
+    "intrebare": "Cine are, potrivit Legii nr. 500/2002, calitatea de ordonator principal de credite?",
     "variante": [
-      "Îi informează pe ofertanții rămași în competiție și stabilește un termen pentru depunerea unor oferte noi sau revizuite, care reprezintă ofertele finale",
-      "Atribuie contractul ofertantului cu care a purtat ultima rundă de negocieri",
-      "Organizează obligatoriu o etapă de licitație electronică pentru departajarea finală",
-      "Transmite direct raportul procedurii către ANAP pentru validare, apoi atribuie contractul"
+      "Miniștrii, conducătorii celorlalte organe de specialitate ale administrației publice centrale, conducătorii altor autorități publice și conducătorii instituțiilor publice autonome.",
+      "Numai miniștrii și conducătorii instituțiilor publice autonome.",
+      "Conducătorii tuturor instituțiilor publice cu personalitate juridică, indiferent de subordonare.",
+      "Conducătorii compartimentelor financiar-contabile din ministere și din celelalte organe de specialitate ale administrației publice centrale."
     ],
     "corecte": [
       0
     ],
-    "explicatie": "Art. 85 alin. (11) prevede că, la încheierea negocierilor, autoritatea îi informează pe ofertanții rămași în competiție și stabilește un termen pentru depunerea ofertelor noi sau revizuite — acestea sunt ofertele finale, care se evaluează potrivit alin. (12) pe baza criteriului de atribuire și a factorilor de evaluare. Nu există o validare ANAP a raportului ca etapă a procedurii. Atribuirea directă către ultimul ofertant negociat ar încălca obligația de a evalua toate ofertele finale. Licitația electronică este doar o opțiune, condiționată de precizarea ei în anunț și documentație (art. 82 alin. (11)), nu o etapă obligatorie.",
+    "explicatie": "Art. 20 alin. (2) enumeră limitativ ordonatorii principali de credite: miniștrii, conducătorii celorlalte organe de specialitate ale administrației publice centrale, conducătorii altor autorități publice și conducătorii instituțiilor publice autonome. Enumerarea nu se reduce la miniștri și instituții autonome. Conducătorii instituțiilor publice cu personalitate juridică din subordinea sau coordonarea ordonatorilor principali sunt, potrivit alin. (3), ordonatori secundari sau terțiari, după caz — deci nu orice conducător de instituție cu personalitate juridică este ordonator principal. Conducătorul compartimentului financiar-contabil nu este niciodată ordonator de credite; dimpotrivă, art. 20 alin. (4) îl exclude expres de la posibilitatea delegării acestei calități, iar art. 52 alin. (2) consacră principiul separării atribuțiilor.",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 85 alin. (11)",
-      "citat": "În cazul în care autoritatea contractantă intenționează să încheie negocierile, aceasta îi informează pe ofertanții rămași în competiție și stabilește un termen pentru depunerea unor oferte noi sau revizuite, care reprezintă ofertele finale.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 20 alin. (1) și (2)",
+      "citat": "Ordonatorii de credite sunt de 3 categorii: ordonatori principali, ordonatori secundari și ordonatori terțiari. [...] Ordonatorii principali de credite sunt miniștrii, conducătorii celorlalte organe de specialitate ale administrației publice centrale, conducătorii altor autorități publice și conducătorii instituțiilor publice autonome.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
   },
@@ -7337,25 +7292,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L101A-024",
+    "id": "L98B-030",
     "tip": "unic",
     "test": 16,
-    "intrebare": "Cum se soluționează, pentru a se asigura o soluție unitară, contestațiile formulate în cadrul aceleiași proceduri de atribuire?",
+    "intrebare": "Ce obligații are autoritatea contractantă atunci când intenționează să încheie negocierile în cadrul procedurii de negociere competitivă?",
     "variante": [
-      "Contestațiile se soluționează de completul care a pronunțat prima decizie în procedura respectivă, indiferent de etapă",
-      "Toate contestațiile din aceeași procedură, indiferent de etapă, sunt soluționate de același complet",
-      "Fiecare contestație se distribuie aleatoriu unui complet diferit, fără nicio regulă de grupare",
-      "Contestațiile din etapa de până la data-limită de depunere sunt soluționate de același complet, iar cele din etapa ulterioară de un alt complet, comun pentru acea etapă"
+      "Îi informează pe ofertanții rămași în competiție și stabilește un termen pentru depunerea unor oferte noi sau revizuite, care reprezintă ofertele finale",
+      "Atribuie contractul ofertantului cu care a purtat ultima rundă de negocieri",
+      "Organizează obligatoriu o etapă de licitație electronică pentru departajarea finală",
+      "Transmite direct raportul procedurii către ANAP pentru validare, apoi atribuie contractul"
     ],
     "corecte": [
-      3
+      0
     ],
-    "explicatie": "Art. 17 alin. (1) împarte procedura în două etape față de data-limită de depunere a solicitărilor de participare/ofertelor/proiectelor: contestațiile din prima etapă merg la același complet (lit. a)), iar cele din a doua etapă la un alt complet, dar unic pentru acea etapă (lit. b)). În plus, în fiecare etapă contestațiile se conexează (art. 17 alin. (2)). Varianta potrivit căreia toate contestațiile, indiferent de etapă, merg la același complet greșește, pentru că legea impune expres complete DIFERITE între etape; la fel și cea care leagă soluționarea de completul care a pronunțat prima decizie; distribuirea complet aleatorie fără grupare ar compromite unitatea soluției — art. 14 alin. (1) prevede distribuirea aleatorie, dar cu aplicarea corespunzătoare a art. 17 alin. (1) și (2).",
+    "explicatie": "Art. 85 alin. (11) prevede că, la încheierea negocierilor, autoritatea îi informează pe ofertanții rămași în competiție și stabilește un termen pentru depunerea ofertelor noi sau revizuite — acestea sunt ofertele finale, care se evaluează potrivit alin. (12) pe baza criteriului de atribuire și a factorilor de evaluare. Nu există o validare ANAP a raportului ca etapă a procedurii. Atribuirea directă către ultimul ofertant negociat ar încălca obligația de a evalua toate ofertele finale. Licitația electronică este doar o opțiune, condiționată de precizarea ei în anunț și documentație (art. 82 alin. (11)), nu o etapă obligatorie.",
     "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 17 alin. (1)",
-      "citat": "Pentru a se asigura pronunțarea unei soluții unitare, contestațiile formulate în cadrul aceleiași proceduri de atribuire se soluționează astfel: a) în etapa de până la data-limită de depunere a solicitărilor de participare/ofertelor/proiectelor sunt soluționate de același complet; b) în etapa de după data-limită de depunere a solicitărilor de participare/ofertelor/proiectelor sunt soluționate de același complet, altul decât cel prevăzut la lit. a).",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 85 alin. (11)",
+      "citat": "În cazul în care autoritatea contractantă intenționează să încheie negocierile, aceasta îi informează pe ofertanții rămași în competiție și stabilește un termen pentru depunerea unor oferte noi sau revizuite, care reprezintă ofertele finale.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -7379,6 +7334,29 @@ const INTREBARI = [
       "articol": "art. 86",
       "citat": "În cadrul procedurii de dialog competitiv orice operator economic are dreptul de a depune o solicitare de participare în urma publicării unui anunț de participare, urmând ca numai candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă să aibă dreptul de a participa la etapa de dialog, iar candidații rămași la sfârșitul etapei de dialog au dreptul de a depune oferte finale.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L101A-024",
+    "tip": "unic",
+    "test": 16,
+    "intrebare": "Cum se soluționează, pentru a se asigura o soluție unitară, contestațiile formulate în cadrul aceleiași proceduri de atribuire?",
+    "variante": [
+      "Contestațiile se soluționează de completul care a pronunțat prima decizie în procedura respectivă, indiferent de etapă",
+      "Toate contestațiile din aceeași procedură, indiferent de etapă, sunt soluționate de același complet",
+      "Fiecare contestație se distribuie aleatoriu unui complet diferit, fără nicio regulă de grupare",
+      "Contestațiile din etapa de până la data-limită de depunere sunt soluționate de același complet, iar cele din etapa ulterioară de un alt complet, comun pentru acea etapă"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 17 alin. (1) împarte procedura în două etape față de data-limită de depunere a solicitărilor de participare/ofertelor/proiectelor: contestațiile din prima etapă merg la același complet (lit. a)), iar cele din a doua etapă la un alt complet, dar unic pentru acea etapă (lit. b)). În plus, în fiecare etapă contestațiile se conexează (art. 17 alin. (2)). Varianta potrivit căreia toate contestațiile, indiferent de etapă, merg la același complet greșește, pentru că legea impune expres complete DIFERITE între etape; la fel și cea care leagă soluționarea de completul care a pronunțat prima decizie; distribuirea complet aleatorie fără grupare ar compromite unitatea soluției — art. 14 alin. (1) prevede distribuirea aleatorie, dar cu aplicarea corespunzătoare a art. 17 alin. (1) și (2).",
+    "sursa": {
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 17 alin. (1)",
+      "citat": "Pentru a se asigura pronunțarea unei soluții unitare, contestațiile formulate în cadrul aceleiași proceduri de atribuire se soluționează astfel: a) în etapa de până la data-limită de depunere a solicitărilor de participare/ofertelor/proiectelor sunt soluționate de același complet; b) în etapa de după data-limită de depunere a solicitărilor de participare/ofertelor/proiectelor sunt soluționate de același complet, altul decât cel prevăzut la lit. a).",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
     },
     "status": "ok"
   },
@@ -7431,6 +7409,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395B-012",
+    "tip": "unic",
+    "test": 16,
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în licitația deschisă, dacă după publicarea anunțului de participare autoritatea contractantă nu utilizează mijloacele electronice din motive tehnice imputabile operatorului SEAP, cum se realizează evaluarea?",
+    "variante": [
+      "Evaluarea se suspendă de drept până la remedierea problemelor tehnice ale SEAP",
+      "Verificarea îndeplinirii criteriilor de calificare și selecție se realizează întotdeauna prima",
+      "Ordinea etapelor de evaluare este lăsată integral la aprecierea comisiei de evaluare",
+      "Evaluarea conformității ofertelor cu specificațiile tehnice și aplicarea criteriului de atribuire se realizează anterior verificării îndeplinirii criteriilor de calificare și selecție"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 58 alin. (2) din Normele metodologice, caz stabilit în aplicarea art. 208 din Lege, care deleagă normelor stabilirea acestor situații, prevede că evaluarea conformității ofertelor cu specificațiile tehnice și celelalte cerințe din documentele achiziției și aplicarea criteriului de atribuire se realizează anterior verificării îndeplinirii criteriilor de calificare și selecție. Varianta în care verificarea calificării și selecției se face întotdeauna prima contrazice această ordine stabilită expres de art. 58 alin. (2). Ordinea etapelor nu este lăsată la aprecierea comisiei de evaluare, pentru că art. 58 alin. (2) o stabilește chiar el. Art. 58 alin. (2) nu prevede nici suspendarea evaluării: permite autorității contractante, după publicarea anunțului de participare, să nu utilizeze mijloacele electronice atunci când acest lucru nu este posibil din motive tehnice imputabile operatorului SEAP, prin excepție de la regula aplicării licitației deschise prin mijloace electronice de la art. 58 alin. (1).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 58 alin. (2)",
+      "citat": "să nu utilizeze mijloacele electronice pentru derularea procedurii de atribuire atunci când acest lucru nu este posibil din motive tehnice imputabile operatorului SEAP, situație în care evaluarea conformității ofertelor cu specificațiile tehnice și celelalte cerințe prevăzute în documentele achiziției și aplicarea criteriului de atribuire se realizează anterior verificării îndeplinirii criteriilor de calificare și selecție.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L500-027",
     "tip": "unic",
     "test": 16,
@@ -7450,29 +7451,6 @@ const INTREBARI = [
       "articol": "art. 20 alin. (4)",
       "citat": "Ordonatorii de credite pot delega această calitate înlocuitorilor de drept, secretarului general sau altor persoane împuternicite în acest scop, cu excepția conducătorului compartimentului financiar-contabil. Prin actul de delegare, ordonatorii de credite vor preciza competențele delegate și condițiile delegării acestora.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "OUGA-015",
-    "tip": "unic",
-    "test": 17,
-    "intrebare": "În ce termen de la publicarea anunțului de participare transmite ANAP autorității/entității contractante adresa de înștiințare cu privire la implementarea măsurilor de remediere dispuse prin avizul conform condiționat?",
-    "variante": [
-      "În termen de 3 zile lucrătoare",
-      "În termen de 5 zile lucrătoare",
-      "În termen de 10 zile calendaristice",
-      "În termen de 2 zile lucrătoare"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 11 alin. (1^1), introdus prin OUG nr. 114/2020: în termen de 5 zile lucrătoare de la publicarea anunțului (de participare/participare simplificat/concesionare/concurs), ANAP transmite adresa de înștiințare privind implementarea măsurilor de remediere dispuse prin avizul conform condiționat. Mecanismul există pentru că autoritatea poate publica anunțul cu sau fără remedierea abaterilor (art. 14 alin. (3)), iar ANAP constată ulterior ce s-a implementat. Distractorii sunt termene reale cu alt rol: 2 zile lucrătoare — înștiințarea de selectare (art. 9), 3 zile lucrătoare — înștiințarea semnării contractului (art. 10 alin. (1) lit. h)).",
-    "sursa": {
-      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
-      "articol": "art. 11 alin. (1^1)",
-      "citat": "În termen de 5 zile lucrătoare de la publicarea anunțului de participare/anunțului de participare simplificat/anunțului de concesionare/anunțului de concurs, ANAP transmite autorității/ entității o adresă de înștiințare cu privire la implementarea măsurilor de remediere dispuse prin avizul conform condiționat emis de ANAP.",
-      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
     },
     "status": "ok"
   },
@@ -7500,25 +7478,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395B-012",
+    "id": "OUGA-015",
     "tip": "unic",
     "test": 17,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în licitația deschisă, dacă după publicarea anunțului de participare autoritatea contractantă nu utilizează mijloacele electronice din motive tehnice imputabile operatorului SEAP, cum se realizează evaluarea?",
+    "intrebare": "În ce termen de la publicarea anunțului de participare transmite ANAP autorității/entității contractante adresa de înștiințare cu privire la implementarea măsurilor de remediere dispuse prin avizul conform condiționat?",
     "variante": [
-      "Evaluarea se suspendă de drept până la remedierea problemelor tehnice ale SEAP",
-      "Verificarea îndeplinirii criteriilor de calificare și selecție se realizează întotdeauna prima",
-      "Ordinea etapelor de evaluare este lăsată integral la aprecierea comisiei de evaluare",
-      "Evaluarea conformității ofertelor cu specificațiile tehnice și aplicarea criteriului de atribuire se realizează anterior verificării îndeplinirii criteriilor de calificare și selecție"
+      "În termen de 3 zile lucrătoare",
+      "În termen de 5 zile lucrătoare",
+      "În termen de 10 zile calendaristice",
+      "În termen de 2 zile lucrătoare"
     ],
     "corecte": [
-      3
+      1
     ],
-    "explicatie": "Art. 58 alin. (2) din Normele metodologice, caz stabilit în aplicarea art. 208 din Lege, care deleagă normelor stabilirea acestor situații, prevede că evaluarea conformității ofertelor cu specificațiile tehnice și celelalte cerințe din documentele achiziției și aplicarea criteriului de atribuire se realizează anterior verificării îndeplinirii criteriilor de calificare și selecție. Varianta în care verificarea calificării și selecției se face întotdeauna prima contrazice această ordine stabilită expres de art. 58 alin. (2). Ordinea etapelor nu este lăsată la aprecierea comisiei de evaluare, pentru că art. 58 alin. (2) o stabilește chiar el. Art. 58 alin. (2) nu prevede nici suspendarea evaluării: permite autorității contractante, după publicarea anunțului de participare, să nu utilizeze mijloacele electronice atunci când acest lucru nu este posibil din motive tehnice imputabile operatorului SEAP, prin excepție de la regula aplicării licitației deschise prin mijloace electronice de la art. 58 alin. (1).",
+    "explicatie": "Art. 11 alin. (1^1), introdus prin OUG nr. 114/2020: în termen de 5 zile lucrătoare de la publicarea anunțului (de participare/participare simplificat/concesionare/concurs), ANAP transmite adresa de înștiințare privind implementarea măsurilor de remediere dispuse prin avizul conform condiționat. Mecanismul există pentru că autoritatea poate publica anunțul cu sau fără remedierea abaterilor (art. 14 alin. (3)), iar ANAP constată ulterior ce s-a implementat. Distractorii sunt termene reale cu alt rol: 2 zile lucrătoare — înștiințarea de selectare (art. 9), 3 zile lucrătoare — înștiințarea semnării contractului (art. 10 alin. (1) lit. h)).",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 58 alin. (2)",
-      "citat": "să nu utilizeze mijloacele electronice pentru derularea procedurii de atribuire atunci când acest lucru nu este posibil din motive tehnice imputabile operatorului SEAP, situație în care evaluarea conformității ofertelor cu specificațiile tehnice și celelalte cerințe prevăzute în documentele achiziției și aplicarea criteriului de atribuire se realizează anterior verificării îndeplinirii criteriilor de calificare și selecție.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+      "articol": "art. 11 alin. (1^1)",
+      "citat": "În termen de 5 zile lucrătoare de la publicarea anunțului de participare/anunțului de participare simplificat/anunțului de concesionare/anunțului de concurs, ANAP transmite autorității/ entității o adresă de înștiințare cu privire la implementarea măsurilor de remediere dispuse prin avizul conform condiționat emis de ANAP.",
+      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
     },
     "status": "ok"
   },
@@ -7640,6 +7618,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395B-014",
+    "tip": "unic",
+    "test": 17,
+    "intrebare": "Cum este protejată propunerea financiară depusă în SEAP în cadrul licitației deschise derulate prin mijloace electronice?",
+    "variante": [
+      "Se criptează întreaga ofertă, inclusiv propunerea tehnică și DUAE",
+      "Valoarea totală a propunerii financiare se criptează în SEAP, iar documentele de fundamentare a valorii devin vizibile comisiei de evaluare după decriptarea propunerii financiare",
+      "Propunerea financiară este vizibilă comisiei de evaluare imediat după depunere",
+      "Propunerea financiară se depune exclusiv în plic sigilat, la sediul autorității contractante"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 60 alin. (2) și (3): se criptează valoarea totală a propunerii financiare, iar documentele de fundamentare, deși încărcate într-o secțiune dedicată, devin vizibile comisiei abia după decriptare. Vizibilitatea imediată ar compromite confidențialitatea prețului până la momentul procedural corect. Plicul sigilat aparține derulării offline (excepția de la art. 58 alin. (2)), nu regulii electronice. Criptarea privește valoarea propunerii financiare, nu întreaga ofertă — propunerea tehnică și DUAE nu se criptează.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 60 alin. (2) și (3)",
+      "citat": "Valoarea totală a propunerii financiare se criptează în SEAP. [...] Toate documentele de fundamentare a valorii prevăzute la alin. (2) se depun prin mijloace electronice, fiind încărcate într-o secțiune dedicată a portalului SEAP, iar conținutul acestora este vizibil comisiei de evaluare după decriptarea propunerii financiare.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98B-033",
     "tip": "unic",
     "test": 17,
@@ -7682,29 +7683,6 @@ const INTREBARI = [
       "articol": "art. 20 alin. (5)",
       "citat": "În cazurile prevăzute de legi speciale, ordonatorii principali de credite sunt secretarii generali sau persoanele desemnate prin aceste legi.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395B-014",
-    "tip": "unic",
-    "test": 17,
-    "intrebare": "Cum este protejată propunerea financiară depusă în SEAP în cadrul licitației deschise derulate prin mijloace electronice?",
-    "variante": [
-      "Se criptează întreaga ofertă, inclusiv propunerea tehnică și DUAE",
-      "Valoarea totală a propunerii financiare se criptează în SEAP, iar documentele de fundamentare a valorii devin vizibile comisiei de evaluare după decriptarea propunerii financiare",
-      "Propunerea financiară este vizibilă comisiei de evaluare imediat după depunere",
-      "Propunerea financiară se depune exclusiv în plic sigilat, la sediul autorității contractante"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 60 alin. (2) și (3): se criptează valoarea totală a propunerii financiare, iar documentele de fundamentare, deși încărcate într-o secțiune dedicată, devin vizibile comisiei abia după decriptare. Vizibilitatea imediată ar compromite confidențialitatea prețului până la momentul procedural corect. Plicul sigilat aparține derulării offline (excepția de la art. 58 alin. (2)), nu regulii electronice. Criptarea privește valoarea propunerii financiare, nu întreaga ofertă — propunerea tehnică și DUAE nu se criptează.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 60 alin. (2) și (3)",
-      "citat": "Valoarea totală a propunerii financiare se criptează în SEAP. [...] Toate documentele de fundamentare a valorii prevăzute la alin. (2) se depun prin mijloace electronice, fiind încărcate într-o secțiune dedicată a portalului SEAP, iar conținutul acestora este vizibil comisiei de evaluare după decriptarea propunerii financiare.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -7803,29 +7781,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98B-035",
-    "tip": "unic",
-    "test": 17,
-    "intrebare": "Potrivit Legii nr. 98/2016, poate autoritatea contractantă să acorde prime sau plăți participanților la etapa de dialog din cadrul dialogului competitiv?",
-    "variante": [
-      "Da, dar numai în cadrul unui concurs de soluții organizat ca procedură distinctă",
-      "Nu, orice plată către participanți înainte de atribuirea contractului este interzisă",
-      "Da, poate prevedea prime sau plăți pentru participanții la dialog, în condițiile stabilite prin documentele achiziției",
-      "Da, dar numai candidatului declarat câștigător, sub forma unui avans"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 94 permite expres ca autoritatea contractantă să prevadă prime sau plăți pentru participanții la dialog, în condițiile stabilite prin documentele achiziției; potrivit art. 20 alin. (13) din Normele metodologice aprobate prin H.G. nr. 395/2016, documentele achiziției conțin, dacă este cazul, posibilitatea acordării primelor și valoarea acestora. Varianta care interzice orice plată către participanți înainte de atribuire contrazice art. 94. Plata nu este rezervată câștigătorului și nu este un avans contractual: art. 94 vizează participanții la dialog. Varianta care limitează primele la concursul de soluții preia art. 105 lit. b), unde premiile sau plățile acordate participanților sunt proprii concursului organizat ca procedură distinctă, dar art. 94 le permite și la dialogul competitiv.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 94",
-      "citat": "Autoritatea contractantă poate prevedea prime sau plăți pentru participanții la dialog în condițiile stabilite prin documentele achiziției.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N109",
     "tip": "unic",
     "test": 17,
@@ -7845,6 +7800,29 @@ const INTREBARI = [
       "articol": "art. 62",
       "citat": "În cazul prevăzut la art. 58 alin. (2), autoritatea contractantă transmite solicitarea de clarificări/completări la adresa/numărul de fax/adresa de e-mail menționate de ofertant. [...] ofertantul va transmite răspunsul său la adresa și prin modalitatea prevăzute în anunțul de participare.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98B-035",
+    "tip": "unic",
+    "test": 17,
+    "intrebare": "Potrivit Legii nr. 98/2016, poate autoritatea contractantă să acorde prime sau plăți participanților la etapa de dialog din cadrul dialogului competitiv?",
+    "variante": [
+      "Da, dar numai în cadrul unui concurs de soluții organizat ca procedură distinctă",
+      "Nu, orice plată către participanți înainte de atribuirea contractului este interzisă",
+      "Da, poate prevedea prime sau plăți pentru participanții la dialog, în condițiile stabilite prin documentele achiziției",
+      "Da, dar numai candidatului declarat câștigător, sub forma unui avans"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 94 permite expres ca autoritatea contractantă să prevadă prime sau plăți pentru participanții la dialog, în condițiile stabilite prin documentele achiziției; potrivit art. 20 alin. (13) din Normele metodologice aprobate prin H.G. nr. 395/2016, documentele achiziției conțin, dacă este cazul, posibilitatea acordării primelor și valoarea acestora. Varianta care interzice orice plată către participanți înainte de atribuire contrazice art. 94. Plata nu este rezervată câștigătorului și nu este un avans contractual: art. 94 vizează participanții la dialog. Varianta care limitează primele la concursul de soluții preia art. 105 lit. b), unde premiile sau plățile acordate participanților sunt proprii concursului organizat ca procedură distinctă, dar art. 94 le permite și la dialogul competitiv.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 94",
+      "citat": "Autoritatea contractantă poate prevedea prime sau plăți pentru participanții la dialog în condițiile stabilite prin documentele achiziției.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -7895,6 +7873,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98-N210",
+    "tip": "unic",
+    "test": 17,
+    "intrebare": "Potrivit Legii nr. 98/2016, în cadrul parteneriatului pentru inovare, candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă au dreptul de a depune, în etapa ulterioară:",
+    "variante": [
+      "Oferte inițiale, pe baza cărora autoritatea contractantă poate atribui contractul fără negociere, dacă și-a rezervat această posibilitate prin anunțul de participare",
+      "Oferte inițiale, pe baza cărora autoritatea contractantă va desfășura negocieri în vederea îmbunătățirii acestora",
+      "Oferte finale, după o etapă de dialog pentru identificarea soluției apte să răspundă necesităților autorității contractante",
+      "Oferte evaluate direct prin aplicarea criteriului de atribuire și a factorilor de evaluare, fără negocieri"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 95 prevede că, la parteneriatul pentru inovare, numai candidații care îndeplinesc criteriile de calificare și selecție au dreptul de a depune oferte inițiale, pe baza cărora autoritatea contractantă desfășoară negocieri în vederea îmbunătățirii lor; negocierile formează o etapă distinctă a procedurii (art. 97 alin. (1) lit. c)), iar autoritatea negociază ofertele inițiale și pe cele ulterioare, cu excepția celor finale (art. 103 alin. (1)). Evaluarea directă a ofertelor, fără negocieri, după selecția candidaților, descrie etapa a doua a licitației restrânse (art. 78 alin. (1) lit. b)). Depunerea ofertelor finale după o etapă de dialog este specifică dialogului competitiv (art. 86). Atribuirea pe baza ofertelor inițiale, fără negociere, dacă posibilitatea a fost rezervată prin anunț, este prevăzută de art. 82 alin. (10) pentru negocierea competitivă; la parteneriatul pentru inovare, art. 103 alin. (1) prevede că autoritatea contractantă negociază ofertele inițiale, fără o excepție similară. Etapele parteneriatului pentru inovare sunt enumerate în art. 97 alin. (1).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 95",
+      "citat": "În cadrul parteneriatului pentru inovare orice operator economic are dreptul de a depune o solicitare de participare în urma publicării unui anunț de participare, urmând ca numai candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă să aibă dreptul de a depune oferte inițiale în etapa ulterioară, pe baza cărora autoritatea contractantă va desfășura negocieri în vederea îmbunătățirii acestora.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L500-029",
     "tip": "unic",
     "test": 17,
@@ -7914,29 +7915,6 @@ const INTREBARI = [
       "articol": "art. 21 alin. (2)",
       "citat": "Ordonatorii principali de credite transmit bugetele instituțiilor publice din subordine sau coordonare, ai căror conducători sunt ordonatori secundari sau terțiari de credite, după caz, în termen de 15 zile de la intrarea în vigoare a legii bugetare anuale.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98-N210",
-    "tip": "unic",
-    "test": 18,
-    "intrebare": "Potrivit Legii nr. 98/2016, în cadrul parteneriatului pentru inovare, candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă au dreptul de a depune, în etapa ulterioară:",
-    "variante": [
-      "Oferte inițiale, pe baza cărora autoritatea contractantă poate atribui contractul fără negociere, dacă și-a rezervat această posibilitate prin anunțul de participare",
-      "Oferte inițiale, pe baza cărora autoritatea contractantă va desfășura negocieri în vederea îmbunătățirii acestora",
-      "Oferte finale, după o etapă de dialog pentru identificarea soluției apte să răspundă necesităților autorității contractante",
-      "Oferte evaluate direct prin aplicarea criteriului de atribuire și a factorilor de evaluare, fără negocieri"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 95 prevede că, la parteneriatul pentru inovare, numai candidații care îndeplinesc criteriile de calificare și selecție au dreptul de a depune oferte inițiale, pe baza cărora autoritatea contractantă desfășoară negocieri în vederea îmbunătățirii lor; negocierile formează o etapă distinctă a procedurii (art. 97 alin. (1) lit. c)), iar autoritatea negociază ofertele inițiale și pe cele ulterioare, cu excepția celor finale (art. 103 alin. (1)). Evaluarea directă a ofertelor, fără negocieri, după selecția candidaților, descrie etapa a doua a licitației restrânse (art. 78 alin. (1) lit. b)). Depunerea ofertelor finale după o etapă de dialog este specifică dialogului competitiv (art. 86). Atribuirea pe baza ofertelor inițiale, fără negociere, dacă posibilitatea a fost rezervată prin anunț, este prevăzută de art. 82 alin. (10) pentru negocierea competitivă; la parteneriatul pentru inovare, art. 103 alin. (1) prevede că autoritatea contractantă negociază ofertele inițiale, fără o excepție similară. Etapele parteneriatului pentru inovare sunt enumerate în art. 97 alin. (1).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 95",
-      "citat": "În cadrul parteneriatului pentru inovare orice operator economic are dreptul de a depune o solicitare de participare în urma publicării unui anunț de participare, urmând ca numai candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă să aibă dreptul de a depune oferte inițiale în etapa ulterioară, pe baza cărora autoritatea contractantă va desfășura negocieri în vederea îmbunătățirii acestora.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -8057,6 +8035,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395B-016",
+    "tip": "unic",
+    "test": 18,
+    "intrebare": "Ce se întâmplă cu oferta depusă după data și ora-limită de depunere sau la o altă adresă decât cea precizată în anunțul de participare?",
+    "variante": [
+      "Se deschide în ședință, dar nu se evaluează",
+      "Se păstrează sigilată la dosarul achiziției publice",
+      "Se returnează fără a fi deschisă operatorului economic care a depus-o",
+      "Se evaluează numai dacă întârzierea nu depășește 24 de ore"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 64 alin. (7) este categoric: oferta tardivă sau depusă la altă adresă se returnează NEDESCHISĂ. Deschiderea ei, chiar fără evaluare, ar încălca textul. Nu se păstrează la dosar și nu există niciun termen de grație de 24 de ore. Regula protejează egalitatea de tratament: conținutul unei oferte depuse în afara cadrului stabilit nu trebuie să fie cunoscut nimănui.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 64 alin. (7)",
+      "citat": "Oferta depusă după data și ora-limită de depunere a ofertelor sau la o altă adresă decât cea precizată în anunțul de participare se returnează fără a fi deschisă operatorului economic care a depus-o.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "ALOP-020",
     "tip": "unic",
     "test": 18,
@@ -8103,29 +8104,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L101A-027",
-    "tip": "unic",
-    "test": 18,
-    "intrebare": "Ce consecință are netransmiterea de către autoritatea contractantă a punctului de vedere asupra contestației?",
-    "variante": [
-      "Contestația se admite de drept, autoritatea fiind considerată că a recunoscut pretențiile contestatorului",
-      "Autoritatea contractantă este sancționată cu anularea automată a procedurii de atribuire",
-      "Soluționarea nu este împiedicată, dar autoritatea decade din dreptul de a mai propune probe și de a invoca excepții, în afara celor de ordine publică",
-      "Soluționarea contestației se suspendă până la depunerea punctului de vedere"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 18 alin. (3): lipsa punctului de vedere nu împiedică soluționarea contestației (dacă s-a dovedit comunicarea ei către autoritate), dar atrage o sancțiune procesuală severă — decăderea autorității din dreptul de a mai propune probe și de a invoca excepții, cu excepția celor de ordine publică. Nu operează o admitere de drept a contestației (Consiliul judecă pe baza dosarului), nu se suspendă soluționarea (ar contrazice celeritatea) și nu se anulează procedura. Aceeași logică a decăderii se regăsește la art. 20 alin. (5) pentru documentele netransmise în termenul de 3 zile.",
-    "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 18 alin. (3)",
-      "citat": "Lipsa punctului de vedere nu împiedică soluționarea contestației, în măsura în care s-a făcut dovada comunicării acesteia către autoritatea contractantă. Lipsa punctului de vedere al autorității contractante atrage decăderea ei din dreptul de a mai propune probe și de a invoca excepții, în afara celor de ordine publică, dacă legea nu prevede altfel.",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98-N212",
     "tip": "unic",
     "test": 18,
@@ -8149,25 +8127,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395B-016",
+    "id": "L101A-027",
     "tip": "unic",
     "test": 18,
-    "intrebare": "Ce se întâmplă cu oferta depusă după data și ora-limită de depunere sau la o altă adresă decât cea precizată în anunțul de participare?",
+    "intrebare": "Ce consecință are netransmiterea de către autoritatea contractantă a punctului de vedere asupra contestației?",
     "variante": [
-      "Se deschide în ședință, dar nu se evaluează",
-      "Se păstrează sigilată la dosarul achiziției publice",
-      "Se returnează fără a fi deschisă operatorului economic care a depus-o",
-      "Se evaluează numai dacă întârzierea nu depășește 24 de ore"
+      "Contestația se admite de drept, autoritatea fiind considerată că a recunoscut pretențiile contestatorului",
+      "Autoritatea contractantă este sancționată cu anularea automată a procedurii de atribuire",
+      "Soluționarea nu este împiedicată, dar autoritatea decade din dreptul de a mai propune probe și de a invoca excepții, în afara celor de ordine publică",
+      "Soluționarea contestației se suspendă până la depunerea punctului de vedere"
     ],
     "corecte": [
       2
     ],
-    "explicatie": "Art. 64 alin. (7) este categoric: oferta tardivă sau depusă la altă adresă se returnează NEDESCHISĂ. Deschiderea ei, chiar fără evaluare, ar încălca textul. Nu se păstrează la dosar și nu există niciun termen de grație de 24 de ore. Regula protejează egalitatea de tratament: conținutul unei oferte depuse în afara cadrului stabilit nu trebuie să fie cunoscut nimănui.",
+    "explicatie": "Art. 18 alin. (3): lipsa punctului de vedere nu împiedică soluționarea contestației (dacă s-a dovedit comunicarea ei către autoritate), dar atrage o sancțiune procesuală severă — decăderea autorității din dreptul de a mai propune probe și de a invoca excepții, cu excepția celor de ordine publică. Nu operează o admitere de drept a contestației (Consiliul judecă pe baza dosarului), nu se suspendă soluționarea (ar contrazice celeritatea) și nu se anulează procedura. Aceeași logică a decăderii se regăsește la art. 20 alin. (5) pentru documentele netransmise în termenul de 3 zile.",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 64 alin. (7)",
-      "citat": "Oferta depusă după data și ora-limită de depunere a ofertelor sau la o altă adresă decât cea precizată în anunțul de participare se returnează fără a fi deschisă operatorului economic care a depus-o.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 18 alin. (3)",
+      "citat": "Lipsa punctului de vedere nu împiedică soluționarea contestației, în măsura în care s-a făcut dovada comunicării acesteia către autoritatea contractantă. Lipsa punctului de vedere al autorității contractante atrage decăderea ei din dreptul de a mai propune probe și de a invoca excepții, în afara celor de ordine publică, dacă legea nu prevede altfel.",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
     },
     "status": "ok"
   },
@@ -8289,27 +8267,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500-031",
-    "tip": "multiplu",
+    "id": "N395B-017",
+    "tip": "unic",
     "test": 18,
-    "intrebare": "Care dintre următoarele fac excepție de la regula reținerii de 10% prevăzută la art. 21 alin. (5) din Legea nr. 500/2002?",
+    "intrebare": "În urma demersurilor realizate în baza art. 196 alin. (2) din Legea nr. 98/2016, ofertantul clasat pe primul loc nu demonstrează în mod corespunzător îndeplinirea integrală a tuturor criteriilor de calificare. Cum procedează autoritatea contractantă?",
     "variante": [
-      "Sumele alocate ordonatorilor principali de credite din Fondul de rezervă bugetară la dispoziția Guvernului și din Fondul de intervenție la dispoziția Guvernului.",
-      "Cheltuielile de capital aferente obiectivelor de investiții în continuare.",
-      "Cheltuielile cu datoria publică.",
-      "Cheltuielile de personal, inclusiv cele care se regăsesc în structura altor subdiviziuni ale clasificației bugetare."
+      "Acordă ofertantului clasat pe primul loc un nou termen de 3 zile lucrătoare pentru completarea documentelor, iar dacă nici atunci nu le prezintă reia integral procedura.",
+      "Solicită ofertantului clasat pe locul următor să depună toate documentele justificative ca dovadă a informațiilor cuprinse în DUAE și îi atribuie contractul dacă acesta îndeplinește toate criteriile de calificare.",
+      "Solicită documentele justificative simultan tuturor ofertanților ale căror oferte au fost declarate admisibile și reface clasamentul pe baza documentelor primite.",
+      "Anulează procedura de atribuire, considerându-se implicit îndeplinite condițiile prevăzute la art. 212 alin. (1) lit. a) din Lege."
     ],
     "corecte": [
-      0,
-      2,
-      3
+      1
     ],
-    "explicatie": "Art. 21 alin. (6) enumeră excepțiile de la reținerea de 10%: cheltuielile de personal (inclusiv cele regăsite în alte subdiviziuni), cheltuielile în bani de natura asistenței și asigurărilor sociale și bursele, cheltuielile cu datoria publică, cheltuielile care decurg din obligații internaționale și sumele alocate din Fondul de rezervă bugetară și din Fondul de intervenție la dispoziția Guvernului, care se repartizează integral. Cheltuielile de capital, respectiv cele aferente obiectivelor de investiții în continuare, NU figurează printre excepții — ele rămân supuse reținerii, deși sunt protejate de alte reguli (art. 47 alin. (4) interzice virarea alocațiilor de investiții către alte naturi de cheltuieli, iar art. 44 alin. (5) interzice virările de la investițiile în continuare și noi către poziția C).",
+    "explicatie": "Art. 66 alin. (1) și (2) din Norme instituie mecanismul „coborârii în clasament”: eșecul primului clasat nu duce la anularea procedurii, ci la verificarea următorului clasat, căruia i se atribuie contractul dacă îndeplinește toate criteriile de calificare prevăzute în anunțul de participare/simplificat/de concurs. Varianta cu anularea este greșită - art. 212 alin. (1) lit. a) vizează situația în care nu a fost depusă nicio ofertă/solicitare admisibilă, nu descalificarea unui singur ofertant. Termenul de 3 zile există în Norme, dar are alt rol: art. 132 alin. (3), pentru clarificările privind garanția de participare. Solicitarea documentelor doveditoare de la toți ofertanții admisibili contrazice art. 132 alin. (2), care limitează expres această solicitare la ofertantul clasat pe primul loc - tocmai economia de sarcină administrativă urmărită prin DUAE.",
     "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 21 alin. (6) lit. a), c) și e)",
-      "citat": "Fac excepție de la prevederile alin. (5) următoarele: a) cheltuielile de personal, inclusiv cheltuielile de personal care se regăsesc în structura altor subdiviziuni ale clasificației bugetare; [...] c) cheltuielile cu datoria publică; [...] e) sumele alocate ordonatorilor principali de credite din Fondul de rezervă bugetară la dispoziția Guvernului și Fondul de intervenție la dispoziția Guvernului, care vor fi repartizate integral.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 66 alin. (1) și (2)",
+      "citat": "În situația în care în urma demersurilor realizate de autoritatea contractantă în baza art. 196 alin. (2) din Lege ofertantul clasat pe primul loc nu demonstrează în mod corespunzător îndeplinirea integrală a tuturor criteriilor de calificare, autoritatea contractantă solicită ofertantului clasat pe locul următor să depună toate documentele justificative ca dovadă a informațiilor cuprinse în DUAE, în scopul verificării îndeplinirii criteriilor de calificare. [...] autoritatea contractantă atribuie contractul de achiziție publică/acordul-cadru ofertantului clasat pe locul următor, dacă acesta îndeplinește toate criteriile de calificare prevăzute în anunțul de participare/simplificat/ de concurs.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -8337,25 +8313,27 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395B-017",
-    "tip": "unic",
+    "id": "L500-031",
+    "tip": "multiplu",
     "test": 18,
-    "intrebare": "În urma demersurilor realizate în baza art. 196 alin. (2) din Legea nr. 98/2016, ofertantul clasat pe primul loc nu demonstrează în mod corespunzător îndeplinirea integrală a tuturor criteriilor de calificare. Cum procedează autoritatea contractantă?",
+    "intrebare": "Care dintre următoarele fac excepție de la regula reținerii de 10% prevăzută la art. 21 alin. (5) din Legea nr. 500/2002?",
     "variante": [
-      "Acordă ofertantului clasat pe primul loc un nou termen de 3 zile lucrătoare pentru completarea documentelor, iar dacă nici atunci nu le prezintă reia integral procedura.",
-      "Solicită ofertantului clasat pe locul următor să depună toate documentele justificative ca dovadă a informațiilor cuprinse în DUAE și îi atribuie contractul dacă acesta îndeplinește toate criteriile de calificare.",
-      "Solicită documentele justificative simultan tuturor ofertanților ale căror oferte au fost declarate admisibile și reface clasamentul pe baza documentelor primite.",
-      "Anulează procedura de atribuire, considerându-se implicit îndeplinite condițiile prevăzute la art. 212 alin. (1) lit. a) din Lege."
+      "Sumele alocate ordonatorilor principali de credite din Fondul de rezervă bugetară la dispoziția Guvernului și din Fondul de intervenție la dispoziția Guvernului.",
+      "Cheltuielile de capital aferente obiectivelor de investiții în continuare.",
+      "Cheltuielile cu datoria publică.",
+      "Cheltuielile de personal, inclusiv cele care se regăsesc în structura altor subdiviziuni ale clasificației bugetare."
     ],
     "corecte": [
-      1
+      0,
+      2,
+      3
     ],
-    "explicatie": "Art. 66 alin. (1) și (2) din Norme instituie mecanismul „coborârii în clasament”: eșecul primului clasat nu duce la anularea procedurii, ci la verificarea următorului clasat, căruia i se atribuie contractul dacă îndeplinește toate criteriile de calificare prevăzute în anunțul de participare/simplificat/de concurs. Varianta cu anularea este greșită - art. 212 alin. (1) lit. a) vizează situația în care nu a fost depusă nicio ofertă/solicitare admisibilă, nu descalificarea unui singur ofertant. Termenul de 3 zile există în Norme, dar are alt rol: art. 132 alin. (3), pentru clarificările privind garanția de participare. Solicitarea documentelor doveditoare de la toți ofertanții admisibili contrazice art. 132 alin. (2), care limitează expres această solicitare la ofertantul clasat pe primul loc - tocmai economia de sarcină administrativă urmărită prin DUAE.",
+    "explicatie": "Art. 21 alin. (6) enumeră excepțiile de la reținerea de 10%: cheltuielile de personal (inclusiv cele regăsite în alte subdiviziuni), cheltuielile în bani de natura asistenței și asigurărilor sociale și bursele, cheltuielile cu datoria publică, cheltuielile care decurg din obligații internaționale și sumele alocate din Fondul de rezervă bugetară și din Fondul de intervenție la dispoziția Guvernului, care se repartizează integral. Cheltuielile de capital, respectiv cele aferente obiectivelor de investiții în continuare, NU figurează printre excepții — ele rămân supuse reținerii, deși sunt protejate de alte reguli (art. 47 alin. (4) interzice virarea alocațiilor de investiții către alte naturi de cheltuieli, iar art. 44 alin. (5) interzice virările de la investițiile în continuare și noi către poziția C).",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 66 alin. (1) și (2)",
-      "citat": "În situația în care în urma demersurilor realizate de autoritatea contractantă în baza art. 196 alin. (2) din Lege ofertantul clasat pe primul loc nu demonstrează în mod corespunzător îndeplinirea integrală a tuturor criteriilor de calificare, autoritatea contractantă solicită ofertantului clasat pe locul următor să depună toate documentele justificative ca dovadă a informațiilor cuprinse în DUAE, în scopul verificării îndeplinirii criteriilor de calificare. [...] autoritatea contractantă atribuie contractul de achiziție publică/acordul-cadru ofertantului clasat pe locul următor, dacă acesta îndeplinește toate criteriile de calificare prevăzute în anunțul de participare/simplificat/ de concurs.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 21 alin. (6) lit. a), c) și e)",
+      "citat": "Fac excepție de la prevederile alin. (5) următoarele: a) cheltuielile de personal, inclusiv cheltuielile de personal care se regăsesc în structura altor subdiviziuni ale clasificației bugetare; [...] c) cheltuielile cu datoria publică; [...] e) sumele alocate ordonatorilor principali de credite din Fondul de rezervă bugetară la dispoziția Guvernului și Fondul de intervenție la dispoziția Guvernului, care vor fi repartizate integral.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
   },
@@ -8384,6 +8362,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395-N112",
+    "tip": "unic",
+    "test": 18,
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în ce situație poate autoritatea contractantă să nu utilizeze mijloacele electronice pentru derularea procedurii de licitație restrânsă?",
+    "variante": [
+      "Înainte de publicarea anunțului de participare, dacă autoritatea contractantă nu este înregistrată în SEAP",
+      "După publicarea anunțului de participare, pentru a permite depunerea solicitărilor de participare și de către operatorii economici neînregistrați în SEAP",
+      "După publicarea anunțului de participare, din motive tehnice imputabile operatorului SEAP, dar numai dacă evaluarea conformității ofertelor și aplicarea criteriului de atribuire se realizează anterior verificării criteriilor de calificare și selecție",
+      "După publicarea anunțului de participare, atunci când utilizarea lor nu este posibilă din motive tehnice imputabile operatorului SEAP"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 67 alin. (2) din Norme permite, prin excepție de la regula derulării electronice din alin. (1), ca autoritatea contractantă să nu utilizeze mijloacele electronice, după publicarea anunțului de participare, atunci când acest lucru nu este posibil din motive tehnice imputabile operatorului SEAP. Evaluarea conformității ofertelor și aplicarea criteriului de atribuire înaintea verificării calificării și selecției este efectul prevăzut de art. 58 alin. (2) pentru licitația deschisă, nu o condiție a excepției din art. 67 alin. (2). Înregistrarea în SEAP este o obligație a oricărei autorități contractante potrivit art. 5 alin. (1), iar art. 67 alin. (1) cere completarea anunțului de participare în SEAP, deci neînregistrarea nu justifică renunțarea la mijloacele electronice. Excepția nu urmărește extinderea participării la operatorii economici neînregistrați: art. 67 alin. (1) prevede că numai operatorii economici înregistrați în SEAP pot depune solicitare de participare. Pentru situația excepției, art. 69 alin. (2) prevede depunerea solicitării de participare, inclusiv a DUAE, la adresa prevăzută în anunțul de participare.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 67 alin. (2)",
+      "citat": "Prin excepție de la alin. (1), autoritatea contractantă poate, după publicarea anunțului de participare, să nu utilizeze mijloacele electronice pentru derularea procedurii de atribuire atunci când acest lucru nu este posibil din motive tehnice imputabile operatorului SEAP.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L101C-004",
     "tip": "unic",
     "test": 19,
@@ -8407,29 +8408,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395-N112",
-    "tip": "unic",
-    "test": 19,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în ce situație poate autoritatea contractantă să nu utilizeze mijloacele electronice pentru derularea procedurii de licitație restrânsă?",
-    "variante": [
-      "Înainte de publicarea anunțului de participare, dacă autoritatea contractantă nu este înregistrată în SEAP",
-      "După publicarea anunțului de participare, pentru a permite depunerea solicitărilor de participare și de către operatorii economici neînregistrați în SEAP",
-      "După publicarea anunțului de participare, din motive tehnice imputabile operatorului SEAP, dar numai dacă evaluarea conformității ofertelor și aplicarea criteriului de atribuire se realizează anterior verificării criteriilor de calificare și selecție",
-      "După publicarea anunțului de participare, atunci când utilizarea lor nu este posibilă din motive tehnice imputabile operatorului SEAP"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 67 alin. (2) din Norme permite, prin excepție de la regula derulării electronice din alin. (1), ca autoritatea contractantă să nu utilizeze mijloacele electronice, după publicarea anunțului de participare, atunci când acest lucru nu este posibil din motive tehnice imputabile operatorului SEAP. Evaluarea conformității ofertelor și aplicarea criteriului de atribuire înaintea verificării calificării și selecției este efectul prevăzut de art. 58 alin. (2) pentru licitația deschisă, nu o condiție a excepției din art. 67 alin. (2). Înregistrarea în SEAP este o obligație a oricărei autorități contractante potrivit art. 5 alin. (1), iar art. 67 alin. (1) cere completarea anunțului de participare în SEAP, deci neînregistrarea nu justifică renunțarea la mijloacele electronice. Excepția nu urmărește extinderea participării la operatorii economici neînregistrați: art. 67 alin. (1) prevede că numai operatorii economici înregistrați în SEAP pot depune solicitare de participare. Pentru situația excepției, art. 69 alin. (2) prevede depunerea solicitării de participare, inclusiv a DUAE, la adresa prevăzută în anunțul de participare.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 67 alin. (2)",
-      "citat": "Prin excepție de la alin. (1), autoritatea contractantă poate, după publicarea anunțului de participare, să nu utilizeze mijloacele electronice pentru derularea procedurii de atribuire atunci când acest lucru nu este posibil din motive tehnice imputabile operatorului SEAP.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98-N302",
     "tip": "unic",
     "test": 19,
@@ -8448,29 +8426,6 @@ const INTREBARI = [
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 103 alin. (1), (2) și (4)",
       "citat": "Autoritatea contractantă negociază cu ofertanții ofertele inițiale și toate ofertele ulterioare depuse de aceștia, cu excepția ofertelor finale, în vederea îmbunătățirii conținutului acestora. [...] criteriul de atribuire și factorii de evaluare nu pot face obiect al negocierilor. [...] cu excepția prevederilor referitoare la cerințele minime stabilite de autoritatea contractantă potrivit art. 98 alin. (3), care nu pot fi modificate.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98-N303",
-    "tip": "unic",
-    "test": 19,
-    "intrebare": "Potrivit Legii nr. 98/2016, în cadrul parteneriatului pentru inovare, dacă autoritatea contractantă desfășoară negocierile în runde succesive pentru a reduce numărul de oferte care urmează să fie negociate, pe ce bază se realizează această reducere?",
-    "variante": [
-      "Numai pe baza criteriilor de calificare și selecție prevăzute în anunțul de participare.",
-      "Pe baza cerințelor minime stabilite de autoritatea contractantă potrivit art. 98 alin. (3), fără aplicarea factorilor de evaluare.",
-      "Pe baza prețului ofertat, fiind reținute pentru runda următoare ofertele cu prețul cel mai scăzut.",
-      "Numai pe baza factorilor de evaluare stabiliți prin anunțul de participare sau alt document al achiziției."
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Potrivit art. 103 alin. (8) și (9) din Legea nr. 98/2016, autoritatea contractantă are dreptul să desfășoare negocierile în runde succesive, iar reducerea numărului de oferte se face numai pe baza factorilor de evaluare stabiliți prin anunțul de participare sau alt document al achiziției; alin. (10) cere ca această opțiune să fie indicată în anunțul de participare sau în alt document al achiziției. Criteriile de calificare și selecție servesc la selectarea candidaților în prima etapă (art. 97 alin. (1) lit. a) și alin. (5)), nu la reducerea numărului de oferte în negociere. Cerințele minime stabilite potrivit art. 98 alin. (3) sunt folosite la evaluarea conformității ofertelor inițiale (art. 97 alin. (1) lit. b)) și, conform art. 103 alin. (2), nici nu pot fi negociate. Reducerea după prețul cel mai scăzut contravine art. 98 alin. (6), care admite în parteneriatul pentru inovare numai criteriile cel mai bun raport calitate-preț sau cel mai bun raport calitate-cost.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 103 alin. (8)-(10)",
-      "citat": "Autoritatea contractantă are dreptul de a desfășura negocierile în runde succesive, cu scopul de a reduce numărul de oferte care urmează să fie negociate. [...] Reducerea numărului de oferte potrivit dispozițiilor alin. (8) se realizează numai pe baza factorilor de evaluare stabiliți prin anunțul de participare sau alt document al achiziției. [...] Aplicarea opțiunii prevăzute la alin. (8) trebuie indicată de autoritatea contractantă în cadrul anunțului de participare sau al altui document al achiziției.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -8499,6 +8454,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98-N303",
+    "tip": "unic",
+    "test": 19,
+    "intrebare": "Potrivit Legii nr. 98/2016, în cadrul parteneriatului pentru inovare, dacă autoritatea contractantă desfășoară negocierile în runde succesive pentru a reduce numărul de oferte care urmează să fie negociate, pe ce bază se realizează această reducere?",
+    "variante": [
+      "Numai pe baza criteriilor de calificare și selecție prevăzute în anunțul de participare.",
+      "Pe baza cerințelor minime stabilite de autoritatea contractantă potrivit art. 98 alin. (3), fără aplicarea factorilor de evaluare.",
+      "Pe baza prețului ofertat, fiind reținute pentru runda următoare ofertele cu prețul cel mai scăzut.",
+      "Numai pe baza factorilor de evaluare stabiliți prin anunțul de participare sau alt document al achiziției."
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Potrivit art. 103 alin. (8) și (9) din Legea nr. 98/2016, autoritatea contractantă are dreptul să desfășoare negocierile în runde succesive, iar reducerea numărului de oferte se face numai pe baza factorilor de evaluare stabiliți prin anunțul de participare sau alt document al achiziției; alin. (10) cere ca această opțiune să fie indicată în anunțul de participare sau în alt document al achiziției. Criteriile de calificare și selecție servesc la selectarea candidaților în prima etapă (art. 97 alin. (1) lit. a) și alin. (5)), nu la reducerea numărului de oferte în negociere. Cerințele minime stabilite potrivit art. 98 alin. (3) sunt folosite la evaluarea conformității ofertelor inițiale (art. 97 alin. (1) lit. b)) și, conform art. 103 alin. (2), nici nu pot fi negociate. Reducerea după prețul cel mai scăzut contravine art. 98 alin. (6), care admite în parteneriatul pentru inovare numai criteriile cel mai bun raport calitate-preț sau cel mai bun raport calitate-cost.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 103 alin. (8)-(10)",
+      "citat": "Autoritatea contractantă are dreptul de a desfășura negocierile în runde succesive, cu scopul de a reduce numărul de oferte care urmează să fie negociate. [...] Reducerea numărului de oferte potrivit dispozițiilor alin. (8) se realizează numai pe baza factorilor de evaluare stabiliți prin anunțul de participare sau alt document al achiziției. [...] Aplicarea opțiunii prevăzute la alin. (8) trebuie indicată de autoritatea contractantă în cadrul anunțului de participare sau al altui document al achiziției.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L500-032",
     "tip": "unic",
     "test": 19,
@@ -8522,50 +8500,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98B-039",
-    "tip": "multiplu",
-    "test": 19,
-    "intrebare": "În care dintre următoarele cazuri are dreptul autoritatea contractantă să aplice procedura de negociere fără publicarea prealabilă a unui anunț de participare, potrivit art. 104 alin. (1) din Legea nr. 98/2016?",
-    "variante": [
-      "Dacă într-o licitație deschisă, licitație restrânsă ori procedură simplificată anterioară nu a fost depusă nicio ofertă/solicitare de participare sau au fost depuse numai oferte/solicitări neadecvate",
-      "Ca măsură strict necesară, din motive de extremă urgență determinate de evenimente imprevizibile care nu se datorează autorității contractante",
-      "Dacă într-o licitație deschisă anterioară au fost depuse numai oferte neconforme sau inacceptabile",
-      "Dacă lucrările, produsele sau serviciile pot fi furnizate numai de către un anumit operator economic, pentru motivele prevăzute la alin. (2)"
-    ],
-    "corecte": [
-      0,
-      1,
-      3
-    ],
-    "explicatie": "Art. 104 alin. (1) reglementează trei cazuri (lit. a)-c)): lipsa totală a ofertelor/solicitărilor ori numai oferte/solicitări NEADECVATE într-o procedură anterioară de licitație deschisă, licitație restrânsă sau procedură simplificată; unicitatea operatorului economic, pentru motivele de la alin. (2) (operă de artă, motive tehnice, drepturi exclusive); extrema urgență determinată de evenimente imprevizibile care nu se datorează autorității contractante. Capcana este varianta cu ofertele neconforme sau inacceptabile dintr-o licitație deschisă anterioară. Ofertele neconforme sau inacceptabile permit doar trecerea la negociere competitivă sau dialog competitiv (art. 70 alin. (2)), chiar fără anunț de participare în condițiile art. 70 alin. (3), dar nu la negocierea fără publicare prealabilă de la art. 104. Distincția e dată de art. 215: oferta neadecvată este cea „lipsită de relevanță față de obiectul contractului” (alin. (5^1)), iar inacceptabilitatea și neconformitatea sunt definite separat, la alin. (4) și (5).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 104 alin. (1)",
-      "citat": "a) dacă în cadrul unei proceduri de licitație deschisă, licitație restrânsă ori procedură simplificată organizate pentru achiziția produselor, serviciilor sau lucrărilor respective nu a fost depusă nicio ofertă/solicitare de participare sau au fost depuse numai oferte/solicitări de participare neadecvate [...] b) dacă lucrările, produsele sau serviciile pot fi furnizate numai de către un anumit operator economic pentru unul dintre motivele prevăzute la alin. (2); [...] c) ca o măsură strict necesară, atunci când perioadele de aplicare a procedurilor de licitație deschisă, licitație restrânsă, negociere competitivă sau procedură simplificată nu pot fi respectate din motive de extremă urgență",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "ALOP-021",
+    "id": "L98A-041",
     "tip": "unic",
     "test": 19,
-    "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), ce se întâmplă, la finele exercițiului bugetar, cu creditele bugetare neangajate, precum și cu creditele bugetare angajate și neutilizate?",
+    "intrebare": "Un concurs de soluții este organizat ca procedură de atribuire distinctă, cu premii acordate participanților (art. 105 lit. b) din Legea nr. 98/2016). Cum se calculează valoarea estimată a achiziției?",
     "variante": [
-      "Se reportează automat în exercițiul bugetar următor, cu păstrarea aceleiași destinații.",
-      "Se virează în Fondul de rezervă bugetară la dispoziția Guvernului, pentru redistribuire.",
-      "Rămân la dispoziția ordonatorului principal de credite până la aprobarea contului anual de execuție bugetară.",
-      "Sunt anulate de drept."
+      "Prin raportare la valoarea totală a premiilor sau plăților către participanți, la care se adaugă valoarea estimată, fără TVA, a contractului de servicii care poate fi încheiat prin negociere fără publicare prealabilă potrivit art. 104 alin. (7), dacă autoritatea contractantă și-a exprimat această intenție în anunțul de concurs.",
+      "Numai prin raportare la valoarea totală a premiilor sau plăților către participanți, orice contract subsecvent de servicii fiind estimat separat.",
+      "Exclusiv pe baza valorii estimate, fără TVA, a contractului de achiziție publică de servicii care urmează a fi atribuit ulterior, premiile fiind excluse din calcul.",
+      "Prin înmulțirea cu 48 a valorii lunare a premiilor acordate participanților la concurs."
     ],
     "corecte": [
-      3
+      0
     ],
-    "explicatie": "Pct. 1 din Normele ALOP prevede expres că creditele bugetare neangajate, precum și creditele bugetare angajate și neutilizate până la finele exercițiului bugetar sunt anulate de drept, în aplicarea principiului anualității, potrivit căruia plățile efectuate în cursul unui an bugetar în contul unui buget aparțin exercițiului corespunzător. Varianta cu reportarea automată în exercițiul următor este contrazisă de această anulare de drept. Varianta cu virarea în Fondul de rezervă bugetară la dispoziția Guvernului confundă anularea de drept de la finele anului cu mecanismul din Legea nr. 500/2002: fondul, inclus în bugetul de stat, se repartizează prin hotărâri ale Guvernului pentru cheltuieli urgente sau neprevăzute (art. 30 alin. (1)–(2)) și se majorează cu creditele anulate la propunerea ordonatorilor principali, pentru sarcini desființate sau amânate (art. 54 alin. (1) și (3)). Varianta potrivit căreia creditele rămân la dispoziția ordonatorului principal până la aprobarea contului anual de execuție nu are sprijin în text, care prevede anularea lor de drept. Distincția conexă din pct. 1: orice cheltuială angajată și neplătită până la 31 decembrie se plătește în contul bugetului pe anul următor, din creditele bugetare aprobate în acest scop, și se raportează la finele anului curent pe baza datelor din contabilitatea cheltuielilor angajate.",
+    "explicatie": "Art. 13 alin. (2) reglementează concursul de soluții organizat ca procedură distinctă: baza de calcul este valoarea totală a premiilor/plăților, la care se adaugă valoarea estimată a contractului de servicii care poate fi atribuit ulterior câștigătorului prin negociere fără publicare prealabilă în temeiul art. 104 alin. (7), cu condiția ca intenția de a atribui acest contract să fi fost exprimată în anunțul de concurs. Varianta care exclude premiile descrie parțial regula de la art. 13 alin. (1) (concursul organizat în cadrul unei proceduri de atribuire a unui contract de servicii — art. 105 lit. a), unde valoarea se calculează pe baza valorii contractului de servicii, inclusiv a eventualelor premii. Varianta care ia în calcul doar premiile omite tocmai componenta adăugată de alin. (2). Înmulțirea cu 48 a valorii lunare este regula de la art. 21 lit. c) și art. 25 lit. b) pentru contractele fără preț total sau pe durată nedeterminată, nu pentru concursuri.",
     "sursa": {
-      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
-      "articol": "pct. 1 (angajarea cheltuielilor)",
-      "citat": "Creditele bugetare neangajate, precum și creditele bugetare angajate și neutilizate până la finele exercițiului bugetar sunt anulate de drept. Orice cheltuiala angajata și neplatita până la data de 31 decembrie a exercițiului bugetar curent se va plati în contul bugetului pe anul următor din creditele bugetare aprobate în acest scop.",
-      "fisier": "09_Norme_ALOP_1792-2002.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 13 alin. (2)",
+      "citat": "(2) În cazul concursului de soluții prevăzut la art. 105 lit. b), valoarea estimată se calculează prin raportare la valoarea totală a premiilor sau plăților către participanți și include valoarea estimată, fără TVA, a contractului de achiziție publică de servicii care poate fi încheiat în temeiul dispozițiilor art. 104 alin. (7), în cazul în care autoritatea contractantă și-a exprimat în anunțul de concurs intenția de a atribui acest contract.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -8594,25 +8547,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "OUGB-028",
+    "id": "ALOP-021",
     "tip": "unic",
     "test": 19,
-    "intrebare": "Cu cât timp înainte de termenul de răspuns stabilit în anunțul de participare are obligația autoritatea contractantă să transmită ANAP propunerea de răspuns consolidat la solicitările de clarificări?",
+    "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), ce se întâmplă, la finele exercițiului bugetar, cu creditele bugetare neangajate, precum și cu creditele bugetare angajate și neutilizate?",
     "variante": [
-      "Cu cel puțin 4 zile lucrătoare anterior termenului de răspuns",
-      "Cu cel mult 4 zile lucrătoare anterior termenului de răspuns",
-      "Cu cel puțin 4 zile calendaristice anterior termenului de răspuns",
-      "Cu cel puțin 3 zile lucrătoare anterior termenului de răspuns"
+      "Se reportează automat în exercițiul bugetar următor, cu păstrarea aceleiași destinații.",
+      "Se virează în Fondul de rezervă bugetară la dispoziția Guvernului, pentru redistribuire.",
+      "Rămân la dispoziția ordonatorului principal de credite până la aprobarea contului anual de execuție bugetară.",
+      "Sunt anulate de drept."
     ],
     "corecte": [
-      0
+      3
     ],
-    "explicatie": "Art. 7 alin. (2) stabilește un prag minim — „cel puțin 4 zile lucrătoare” — anterior termenului sau termenelor de răspuns stabilite în anunț conform art. 161 din Legea nr. 98/2016, art. 173 din Legea nr. 99/2016, respectiv art. 70 alin. (8) din Legea nr. 100/2016. Formularea „cel mult 4 zile lucrătoare” inversează sensul regulii: ar însemna că transmiterea prea devreme ar fi interzisă, ceea ce este absurd, întrucât scopul termenului este să asigure ANAP timpul necesar controlului. Cifra 3 zile lucrătoare este durata controlului propriu-zis (art. 7 alin. (1)), nu termenul de transmitere; diferența de o zi lucrătoare rămâne autorității contractante pentru operarea eventualelor observații. Termenul este exprimat în zile lucrătoare, nu calendaristice.",
+    "explicatie": "Pct. 1 din Normele ALOP prevede expres că creditele bugetare neangajate, precum și creditele bugetare angajate și neutilizate până la finele exercițiului bugetar sunt anulate de drept, în aplicarea principiului anualității, potrivit căruia plățile efectuate în cursul unui an bugetar în contul unui buget aparțin exercițiului corespunzător. Varianta cu reportarea automată în exercițiul următor este contrazisă de această anulare de drept. Varianta cu virarea în Fondul de rezervă bugetară la dispoziția Guvernului confundă anularea de drept de la finele anului cu mecanismul din Legea nr. 500/2002: fondul, inclus în bugetul de stat, se repartizează prin hotărâri ale Guvernului pentru cheltuieli urgente sau neprevăzute (art. 30 alin. (1)–(2)) și se majorează cu creditele anulate la propunerea ordonatorilor principali, pentru sarcini desființate sau amânate (art. 54 alin. (1) și (3)). Varianta potrivit căreia creditele rămân la dispoziția ordonatorului principal până la aprobarea contului anual de execuție nu are sprijin în text, care prevede anularea lor de drept. Distincția conexă din pct. 1: orice cheltuială angajată și neplătită până la 31 decembrie se plătește în contul bugetului pe anul următor, din creditele bugetare aprobate în acest scop, și se raportează la finele anului curent pe baza datelor din contabilitatea cheltuielilor angajate.",
     "sursa": {
-      "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
-      "articol": "art. 7 alin. (2)",
-      "citat": "Autoritatea/Entitatea contractantă are obligația de a transmite către ANAP propunerea de răspuns consolidat formulat la solicitările de clarificări/informații suplimentare cu cel puțin 4 zile lucrătoare anterior termenului sau, după caz, termenelor de răspuns stabilit/stabilite în anunțul de participare",
-      "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+      "articol": "pct. 1 (angajarea cheltuielilor)",
+      "citat": "Creditele bugetare neangajate, precum și creditele bugetare angajate și neutilizate până la finele exercițiului bugetar sunt anulate de drept. Orice cheltuiala angajata și neplatita până la data de 31 decembrie a exercițiului bugetar curent se va plati în contul bugetului pe anul următor din creditele bugetare aprobate în acest scop.",
+      "fisier": "09_Norme_ALOP_1792-2002.txt"
     },
     "status": "ok"
   },
@@ -8637,6 +8590,75 @@ const INTREBARI = [
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 104 alin. (2)",
       "citat": "Motivele prevăzute la alin. (1) lit. b) sunt următoarele: a) scopul achiziției este crearea sau achiziționarea unei opere de artă sau unei reprezentații artistice unice; b) concurența lipsește din motive tehnice; c) protecția unor drepturi exclusive, inclusiv drepturi de proprietate intelectuală.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "OUGB-028",
+    "tip": "unic",
+    "test": 19,
+    "intrebare": "Cu cât timp înainte de termenul de răspuns stabilit în anunțul de participare are obligația autoritatea contractantă să transmită ANAP propunerea de răspuns consolidat la solicitările de clarificări?",
+    "variante": [
+      "Cu cel puțin 4 zile lucrătoare anterior termenului de răspuns",
+      "Cu cel mult 4 zile lucrătoare anterior termenului de răspuns",
+      "Cu cel puțin 4 zile calendaristice anterior termenului de răspuns",
+      "Cu cel puțin 3 zile lucrătoare anterior termenului de răspuns"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 7 alin. (2) stabilește un prag minim — „cel puțin 4 zile lucrătoare” — anterior termenului sau termenelor de răspuns stabilite în anunț conform art. 161 din Legea nr. 98/2016, art. 173 din Legea nr. 99/2016, respectiv art. 70 alin. (8) din Legea nr. 100/2016. Formularea „cel mult 4 zile lucrătoare” inversează sensul regulii: ar însemna că transmiterea prea devreme ar fi interzisă, ceea ce este absurd, întrucât scopul termenului este să asigure ANAP timpul necesar controlului. Cifra 3 zile lucrătoare este durata controlului propriu-zis (art. 7 alin. (1)), nu termenul de transmitere; diferența de o zi lucrătoare rămâne autorității contractante pentru operarea eventualelor observații. Termenul este exprimat în zile lucrătoare, nu calendaristice.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+      "articol": "art. 7 alin. (2)",
+      "citat": "Autoritatea/Entitatea contractantă are obligația de a transmite către ANAP propunerea de răspuns consolidat formulat la solicitările de clarificări/informații suplimentare cu cel puțin 4 zile lucrătoare anterior termenului sau, după caz, termenelor de răspuns stabilit/stabilite în anunțul de participare",
+      "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395B-018",
+    "tip": "unic",
+    "test": 19,
+    "intrebare": "În prima etapă a licitației restrânse, după ce comisia de evaluare a finalizat selecția candidaților, ce document se întocmește și cine îl aprobă?",
+    "variante": [
+      "Raportul procedurii de atribuire, care se aprobă de către președintele comisiei de evaluare.",
+      "Un raport intermediar, care se aprobă de către persoana responsabilă cu aplicarea procedurii de atribuire din cadrul compartimentului intern specializat în achiziții.",
+      "Un raport intermediar, care se aprobă de către conducătorul autorității contractante și se introduce în SEAP semnat cu semnătură electronică extinsă, bazată pe un certificat calificat.",
+      "Un proces-verbal de selecție, care se transmite spre aprobare ANAP înainte de expedierea invitațiilor la etapa a doua."
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 70 alin. (3) și (4) prevăd că, după finalizarea selecției, comisia de evaluare elaborează un raport INTERMEDIAR, aprobat de conducătorul autorității contractante și încărcat în SEAP cu semnătură electronică extinsă. Raportul procedurii de atribuire (art. 66 alin. (3)) este documentul de la finalul întregii proceduri, nu al etapei de selecție, iar el se aprobă tot de conducătorul autorității contractante, nu de președintele comisiei - președintele doar îl înaintează spre aprobare, potrivit art. 127 alin. (2). Nicio prevedere nu condiționează selecția de o aprobare a ANAP. Persoana responsabilă cu aplicarea procedurii (art. 126 alin. (6)) are atribuții de aplicare, nu de aprobare a rapoartelor.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 70 alin. (3) și (4)",
+      "citat": "După ce a finalizat selecția candidaților, comisia de evaluare are obligația de a elabora un raport intermediar, care se aprobă de către conducătorul autorității contractante. (4) Raportul prevăzut la alin. (3) se introduce în SEAP în secțiunile specifice disponibile în sistemul informatic, semnat cu semnătură electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor de servicii de certificare acreditat.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98B-050",
+    "tip": "unic",
+    "test": 19,
+    "intrebare": "Autoritatea contractantă aplică negocierea fără publicare prealabilă pentru achiziționarea de la contractantul inițial a unor cantități suplimentare de produse destinate înlocuirii parțiale sau extinderii produselor ori instalațiilor existente. Ce limită de durată se aplică?",
+    "variante": [
+      "Durata contractelor/actelor adiționale nu poate depăși 2 ani, durata contractelor inițiale fiind nelimitată.",
+      "Durata contractelor/actelor adiționale astfel încheiate, precum și durata contractelor inițiale nu pot depăși, de regulă, trei ani.",
+      "Nu există o limită de durată, întrucât achiziția se realizează de la contractantul inițial pentru asigurarea compatibilității tehnice.",
+      "Durata contractelor/actelor adiționale, precum și durata contractelor inițiale nu pot depăși, de regulă, 4 ani."
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 104 alin. (6) plafonează, de regulă, la trei ani atât durata contractelor sau actelor adiționale încheiate în temeiul alin. (5) lit. b), cât și durata contractelor inițiale — precizare esențială, pentru că limita nu privește doar suplimentarea, ci ansamblul relației contractuale. Termenul de 4 ani este durata maximă a acordului-cadru (art. 115 alin. (1)), iar 2 ani nu apare în acest context. Ideea absenței oricărei limite ignoră textul: chiar dacă motivul invocat este evitarea incompatibilității tehnice ori a dificultăților disproporționate de utilizare și întreținere, plafonul temporal rămâne aplicabil. Un termen de 3 ani apare și la art. 104 alin. (8) lit. d), dar cu alt rol: intervalul maxim de la încheierea contractului inițial în care se poate aplica negocierea fără publicare pentru lucrări sau servicii similare noi.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 104 alin. (6)",
+      "citat": "(6) Durata contractelor/actelor adiționale încheiate potrivit prevederilor alin. (5) lit. b), precum și durata contractelor inițiale nu pot depăși, de regulă, trei ani.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -8688,52 +8710,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98B-050",
-    "tip": "unic",
-    "test": 19,
-    "intrebare": "Autoritatea contractantă aplică negocierea fără publicare prealabilă pentru achiziționarea de la contractantul inițial a unor cantități suplimentare de produse destinate înlocuirii parțiale sau extinderii produselor ori instalațiilor existente. Ce limită de durată se aplică?",
-    "variante": [
-      "Durata contractelor/actelor adiționale nu poate depăși 2 ani, durata contractelor inițiale fiind nelimitată.",
-      "Durata contractelor/actelor adiționale astfel încheiate, precum și durata contractelor inițiale nu pot depăși, de regulă, trei ani.",
-      "Nu există o limită de durată, întrucât achiziția se realizează de la contractantul inițial pentru asigurarea compatibilității tehnice.",
-      "Durata contractelor/actelor adiționale, precum și durata contractelor inițiale nu pot depăși, de regulă, 4 ani."
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 104 alin. (6) plafonează, de regulă, la trei ani atât durata contractelor sau actelor adiționale încheiate în temeiul alin. (5) lit. b), cât și durata contractelor inițiale — precizare esențială, pentru că limita nu privește doar suplimentarea, ci ansamblul relației contractuale. Termenul de 4 ani este durata maximă a acordului-cadru (art. 115 alin. (1)), iar 2 ani nu apare în acest context. Ideea absenței oricărei limite ignoră textul: chiar dacă motivul invocat este evitarea incompatibilității tehnice ori a dificultăților disproporționate de utilizare și întreținere, plafonul temporal rămâne aplicabil. Un termen de 3 ani apare și la art. 104 alin. (8) lit. d), dar cu alt rol: intervalul maxim de la încheierea contractului inițial în care se poate aplica negocierea fără publicare pentru lucrări sau servicii similare noi.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 104 alin. (6)",
-      "citat": "(6) Durata contractelor/actelor adiționale încheiate potrivit prevederilor alin. (5) lit. b), precum și durata contractelor inițiale nu pot depăși, de regulă, trei ani.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395B-018",
-    "tip": "unic",
-    "test": 19,
-    "intrebare": "În prima etapă a licitației restrânse, după ce comisia de evaluare a finalizat selecția candidaților, ce document se întocmește și cine îl aprobă?",
-    "variante": [
-      "Raportul procedurii de atribuire, care se aprobă de către președintele comisiei de evaluare.",
-      "Un raport intermediar, care se aprobă de către persoana responsabilă cu aplicarea procedurii de atribuire din cadrul compartimentului intern specializat în achiziții.",
-      "Un raport intermediar, care se aprobă de către conducătorul autorității contractante și se introduce în SEAP semnat cu semnătură electronică extinsă, bazată pe un certificat calificat.",
-      "Un proces-verbal de selecție, care se transmite spre aprobare ANAP înainte de expedierea invitațiilor la etapa a doua."
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 70 alin. (3) și (4) prevăd că, după finalizarea selecției, comisia de evaluare elaborează un raport INTERMEDIAR, aprobat de conducătorul autorității contractante și încărcat în SEAP cu semnătură electronică extinsă. Raportul procedurii de atribuire (art. 66 alin. (3)) este documentul de la finalul întregii proceduri, nu al etapei de selecție, iar el se aprobă tot de conducătorul autorității contractante, nu de președintele comisiei - președintele doar îl înaintează spre aprobare, potrivit art. 127 alin. (2). Nicio prevedere nu condiționează selecția de o aprobare a ANAP. Persoana responsabilă cu aplicarea procedurii (art. 126 alin. (6)) are atribuții de aplicare, nu de aprobare a rapoartelor.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 70 alin. (3) și (4)",
-      "citat": "După ce a finalizat selecția candidaților, comisia de evaluare are obligația de a elabora un raport intermediar, care se aprobă de către conducătorul autorității contractante. (4) Raportul prevăzut la alin. (3) se introduce în SEAP în secțiunile specifice disponibile în sistemul informatic, semnat cu semnătură electronică extinsă, bazată pe un certificat calificat, eliberat de un furnizor de servicii de certificare acreditat.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98B-051",
     "tip": "multiplu",
     "test": 19,
@@ -8759,29 +8735,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500B-003",
-    "tip": "unic",
-    "test": 19,
-    "intrebare": "Ce competențe au ordonatorii terțiari de credite, potrivit art. 21 din Legea nr. 500/2002?",
-    "variante": [
-      "Aprobă bugetele instituțiilor publice finanțate integral din venituri proprii aflate în subordinea lor, cu acordul Ministerului Finanțelor Publice",
-      "Repartizează creditele de angajament și creditele bugetare aprobate pentru bugetul propriu și pentru bugetele instituțiilor publice din subordine sau coordonare, în raport cu sarcinile acestora",
-      "Repartizează creditele de angajament și bugetare aprobate pentru bugetul propriu și pentru bugetele instituțiilor publice subordonate, ai căror conducători sunt ordonatori terțiari de credite",
-      "Angajează cheltuieli în limita creditelor de angajament repartizate și utilizează creditele bugetare ce le-au fost repartizate numai pentru realizarea sarcinilor instituțiilor pe care le conduc"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 21 alin. (4) definește poziția ordonatorului terțiar de credite: el este ultima verigă a lanțului, nu mai repartizează credite mai departe, ci doar angajează cheltuieli în limita creditelor de angajament repartizate și utilizează creditele bugetare primite, exclusiv pentru realizarea sarcinilor instituției pe care o conduce. Distractorul a) reproduce atribuția ordonatorului principal de credite din alin. (1), iar distractorul b) pe cea a ordonatorului secundar din alin. (3) - amândouă sunt texte reale ale legii, dar cu alt titular. Distractorul c) amestecă regula de la art. 16 alin. (1) lit. e), unde bugetele instituțiilor finanțate integral din venituri proprii se aprobă de organul de conducere al instituției publice și cu acordul ordonatorului de credite ierarhic superior, nu al Ministerului Finanțelor Publice. Capcană conexă: conducătorii instituțiilor publice cu personalitate juridică din subordinea/coordonarea ordonatorilor principali sunt ordonatori secundari sau terțiari, după caz - art. 20 alin. (3).",
-    "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 21 alin. (4)",
-      "citat": "Ordonatorii terțiari de credite angajează cheltuieli în limita creditelor de angajament repartizate și utilizează creditele bugetare ce le-au fost repartizate numai pentru realizarea sarcinilor instituțiilor pe care le conduc, potrivit prevederilor din bugetele aprobate și în condițiile stabilite prin dispozițiile legale.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N201",
     "tip": "unic",
     "test": 19,
@@ -8801,6 +8754,29 @@ const INTREBARI = [
       "citat": "După aprobarea raportului intermediar prevăzut la art. 70 alin. (3), autoritatea contractantă are obligația de a comunica candidaților rezultatul etapei de selecție.",
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L500B-003",
+    "tip": "unic",
+    "test": 19,
+    "intrebare": "Ce competențe au ordonatorii terțiari de credite, potrivit art. 21 din Legea nr. 500/2002?",
+    "variante": [
+      "Aprobă bugetele instituțiilor publice finanțate integral din venituri proprii aflate în subordinea lor, cu acordul Ministerului Finanțelor Publice",
+      "Repartizează creditele de angajament și creditele bugetare aprobate pentru bugetul propriu și pentru bugetele instituțiilor publice din subordine sau coordonare, în raport cu sarcinile acestora",
+      "Repartizează creditele de angajament și bugetare aprobate pentru bugetul propriu și pentru bugetele instituțiilor publice subordonate, ai căror conducători sunt ordonatori terțiari de credite",
+      "Angajează cheltuieli în limita creditelor de angajament repartizate și utilizează creditele bugetare ce le-au fost repartizate numai pentru realizarea sarcinilor instituțiilor pe care le conduc"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 21 alin. (4) definește poziția ordonatorului terțiar de credite: el este ultima verigă a lanțului, nu mai repartizează credite mai departe, ci doar angajează cheltuieli în limita creditelor de angajament repartizate și utilizează creditele bugetare primite, exclusiv pentru realizarea sarcinilor instituției pe care o conduce. Varianta cu repartizarea creditelor pentru bugetul propriu și pentru bugetele instituțiilor publice „din subordine sau coordonare, în raport cu sarcinile acestora” reproduce atribuția ordonatorului principal de credite din alin. (1), iar varianta cu repartizarea către ordonatorii terțiari pe cea a ordonatorului secundar din alin. (3) - amândouă sunt texte reale ale legii, dar cu alt titular. Varianta cu aprobarea bugetelor instituțiilor finanțate integral din venituri proprii amestecă regula de la art. 16 alin. (1) lit. e), unde bugetele instituțiilor finanțate integral din venituri proprii se aprobă de organul de conducere al instituției publice și cu acordul ordonatorului de credite ierarhic superior, nu al Ministerului Finanțelor Publice. Capcană conexă: conducătorii instituțiilor publice cu personalitate juridică din subordinea/coordonarea ordonatorilor principali sunt ordonatori secundari sau terțiari, după caz - art. 20 alin. (3).",
+    "sursa": {
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 21 alin. (4)",
+      "citat": "Ordonatorii terțiari de credite angajează cheltuieli în limita creditelor de angajament repartizate și utilizează creditele bugetare ce le-au fost repartizate numai pentru realizarea sarcinilor instituțiilor pe care le conduc, potrivit prevederilor din bugetele aprobate și în condițiile stabilite prin dispozițiile legale.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
   },
@@ -8853,7 +8829,7 @@ const INTREBARI = [
   {
     "id": "N395B-019",
     "tip": "multiplu",
-    "test": 20,
+    "test": 19,
     "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele afirmații privind etapa a doua a licitației restrânse sunt corecte?",
     "variante": [
       "Candidații selectați se pot asocia între ei pentru depunerea unei oferte comune, cu acordul prealabil scris al autorității contractante.",
@@ -8898,6 +8874,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395B-020",
+    "tip": "unic",
+    "test": 20,
+    "intrebare": "Ce obligație are autoritatea contractantă înainte de inițierea procedurii de negociere competitivă prin publicarea anunțului de participare?",
+    "variante": [
+      "Să obțină avizul conform al ANAP cu privire la alegerea procedurii de atribuire.",
+      "Să deruleze o consultare a pieței cu cel puțin 3 operatori economici din domeniul respectiv.",
+      "Să verifice întrunirea condițiilor prevăzute la art. 70 alin. (1) din Lege și să justifice încadrarea în una dintre situațiile respective.",
+      "Să publice un anunț de intenție cu cel puțin 30 de zile înainte de anunțul de participare."
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 73 din Norme impune un test de eligibilitate procedurală prealabil: negocierea competitivă nu este la libera alegere a autorității contractante, ci este condiționată de întrunirea uneia dintre situațiile limitativ prevăzute la art. 70 alin. (1) din Legea nr. 98/2016, iar încadrarea trebuie justificată documentat (justificarea intră în strategia de contractare și în dosarul achiziției). Aceeași obligație este prevăzută, în termeni aproape identici, la art. 77 pentru dialogul competitiv. Avizul conform al ANAP nu este o condiție de inițiere a procedurii - controlul ANAP se exercită ex ante, prin verificarea documentației, în condițiile O.U.G. nr. 98/2017. Consultarea pieței este o facultate, nu o condiție de aplicare a procedurii, iar anunțul de intenție are rolul de a reduce termenele, nu de a legitima alegerea procedurii.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 73",
+      "citat": "Înainte de inițierea procedurii de negociere competitivă prin publicarea anunțului de participare, autoritatea contractantă are obligația să verifice întrunirea condițiilor prevăzute la art. 70 alin. (1) din Lege și să justifice încadrarea în una dintre situațiile respective.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L101A-029",
     "tip": "unic",
     "test": 20,
@@ -8917,6 +8916,29 @@ const INTREBARI = [
       "articol": "art. 20 alin. (4)",
       "citat": "Autoritatea contractantă are obligația de a răspunde la orice solicitare a Consiliului [...] într-un termen care nu poate depăși 3 zile de la data primirii solicitării.",
       "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98B-052",
+    "tip": "unic",
+    "test": 20,
+    "intrebare": "Cum trebuie constituit juriul care evaluează proiectele prezentate în cadrul unui concurs de soluții, potrivit Legii nr. 98/2016?",
+    "variante": [
+      "Exclusiv din persoane fizice independente față de participanții la concurs, iar dacă participanților li se solicită o anumită calificare profesională, cel puțin o treime din numărul membrilor juriului trebuie să dețină calificarea respectivă sau o calificare echivalentă.",
+      "Exclusiv din persoane fizice independente, fiind suficient ca doi dintre membri să dețină calificarea profesională solicitată participanților.",
+      "Exclusiv din persoane fizice independente, cel puțin jumătate dintre membri trebuind să dețină calificarea profesională solicitată participanților.",
+      "Din reprezentanți ai autorității contractante și ai participanților la concurs, în proporții egale."
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 108 alin. (1) impune un juriu alcătuit exclusiv din persoane fizice independente față de participanții la concurs, iar alin. (2) adaugă o cerință de competență: dacă participanților li se cere o anumită calificare profesională, cel puțin o treime dintre membrii juriului trebuie să dețină acea calificare sau una echivalentă. Fracțiunile de o jumătate sau numărul fix de doi membri nu sunt prevăzute de lege și reprezintă capcane frecvente. Participarea concurenților în juriu este exclusă tocmai prin cerința independenței. Aceste garanții se completează cu art. 109: juriul este autonom în deciziile și opiniile sale, evaluează în mod anonim și exclusiv pe baza criteriilor din anunțul de concurs, anonimatul fiind menținut până la adoptarea deciziei sau formulării opiniei — moment până la care nu se aplică obligația de publicare prevăzută la art. 63 alin. (2).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 108 alin. (1) și (2)",
+      "citat": "(1) În scopul evaluării proiectelor prezentate în cadrul unui concurs de soluții, autoritatea contractantă numește un juriu alcătuit exclusiv din persoane fizice independente față de participanții la concurs. (2) În cazul în care participanților la concurs li se solicită o anumită calificare profesională, cel puțin o treime din numărul membrilor juriului trebuie să dețină calificarea respectivă sau o calificare echivalentă.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -8946,52 +8968,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395B-020",
-    "tip": "unic",
-    "test": 20,
-    "intrebare": "Ce obligație are autoritatea contractantă înainte de inițierea procedurii de negociere competitivă prin publicarea anunțului de participare?",
-    "variante": [
-      "Să obțină avizul conform al ANAP cu privire la alegerea procedurii de atribuire.",
-      "Să deruleze o consultare a pieței cu cel puțin 3 operatori economici din domeniul respectiv.",
-      "Să verifice întrunirea condițiilor prevăzute la art. 70 alin. (1) din Lege și să justifice încadrarea în una dintre situațiile respective.",
-      "Să publice un anunț de intenție cu cel puțin 30 de zile înainte de anunțul de participare."
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 73 din Norme impune un test de eligibilitate procedurală prealabil: negocierea competitivă nu este la libera alegere a autorității contractante, ci este condiționată de întrunirea uneia dintre situațiile limitativ prevăzute la art. 70 alin. (1) din Legea nr. 98/2016, iar încadrarea trebuie justificată documentat (justificarea intră în strategia de contractare și în dosarul achiziției). Aceeași obligație este prevăzută, în termeni aproape identici, la art. 77 pentru dialogul competitiv. Avizul conform al ANAP nu este o condiție de inițiere a procedurii - controlul ANAP se exercită ex ante, prin verificarea documentației, în condițiile O.U.G. nr. 98/2017. Consultarea pieței este o facultate, nu o condiție de aplicare a procedurii, iar anunțul de intenție are rolul de a reduce termenele, nu de a legitima alegerea procedurii.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 73",
-      "citat": "Înainte de inițierea procedurii de negociere competitivă prin publicarea anunțului de participare, autoritatea contractantă are obligația să verifice întrunirea condițiilor prevăzute la art. 70 alin. (1) din Lege și să justifice încadrarea în una dintre situațiile respective.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98B-052",
-    "tip": "unic",
-    "test": 20,
-    "intrebare": "Cum trebuie constituit juriul care evaluează proiectele prezentate în cadrul unui concurs de soluții, potrivit Legii nr. 98/2016?",
-    "variante": [
-      "Exclusiv din persoane fizice independente față de participanții la concurs, iar dacă participanților li se solicită o anumită calificare profesională, cel puțin o treime din numărul membrilor juriului trebuie să dețină calificarea respectivă sau o calificare echivalentă.",
-      "Exclusiv din persoane fizice independente, fiind suficient ca doi dintre membri să dețină calificarea profesională solicitată participanților.",
-      "Exclusiv din persoane fizice independente, cel puțin jumătate dintre membri trebuind să dețină calificarea profesională solicitată participanților.",
-      "Din reprezentanți ai autorității contractante și ai participanților la concurs, în proporții egale."
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 108 alin. (1) impune un juriu alcătuit exclusiv din persoane fizice independente față de participanții la concurs, iar alin. (2) adaugă o cerință de competență: dacă participanților li se cere o anumită calificare profesională, cel puțin o treime dintre membrii juriului trebuie să dețină acea calificare sau una echivalentă. Fracțiunile de o jumătate sau numărul fix de doi membri nu sunt prevăzute de lege și reprezintă capcane frecvente. Participarea concurenților în juriu este exclusă tocmai prin cerința independenței. Aceste garanții se completează cu art. 109: juriul este autonom în deciziile și opiniile sale, evaluează în mod anonim și exclusiv pe baza criteriilor din anunțul de concurs, anonimatul fiind menținut până la adoptarea deciziei sau formulării opiniei — moment până la care nu se aplică obligația de publicare prevăzută la art. 63 alin. (2).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 108 alin. (1) și (2)",
-      "citat": "(1) În scopul evaluării proiectelor prezentate în cadrul unui concurs de soluții, autoritatea contractantă numește un juriu alcătuit exclusiv din persoane fizice independente față de participanții la concurs. (2) În cazul în care participanților la concurs li se solicită o anumită calificare profesională, cel puțin o treime din numărul membrilor juriului trebuie să dețină calificarea respectivă sau o calificare echivalentă.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98-N307",
     "tip": "unic",
     "test": 20,
@@ -9011,29 +8987,6 @@ const INTREBARI = [
       "articol": "art. 109 alin. (3)",
       "citat": "Anonimatul este menținut până la momentul la care juriul adoptă o decizie sau formulează o opinie, în acest sens nu sunt aplicabile prevederile art. 63 alin. (2) privind obligația publicării prin mijloace electronice a denumirii și a datele de identificare ale ofertantului/candidatului/subcontractantului propus/terțului susținător.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "HG395-N101",
-    "tip": "unic",
-    "test": 20,
-    "intrebare": "Potrivit art. 1 din H.G. nr. 395/2016, ce aprobă această hotărâre a Guvernului?",
-    "variante": [
-      "Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016, prevăzute în anexa care face parte integrantă din hotărâre",
-      "Normele de aplicare a prevederilor referitoare la atribuirea contractelor de achiziție publică din O.U.G. nr. 34/2006, prevăzute în anexa care face parte integrantă din hotărâre",
-      "Normele metodologice de aplicare a prevederilor O.U.G. nr. 98/2017 privind funcția de control ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziție publică",
-      "Normele metodologice privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor instituțiilor publice, precum și organizarea, evidența și raportarea angajamentelor bugetare și legale"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 1 din H.G. nr. 395/2016 aprobă Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016, prevăzute în anexa care face parte integrantă din hotărâre. Normele de aplicare a O.U.G. nr. 98/2017 privind controlul ex ante sunt aprobate prin art. I din H.G. nr. 419/2018, nu prin H.G. nr. 395/2016. Normele metodologice privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor instituțiilor publice sunt aprobate prin art. 1 din Ordinul M.F.P. nr. 1.792/2002 (ALOP). Normele de aplicare a O.U.G. nr. 34/2006 fuseseră aprobate prin H.G. nr. 925/2006, pe care H.G. nr. 395/2016 o abrogă la art. 2 lit. a), deci nu o aprobă. Capcana de examen este confuzia dintre actul de aprobare (H.G. nr. 395/2016, art. 1–2) și normele din anexă, care au propria numerotare de articole.",
-    "sursa": {
-      "act": "H.G. nr. 395/2016",
-      "articol": "art. 1",
-      "citat": "Se aprobă Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice [...] prevăzute în anexa care face parte integrantă din prezenta hotărâre.",
-      "fisier": "02_HG_395-2016_act_de_aprobare.txt"
     },
     "status": "ok"
   },
@@ -9059,6 +9012,52 @@ const INTREBARI = [
       "citat": "Invitația de participare la etapa a doua prevăzută la art. 82 alin. (6) din Lege trebuie să cuprindă cel puțin următoarele informații: a) referințe privind anunțul de participare publicat; b) data și ora-limită stabilite pentru depunerea ofertelor și demararea negocierilor; c) adresa la care se transmit ofertele; d) adresa la care se derulează negocierile; e) limba sau limbile în care se vor derula negocierile.",
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N308",
+    "tip": "unic",
+    "test": 20,
+    "intrebare": "Potrivit Legii nr. 98/2016, prin ce se stabilesc regulile detaliate privind organizarea concursului de soluții?",
+    "variante": [
+      "Exclusiv prin anunțul de concurs publicat de autoritatea contractantă.",
+      "Prin normele metodologice de aplicare a Legii nr. 98/2016.",
+      "Prin regulamentul propriu adoptat de juriul concursului, care este autonom în deciziile sale.",
+      "Prin instrucțiuni emise de ANAP pentru fiecare categorie de servicii."
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 110 din Legea nr. 98/2016 trimite, pentru regulile detaliate privind organizarea concursului de soluții, la normele metodologice de aplicare a legii; acestea sunt aprobate prin H.G. nr. 395/2016 și reglementează concursul la art. 95–100 (de exemplu, juriul format din cel puțin 3 membri, potrivit art. 99 alin. (2) din Norme). Juriul este autonom doar în deciziile și opiniile pe care le emite (art. 109 alin. (1) din lege), nu și în stabilirea regulilor de organizare a concursului. Art. 110 nu atribuie ANAP competența de a stabili aceste reguli prin instrucțiuni. Anunțul de concurs inițiază concursul și solicită operatorilor economici depunerea de proiecte (art. 106 alin. (1)), dar nu este sediul reglementării detaliate a concursului. Potrivit art. 95 din Norme, anunțul de concurs se publică în SEAP însoțit de documentația de concurs.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 110",
+      "citat": "Regulile detaliate privind organizarea concursului de soluții se stabilesc prin normele metodologice de aplicare a prezentei legi.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "HG395-N101",
+    "tip": "unic",
+    "test": 20,
+    "intrebare": "Potrivit art. 1 din H.G. nr. 395/2016, ce aprobă această hotărâre a Guvernului?",
+    "variante": [
+      "Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016, prevăzute în anexa care face parte integrantă din hotărâre",
+      "Normele de aplicare a prevederilor referitoare la atribuirea contractelor de achiziție publică din O.U.G. nr. 34/2006, prevăzute în anexa care face parte integrantă din hotărâre",
+      "Normele metodologice de aplicare a prevederilor O.U.G. nr. 98/2017 privind funcția de control ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziție publică",
+      "Normele metodologice privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor instituțiilor publice, precum și organizarea, evidența și raportarea angajamentelor bugetare și legale"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 1 din H.G. nr. 395/2016 aprobă Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016, prevăzute în anexa care face parte integrantă din hotărâre. Normele de aplicare a O.U.G. nr. 98/2017 privind controlul ex ante sunt aprobate prin art. I din H.G. nr. 419/2018, nu prin H.G. nr. 395/2016. Normele metodologice privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor instituțiilor publice sunt aprobate prin art. 1 din Ordinul M.F.P. nr. 1.792/2002 (ALOP). Normele de aplicare a O.U.G. nr. 34/2006 fuseseră aprobate prin H.G. nr. 925/2006, pe care H.G. nr. 395/2016 o abrogă la art. 2 lit. a), deci nu o aprobă. Capcana de examen este confuzia dintre actul de aprobare (H.G. nr. 395/2016, art. 1–2) și normele din anexă, care au propria numerotare de articole.",
+    "sursa": {
+      "act": "H.G. nr. 395/2016",
+      "articol": "art. 1",
+      "citat": "Se aprobă Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice [...] prevăzute în anexa care face parte integrantă din prezenta hotărâre.",
+      "fisier": "02_HG_395-2016_act_de_aprobare.txt"
     },
     "status": "ok"
   },
@@ -9155,25 +9154,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N308",
+    "id": "N395B-021",
     "tip": "unic",
     "test": 20,
-    "intrebare": "Potrivit Legii nr. 98/2016, prin ce se stabilesc regulile detaliate privind organizarea concursului de soluții?",
+    "intrebare": "Care sunt scopul și limitele negocierilor purtate în cadrul procedurii de negociere competitivă?",
     "variante": [
-      "Exclusiv prin anunțul de concurs publicat de autoritatea contractantă.",
-      "Prin normele metodologice de aplicare a Legii nr. 98/2016.",
-      "Prin regulamentul propriu adoptat de juriul concursului, care este autonom în deciziile sale.",
-      "Prin instrucțiuni emise de ANAP pentru fiecare categorie de servicii."
+      "Negocierile urmăresc îmbunătățirea ofertelor inițiale și adaptarea lor la condițiile concrete de derulare a contractului și pot viza orice elemente de natură financiară, tehnică sau contractuală, fără a reduce sub nivelul stabilit cerințele minime și fără a schimba modul în care au fost definite criteriul de atribuire și/sau factorii de evaluare.",
+      "Negocierile pot viza inclusiv reducerea cerințelor minime din caietul de sarcini, dacă niciunul dintre ofertanți nu le îndeplinește integral.",
+      "Negocierile pot viza exclusiv prețul ofertei, orice alt element negociat fiind considerat modificare substanțială.",
+      "Negocierile pot viza doar propunerea tehnică, propunerea financiară urmând a fi depusă în plic sigilat la finalul rundelor de negociere."
     ],
     "corecte": [
-      1
+      0
     ],
-    "explicatie": "Art. 110 din Legea nr. 98/2016 trimite, pentru regulile detaliate privind organizarea concursului de soluții, la normele metodologice de aplicare a legii; acestea sunt aprobate prin H.G. nr. 395/2016 și reglementează concursul la art. 95–100 (de exemplu, juriul format din cel puțin 3 membri, potrivit art. 99 alin. (2) din Norme). Juriul este autonom doar în deciziile și opiniile pe care le emite (art. 109 alin. (1) din lege), nu și în stabilirea regulilor de organizare a concursului. Art. 110 nu atribuie ANAP competența de a stabili aceste reguli prin instrucțiuni. Anunțul de concurs inițiază concursul și solicită operatorilor economici depunerea de proiecte (art. 106 alin. (1)), dar nu este sediul reglementării detaliate a concursului. Potrivit art. 95 din Norme, anunțul de concurs se publică în SEAP însoțit de documentația de concurs.",
+    "explicatie": "Art. 75 alin. (3) definește atât finalitatea negocierii (îmbunătățirea ofertelor inițiale și adaptarea lor la condițiile concrete ale contractului), cât și cele două limite absolute: nu se poate coborî sub cerințele minime stabilite explicit de autoritatea contractantă și nu se poate schimba modul de definire a criteriului de atribuire ori a factorilor de evaluare - limite ce transpun art. 85 alin. (2) din Lege. Restrângerea negocierii doar la preț este falsă: textul menționează expres elemente financiare, tehnice ȘI contractuale. Reducerea cerințelor minime este exact ceea ce norma interzice, chiar dacă niciun ofertant nu le îndeplinește (în acest caz soluția este anularea procedurii). Ideea plicului sigilat aparține regimului pe suport hârtie din legislația abrogată, nu procedurii electronice actuale.",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 110",
-      "citat": "Regulile detaliate privind organizarea concursului de soluții se stabilesc prin normele metodologice de aplicare a prezentei legi.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 75 alin. (3)",
+      "citat": "Scopul negocierilor este de a îmbunătăți ofertele inițial depuse de participanții la negocieri și de adaptare a acestora la condițiile concrete în care se va derula contractul de achiziție publică/acordul-cadru care urmează a fi atribuit. Negocierile pot viza orice elemente de natură financiară, tehnică sau contractuală, cu condiția să nu se afecteze prevederile art. 85 alin. (2) din Lege, în sensul reducerii la un nivel inferior a cerințelor minime stabilite explicit de autoritatea contractantă sau schimbării modului în care s-au definit, în cadrul documentației de atribuire, criteriul de atribuire și/sau factorii de evaluare.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -9201,29 +9200,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395B-021",
-    "tip": "unic",
-    "test": 20,
-    "intrebare": "Care sunt scopul și limitele negocierilor purtate în cadrul procedurii de negociere competitivă?",
-    "variante": [
-      "Negocierile urmăresc îmbunătățirea ofertelor inițiale și adaptarea lor la condițiile concrete de derulare a contractului și pot viza orice elemente de natură financiară, tehnică sau contractuală, fără a reduce sub nivelul stabilit cerințele minime și fără a schimba modul în care au fost definite criteriul de atribuire și/sau factorii de evaluare.",
-      "Negocierile pot viza inclusiv reducerea cerințelor minime din caietul de sarcini, dacă niciunul dintre ofertanți nu le îndeplinește integral.",
-      "Negocierile pot viza exclusiv prețul ofertei, orice alt element negociat fiind considerat modificare substanțială.",
-      "Negocierile pot viza doar propunerea tehnică, propunerea financiară urmând a fi depusă în plic sigilat la finalul rundelor de negociere."
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 75 alin. (3) definește atât finalitatea negocierii (îmbunătățirea ofertelor inițiale și adaptarea lor la condițiile concrete ale contractului), cât și cele două limite absolute: nu se poate coborî sub cerințele minime stabilite explicit de autoritatea contractantă și nu se poate schimba modul de definire a criteriului de atribuire ori a factorilor de evaluare - limite ce transpun art. 85 alin. (2) din Lege. Restrângerea negocierii doar la preț este falsă: textul menționează expres elemente financiare, tehnice ȘI contractuale. Reducerea cerințelor minime este exact ceea ce norma interzice, chiar dacă niciun ofertant nu le îndeplinește (în acest caz soluția este anularea procedurii). Ideea plicului sigilat aparține regimului pe suport hârtie din legislația abrogată, nu procedurii electronice actuale.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 75 alin. (3)",
-      "citat": "Scopul negocierilor este de a îmbunătăți ofertele inițial depuse de participanții la negocieri și de adaptare a acestora la condițiile concrete în care se va derula contractul de achiziție publică/acordul-cadru care urmează a fi atribuit. Negocierile pot viza orice elemente de natură financiară, tehnică sau contractuală, cu condiția să nu se afecteze prevederile art. 85 alin. (2) din Lege, în sensul reducerii la un nivel inferior a cerințelor minime stabilite explicit de autoritatea contractantă sau schimbării modului în care s-au definit, în cadrul documentației de atribuire, criteriul de atribuire și/sau factorii de evaluare.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L500-N107",
     "tip": "unic",
     "test": 20,
@@ -9247,29 +9223,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L101A-041",
-    "tip": "unic",
-    "test": 20,
-    "intrebare": "Ce consecință prevede art. 20 alin. (5) din Legea nr. 101/2016 în cazul în care contestatorul sau autoritatea contractantă nu transmit, în termenele legale, documentele solicitate de Consiliu?",
-    "variante": [
-      "Contestația este anulată, dacă cel care nu s-a conformat este contestatorul, respectiv este admisă de drept, dacă este vorba despre autoritatea contractantă",
-      "Partea în culpă este sancționată cu amendă contravențională de către Consiliu, documentele putând fi depuse oricând până la pronunțare",
-      "Contestația se suspendă până la depunerea documentelor, iar termenul de soluționare se prelungește corespunzător",
-      "Depunerea ulterioară a documentelor solicitate devine imposibilă, contestația urmând să fie soluționată pe baza documentelor deja depuse la dosar"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 20 alin. (5) instituie o veritabilă decădere procedurală: nerespectarea termenului de 3 zile prevăzut la alin. (3) pentru contestator, respectiv la alin. (4) pentru autoritatea contractantă, atrage imposibilitatea depunerii ulterioare a documentelor solicitate, iar Consiliul soluționează cauza pe baza înscrisurilor deja aflate la dosar. Soluția este consecința firească a principiului celerității, întrucât administrarea probelor nu trebuie să conducă la depășirea termenului de soluționare a contestației prevăzut la art. 24 (art. 20 alin. (2)). Suspendarea contestației este reglementată distinct, la art. 25, pentru cauze precum existența unei chestiuni prealabile, și nu poate fi provocată prin simpla pasivitate a unei părți. Anularea contestației este sancțiunea specifică a necompletării elementelor obligatorii prevăzute la art. 10, la cererea Consiliului formulată în temeiul art. 11 alin. (1) — o ipoteză diferită de cea din art. 20. Consiliul nu aplică amenzi contravenționale părților, dar poate obliga, la cerere, partea în culpă la plata cheltuielilor efectuate pentru soluționarea contestației (art. 26 alin. (9)).",
-    "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 20 alin. (5)",
-      "citat": "Nerespectarea prevederilor alin. (3) și (4) conduce la imposibilitatea depunerii ulterioare de către contestator și/sau autoritatea contractantă a documentelor solicitate, contestația urmând să fie soluționată pe baza documentelor deja depuse la dosar.",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98-N309",
     "tip": "unic",
     "test": 20,
@@ -9289,6 +9242,29 @@ const INTREBARI = [
       "articol": "art. 112 alin. (3)",
       "citat": "Durata maximă a contractelor de achiziție publică prevăzute la alin. (1) este de 3 ani.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L101A-041",
+    "tip": "unic",
+    "test": 20,
+    "intrebare": "Ce consecință prevede art. 20 alin. (5) din Legea nr. 101/2016 în cazul în care contestatorul sau autoritatea contractantă nu transmit, în termenele legale, documentele solicitate de Consiliu?",
+    "variante": [
+      "Contestația este anulată, dacă cel care nu s-a conformat este contestatorul, respectiv este admisă de drept, dacă este vorba despre autoritatea contractantă",
+      "Partea în culpă este sancționată cu amendă contravențională de către Consiliu, documentele putând fi depuse oricând până la pronunțare",
+      "Contestația se suspendă până la depunerea documentelor, iar termenul de soluționare se prelungește corespunzător",
+      "Depunerea ulterioară a documentelor solicitate devine imposibilă, contestația urmând să fie soluționată pe baza documentelor deja depuse la dosar"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 20 alin. (5) instituie o veritabilă decădere procedurală: nerespectarea termenului de 3 zile prevăzut la alin. (3) pentru contestator, respectiv la alin. (4) pentru autoritatea contractantă, atrage imposibilitatea depunerii ulterioare a documentelor solicitate, iar Consiliul soluționează cauza pe baza înscrisurilor deja aflate la dosar. Soluția este consecința firească a principiului celerității, întrucât administrarea probelor nu trebuie să conducă la depășirea termenului de soluționare a contestației prevăzut la art. 24 (art. 20 alin. (2)). Suspendarea contestației este reglementată distinct, la art. 25, pentru cauze precum existența unei chestiuni prealabile, și nu poate fi provocată prin simpla pasivitate a unei părți. Anularea contestației este sancțiunea specifică a necompletării elementelor obligatorii prevăzute la art. 10, la cererea Consiliului formulată în temeiul art. 11 alin. (1) — o ipoteză diferită de cea din art. 20. Consiliul nu aplică amenzi contravenționale părților, dar poate obliga, la cerere, partea în culpă la plata cheltuielilor efectuate pentru soluționarea contestației (art. 26 alin. (9)).",
+    "sursa": {
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 20 alin. (5)",
+      "citat": "Nerespectarea prevederilor alin. (3) și (4) conduce la imposibilitatea depunerii ulterioare de către contestator și/sau autoritatea contractantă a documentelor solicitate, contestația urmând să fie soluționată pe baza documentelor deja depuse la dosar.",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
     },
     "status": "ok"
   },
@@ -9320,7 +9296,7 @@ const INTREBARI = [
   {
     "id": "L98-N310",
     "tip": "multiplu",
-    "test": 21,
+    "test": 20,
     "intrebare": "Potrivit Legii nr. 98/2016, care dintre următoarele condiții trebuie îndeplinite cumulativ de operatorii economici cărora le poate fi rezervată participarea la procedurile de atribuire a contractelor având ca obiect exclusiv serviciile de sănătate, sociale și culturale prevăzute la art. 112 alin. (1)?",
     "variante": [
       "Organizarea structurilor de conducere sau a structurilor care dețin operatorul economic se bazează pe principiul participării angajaților ori necesită participarea activă a angajaților, a utilizatorilor sau a altor entități interesate.",
@@ -9338,29 +9314,6 @@ const INTREBARI = [
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 112 alin. (2)",
       "citat": "Operatorii economici cărora le poate fi rezervată participarea la procedurile de atribuire prevăzute la alin. (1) trebuie să îndeplinească în mod cumulativ următoarele condiții: a) scopul pentru care a fost înființat operatorul economic este îndeplinirea unor obiective în domeniul serviciilor publice [...] în cazul în care profitul este distribuit sau redistribuit, acest lucru se bazează pe considerente legate de participarea angajaților la beneficiile activității operatorului economic; [...] d) operatorului economic nu i-a fost atribuit un contract pentru serviciile în cauză de către autoritatea contractantă respectivă, în temeiul prezentului articol, în ultimii 3 ani.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98B-054",
-    "tip": "unic",
-    "test": 21,
-    "intrebare": "Autoritatea contractantă a decis desfășurarea procedurii simplificate într-o singură etapă. Care sunt perioadele minime dintre data transmiterii anunțului de participare simplificat și data-limită de depunere a ofertelor?",
-    "variante": [
-      "10 zile pentru servicii sau produse, 6 zile pentru produse de complexitate redusă și 15 zile pentru lucrări.",
-      "10 zile pentru servicii sau produse, 6 zile pentru produse de complexitate redusă și 20 de zile pentru lucrări.",
-      "6 zile pentru servicii sau produse, 10 zile pentru produse de complexitate redusă și 15 zile pentru lucrări.",
-      "15 zile pentru servicii sau produse, 10 zile pentru produse de complexitate redusă și 35 de zile pentru lucrări."
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 113 alin. (5) stabilește trei perioade minime pentru procedura simplificată într-o etapă: 10 zile la servicii sau produse, 6 zile la produse de complexitate redusă și 15 zile la lucrări. Inversarea valorilor de 6 și 10 zile ori modificarea termenului pentru lucrări (20 sau 35 de zile) sunt capcane frecvente; 35 de zile este, de fapt, perioada de bază de la licitația deschisă (art. 74 alin. (1)). Aceste minime nu înlătură obligația de la alin. (3) de a corela perioada de depunere cu complexitatea contractului, astfel încât operatorii economici să dispună de un interval adecvat și suficient. Când procedura se desfășoară în mai multe etape, se aplică alin. (7) — anunțul se transmite cu cel puțin 10 zile înainte de data-limită de depunere a solicitărilor de participare — și alin. (9): minimum 10 zile de la invitație pentru oferte, respectiv 6 zile la produse de complexitate redusă. În situație de urgență demonstrată, alin. (10) permite reducerea la 6 zile (servicii/produse), respectiv 9 zile (lucrări).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 113 alin. (5)",
-      "citat": "(5) Conform alin. (4) lit. a) și fără a aduce atingere dispozițiilor alin. (3), perioada minimă între data transmiterii anunțului de participare la procedura simplificată și data-limită de depunere a ofertelor este de cel puțin: a) 10 zile, în cazul în care se are în vedere atribuirea unui contract de achiziție publică de servicii sau produse; b) 6 zile, în cazul în care se are în vedere atribuirea unui contract de achiziție publică de produse de complexitate redusă; c) 15 zile, în cazul în care se are în vedere atribuirea unui contract de achiziție publică de lucrări.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -9389,25 +9342,27 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500-034",
-    "tip": "unic",
+    "id": "L98-principii",
+    "tip": "multiplu",
     "test": 21,
-    "intrebare": "Care faze ale execuției cheltuielilor bugetare se efectuează numai cu viza prealabilă de control financiar preventiv propriu și, după caz, de control financiar preventiv delegat?",
+    "intrebare": "Care dintre următoarele sunt principii care stau la baza atribuirii contractelor de achiziție publică, conform Legii nr. 98/2016?",
     "variante": [
-      "Lichidarea și plata.",
-      "Numai plata, ca fază finală a execuției cheltuielii.",
-      "Angajarea și ordonanțarea.",
-      "Toate cele patru faze: angajarea, lichidarea, ordonanțarea și plata."
+      "Proporționalitatea",
+      "Eficiența utilizării fondurilor publice",
+      "Asumarea răspunderii",
+      "Transparența"
     ],
     "corecte": [
-      2
+      0,
+      2,
+      3
     ],
-    "explicatie": "Art. 24 alin. (2) supune vizei prealabile de control financiar preventiv propriu și, după caz, delegat, doar două dintre cele patru faze: angajarea și ordonanțarea. Lichidarea este o operațiune de verificare a realității și exigibilității datoriei, iar plata este actul de descărcare a obligației, efectuat de conducătorul compartimentului financiar-contabil sau de persoana responsabilă cu efectuarea plății — niciuna nu este supusă vizei de control financiar preventiv potrivit acestui text. Capcana este extinderea vizei la toate cele patru faze, respectiv reducerea ei la plată. De reținut și corespondența cu Ordinul M.F.P. nr. 1.792/2002, care detaliază documentele specifice fiecărei faze.",
+    "explicatie": "Art. 2 alin. (2) din Legea nr. 98/2016 enumeră exact șase principii: nediscriminarea, tratamentul egal, recunoașterea reciprocă, transparența, proporționalitatea și asumarea răspunderii. „Eficiența utilizării fondurilor publice” era principiu sub vechea O.U.G. nr. 34/2006 (abrogată prin Legea 98/2016) — este o capcană clasică în grile: sub legea actuală sintagma nu mai apare deloc în text, nici ca principiu, nici altfel: art. 2 alin. (1) formulează scopul legii ca achiziționare „în condiții de eficiență economică și socială”.",
     "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 24 alin. (2)",
-      "citat": "Angajarea și ordonanțarea cheltuielilor se efectuează numai cu viza prealabilă de control financiar preventiv propriu și a controlului financiar preventiv delegat, după caz, potrivit dispozițiilor legale.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 2 alin. (2)",
+      "citat": "Principiile care stau la baza atribuirii contractelor de achiziție publică și a organizării concursurilor de soluții sunt: a) nediscriminarea; b) tratamentul egal; c) recunoașterea reciprocă; d) transparența; e) proporționalitatea; f) asumarea răspunderii.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -9431,6 +9386,29 @@ const INTREBARI = [
       "articol": "art. 113^1",
       "citat": "Autoritățile contractante aplică mecanismul informatic pentru proceduri simplificate, cu respectarea principiilor prevăzute la art. 2 alin. (2). [...] Mecanismul informatic prevăzut la alin. (1) constă în acordarea accesului autorităților contractante concomitent la toate documentele depuse de ofertanți în SEAP.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L500-034",
+    "tip": "unic",
+    "test": 21,
+    "intrebare": "Care faze ale execuției cheltuielilor bugetare se efectuează numai cu viza prealabilă de control financiar preventiv propriu și, după caz, de control financiar preventiv delegat?",
+    "variante": [
+      "Lichidarea și plata.",
+      "Numai plata, ca fază finală a execuției cheltuielii.",
+      "Angajarea și ordonanțarea.",
+      "Toate cele patru faze: angajarea, lichidarea, ordonanțarea și plata."
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 24 alin. (2) supune vizei prealabile de control financiar preventiv propriu și, după caz, delegat, doar două dintre cele patru faze: angajarea și ordonanțarea. Lichidarea este o operațiune de verificare a realității și exigibilității datoriei, iar plata este actul de descărcare a obligației, efectuat de conducătorul compartimentului financiar-contabil sau de persoana responsabilă cu efectuarea plății — niciuna nu este supusă vizei de control financiar preventiv potrivit acestui text. Capcana este extinderea vizei la toate cele patru faze, respectiv reducerea ei la plată. De reținut și corespondența cu Ordinul M.F.P. nr. 1.792/2002, care detaliază documentele specifice fiecărei faze.",
+    "sursa": {
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 24 alin. (2)",
+      "citat": "Angajarea și ordonanțarea cheltuielilor se efectuează numai cu viza prealabilă de control financiar preventiv propriu și a controlului financiar preventiv delegat, după caz, potrivit dispozițiilor legale.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
   },
@@ -9596,31 +9574,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "ALOP-018",
-    "tip": "multiplu",
-    "test": 21,
-    "intrebare": "Angajamentul bugetar global este aferent unui angajament legal provizoriu care privește cheltuielile curente de funcționare de natură administrativă. Care dintre următoarele categorii sunt enumerate expres de Normele metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002) ca fiind de acest tip?",
-    "variante": [
-      "Cheltuielile cu asigurările, cheltuielile cu chiriile și cheltuielile cu abonamentele la reviste și buletine lunare",
-      "Cheltuielile de deplasare și cheltuielile de protocol",
-      "Cheltuielile de întreținere și gospodărie (încălzit, iluminat, apă, canal, salubritate, poștă, telefon, radio, furnituri de birou etc.)",
-      "Cheltuielile de capital și cele cuprinse în programele de investiții publice anexate bugetului"
-    ],
-    "corecte": [
-      0,
-      1,
-      2
-    ],
-    "explicatie": "Pct. 1 lit. b2) din Normele ALOP enumeră, drept cheltuieli curente de funcționare de natură administrativă aferente angajamentului bugetar global, cheltuielile de deplasare, de protocol, de întreținere și gospodărie (încălzit, iluminat, apă, canal, salubritate, poștă, telefon, radio, furnituri de birou etc.), cu asigurările, cu chiriile și cu abonamentele la reviste, buletine lunare etc. Pentru aceste cheltuieli, care se efectuează în mod repetat pe parcursul aceluiași exercițiu bugetar, se pot întocmi propuneri de angajamente legale provizorii, materializate în bugete previzionale, înaintate pentru viză împreună cu angajamentele bugetare globale. Varianta cu cheltuielile de capital și cele din programele de investiții publice este greșită și constituie capcana: potrivit pct. 1, «Cheltuielile de investiții se angajează individual în cadrul angajamentelor multianuale care reprezintă limita superioară de angajare», iar programele de investiții publice sunt enumerate printre acțiunile multianuale. Prin opoziție, angajamentul bugetar individual este specific unei anumite operațiuni noi și se prezintă la viza de control financiar preventiv propriu în același timp cu proiectul angajamentului legal individual (pct. 1 lit. b1)).",
-    "sursa": {
-      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
-      "articol": "pct. 1 (angajarea cheltuielilor)",
-      "citat": "Angajamentul bugetar global este un angajament bugetar aferent angajamentului legal provizoriu care privește cheltuielile curente de funcționare de natura administrativă, cum ar fi: – cheltuieli de deplasare; – cheltuieli de protocol; – cheltuieli de întreținere și gospodărie (încălzit, iluminat, apa, canal, salubritate, posta, telefon, radio, furnituri de birou etc.); – cheltuieli cu asigurările; – cheltuieli cu chiriile; – cheltuieli cu abonamentele la reviste, buletine lunare etc.",
-      "fisier": "09_Norme_ALOP_1792-2002.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98C-001",
     "tip": "unic",
     "test": 21,
@@ -9644,25 +9597,27 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500-035",
-    "tip": "unic",
+    "id": "ALOP-018",
+    "tip": "multiplu",
     "test": 21,
-    "intrebare": "Cine exercită controlul financiar preventiv delegat, potrivit Legii nr. 500/2002?",
+    "intrebare": "Angajamentul bugetar global este aferent unui angajament legal provizoriu care privește cheltuielile curente de funcționare de natură administrativă. Care dintre următoarele categorii sunt enumerate expres de Normele metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002) ca fiind de acest tip?",
     "variante": [
-      "Agenția Națională de Administrare Fiscală.",
-      "Curtea de Conturi a României.",
-      "Ministerul Finanțelor Publice.",
-      "Compartimentul de audit public intern al fiecărei instituții publice."
+      "Cheltuielile cu asigurările, cheltuielile cu chiriile și cheltuielile cu abonamentele la reviste și buletine lunare",
+      "Cheltuielile de deplasare și cheltuielile de protocol",
+      "Cheltuielile de întreținere și gospodărie (încălzit, iluminat, apă, canal, salubritate, poștă, telefon, radio, furnituri de birou etc.)",
+      "Cheltuielile de capital și cele cuprinse în programele de investiții publice anexate bugetului"
     ],
     "corecte": [
+      0,
+      1,
       2
     ],
-    "explicatie": "Art. 25 prevede expres că controlul financiar preventiv delegat se exercită de Ministerul Finanțelor Publice, conform legislației în domeniu; mecanismul concret — controlorii delegați numiți la ordonatorii principali de credite — este reglementat de O.G. nr. 119/1999, nu de textul art. 25; el se distinge de controlul financiar preventiv propriu, organizat în cadrul fiecărei entități publice. Curtea de Conturi realizează control ulterior și verifică conturile anuale de execuție înainte de aprobarea lor prin lege (art. 56 alin. (5)), deci nu exercită control preventiv. Auditul public intern este o activitate distinctă, care, potrivit art. 23, se exercită alături de controlul financiar preventiv asupra tuturor operațiunilor care afectează fondurile publice și/sau patrimoniul public, dar nu se confundă cu acesta. Agenția Națională de Administrare Fiscală are atribuții de administrare fiscală, nu de control financiar preventiv delegat.",
+    "explicatie": "Pct. 1 lit. b2) din Normele ALOP enumeră, drept cheltuieli curente de funcționare de natură administrativă aferente angajamentului bugetar global, cheltuielile de deplasare, de protocol, de întreținere și gospodărie (încălzit, iluminat, apă, canal, salubritate, poștă, telefon, radio, furnituri de birou etc.), cu asigurările, cu chiriile și cu abonamentele la reviste, buletine lunare etc. Pentru aceste cheltuieli, care se efectuează în mod repetat pe parcursul aceluiași exercițiu bugetar, se pot întocmi propuneri de angajamente legale provizorii, materializate în bugete previzionale, înaintate pentru viză împreună cu angajamentele bugetare globale. Varianta cu cheltuielile de capital și cele din programele de investiții publice este greșită și constituie capcana: potrivit pct. 1, «Cheltuielile de investiții se angajează individual în cadrul angajamentelor multianuale care reprezintă limita superioară de angajare», iar programele de investiții publice sunt enumerate printre acțiunile multianuale. Prin opoziție, angajamentul bugetar individual este specific unei anumite operațiuni noi și se prezintă la viza de control financiar preventiv propriu în același timp cu proiectul angajamentului legal individual (pct. 1 lit. b1)).",
     "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 25",
-      "citat": "Controlul financiar preventiv delegat se exercita de Ministerul Finanțelor Publice, conform legislației în domeniu.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+      "articol": "pct. 1 (angajarea cheltuielilor)",
+      "citat": "Angajamentul bugetar global este un angajament bugetar aferent angajamentului legal provizoriu care privește cheltuielile curente de funcționare de natura administrativă, cum ar fi: – cheltuieli de deplasare; – cheltuieli de protocol; – cheltuieli de întreținere și gospodărie (încălzit, iluminat, apa, canal, salubritate, posta, telefon, radio, furnituri de birou etc.); – cheltuieli cu asigurările; – cheltuieli cu chiriile; – cheltuieli cu abonamentele la reviste, buletine lunare etc.",
+      "fisier": "09_Norme_ALOP_1792-2002.txt"
     },
     "status": "ok"
   },
@@ -9713,6 +9668,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L500-035",
+    "tip": "unic",
+    "test": 21,
+    "intrebare": "Cine exercită controlul financiar preventiv delegat, potrivit Legii nr. 500/2002?",
+    "variante": [
+      "Agenția Națională de Administrare Fiscală.",
+      "Curtea de Conturi a României.",
+      "Ministerul Finanțelor Publice.",
+      "Compartimentul de audit public intern al fiecărei instituții publice."
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 25 prevede expres că controlul financiar preventiv delegat se exercită de Ministerul Finanțelor Publice, conform legislației în domeniu; mecanismul concret — controlorii delegați numiți la ordonatorii principali de credite — este reglementat de O.G. nr. 119/1999, nu de textul art. 25; el se distinge de controlul financiar preventiv propriu, organizat în cadrul fiecărei entități publice. Curtea de Conturi realizează control ulterior și verifică conturile anuale de execuție înainte de aprobarea lor prin lege (art. 56 alin. (5)), deci nu exercită control preventiv. Auditul public intern este o activitate distinctă, care, potrivit art. 23, se exercită alături de controlul financiar preventiv asupra tuturor operațiunilor care afectează fondurile publice și/sau patrimoniul public, dar nu se confundă cu acesta. Agenția Națională de Administrare Fiscală are atribuții de administrare fiscală, nu de control financiar preventiv delegat.",
+    "sursa": {
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 25",
+      "citat": "Controlul financiar preventiv delegat se exercita de Ministerul Finanțelor Publice, conform legislației în domeniu.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98C-003",
     "tip": "unic",
     "test": 21,
@@ -9759,6 +9737,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98C-004",
+    "tip": "unic",
+    "test": 21,
+    "intrebare": "Executarea unui acord-cadru încheiat cu mai mulți operatori economici parțial fără reluarea competiției și parțial cu reluarea competiției este posibilă:",
+    "variante": [
+      "Numai pentru acordurile-cadru de lucrări",
+      "În orice situație, la libera alegere a autorității contractante, pe parcursul executării acordului-cadru",
+      "Numai cu acordul scris al tuturor operatorilor economici semnatari",
+      "Numai dacă această posibilitate a fost prevăzută în documentația de atribuire elaborată în cadrul procedurii de atribuire a acordului-cadru"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 118 alin. (1) lit. c) permite modul mixt de executare (parțial cu, parțial fără reluarea competiției) «numai dacă această posibilitate a fost prevăzută în documentația de atribuire» și numai când acordul-cadru stabilește toți termenii și condițiile. Alegerea nu poate fi făcută discreționar în timpul executării — regulile jocului trebuie anunțate de la început, ca expresie a principiului transparenței. Acordul semnatarilor sau natura contractului (lucrări) nu sunt condiții prevăzute de lege. Capcană conexă: și executarea fără reluarea competiției (lit. a)) cere ca autoritatea să fi precizat expres în documentație criteriile obiective de alocare între semnatari (art. 118 alin. (2)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 118 alin. (1) lit. c)",
+      "citat": "parțial fără reluarea competiției între operatorii economici, în conformitate cu lit. a), și parțial cu reluarea competiției, în conformitate cu lit. b), numai dacă această posibilitate a fost prevăzută în documentația de atribuire elaborată în cadrul procedurii de atribuire a acordului-cadru",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L101A-031",
     "tip": "unic",
     "test": 21,
@@ -9778,29 +9779,6 @@ const INTREBARI = [
       "articol": "art. 21 alin. (3)",
       "citat": "Este inadmisibilă prezentarea unor noi motive de contestare și/sau formularea unor noi capete de cerere pe calea concluziilor scrise sau orale ori a precizărilor la contestație ulterior termenului legal de formulare a acesteia.",
       "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98C-004",
-    "tip": "unic",
-    "test": 22,
-    "intrebare": "Executarea unui acord-cadru încheiat cu mai mulți operatori economici parțial fără reluarea competiției și parțial cu reluarea competiției este posibilă:",
-    "variante": [
-      "Numai pentru acordurile-cadru de lucrări",
-      "În orice situație, la libera alegere a autorității contractante, pe parcursul executării acordului-cadru",
-      "Numai cu acordul scris al tuturor operatorilor economici semnatari",
-      "Numai dacă această posibilitate a fost prevăzută în documentația de atribuire elaborată în cadrul procedurii de atribuire a acordului-cadru"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 118 alin. (1) lit. c) permite modul mixt de executare (parțial cu, parțial fără reluarea competiției) «numai dacă această posibilitate a fost prevăzută în documentația de atribuire» și numai când acordul-cadru stabilește toți termenii și condițiile. Alegerea nu poate fi făcută discreționar în timpul executării — regulile jocului trebuie anunțate de la început, ca expresie a principiului transparenței. Acordul semnatarilor sau natura contractului (lucrări) nu sunt condiții prevăzute de lege. Capcană conexă: și executarea fără reluarea competiției (lit. a)) cere ca autoritatea să fi precizat expres în documentație criteriile obiective de alocare între semnatari (art. 118 alin. (2)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 118 alin. (1) lit. c)",
-      "citat": "parțial fără reluarea competiției între operatorii economici, în conformitate cu lit. a), și parțial cu reluarea competiției, în conformitate cu lit. b), numai dacă această posibilitate a fost prevăzută în documentația de atribuire elaborată în cadrul procedurii de atribuire a acordului-cadru",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -9876,29 +9854,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "OUGA-020",
-    "tip": "unic",
-    "test": 22,
-    "intrebare": "Cum procedează ANAP la controlul ex ante al documentației de atribuire în cazul procedurilor derulate de entitățile contractante prevăzute la art. 4 alin. (1) lit. c) din Legea nr. 99/2016?",
-    "variante": [
-      "Nu exercită niciun control asupra acestor entități",
-      "Emite aviz conform (necondiționat sau condiționat) numai cu privire la aspectele de regularitate, iar pentru aspectele de calitate formulează numai recomandări",
-      "Emite aviz conform atât pentru aspectele de regularitate, cât și pentru cele de calitate",
-      "Formulează numai recomandări, atât pentru regularitate, cât și pentru calitate"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 14 alin. (5) instituie un regim atenuat pentru entitățile contractante de la art. 4 alin. (1) lit. c) din Legea nr. 99/2016 (cele care desfășoară activități relevante în baza unor drepturi speciale sau exclusive, fără a fi autorități publice sau întreprinderi publice): avizul conform privește doar aspectele de regularitate care nu respectă legea, iar pentru aspectele de calitate ANAP formulează numai recomandări. Distincția valorifică definițiile din art. 2: regularitatea are interpretare literală, calitatea depinde de specificul sectorului, unde aceste entități private au marjă proprie de apreciere. Regimul se aplică în etapa controlului documentației (art. 6 alin. (2) lit. a)).",
-    "sursa": {
-      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
-      "articol": "art. 14 alin. (5)",
-      "citat": "ANAP va emite aviz conform necondiționat sau aviz conform condiționat numai cu privire la aspectele de regularitate care nu respectă prevederile legale în vigoare, urmând ca pentru aspectele de calitate să formuleze numai recomandări.",
-      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98C-006",
     "tip": "multiplu",
     "test": 22,
@@ -9943,6 +9898,29 @@ const INTREBARI = [
       "articol": "art. 82",
       "citat": "În cazul în care etapa a doua a procedurii de dialog competitiv nu se poate finaliza prin identificarea unei soluții viabile, autoritatea contractantă are dreptul de a anula procedura de atribuire, considerându-se implicit îndeplinirea condițiilor prevăzute la art. 212 alin. (1) lit. a) din Lege.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "OUGA-020",
+    "tip": "unic",
+    "test": 22,
+    "intrebare": "Cum procedează ANAP la controlul ex ante al documentației de atribuire în cazul procedurilor derulate de entitățile contractante prevăzute la art. 4 alin. (1) lit. c) din Legea nr. 99/2016?",
+    "variante": [
+      "Nu exercită niciun control asupra acestor entități",
+      "Emite aviz conform (necondiționat sau condiționat) numai cu privire la aspectele de regularitate, iar pentru aspectele de calitate formulează numai recomandări",
+      "Emite aviz conform atât pentru aspectele de regularitate, cât și pentru cele de calitate",
+      "Formulează numai recomandări, atât pentru regularitate, cât și pentru calitate"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 14 alin. (5) instituie un regim atenuat pentru entitățile contractante de la art. 4 alin. (1) lit. c) din Legea nr. 99/2016 (cele care desfășoară activități relevante în baza unor drepturi speciale sau exclusive, fără a fi autorități publice sau întreprinderi publice): avizul conform privește doar aspectele de regularitate care nu respectă legea, iar pentru aspectele de calitate ANAP formulează numai recomandări. Distincția valorifică definițiile din art. 2: regularitatea are interpretare literală, calitatea depinde de specificul sectorului, unde aceste entități private au marjă proprie de apreciere. Regimul se aplică în etapa controlului documentației (art. 6 alin. (2) lit. a)).",
+    "sursa": {
+      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+      "articol": "art. 14 alin. (5)",
+      "citat": "ANAP va emite aviz conform necondiționat sau aviz conform condiționat numai cu privire la aspectele de regularitate care nu respectă prevederile legale în vigoare, urmând ca pentru aspectele de calitate să formuleze numai recomandări.",
+      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
     },
     "status": "ok"
   },
@@ -9993,29 +9971,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "OUGB-031",
-    "tip": "unic",
-    "test": 22,
-    "intrebare": "Autoritatea contractantă a apelat la indicația globală în DUAE pentru toate criteriile de selecție. Care este termenul în care ANAP verifică componența comisiei de evaluare și concluziile privind condițiile de formă și criteriile de calificare/selecție conform informațiilor din DUAE?",
-    "variante": [
-      "1 zi lucrătoare, în locul termenului obișnuit de 3 zile lucrătoare",
-      "2 zile lucrătoare",
-      "4 zile lucrătoare",
-      "3 zile lucrătoare, la fel ca în orice altă situație"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 8 alin. (1) lit. a) prevede regula generală de 3 zile lucrătoare pentru verificarea aspectelor de la art. 12 alin. (1) lit. a) din ordonanța de urgență, dar reduce acest termen la o singură zi lucrătoare atunci când autoritatea/entitatea contractantă a folosit indicația globală în DUAE pentru TOATE criteriile de selecție. Condiția este cumulativă și strictă: indicația globală trebuie să acopere toate criteriile; dacă acoperă doar o parte dintre ele, rămâne aplicabil termenul de 3 zile lucrătoare. Rațiunea reducerii este că indicația globală simplifică radical verificarea, ofertanții declarând global îndeplinirea criteriilor. Termenele de 2 și 4 zile lucrătoare sunt reale, dar aparțin altor faze: 4 zile pentru propunerile tehnice (lit. b) și 2 zile pentru propunerile financiare (lit. c), respectiv pentru concluziile finale (lit. e).",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
-      "articol": "art. 8 alin. (1) lit. a)",
-      "citat": "a) 3 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. a) din ordonanța de urgență, respectiv 1 zi lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. a) din ordonanța de urgență, în cazul în care autoritatea/entitatea contractantă a apelat la indicația globală în DUAE pentru toate criteriile de selecție;",
-      "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98C-008",
     "tip": "unic",
     "test": 22,
@@ -10039,6 +9994,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "OUGB-031",
+    "tip": "unic",
+    "test": 22,
+    "intrebare": "Autoritatea contractantă a apelat la indicația globală în DUAE pentru toate criteriile de selecție. Care este termenul în care ANAP verifică componența comisiei de evaluare și concluziile privind condițiile de formă și criteriile de calificare/selecție conform informațiilor din DUAE?",
+    "variante": [
+      "1 zi lucrătoare, în locul termenului obișnuit de 3 zile lucrătoare",
+      "2 zile lucrătoare",
+      "4 zile lucrătoare",
+      "3 zile lucrătoare, la fel ca în orice altă situație"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 8 alin. (1) lit. a) prevede regula generală de 3 zile lucrătoare pentru verificarea aspectelor de la art. 12 alin. (1) lit. a) din ordonanța de urgență, dar reduce acest termen la o singură zi lucrătoare atunci când autoritatea/entitatea contractantă a folosit indicația globală în DUAE pentru TOATE criteriile de selecție. Condiția este cumulativă și strictă: indicația globală trebuie să acopere toate criteriile; dacă acoperă doar o parte dintre ele, rămâne aplicabil termenul de 3 zile lucrătoare. Rațiunea reducerii este că indicația globală simplifică radical verificarea, ofertanții declarând global îndeplinirea criteriilor. Termenele de 2 și 4 zile lucrătoare sunt reale, dar aparțin altor faze: 4 zile pentru propunerile tehnice (lit. b) și 2 zile pentru propunerile financiare (lit. c), respectiv pentru concluziile finale (lit. e).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+      "articol": "art. 8 alin. (1) lit. a)",
+      "citat": "a) 3 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. a) din ordonanța de urgență, respectiv 1 zi lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. a) din ordonanța de urgență, în cazul în care autoritatea/entitatea contractantă a apelat la indicația globală în DUAE pentru toate criteriile de selecție;",
+      "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L101C-005",
     "tip": "unic",
     "test": 22,
@@ -10058,6 +10036,29 @@ const INTREBARI = [
       "articol": "art. 21 alin. (2)",
       "citat": "Părțile pot fi reprezentate de avocați sau de consilieri juridici și pot depune concluzii scrise în cursul procedurii. De asemenea, părțile pot solicita să depună concluzii oral în fața Consiliului, fără ca prin aceasta să fie afectat termenul legal de soluționare a contestației, prevăzut la art. 24.",
       "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N313",
+    "tip": "unic",
+    "test": 22,
+    "intrebare": "Potrivit Legii nr. 98/2016, cum se realizează comunicările în cadrul unui sistem dinamic de achiziții?",
+    "variante": [
+      "În scris, prin mijloace electronice de comunicare sau, ca excepție, prin alte mijloace decât cele electronice.",
+      "Prin mijloace electronice pentru ofertele și solicitările de participare, iar celelalte comunicări pot fi făcute și verbal, cu consemnarea în scris a principalelor elemente.",
+      "Exclusiv prin mijloace electronice, în conformitate cu art. 64 alin. (1) și (2), art. 65, art. 66 și cu normele metodologice de aplicare a legii.",
+      "Prin mijloace electronice numai pentru depunerea solicitărilor de participare, invitațiile de participare putând fi transmise și pe suport hârtie."
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 123 din Legea nr. 98/2016 prevede că toate comunicările în cadrul unui sistem dinamic de achiziții se realizează exclusiv prin mijloace electronice, în conformitate cu art. 64 alin. (1) și (2), art. 65, art. 66 și cu normele metodologice. Regula generală din art. 64 alin. (1), care permite, ca excepție, și alte mijloace decât cele electronice, nu se aplică sistemului dinamic, unde mijloacele electronice sunt exclusive. Comunicarea verbală admisă de art. 64 alin. (3) pentru alte comunicări decât cele privind elementele esențiale ale procedurii nu este cuprinsă în trimiterea din art. 123, care vizează doar art. 64 alin. (1) și (2). Nici invitațiile de participare nu pot fi transmise pe suport hârtie, întrucât art. 123 privește toate comunicările, iar art. 120 alin. (2) prevede că sistemul dinamic este organizat și funcționează în integralitate ca un proces electronic.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 123",
+      "citat": "Toate comunicările în cadrul unui sistem dinamic de achiziții se realizează exclusiv prin mijloace electronice, în conformitate cu dispozițiile art. 64 alin. (1) și (2), art. 65, art. 66 și ale normelor metodologice de aplicare a prezentei legi.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -10104,29 +10105,6 @@ const INTREBARI = [
       "articol": "pct. 2 (lichidarea cheltuielilor)",
       "citat": "Este faza în procesul execuției bugetare în care se verifica existenta angajamentelor, se determina sau se verifica realitatea sumei datorate, se verifica condițiile de exigibilitate ale angajamentului legal pe baza documentelor justificative care să ateste operațiunile respective.",
       "fisier": "09_Norme_ALOP_1792-2002.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98-N313",
-    "tip": "unic",
-    "test": 22,
-    "intrebare": "Potrivit Legii nr. 98/2016, cum se realizează comunicările în cadrul unui sistem dinamic de achiziții?",
-    "variante": [
-      "În scris, prin mijloace electronice de comunicare sau, ca excepție, prin alte mijloace decât cele electronice.",
-      "Prin mijloace electronice pentru ofertele și solicitările de participare, iar celelalte comunicări pot fi făcute și verbal, cu consemnarea în scris a principalelor elemente.",
-      "Exclusiv prin mijloace electronice, în conformitate cu art. 64 alin. (1) și (2), art. 65, art. 66 și cu normele metodologice de aplicare a legii.",
-      "Prin mijloace electronice numai pentru depunerea solicitărilor de participare, invitațiile de participare putând fi transmise și pe suport hârtie."
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 123 din Legea nr. 98/2016 prevede că toate comunicările în cadrul unui sistem dinamic de achiziții se realizează exclusiv prin mijloace electronice, în conformitate cu art. 64 alin. (1) și (2), art. 65, art. 66 și cu normele metodologice. Regula generală din art. 64 alin. (1), care permite, ca excepție, și alte mijloace decât cele electronice, nu se aplică sistemului dinamic, unde mijloacele electronice sunt exclusive. Comunicarea verbală admisă de art. 64 alin. (3) pentru alte comunicări decât cele privind elementele esențiale ale procedurii nu este cuprinsă în trimiterea din art. 123, care vizează doar art. 64 alin. (1) și (2). Nici invitațiile de participare nu pot fi transmise pe suport hârtie, întrucât art. 123 privește toate comunicările, iar art. 120 alin. (2) prevede că sistemul dinamic este organizat și funcționează în integralitate ca un proces electronic.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 123",
-      "citat": "Toate comunicările în cadrul unui sistem dinamic de achiziții se realizează exclusiv prin mijloace electronice, în conformitate cu dispozițiile art. 64 alin. (1) și (2), art. 65, art. 66 și ale normelor metodologice de aplicare a prezentei legi.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -10179,29 +10157,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98C-009",
-    "tip": "unic",
-    "test": 22,
-    "intrebare": "Autoritatea contractantă are obligația de a finaliza evaluarea unei solicitări de participare la un sistem dinamic de achiziții în termen de:",
-    "variante": [
-      "5 zile lucrătoare de la primire, fără posibilitate de prelungire",
-      "20 de zile lucrătoare de la primire, termen care poate fi prelungit cu încă 10 zile lucrătoare",
-      "10 zile lucrătoare de la data primirii solicitării, termen care poate fi prelungit până la 15 zile lucrătoare în situații specifice justificate",
-      "10 zile calendaristice de la primire, termen care poate fi prelungit până la 15 zile calendaristice"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 125 alin. (3) impune finalizarea evaluării în 10 zile LUCRĂTOARE de la primirea solicitării de participare, iar alin. (4) permite prelungirea până la 15 zile lucrătoare în situații specifice (de exemplu, necesitatea examinării unor documente suplimentare). Capcana principală este confuzia zile lucrătoare/zile calendaristice. Excepție importantă (alin. (5)): cât timp nu a fost transmis spre publicare anunțul pentru prima achiziție specifică, perioada de evaluare poate fi prelungită suplimentar, cu condiția ca nicio invitație de participare la etapa a doua să nu fie transmisă în perioada astfel prelungită.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 125 alin. (3) și (4)",
-      "citat": "Autoritatea contractantă are obligația de a finaliza evaluarea prevăzută la alin. (2) în termen de 10 zile lucrătoare de la data primirii solicitării de participare. [...] Termenul prevăzut la alin. (3) poate fi prelungit până la 15 zile lucrătoare în situații specifice",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395B-025",
     "tip": "unic",
     "test": 22,
@@ -10225,6 +10180,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98C-009",
+    "tip": "unic",
+    "test": 22,
+    "intrebare": "Autoritatea contractantă are obligația de a finaliza evaluarea unei solicitări de participare la un sistem dinamic de achiziții în termen de:",
+    "variante": [
+      "5 zile lucrătoare de la primire, fără posibilitate de prelungire",
+      "20 de zile lucrătoare de la primire, termen care poate fi prelungit cu încă 10 zile lucrătoare",
+      "10 zile lucrătoare de la data primirii solicitării, termen care poate fi prelungit până la 15 zile lucrătoare în situații specifice justificate",
+      "10 zile calendaristice de la primire, termen care poate fi prelungit până la 15 zile calendaristice"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 125 alin. (3) impune finalizarea evaluării în 10 zile LUCRĂTOARE de la primirea solicitării de participare, iar alin. (4) permite prelungirea până la 15 zile lucrătoare în situații specifice (de exemplu, necesitatea examinării unor documente suplimentare). Capcana principală este confuzia zile lucrătoare/zile calendaristice. Excepție importantă (alin. (5)): cât timp nu a fost transmis spre publicare anunțul pentru prima achiziție specifică, perioada de evaluare poate fi prelungită suplimentar, cu condiția ca nicio invitație de participare la etapa a doua să nu fie transmisă în perioada astfel prelungită.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 125 alin. (3) și (4)",
+      "citat": "Autoritatea contractantă are obligația de a finaliza evaluarea prevăzută la alin. (2) în termen de 10 zile lucrătoare de la data primirii solicitării de participare. [...] Termenul prevăzut la alin. (3) poate fi prelungit până la 15 zile lucrătoare în situații specifice",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98-N314",
     "tip": "unic",
     "test": 22,
@@ -10244,6 +10222,29 @@ const INTREBARI = [
       "articol": "art. 126 alin. (2)",
       "citat": "În cazul în care sistemul dinamic de achiziții a fost împărțit pe categorii de lucrări, produse sau servicii, autoritatea contractantă transmite, în conformitate cu dispozițiile art. 151, câte o invitație de participare tuturor participanților care au fost admiși în cadrul sistemului dinamic de achiziții în categoria corespunzătoare achiziției specifice în cauză",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395-N210",
+    "tip": "unic",
+    "test": 22,
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în procedura de parteneriat pentru inovare, ce obligație are autoritatea contractantă după aprobarea raportului intermediar elaborat de comisia de evaluare la finalizarea etapei a doua?",
+    "variante": [
+      "Să comunice ofertanților rezultatul procedurii de atribuire",
+      "Să comunice candidaților rezultatul etapei de selecție",
+      "Să comunice ofertanților rezultatul etapei a doua",
+      "Să anuleze procedura, considerându-se implicit îndeplinite condițiile prevăzute la art. 212 alin. (1) lit. a) din Legea nr. 98/2016"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 86 din Norme prevede că, după aprobarea raportului intermediar prevăzut la art. 85 alin. (4), autoritatea contractantă comunică ofertanților rezultatul etapei a doua; procedura continuă cu etapa a treia, de negocieri (art. 87 și art. 88 alin. (1)). Comunicarea rezultatului procedurii după raportul etapei a doua este regula negocierii competitive (art. 76 alin. (3)), unde etapa a doua este ultima. Comunicarea către candidați a rezultatului etapei de selecție privește prima etapă (art. 71, aplicabil parteneriatului prin art. 85 alin. (2)). Anularea cu prezumția îndeplinirii condițiilor art. 212 alin. (1) lit. a) din Lege este prevăzută pentru dialogul competitiv, când nu se identifică o soluție viabilă (art. 82). Obligația de după raportul intermediar al etapei a doua este cea din art. 86.",
+    "sursa": {
+      "articol": "art. 86",
+      "citat": "După aprobarea raportului intermediar prevăzut la art. 85 alin. (4), autoritatea contractantă are obligația de a comunica ofertanților rezultatul etapei a doua.",
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -10272,6 +10273,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98E-009",
+    "tip": "unic",
+    "test": 23,
+    "intrebare": "Potrivit Legii nr. 98/2016, pe baza căror elemente desemnează autoritatea contractantă oferta câștigătoare pentru o achiziție specifică realizată în cadrul unui sistem dinamic de achiziții?",
+    "variante": [
+      "Exclusiv pe baza prețului cel mai scăzut, factorii de evaluare fiind interziși în sistemul dinamic de achiziții.",
+      "Pe baza criteriului de atribuire stabilit liber pentru fiecare achiziție specifică, prin invitația de participare transmisă participanților admiși.",
+      "Pe baza criteriului de atribuire și a factorilor de evaluare stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului, aceștia putând fi detaliați în invitația de participare.",
+      "Pe baza criteriului de atribuire convenit în scris cu toți participanții admiși în sistem, înaintea fiecărei achiziții specifice."
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 127 alin. (1) ancorează criteriul de atribuire și factorii de evaluare în anunțul de participare publicat cu ocazia LANSĂRII sistemului dinamic de achiziții, iar alin. (2) permite doar detalierea lor în invitația de participare de la art. 126 pentru achiziția specifică, ceea ce elimină varianta cu criteriul stabilit liber pentru fiecare achiziție specifică. Varianta cu prețul cel mai scăzut exclusiv și interzicerea factorilor de evaluare contrazice art. 127 alin. (1), care se referă expres la „factorii de evaluare” stabiliți prin anunțul de participare; criteriile de atribuire posibile sunt cele de la art. 187 alin. (3). Varianta cu criteriul convenit în scris cu toți participanții admiși contrazice art. 127 alin. (1), potrivit căruia criteriul și factorii sunt cei „stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului dinamic de achiziții”, iar invitația de la art. 126 îi poate doar detalia (art. 127 alin. (2)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 127 alin. (1) și (2)",
+      "citat": "Autoritatea contractantă atribuie contractul de achiziție publică ofertantului care prezintă oferta cea mai avantajoasă, desemnată prin aplicarea criteriului de atribuire și a factorilor de evaluare stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului dinamic de achiziții. (2) Dacă este cazul, criteriul de atribuire și factorii de evaluare prevăzuți la alin. (1) pot fi detaliați în cadrul invitației de participare prevăzute la art. 126.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L101A-032",
     "tip": "unic",
     "test": 23,
@@ -10295,29 +10319,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395-N210",
-    "tip": "unic",
-    "test": 23,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în procedura de parteneriat pentru inovare, ce obligație are autoritatea contractantă după aprobarea raportului intermediar elaborat de comisia de evaluare la finalizarea etapei a doua?",
-    "variante": [
-      "Să comunice ofertanților rezultatul procedurii de atribuire",
-      "Să comunice candidaților rezultatul etapei de selecție",
-      "Să comunice ofertanților rezultatul etapei a doua",
-      "Să anuleze procedura, considerându-se implicit îndeplinite condițiile prevăzute la art. 212 alin. (1) lit. a) din Legea nr. 98/2016"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 86 din Norme prevede că, după aprobarea raportului intermediar prevăzut la art. 85 alin. (4), autoritatea contractantă comunică ofertanților rezultatul etapei a doua; procedura continuă cu etapa a treia, de negocieri (art. 87 și art. 88 alin. (1)). Comunicarea rezultatului procedurii după raportul etapei a doua este regula negocierii competitive (art. 76 alin. (3)), unde etapa a doua este ultima. Comunicarea către candidați a rezultatului etapei de selecție privește prima etapă (art. 71, aplicabil parteneriatului prin art. 85 alin. (2)). Anularea cu prezumția îndeplinirii condițiilor art. 212 alin. (1) lit. a) din Lege este prevăzută pentru dialogul competitiv, când nu se identifică o soluție viabilă (art. 82). Obligația de după raportul intermediar al etapei a doua este cea din art. 86.",
-    "sursa": {
-      "articol": "art. 86",
-      "citat": "După aprobarea raportului intermediar prevăzut la art. 85 alin. (4), autoritatea contractantă are obligația de a comunica ofertanților rezultatul etapei a doua.",
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGA-021",
     "tip": "unic",
     "test": 23,
@@ -10337,29 +10338,6 @@ const INTREBARI = [
       "articol": "art. 14 alin. (6)",
       "citat": "În cazul procedurilor de negociere fără publicare prealabilă, autoritatea contractantă are obligația de a publica în SEAP avizul conform final, împreună cu un anunț de transparență",
       "fisier": "04_OUG_98-2017_control_ex_ante.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98E-009",
-    "tip": "unic",
-    "test": 23,
-    "intrebare": "Potrivit Legii nr. 98/2016, pe baza căror elemente desemnează autoritatea contractantă oferta câștigătoare pentru o achiziție specifică realizată în cadrul unui sistem dinamic de achiziții?",
-    "variante": [
-      "Exclusiv pe baza prețului cel mai scăzut, factorii de evaluare fiind interziși în sistemul dinamic de achiziții.",
-      "Pe baza criteriului de atribuire stabilit liber pentru fiecare achiziție specifică, prin invitația de participare transmisă participanților admiși.",
-      "Pe baza criteriului de atribuire și a factorilor de evaluare stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului, aceștia putând fi detaliați în invitația de participare.",
-      "Pe baza criteriului de atribuire convenit în scris cu toți participanții admiși în sistem, înaintea fiecărei achiziții specifice."
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 127 alin. (1) ancorează criteriul de atribuire și factorii de evaluare în anunțul de participare publicat cu ocazia LANSĂRII sistemului dinamic de achiziții, iar alin. (2) permite doar detalierea lor în invitația de participare de la art. 126 pentru achiziția specifică, ceea ce elimină varianta cu criteriul stabilit liber pentru fiecare achiziție specifică. Varianta cu prețul cel mai scăzut exclusiv și interzicerea factorilor de evaluare contrazice art. 127 alin. (1), care se referă expres la „factorii de evaluare” stabiliți prin anunțul de participare; criteriile de atribuire posibile sunt cele de la art. 187 alin. (3). Varianta cu criteriul convenit în scris cu toți participanții admiși contrazice art. 127 alin. (1), potrivit căruia criteriul și factorii sunt cei „stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului dinamic de achiziții”, iar invitația de la art. 126 îi poate doar detalia (art. 127 alin. (2)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 127 alin. (1) și (2)",
-      "citat": "Autoritatea contractantă atribuie contractul de achiziție publică ofertantului care prezintă oferta cea mai avantajoasă, desemnată prin aplicarea criteriului de atribuire și a factorilor de evaluare stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului dinamic de achiziții. (2) Dacă este cazul, criteriul de atribuire și factorii de evaluare prevăzuți la alin. (1) pot fi detaliați în cadrul invitației de participare prevăzute la art. 126.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -10457,6 +10435,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98C-011",
+    "tip": "unic",
+    "test": 23,
+    "intrebare": "În legătură cu tarifele percepute operatorilor economici pentru accesul la un sistem dinamic de achiziții, Legea nr. 98/2016 prevede că:",
+    "variante": [
+      "Tarifele se stabilesc prin normele metodologice de aplicare a legii",
+      "Perceperea de tarife este permisă doar pentru acoperirea costurilor de operare a sistemului",
+      "Autoritatea contractantă poate percepe un tarif de administrare de maximum 1% din valoarea contractelor atribuite",
+      "Este interzisă perceperea de tarife operatorilor economici interesați sau participanților la sistem"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 130 instituie o interdicție absolută: niciun tarif nu poate fi perceput operatorilor economici interesați sau participanților la SDA, indiferent de justificare (nici măcar pentru «costuri de operare»). Procentul de 1% din distractor este o valoare reală din lege, dar cu alt rol — plafonul garanției de participare (art. 154 alin. (2)). Rațiunea interdicției: accesul liber și gratuit este o condiție a caracterului deschis al sistemului, la fel cum accesul la documentele achiziției prin SEAP este gratuit (art. 150 alin. (1)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 130",
+      "citat": "Este interzisă perceperea de tarife operatorilor economici interesați sau participanților la sistemul dinamic de achiziții.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "OUGB-032",
     "tip": "unic",
     "test": 23,
@@ -10499,75 +10500,6 @@ const INTREBARI = [
       "articol": "art. 28^1",
       "citat": "Ordonatorii de credite pot face noi angajamente legale, în limita prevederilor bugetare aprobate, numai după stingerea plăților restante înregistrate la finele anului anterior, respectiv a arieratelor din execuția anului curent, cu excepția angajamentelor noi pentru proiecte/ programe finanțate din fonduri externe nerambursabile.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98C-011",
-    "tip": "unic",
-    "test": 23,
-    "intrebare": "În legătură cu tarifele percepute operatorilor economici pentru accesul la un sistem dinamic de achiziții, Legea nr. 98/2016 prevede că:",
-    "variante": [
-      "Tarifele se stabilesc prin normele metodologice de aplicare a legii",
-      "Perceperea de tarife este permisă doar pentru acoperirea costurilor de operare a sistemului",
-      "Autoritatea contractantă poate percepe un tarif de administrare de maximum 1% din valoarea contractelor atribuite",
-      "Este interzisă perceperea de tarife operatorilor economici interesați sau participanților la sistem"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 130 instituie o interdicție absolută: niciun tarif nu poate fi perceput operatorilor economici interesați sau participanților la SDA, indiferent de justificare (nici măcar pentru «costuri de operare»). Procentul de 1% din distractor este o valoare reală din lege, dar cu alt rol — plafonul garanției de participare (art. 154 alin. (2)). Rațiunea interdicției: accesul liber și gratuit este o condiție a caracterului deschis al sistemului, la fel cum accesul la documentele achiziției prin SEAP este gratuit (art. 150 alin. (1)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 130",
-      "citat": "Este interzisă perceperea de tarife operatorilor economici interesați sau participanților la sistemul dinamic de achiziții.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L101A-033",
-    "tip": "unic",
-    "test": 23,
-    "intrebare": "Potrivit Legii nr. 101/2016, cum poate fi atacată încheierea Consiliului Național de Soluționare a Contestațiilor privind soluționarea cererii de suspendare a procedurii de atribuire?",
-    "variante": [
-      "Cu plângere la instanța competentă, în mod separat, în termen de 5 zile de la comunicare",
-      "Cu plângere la CNSC, judecată de un alt complet, în 3 zile",
-      "Nu poate fi atacată separat, ci numai odată cu decizia de soluționare a contestației",
-      "Cu recurs la Înalta Curte de Casație și Justiție, în 10 zile de la pronunțare"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 23 alin. (2) din Legea nr. 101/2016 prevede că încheierea privind soluționarea cererii de suspendare poate fi atacată cu plângere la instanța competentă prevăzută la art. 32 alin. (1), în mod separat, în termen de 5 zile de la comunicare. Varianta potrivit căreia încheierea nu poate fi atacată separat contrazice expres sintagma „în mod separat” din art. 23 alin. (2). Termenul de 3 zile este cel în care Consiliul se pronunță asupra cererii de suspendare (art. 22 alin. (1)), nu un termen de atac, iar plângerea se depune la instanța judecătorească competentă, nu la Consiliu (art. 30 alin. (3)). Instanța competentă este curtea de apel, secția de contencios administrativ și fiscal (art. 32 alin. (1)), nu Înalta Curte de Casație și Justiție, iar termenul de 10 zile este cel pentru plângerea împotriva deciziei de soluționare a contestației, calculat de la comunicare (art. 29). Același regim — plângere separată, în 5 zile de la comunicare — se aplică și încheierii prin care Consiliul revine asupra suspendării procedurii de soluționare a contestației (art. 25 alin. (4)).",
-    "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 23 alin. (2)",
-      "citat": "Încheierea privind soluționarea cererii de suspendare poate fi atacată cu plângere la instanța competentă prevăzută la art. 32 alin. (1), în mod separat, în termen de 5 zile de la comunicare.",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "ALOP-024",
-    "tip": "unic",
-    "test": 23,
-    "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), cum se realizează verificarea existenței obligației de plată în faza de lichidare a cheltuielilor?",
-    "variante": [
-      "Exclusiv prin confruntarea sumei din factură cu suma înscrisă în angajamentul bugetar global aprobat pentru categoria de cheltuieli respectivă.",
-      "Prin verificarea documentelor justificative din care rezultă pretenția creditorului, precum și a realității „serviciului efectuat” — bunurile livrate, lucrările executate și serviciile prestate sau, după caz, existența unui titlu care să justifice plata (titlu executoriu, acord de împrumut, acord de grant etc.).",
-      "Prin acordarea vizei de control financiar preventiv propriu pe ordonanțarea de plată, care valorifică toate verificările anterioare.",
-      "Prin emiterea documentului scris privind angajamentul bugetar, prin care se certifică existența creditelor bugetare disponibile și se pun în rezervă creditele aferente cheltuielii."
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Pct. 2 din Normele ALOP prevede că verificarea existenței obligației de plată se realizează prin verificarea documentelor justificative din care să rezulte pretenția creditorului, precum și realitatea «serviciului efectuat»: bunurile au fost livrate, lucrările executate și serviciile prestate sau, după caz, există un titlu care să justifice plata (titlu executoriu, acord de împrumut, acord de grant etc.). Varianta cu confruntarea exclusivă a sumei din factură cu angajamentul bugetar global reduce lichidarea la o comparație de sume și ignoră proba serviciului efectuat; determinarea sumei datorate se face, potrivit pct. 2, pe baza datelor din factură și a documentelor întocmite de comisia de recepție. Varianta cu viza de control financiar preventiv propriu pe ordonanțarea de plată mută verificarea în faza următoare: potrivit pct. 3, persoana desemnată se asigură, la avizarea ordonanțării, că sunt deja îndeplinite condițiile de lichidare a angajamentelor. Varianta cu documentul scris privind angajamentul bugetar descrie faza de angajare, în care se certifică existența creditelor bugetare disponibile și se pun în rezervă creditele aferente unei cheltuieli (pct. 1 lit. b)). Potrivit pct. 2, persoana împuternicită să efectueze lichidarea verifică personal documentele justificative și confirmă pe propria răspundere că verificarea a fost realizată.",
-    "sursa": {
-      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
-      "articol": "pct. 2 (lichidarea cheltuielilor)",
-      "citat": "Verificarea existenței obligației de plată se realizează prin verificarea documentelor justificative din care să rezulte pretenția creditorului, precum și realitatea \"serviciului efectuat\" (bunurile au fost livrate, lucrările executate și serviciile prestate sau, după caz, existenta unui titlu care să justifice plata: titlu executoriu, acord de împrumut, acord de grant etc.).",
-      "fisier": "09_Norme_ALOP_1792-2002.txt"
     },
     "status": "ok"
   },
@@ -10616,6 +10548,52 @@ const INTREBARI = [
       "citat": "Etapa a treia a procedurii de atribuire se poate desfășura și prin intermediul SEAP, printr-o modalitate securizată, accesibilă doar ofertanților rămași în competiție în urma derulării etapei a doua, sau prin intermediul unei camere de date puse la dispoziție de autoritatea contractantă sau de furnizorul de servicii de achiziție implicat în procedura de atribuire.",
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L101A-033",
+    "tip": "unic",
+    "test": 23,
+    "intrebare": "Potrivit Legii nr. 101/2016, cum poate fi atacată încheierea Consiliului Național de Soluționare a Contestațiilor privind soluționarea cererii de suspendare a procedurii de atribuire?",
+    "variante": [
+      "Cu plângere la instanța competentă, în mod separat, în termen de 5 zile de la comunicare",
+      "Cu plângere la CNSC, judecată de un alt complet, în 3 zile",
+      "Nu poate fi atacată separat, ci numai odată cu decizia de soluționare a contestației",
+      "Cu recurs la Înalta Curte de Casație și Justiție, în 10 zile de la pronunțare"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 23 alin. (2) din Legea nr. 101/2016 prevede că încheierea privind soluționarea cererii de suspendare poate fi atacată cu plângere la instanța competentă prevăzută la art. 32 alin. (1), în mod separat, în termen de 5 zile de la comunicare. Varianta potrivit căreia încheierea nu poate fi atacată separat contrazice expres sintagma „în mod separat” din art. 23 alin. (2). Termenul de 3 zile este cel în care Consiliul se pronunță asupra cererii de suspendare (art. 22 alin. (1)), nu un termen de atac, iar plângerea se depune la instanța judecătorească competentă, nu la Consiliu (art. 30 alin. (3)). Instanța competentă este curtea de apel, secția de contencios administrativ și fiscal (art. 32 alin. (1)), nu Înalta Curte de Casație și Justiție, iar termenul de 10 zile este cel pentru plângerea împotriva deciziei de soluționare a contestației, calculat de la comunicare (art. 29). Același regim — plângere separată, în 5 zile de la comunicare — se aplică și încheierii prin care Consiliul revine asupra suspendării procedurii de soluționare a contestației (art. 25 alin. (4)).",
+    "sursa": {
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 23 alin. (2)",
+      "citat": "Încheierea privind soluționarea cererii de suspendare poate fi atacată cu plângere la instanța competentă prevăzută la art. 32 alin. (1), în mod separat, în termen de 5 zile de la comunicare.",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "ALOP-024",
+    "tip": "unic",
+    "test": 23,
+    "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), cum se realizează verificarea existenței obligației de plată în faza de lichidare a cheltuielilor?",
+    "variante": [
+      "Exclusiv prin confruntarea sumei din factură cu suma înscrisă în angajamentul bugetar global aprobat pentru categoria de cheltuieli respectivă.",
+      "Prin verificarea documentelor justificative din care rezultă pretenția creditorului, precum și a realității „serviciului efectuat” — bunurile livrate, lucrările executate și serviciile prestate sau, după caz, existența unui titlu care să justifice plata (titlu executoriu, acord de împrumut, acord de grant etc.).",
+      "Prin acordarea vizei de control financiar preventiv propriu pe ordonanțarea de plată, care valorifică toate verificările anterioare.",
+      "Prin emiterea documentului scris privind angajamentul bugetar, prin care se certifică existența creditelor bugetare disponibile și se pun în rezervă creditele aferente cheltuielii."
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Pct. 2 din Normele ALOP prevede că verificarea existenței obligației de plată se realizează prin verificarea documentelor justificative din care să rezulte pretenția creditorului, precum și realitatea «serviciului efectuat»: bunurile au fost livrate, lucrările executate și serviciile prestate sau, după caz, există un titlu care să justifice plata (titlu executoriu, acord de împrumut, acord de grant etc.). Varianta cu confruntarea exclusivă a sumei din factură cu angajamentul bugetar global reduce lichidarea la o comparație de sume și ignoră proba serviciului efectuat; determinarea sumei datorate se face, potrivit pct. 2, pe baza datelor din factură și a documentelor întocmite de comisia de recepție. Varianta cu viza de control financiar preventiv propriu pe ordonanțarea de plată mută verificarea în faza următoare: potrivit pct. 3, persoana desemnată se asigură, la avizarea ordonanțării, că sunt deja îndeplinite condițiile de lichidare a angajamentelor. Varianta cu documentul scris privind angajamentul bugetar descrie faza de angajare, în care se certifică existența creditelor bugetare disponibile și se pun în rezervă creditele aferente unei cheltuieli (pct. 1 lit. b)). Potrivit pct. 2, persoana împuternicită să efectueze lichidarea verifică personal documentele justificative și confirmă pe propria răspundere că verificarea a fost realizată.",
+    "sursa": {
+      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+      "articol": "pct. 2 (lichidarea cheltuielilor)",
+      "citat": "Verificarea existenței obligației de plată se realizează prin verificarea documentelor justificative din care să rezulte pretenția creditorului, precum și realitatea \"serviciului efectuat\" (bunurile au fost livrate, lucrările executate și serviciile prestate sau, după caz, existenta unui titlu care să justifice plata: titlu executoriu, acord de împrumut, acord de grant etc.).",
+      "fisier": "09_Norme_ALOP_1792-2002.txt"
     },
     "status": "ok"
   },
@@ -10712,6 +10690,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98C-014",
+    "tip": "unic",
+    "test": 23,
+    "intrebare": "Autoritatea contractantă nu are dreptul de a începe licitația electronică mai devreme de:",
+    "variante": [
+      "5 zile lucrătoare de la transmiterea invitațiilor la licitația electronică",
+      "Două zile lucrătoare de la data la care au fost transmise invitațiile la licitația electronică",
+      "10 zile de la publicarea anunțului de participare",
+      "Două zile calendaristice de la transmiterea invitațiilor la licitația electronică"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 134 alin. (4) impune un interval minim de DOUĂ ZILE LUCRĂTOARE între transmiterea invitațiilor și începerea licitației electronice. Capcana clasică este «zile calendaristice» în loc de «zile lucrătoare». Reperul este transmiterea invitațiilor (care se face simultan, prin mijloace electronice, tuturor ofertanților care au depus oferte admisibile — alin. (2)), nu publicarea anunțului de participare. Înainte de invitație, autoritatea trebuie să fi realizat o evaluare inițială integrală a ofertelor (alin. (1)), iar licitația se poate desfășura în una sau mai multe runde succesive (alin. (5)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 134 alin. (4)",
+      "citat": "Autoritatea contractantă nu are dreptul de a începe licitația electronică mai devreme de două zile lucrătoare de la data la care au fost transmise invitațiile la licitația electronică.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L500-037",
     "tip": "unic",
     "test": 24,
@@ -10731,29 +10732,6 @@ const INTREBARI = [
       "articol": "art. 28^2",
       "citat": "În situația în care gradul de realizare a veniturilor proprii programate în bugetele instituțiilor publice prevăzute la art. 62 alin. (1) lit. b) și c) în ultimii 2 ani anteriori anului curent este mai mic de 97% pe fiecare an, aceste instituții fundamentează veniturile proprii pentru anul bugetar pentru care se elaborează proiectul de buget cel mult la nivelul realizărilor din anul precedent anului curent.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98C-014",
-    "tip": "unic",
-    "test": 24,
-    "intrebare": "Autoritatea contractantă nu are dreptul de a începe licitația electronică mai devreme de:",
-    "variante": [
-      "5 zile lucrătoare de la transmiterea invitațiilor la licitația electronică",
-      "Două zile lucrătoare de la data la care au fost transmise invitațiile la licitația electronică",
-      "10 zile de la publicarea anunțului de participare",
-      "Două zile calendaristice de la transmiterea invitațiilor la licitația electronică"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 134 alin. (4) impune un interval minim de DOUĂ ZILE LUCRĂTOARE între transmiterea invitațiilor și începerea licitației electronice. Capcana clasică este «zile calendaristice» în loc de «zile lucrătoare». Reperul este transmiterea invitațiilor (care se face simultan, prin mijloace electronice, tuturor ofertanților care au depus oferte admisibile — alin. (2)), nu publicarea anunțului de participare. Înainte de invitație, autoritatea trebuie să fi realizat o evaluare inițială integrală a ofertelor (alin. (1)), iar licitația se poate desfășura în una sau mai multe runde succesive (alin. (5)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 134 alin. (4)",
-      "citat": "Autoritatea contractantă nu are dreptul de a începe licitația electronică mai devreme de două zile lucrătoare de la data la care au fost transmise invitațiile la licitația electronică.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -10805,29 +10783,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L101-termen-solutionare-cnsc",
-    "tip": "unic",
-    "test": 24,
-    "intrebare": "În ce termen soluționează CNSC pe fond o contestație, potrivit Legii nr. 101/2016?",
-    "variante": [
-      "10 zile de la data depunerii contestației",
-      "30 de zile de la data publicării contestației în SEAP",
-      "20 de zile de la data primirii dosarului achiziției",
-      "45 de zile de la data primirii dosarului achiziției"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 24 alin. (1) din Legea nr. 101/2016: CNSC soluționează pe fond contestația în 20 de zile de la data primirii dosarului achiziției, respectiv în 10 zile în situația incidenței unei excepții care împiedică analiza pe fond. În cazuri temeinic justificate, termenul poate fi prelungit cu 10 zile, prelungirea fiind comunicată autorității contractante (alin. (2)). Termenul curge de la primirea dosarului, nu de la depunerea contestației — capcană frecventă. Distractorul de 45 de zile este termenul de soluționare în instanță: al plângerii împotriva deciziei CNSC la curtea de apel (art. 32 alin. (4)) și al contestației pe cale judiciară la tribunal (art. 49 alin. (2)).",
-    "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 24 alin. (1)",
-      "citat": "Consiliul soluționează pe fond contestația în termen de 20 de zile de la data primirii, în condițiile art. 18 alin. (2), a dosarului achiziției publice, al achiziției sectoriale sau al concesiunii, respectiv în termen de 10 zile în situația incidenței unei excepții care împiedică analiza pe fond a contestației.",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N301",
     "tip": "unic",
     "test": 24,
@@ -10847,6 +10802,29 @@ const INTREBARI = [
       "articol": "art. 92",
       "citat": "După evaluarea ofertelor finale, dispozițiile art. 66 alin. (3)-(5) se aplică în mod corespunzător.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L101-termen-solutionare-cnsc",
+    "tip": "unic",
+    "test": 24,
+    "intrebare": "În ce termen soluționează CNSC pe fond o contestație, potrivit Legii nr. 101/2016?",
+    "variante": [
+      "10 zile de la data depunerii contestației",
+      "30 de zile de la data publicării contestației în SEAP",
+      "20 de zile de la data primirii dosarului achiziției",
+      "45 de zile de la data primirii dosarului achiziției"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 24 alin. (1) din Legea nr. 101/2016: CNSC soluționează pe fond contestația în 20 de zile de la data primirii dosarului achiziției, respectiv în 10 zile în situația incidenței unei excepții care împiedică analiza pe fond. În cazuri temeinic justificate, termenul poate fi prelungit cu 10 zile, prelungirea fiind comunicată autorității contractante (alin. (2)). Termenul curge de la primirea dosarului, nu de la depunerea contestației — capcană frecventă. Distractorul de 45 de zile este termenul de soluționare în instanță: al plângerii împotriva deciziei CNSC la curtea de apel (art. 32 alin. (4)) și al contestației pe cale judiciară la tribunal (art. 49 alin. (2)).",
+    "sursa": {
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 24 alin. (1)",
+      "citat": "Consiliul soluționează pe fond contestația în termen de 20 de zile de la data primirii, în condițiile art. 18 alin. (2), a dosarului achiziției publice, al achiziției sectoriale sau al concesiunii, respectiv în termen de 10 zile în situația incidenței unei excepții care împiedică analiza pe fond a contestației.",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
     },
     "status": "ok"
   },
@@ -10897,6 +10875,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395B-027",
+    "tip": "unic",
+    "test": 24,
+    "intrebare": "Cum se realizează inițierea procedurii de negociere fără publicare prealabilă?",
+    "variante": [
+      "Prin transmiterea unei invitații de participare către cel puțin trei operatori economici, sub sancțiunea nulității procedurii.",
+      "Prin transmiterea unei invitații de participare la negocieri, însoțită de documentația de atribuire, către unul sau, ori de câte ori este posibil, către mai mulți operatori economici.",
+      "Prin notificarea prealabilă a ANAP, urmată de invitarea unui singur operator economic desemnat de aceasta.",
+      "Prin publicarea în SEAP a unui anunț de participare simplificat, însoțit de documentația de atribuire aferentă."
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 94 din Norme prevede un singur act de inițiere: invitația de participare la negocieri, obligatoriu însoțită de documentația de atribuire, adresată unuia sau, ori de câte ori este posibil, mai multor operatori economici. Formula „ori de câte ori este posibil” exprimă o obligație de diligență în direcția concurenței, nu un prag minim: nu există cerința celor trei operatori, care ar fi imposibil de respectat în cazurile tipice de negociere fără publicare (furnizor unic, drepturi exclusive, extremă urgență). Anunțul de participare simplificat este actul de inițiere al procedurii simplificate - art. 101 alin. (3), nu al negocierii fără publicare, care se caracterizează tocmai prin lipsa publicării prealabile. ANAP nu desemnează operatori economici; controlul său se exercită ex ante asupra documentației. A se reține că art. 93 din Norme a fost abrogat în 2024, astfel încât regulile procedurale rămase pentru această procedură sunt cele din art. 94.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 94",
+      "citat": "Inițierea procedurii de negociere fără publicare prealabilă se realizează prin transmiterea unei invitații de participare la negocieri, însoțită de documentația de atribuire, către unul sau, ori de câte ori este posibil, către mai mulți operatori economici.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L500-N110",
     "tip": "unic",
     "test": 24,
@@ -10920,25 +10921,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395B-027",
+    "id": "L98-N403",
     "tip": "unic",
     "test": 24,
-    "intrebare": "Cum se realizează inițierea procedurii de negociere fără publicare prealabilă?",
+    "intrebare": "Potrivit Legii nr. 98/2016, pe ce bază atribuie autoritatea contractantă contractul de achiziție publică în cazul în care a organizat o licitație electronică?",
     "variante": [
-      "Prin transmiterea unei invitații de participare către cel puțin trei operatori economici, sub sancțiunea nulității procedurii.",
-      "Prin transmiterea unei invitații de participare la negocieri, însoțită de documentația de atribuire, către unul sau, ori de câte ori este posibil, către mai mulți operatori economici.",
-      "Prin notificarea prealabilă a ANAP, urmată de invitarea unui singur operator economic desemnat de aceasta.",
-      "Prin publicarea în SEAP a unui anunț de participare simplificat, însoțit de documentația de atribuire aferentă."
+      "Pe baza clasamentului obținut la finalul primei runde a licitației electronice",
+      "Prin aplicarea criteriului de atribuire și a factorilor de evaluare stabiliți prin documentele achiziției, pe baza rezultatului obținut în urma finalizării licitației electronice",
+      "Pe baza rezultatului evaluării inițiale integrale a ofertelor, realizată înainte de începerea licitației electronice",
+      "Prin aplicarea criteriului prețului cel mai scăzut, indiferent de criteriul de atribuire stabilit inițial, întrucât licitația electronică se desfășoară pe baza prețurilor"
     ],
     "corecte": [
       1
     ],
-    "explicatie": "Art. 94 din Norme prevede un singur act de inițiere: invitația de participare la negocieri, obligatoriu însoțită de documentația de atribuire, adresată unuia sau, ori de câte ori este posibil, mai multor operatori economici. Formula „ori de câte ori este posibil” exprimă o obligație de diligență în direcția concurenței, nu un prag minim: nu există cerința celor trei operatori, care ar fi imposibil de respectat în cazurile tipice de negociere fără publicare (furnizor unic, drepturi exclusive, extremă urgență). Anunțul de participare simplificat este actul de inițiere al procedurii simplificate - art. 101 alin. (3), nu al negocierii fără publicare, care se caracterizează tocmai prin lipsa publicării prealabile. ANAP nu desemnează operatori economici; controlul său se exercită ex ante asupra documentației. A se reține că art. 93 din Norme a fost abrogat în 2024, astfel încât regulile procedurale rămase pentru această procedură sunt cele din art. 94.",
+    "explicatie": "Art. 138 din Legea nr. 98/2016 prevede că autoritatea contractantă atribuie contractul prin aplicarea criteriului de atribuire și a factorilor de evaluare stabiliți prin documentele achiziției, pe baza rezultatului obținut în urma finalizării licitației electronice. Evaluarea inițială integrală a ofertelor este obligatorie înainte de începerea licitației electronice (art. 134 alin. (1)), dar ea doar precedă licitația și nu este baza atribuirii. Criteriul nu se schimbă în prețul cel mai scăzut: licitația se bazează exclusiv pe prețuri numai când acesta a fost chiar criteriul de atribuire, altfel pe prețuri și/sau noile valori ale elementelor ofertelor (art. 133 lit. a) și b)). Licitația electronică se desfășoară în una sau mai multe runde succesive (art. 134 alin. (5)) și se finalizează în modalitățile de la art. 137 alin. (1), astfel încât contează rezultatul de la finalizarea ei, nu clasamentul primei runde.",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 94",
-      "citat": "Inițierea procedurii de negociere fără publicare prealabilă se realizează prin transmiterea unei invitații de participare la negocieri, însoțită de documentația de atribuire, către unul sau, ori de câte ori este posibil, către mai mulți operatori economici.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 138",
+      "citat": "Autoritatea contractantă atribuie contractul de achiziție publică prin aplicarea criteriului de atribuire și a factorilor de evaluare stabiliți prin documentele achiziției, pe baza rezultatului obținut în urma finalizării licitației electronice.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -10964,29 +10965,6 @@ const INTREBARI = [
       "articol": "art. 8 alin. (1) lit. c), d) și e)",
       "citat": "c) 2 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. c) din ordonanța de urgență; d) 3 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. d), respectiv art. 12 alin. (2) din ordonanța de urgență; e) 2 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin (1) lit. e) din ordonanța de urgență.",
       "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98-N403",
-    "tip": "unic",
-    "test": 24,
-    "intrebare": "Potrivit Legii nr. 98/2016, pe ce bază atribuie autoritatea contractantă contractul de achiziție publică în cazul în care a organizat o licitație electronică?",
-    "variante": [
-      "Pe baza clasamentului obținut la finalul primei runde a licitației electronice",
-      "Prin aplicarea criteriului de atribuire și a factorilor de evaluare stabiliți prin documentele achiziției, pe baza rezultatului obținut în urma finalizării licitației electronice",
-      "Pe baza rezultatului evaluării inițiale integrale a ofertelor, realizată înainte de începerea licitației electronice",
-      "Prin aplicarea criteriului prețului cel mai scăzut, indiferent de criteriul de atribuire stabilit inițial, întrucât licitația electronică se desfășoară pe baza prețurilor"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 138 din Legea nr. 98/2016 prevede că autoritatea contractantă atribuie contractul prin aplicarea criteriului de atribuire și a factorilor de evaluare stabiliți prin documentele achiziției, pe baza rezultatului obținut în urma finalizării licitației electronice. Evaluarea inițială integrală a ofertelor este obligatorie înainte de începerea licitației electronice (art. 134 alin. (1)), dar ea doar precedă licitația și nu este baza atribuirii. Criteriul nu se schimbă în prețul cel mai scăzut: licitația se bazează exclusiv pe prețuri numai când acesta a fost chiar criteriul de atribuire, altfel pe prețuri și/sau noile valori ale elementelor ofertelor (art. 133 lit. a) și b)). Licitația electronică se desfășoară în una sau mai multe runde succesive (art. 134 alin. (5)) și se finalizează în modalitățile de la art. 137 alin. (1), astfel încât contează rezultatul de la finalizarea ei, nu clasamentul primei runde.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 138",
-      "citat": "Autoritatea contractantă atribuie contractul de achiziție publică prin aplicarea criteriului de atribuire și a factorilor de evaluare stabiliți prin documentele achiziției, pe baza rezultatului obținut în urma finalizării licitației electronice.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -11060,29 +11038,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L101A-034",
-    "tip": "unic",
-    "test": 24,
-    "intrebare": "În cazuri temeinic justificate, cu cât poate fi prelungit termenul de soluționare a contestației de către CNSC?",
-    "variante": [
-      "Cu 20 de zile, cu aprobarea președintelui Consiliului",
-      "Cu 10 zile, prelungirea fiind comunicată autorității contractante",
-      "Cu 5 zile, o singură dată, cu acordul contestatorului",
-      "Termenul de soluționare nu poate fi prelungit în nicio situație"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 24 alin. (2): în cazuri temeinic justificate, termenul de soluționare poate fi prelungit cu 10 zile, prelungirea fiind comunicată autorității contractante. Nu este necesară aprobarea președintelui Consiliului și nici acordul contestatorului. Distractorul „20 de zile” speculează confuzia cu termenul de bază de soluționare pe fond. De reținut și sancțiunea de la art. 24 alin. (3): nerespectarea cu vinovăție a termenului de soluționare constituie abatere disciplinară.",
-    "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 24 alin. (2)",
-      "citat": "În cazuri temeinic justificate, termenul de soluționare a contestației poate fi prelungit cu 10 zile, prelungirea fiind comunicată autorității contractante.",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98C-018",
     "tip": "unic",
     "test": 24,
@@ -11106,25 +11061,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "OUGA-023",
+    "id": "L101A-034",
     "tip": "unic",
     "test": 24,
-    "intrebare": "În ce situație nu solicită ANAP instanței constatarea nulității absolute a contractului încheiat în urma unei proceduri de negociere fără publicare prealabilă în care a emis aviz conform condiționat?",
+    "intrebare": "În cazuri temeinic justificate, cu cât poate fi prelungit termenul de soluționare a contestației de către CNSC?",
     "variante": [
-      "Dacă autoritatea contractantă își îndeplinește obligația de transparență (publicarea avizului conform final și a anunțului de transparență) și respectă termenele procedurale de așteptare prevăzute de Legea nr. 101/2016",
-      "Dacă autoritatea contractantă achită jumătate din minimul amenzii contravenționale în 48 de ore",
-      "Dacă valoarea contractului este sub pragul de publicare în JOUE",
-      "Dacă contractul a fost deja executat în proporție de peste 50%"
+      "Cu 20 de zile, cu aprobarea președintelui Consiliului",
+      "Cu 10 zile, prelungirea fiind comunicată autorității contractante",
+      "Cu 5 zile, o singură dată, cu acordul contestatorului",
+      "Termenul de soluționare nu poate fi prelungit în nicio situație"
     ],
     "corecte": [
-      0
+      1
     ],
-    "explicatie": "Art. 14 alin. (9) instituie o cauză de protecție a contractului: dacă autoritatea și-a îndeplinit obligația de transparență de la alin. (6) (publicarea avizului conform final cu anunțul de transparență) ȘI a respectat termenele de așteptare din Legea nr. 101/2016, ANAP nu solicită nulitatea absolută. Logica: transparența și termenele de așteptare au dat operatorilor economici posibilitatea reală de a contesta. Plata a jumătate din minimul amenzii (art. 26 alin. (2)) privește doar răspunderea contravențională, nu soarta contractului; pragul JOUE și gradul de execuție a contractului sunt irelevante pentru acest mecanism.",
+    "explicatie": "Art. 24 alin. (2): în cazuri temeinic justificate, termenul de soluționare poate fi prelungit cu 10 zile, prelungirea fiind comunicată autorității contractante. Nu este necesară aprobarea președintelui Consiliului și nici acordul contestatorului. Distractorul „20 de zile” speculează confuzia cu termenul de bază de soluționare pe fond. De reținut și sancțiunea de la art. 24 alin. (3): nerespectarea cu vinovăție a termenului de soluționare constituie abatere disciplinară.",
     "sursa": {
-      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
-      "articol": "art. 14 alin. (9)",
-      "citat": "În cazul în care autoritatea contractantă își îndeplinește obligația de transparență prevăzută la alin. (6) și respectă termenele procedurale de așteptare prevăzute de Legea nr. 101/2016, ANAP nu solicită instanței competente să constate nulitatea absolută a contractului",
-      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 24 alin. (2)",
+      "citat": "În cazuri temeinic justificate, termenul de soluționare a contestației poate fi prelungit cu 10 zile, prelungirea fiind comunicată autorității contractante.",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
     },
     "status": "ok"
   },
@@ -11154,6 +11109,52 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "OUGA-023",
+    "tip": "unic",
+    "test": 24,
+    "intrebare": "În ce situație nu solicită ANAP instanței constatarea nulității absolute a contractului încheiat în urma unei proceduri de negociere fără publicare prealabilă în care a emis aviz conform condiționat?",
+    "variante": [
+      "Dacă autoritatea contractantă își îndeplinește obligația de transparență (publicarea avizului conform final și a anunțului de transparență) și respectă termenele procedurale de așteptare prevăzute de Legea nr. 101/2016",
+      "Dacă autoritatea contractantă achită jumătate din minimul amenzii contravenționale în 48 de ore",
+      "Dacă valoarea contractului este sub pragul de publicare în JOUE",
+      "Dacă contractul a fost deja executat în proporție de peste 50%"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 14 alin. (9) instituie o cauză de protecție a contractului: dacă autoritatea și-a îndeplinit obligația de transparență de la alin. (6) (publicarea avizului conform final cu anunțul de transparență) ȘI a respectat termenele de așteptare din Legea nr. 101/2016, ANAP nu solicită nulitatea absolută. Logica: transparența și termenele de așteptare au dat operatorilor economici posibilitatea reală de a contesta. Plata a jumătate din minimul amenzii (art. 26 alin. (2)) privește doar răspunderea contravențională, nu soarta contractului; pragul JOUE și gradul de execuție a contractului sunt irelevante pentru acest mecanism.",
+    "sursa": {
+      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+      "articol": "art. 14 alin. (9)",
+      "citat": "În cazul în care autoritatea contractantă își îndeplinește obligația de transparență prevăzută la alin. (6) și respectă termenele procedurale de așteptare prevăzute de Legea nr. 101/2016, ANAP nu solicită instanței competente să constate nulitatea absolută a contractului",
+      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98C-019",
+    "tip": "unic",
+    "test": 24,
+    "intrebare": "În situația în care autoritatea contractantă nu recurge la atribuirea contractului pe loturi:",
+    "variante": [
+      "Trebuie să demonstreze că valoarea contractului este sub pragurile europene",
+      "Nu are nicio obligație suplimentară, împărțirea pe loturi fiind pur facultativă",
+      "Are obligația de a justifica decizia de a nu atribui contractul pe loturi",
+      "Trebuie să obțină avizul conform al ANAP pentru această decizie"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 141 alin. (3) consacră principiul «împarte sau explică» (divide or explain): lotizarea rămâne un drept al autorității contractante (alin. (1)), dar decizia de a NU lotiza trebuie justificată. Nu este necesar niciun aviz ANAP și nu există vreo condiție legată de praguri. Rațiunea regulii este facilitarea accesului IMM-urilor: obiectul loturilor se stabilește pe baze cantitative sau calitative tocmai pentru a corespunde capacității întreprinderilor mici și mijlocii (alin. (2)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 141 alin. (3)",
+      "citat": "În situația în care autoritatea contractantă nu recurge la atribuirea contractului pe loturi, aceasta are obligația de a justifica decizia de a nu atribui contractul pe loturi.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L500-038",
     "tip": "multiplu",
     "test": 24,
@@ -11175,29 +11176,6 @@ const INTREBARI = [
       "articol": "art. 28^4 alin. (1)",
       "citat": "unitățile teritoriale ale Trezoreriei Statului au obligația să nu opereze plăți din conturile acestora, cu excepția plăților pentru achitarea drepturilor salariale și a contribuțiilor aferente acestora, respectiv pentru stingerea arieratelor, precum și pentru plata ratelor de capital, dobânzilor, comisioanelor și altor costuri aferente datoriei publice.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98C-019",
-    "tip": "unic",
-    "test": 25,
-    "intrebare": "În situația în care autoritatea contractantă nu recurge la atribuirea contractului pe loturi:",
-    "variante": [
-      "Trebuie să demonstreze că valoarea contractului este sub pragurile europene",
-      "Nu are nicio obligație suplimentară, împărțirea pe loturi fiind pur facultativă",
-      "Are obligația de a justifica decizia de a nu atribui contractul pe loturi",
-      "Trebuie să obțină avizul conform al ANAP pentru această decizie"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 141 alin. (3) consacră principiul «împarte sau explică» (divide or explain): lotizarea rămâne un drept al autorității contractante (alin. (1)), dar decizia de a NU lotiza trebuie justificată. Nu este necesar niciun aviz ANAP și nu există vreo condiție legată de praguri. Rațiunea regulii este facilitarea accesului IMM-urilor: obiectul loturilor se stabilește pe baze cantitative sau calitative tocmai pentru a corespunde capacității întreprinderilor mici și mijlocii (alin. (2)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 141 alin. (3)",
-      "citat": "În situația în care autoritatea contractantă nu recurge la atribuirea contractului pe loturi, aceasta are obligația de a justifica decizia de a nu atribui contractul pe loturi.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -11504,29 +11482,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "OUGA-024",
-    "tip": "unic",
-    "test": 25,
-    "intrebare": "Cum procedează ANAP atunci când Agenția Națională de Integritate a emis un avertisment de integritate, iar ANAP a luat cunoștință despre acesta?",
-    "variante": [
-      "Comunică Agenției Naționale de Integritate constatările sale cu privire la măsurile de remediere dispuse de autoritatea contractantă și nu emite aviz conform",
-      "Suspendă de drept procedura de atribuire până la soluționarea definitivă a conflictului de interese",
-      "Aplică direct autorității contractante o amendă de la 20.000 la 30.000 lei",
-      "Emite un aviz conform condiționat prin care obligă autoritatea să înlocuiască membrii comisiei de evaluare"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 14 alin. (9^1): când există un avertisment de integritate emis de ANI (mecanismul PREVENT din Legea nr. 184/2016), constatările ANAP privind măsurile de remediere dispuse de autoritate se comunică ANI, iar ANAP NU emite aviz conform — competența de urmărire a conflictului de interese rămâne la ANI. ANAP nu poate impune înlocuirea membrilor comisiei și nu suspendă procedura. Amenda de 20.000-30.000 lei sancționează cu totul altceva (neînștiințarea semnării contractului, art. 26). Prin contrast, potrivit alin. (9^2), ANAP emite aviz conform doar pentru aspectele în care ANI nu are atribuții și a notificat ANAP în acest sens.",
-    "sursa": {
-      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
-      "articol": "art. 14 alin. (9^1)",
-      "citat": "constatările ANAP cu privire la măsurile de remediere dispuse de autoritatea contractantă, ca urmare a respectivului avertisment de integritate, se comunică Agenției Naționale de Integritate. În această situație, ANAP nu emite aviz conform.",
-      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98C-025",
     "tip": "unic",
     "test": 25,
@@ -11546,6 +11501,29 @@ const INTREBARI = [
       "articol": "art. 145 alin. (2)",
       "citat": "În cazul contractelor de achiziție publică încheiate în executarea acordurilor-cadru, autoritatea contractantă grupează trimestrial anunțurile de atribuire și are obligația de a transmite spre publicare anunțurile de atribuire astfel grupate în termen de 30 de zile de la încheierea fiecărui trimestru.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "OUGA-024",
+    "tip": "unic",
+    "test": 25,
+    "intrebare": "Cum procedează ANAP atunci când Agenția Națională de Integritate a emis un avertisment de integritate, iar ANAP a luat cunoștință despre acesta?",
+    "variante": [
+      "Comunică Agenției Naționale de Integritate constatările sale cu privire la măsurile de remediere dispuse de autoritatea contractantă și nu emite aviz conform",
+      "Suspendă de drept procedura de atribuire până la soluționarea definitivă a conflictului de interese",
+      "Aplică direct autorității contractante o amendă de la 20.000 la 30.000 lei",
+      "Emite un aviz conform condiționat prin care obligă autoritatea să înlocuiască membrii comisiei de evaluare"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 14 alin. (9^1): când există un avertisment de integritate emis de ANI (mecanismul PREVENT din Legea nr. 184/2016), constatările ANAP privind măsurile de remediere dispuse de autoritate se comunică ANI, iar ANAP NU emite aviz conform — competența de urmărire a conflictului de interese rămâne la ANI. ANAP nu poate impune înlocuirea membrilor comisiei și nu suspendă procedura. Amenda de 20.000-30.000 lei sancționează cu totul altceva (neînștiințarea semnării contractului, art. 26). Prin contrast, potrivit alin. (9^2), ANAP emite aviz conform doar pentru aspectele în care ANI nu are atribuții și a notificat ANAP în acest sens.",
+    "sursa": {
+      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+      "articol": "art. 14 alin. (9^1)",
+      "citat": "constatările ANAP cu privire la măsurile de remediere dispuse de autoritatea contractantă, ca urmare a respectivului avertisment de integritate, se comunică Agenției Naționale de Integritate. În această situație, ANAP nu emite aviz conform.",
+      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
     },
     "status": "ok"
   },
@@ -11575,29 +11553,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500-039",
-    "tip": "unic",
-    "test": 25,
-    "intrebare": "Cum se aprobă numărul maxim de posturi finanțat și fondul aferent salariilor de bază?",
-    "variante": [
-      "Prin ordin al ministrului finanțelor publice, la propunerea ordonatorului principal de credite.",
-      "Global, la nivelul întregului sistem bugetar, prin legea bugetului de stat.",
-      "Distinct, prin anexă la bugetul fiecărui ordonator principal de credite, numărul maxim de posturi aprobat prin legea bugetară anuală neputând fi depășit.",
-      "Prin hotărâre a Guvernului, putând fi depășit cu până la 5% în cazuri temeinic justificate."
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 29 alin. (4) impune aprobarea distinctă, prin anexă la bugetul fiecărui ordonator principal de credite, a numărului maxim de posturi finanțat și a fondului aferent salariilor de bază, și interzice expres depășirea numărului maxim de posturi aprobat prin legea bugetară anuală. Nu există o marjă de depășire de 5% și nu este vorba de o aprobare globală pe sistem bugetar sau prin ordin al ministrului. Regula se corelează cu art. 47 alin. (5), potrivit căruia ordonatorii principali de credite au obligația să întreprindă toate măsurile pentru încadrarea în alocațiile de cheltuieli de personal și în numărul maxim de posturi, și cu art. 47 alin. (3), care interzice majorarea și virarea alocațiilor pentru cheltuieli de personal către alte articole de cheltuieli.",
-    "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 29 alin. (4)",
-      "citat": "Numărul maxim de posturi finanțat și fondul aferent salariilor de bază se aprobă distinct, prin anexă la bugetul fiecărui ordonator principal de credite. Numărul maxim de posturi aprobat prin legea bugetară anuală nu poate fi depășit.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98-N404",
     "tip": "unic",
     "test": 25,
@@ -11611,7 +11566,7 @@ const INTREBARI = [
     "corecte": [
       1
     ],
-    "explicatie": "Art. 146 din Legea nr. 98/2016 prevede că anunțurile prevăzute la art. 142, inclusiv anunțurile corespunzătoare tip erată, se transmit spre publicare prin mijloace electronice, în condițiile din normele metodologice, și se publică în JOUE cu respectarea formatelor-standard stabilite de Comisia Europeană în temeiul art. 51 din Directiva 2014/24/UE. Erata nu este exceptată: art. 146 o include expres alături de anunțurile de la art. 142. Ordinea publicării este inversă celei din distractor: art. 147 alin. (1) interzice publicarea la nivel național înainte de publicarea în JOUE, iar cele 48 de ore de la art. 147 alin. (2) sunt intervalul după care, în lipsa notificării Oficiului pentru Publicații, publicarea națională devine permisă. Normele metodologice stabilesc doar condițiile de transmitere, în timp ce formatele-standard sunt cele stabilite de Comisia Europeană, conform aceluiași art. 146.",
+    "explicatie": "Art. 146 din Legea nr. 98/2016 prevede că anunțurile prevăzute la art. 142, inclusiv anunțurile corespunzătoare tip erată, se transmit spre publicare prin mijloace electronice, în condițiile din normele metodologice, și se publică în JOUE cu respectarea formatelor-standard stabilite de Comisia Europeană. Erata nu este exceptată: art. 146 o include expres alături de anunțurile de la art. 142. Ordinea publicării este inversă celei din distractor: art. 147 alin. (1) interzice publicarea la nivel național înainte de publicarea în JOUE, iar cele 48 de ore de la art. 147 alin. (2) sunt intervalul după care, în lipsa notificării Oficiului pentru Publicații, publicarea națională devine permisă. Normele metodologice stabilesc doar condițiile de transmitere, în timp ce formatele-standard sunt cele stabilite de Comisia Europeană, conform aceluiași art. 146.",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 146",
@@ -11644,6 +11599,52 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L500-039",
+    "tip": "unic",
+    "test": 25,
+    "intrebare": "Cum se aprobă numărul maxim de posturi finanțat și fondul aferent salariilor de bază?",
+    "variante": [
+      "Prin ordin al ministrului finanțelor publice, la propunerea ordonatorului principal de credite.",
+      "Global, la nivelul întregului sistem bugetar, prin legea bugetului de stat.",
+      "Distinct, prin anexă la bugetul fiecărui ordonator principal de credite, numărul maxim de posturi aprobat prin legea bugetară anuală neputând fi depășit.",
+      "Prin hotărâre a Guvernului, putând fi depășit cu până la 5% în cazuri temeinic justificate."
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 29 alin. (4) impune aprobarea distinctă, prin anexă la bugetul fiecărui ordonator principal de credite, a numărului maxim de posturi finanțat și a fondului aferent salariilor de bază, și interzice expres depășirea numărului maxim de posturi aprobat prin legea bugetară anuală. Nu există o marjă de depășire de 5% și nu este vorba de o aprobare globală pe sistem bugetar sau prin ordin al ministrului. Regula se corelează cu art. 47 alin. (5), potrivit căruia ordonatorii principali de credite au obligația să întreprindă toate măsurile pentru încadrarea în alocațiile de cheltuieli de personal și în numărul maxim de posturi, și cu art. 47 alin. (3), care interzice majorarea și virarea alocațiilor pentru cheltuieli de personal către alte articole de cheltuieli.",
+    "sursa": {
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 29 alin. (4)",
+      "citat": "Numărul maxim de posturi finanțat și fondul aferent salariilor de bază se aprobă distinct, prin anexă la bugetul fiecărui ordonator principal de credite. Numărul maxim de posturi aprobat prin legea bugetară anuală nu poate fi depășit.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98C-026",
+    "tip": "unic",
+    "test": 25,
+    "intrebare": "Potrivit Legii nr. 98/2016, autoritatea contractantă a transmis spre publicare un anunț de participare către Oficiul pentru Publicații al Uniunii Europene. Când poate publica anunțul la nivel național?",
+    "variante": [
+      "Simultan cu transmiterea către Oficiul pentru Publicații al Uniunii Europene, publicitatea națională fiind independentă",
+      "După publicarea în Jurnalul Oficial al Uniunii Europene sau, prin excepție, dacă nu a fost notificată cu privire la publicare în termen de 48 de ore de la confirmarea primirii anunțului",
+      "Oricând, cu condiția ca anunțul național să conțină informații suplimentare față de cel european",
+      "După publicarea în Jurnalul Oficial al Uniunii Europene sau, prin excepție, dacă nu a fost notificată cu privire la publicare în termen de 5 zile de la transmitere"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Potrivit art. 147 alin. (1), anunțurile prevăzute la art. 142 nu pot fi publicate la nivel național înainte de data publicării acestora în JOUE. Excepția de la art. 147 alin. (2) permite publicarea națională dacă autoritatea contractantă nu a fost notificată de Oficiul pentru Publicații al Uniunii Europene despre publicarea în JOUE în termen de 48 de ore de la CONFIRMAREA PRIMIRII anunțului (nu de la transmitere). Termenul de 5 zile este real, dar are alt rol: prelungirea termenului de depunere a ofertelor când accesul electronic la anumite documente ale achiziției nu poate fi asigurat (art. 150 alin. (4) și (6)). Publicarea simultană cu transmiterea contrazice art. 147 alin. (1). Varianta care permite publicarea oricând, cu informații suplimentare în anunțul național, contrazice art. 148, potrivit căruia anunțurile publicate la nivel național nu trebuie să conțină alte informații față de cele publicate în JOUE.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 147 alin. (1) și (2)",
+      "citat": "Anunțurile prevăzute la art. 142 nu pot fi publicate la nivel național înainte de data publicării acestora în Jurnalul Oficial al Uniunii Europene. [...] publicarea la nivel național a anunțurilor prevăzute la art. 142 este permisă atunci când autoritatea contractantă nu a fost notificată de către Oficiul pentru Publicații al Uniunii Europene cu privire la publicarea în Jurnalul Oficial al Uniunii Europene a anunțurilor transmise spre publicare în termen de 48 de ore de la confirmarea primirii de către Oficiul pentru Publicații al Uniunii Europene a anunțului transmis spre publicare.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L101A-036",
     "tip": "unic",
     "test": 26,
@@ -11663,29 +11664,6 @@ const INTREBARI = [
       "articol": "art. 25 alin. (5)",
       "citat": "Suspendarea procedurii de soluționare a contestației întrerupe curgerea termenului de soluționare prevăzut la art. 24 alin. (1). De la reluarea soluționării curge un nou termen.",
       "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98C-026",
-    "tip": "unic",
-    "test": 26,
-    "intrebare": "Potrivit Legii nr. 98/2016, autoritatea contractantă a transmis spre publicare un anunț de participare către Oficiul pentru Publicații al Uniunii Europene. Când poate publica anunțul la nivel național?",
-    "variante": [
-      "Simultan cu transmiterea către Oficiul pentru Publicații al Uniunii Europene, publicitatea națională fiind independentă",
-      "După publicarea în Jurnalul Oficial al Uniunii Europene sau, prin excepție, dacă nu a fost notificată cu privire la publicare în termen de 48 de ore de la confirmarea primirii anunțului",
-      "Oricând, cu condiția ca anunțul național să conțină informații suplimentare față de cel european",
-      "După publicarea în Jurnalul Oficial al Uniunii Europene sau, prin excepție, dacă nu a fost notificată cu privire la publicare în termen de 5 zile de la transmitere"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Potrivit art. 147 alin. (1), anunțurile prevăzute la art. 142 nu pot fi publicate la nivel național înainte de data publicării acestora în JOUE. Excepția de la art. 147 alin. (2) permite publicarea națională dacă autoritatea contractantă nu a fost notificată de Oficiul pentru Publicații al Uniunii Europene despre publicarea în JOUE în termen de 48 de ore de la CONFIRMAREA PRIMIRII anunțului (nu de la transmitere). Termenul de 5 zile este real, dar are alt rol: prelungirea termenului de depunere a ofertelor când accesul electronic la anumite documente ale achiziției nu poate fi asigurat (art. 150 alin. (4) și (6)). Publicarea simultană cu transmiterea contrazice art. 147 alin. (1). Varianta care permite publicarea oricând, cu informații suplimentare în anunțul național, contrazice art. 148, potrivit căruia anunțurile publicate la nivel național nu trebuie să conțină alte informații față de cele publicate în JOUE.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 147 alin. (1) și (2)",
-      "citat": "Anunțurile prevăzute la art. 142 nu pot fi publicate la nivel național înainte de data publicării acestora în Jurnalul Oficial al Uniunii Europene. [...] publicarea la nivel național a anunțurilor prevăzute la art. 142 este permisă atunci când autoritatea contractantă nu a fost notificată de către Oficiul pentru Publicații al Uniunii Europene cu privire la publicarea în Jurnalul Oficial al Uniunii Europene a anunțurilor transmise spre publicare în termen de 48 de ore de la confirmarea primirii de către Oficiul pentru Publicații al Uniunii Europene a anunțului transmis spre publicare.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -11784,29 +11762,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500B-005",
-    "tip": "unic",
-    "test": 26,
-    "intrebare": "Cum sunt structurate veniturile și, respectiv, cheltuielile în bugetele reglementate de Legea nr. 500/2002?",
-    "variante": [
-      "Veniturile pe capitole și subcapitole, iar cheltuielile pe părți, capitole, subcapitole, titluri, articole, precum și alineate, după caz",
-      "Veniturile pe părți, capitole și subcapitole, iar cheltuielile pe surse de proveniență și titluri",
-      "Veniturile pe titluri și articole, iar cheltuielile pe programe și proiecte multianuale",
-      "Atât veniturile, cât și cheltuielile pe capitole, subcapitole și paragrafe, potrivit clasificației funcționale"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 29 alin. (2) prevede o structurare asimetrică: veniturile se detaliază doar pe capitole și subcapitole, în timp ce cheltuielile coboară până la nivelul de părți, capitole, subcapitole, titluri, articole și alineate, după caz. Explicația ține de natura celor două părți ale bugetului - cheltuielile au destinație precisă și limitată, potrivit alin. (3), deci trebuie individualizate mult mai fin decât veniturile, care rămân estimări. Distractorul a) inversează cele două structuri, distractorul c) uniformizează greșit nivelurile și introduce paragraful, care este o subdiviziune a clasificației folosită de art. 16 alin. (1) lit. c) pentru detalierea făcută de ordonatorul principal, iar distractorul d) confundă structura bugetului cu prezentarea programelor, care se aprobă ca anexe la bugetele ordonatorilor principali de credite, potrivit art. 28^5 alin. (1). Capcană conexă: gruparea în sine se face pe baza clasificației bugetare - art. 29 alin. (1) - dar clasificația bugetară nu reprezintă bază legală pentru efectuarea angajamentelor legale și/sau a plăților, potrivit definiției de la art. 2 alin. (1) pct. 9.",
-    "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 29 alin. (2)",
-      "citat": "Veniturile sunt structurate pe capitole și subcapitole, iar cheltuielile pe părți, capitole, subcapitole, titluri, articole, precum și alineate, după caz.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98C-029",
     "tip": "unic",
     "test": 26,
@@ -11825,6 +11780,52 @@ const INTREBARI = [
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 150 alin. (1)",
       "citat": "Autoritatea contractantă asigură prin mijloace electronice, prin intermediul SEAP, accesul direct, complet, nerestricționat și gratuit al operatorilor economici la documentele achiziției începând cu data publicării anunțului de participare.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L500B-005",
+    "tip": "unic",
+    "test": 26,
+    "intrebare": "Cum sunt structurate veniturile și, respectiv, cheltuielile în bugetele reglementate de Legea nr. 500/2002?",
+    "variante": [
+      "Veniturile pe capitole și subcapitole, iar cheltuielile pe părți, capitole, subcapitole, titluri, articole, precum și alineate, după caz",
+      "Veniturile pe părți, capitole și subcapitole, iar cheltuielile pe surse de proveniență și titluri",
+      "Veniturile pe titluri și articole, iar cheltuielile pe programe și proiecte multianuale",
+      "Atât veniturile, cât și cheltuielile pe capitole, subcapitole și paragrafe, potrivit clasificației funcționale"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 29 alin. (2) prevede o structurare asimetrică: veniturile se detaliază doar pe capitole și subcapitole, în timp ce cheltuielile coboară până la nivelul de părți, capitole, subcapitole, titluri, articole și alineate, după caz. Explicația ține de natura celor două părți ale bugetului - cheltuielile au destinație precisă și limitată, potrivit alin. (3), deci trebuie individualizate mult mai fin decât veniturile, care rămân estimări. Varianta cu veniturile pe părți și cheltuielile pe surse inversează cele două structuri, varianta cu aceeași grupare pe paragrafe pentru venituri și cheltuieli uniformizează greșit nivelurile și introduce paragraful, care este o subdiviziune a clasificației folosită de art. 16 alin. (1) lit. c) pentru detalierea făcută de ordonatorul principal, iar varianta cu cheltuielile pe programe și proiecte multianuale confundă structura bugetului cu prezentarea programelor, care se aprobă ca anexe la bugetele ordonatorilor principali de credite, potrivit art. 28^5 alin. (1). Capcană conexă: gruparea în sine se face pe baza clasificației bugetare - art. 29 alin. (1) - dar clasificația bugetară nu reprezintă bază legală pentru efectuarea angajamentelor legale și/sau a plăților, potrivit definiției de la art. 2 alin. (1) pct. 9.",
+    "sursa": {
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 29 alin. (2)",
+      "citat": "Veniturile sunt structurate pe capitole și subcapitole, iar cheltuielile pe părți, capitole, subcapitole, titluri, articole, precum și alineate, după caz.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98C-030",
+    "tip": "unic",
+    "test": 26,
+    "intrebare": "Autoritatea contractantă nu poate asigura prin mijloace electronice accesul direct, complet, nerestricționat și gratuit la anumite documente ale achiziției și indică în anunțul de participare o altă modalitate de acces. Ce obligație suplimentară are?",
+    "variante": [
+      "Să prelungească termenul de depunere a ofertelor sau solicitărilor de participare cu 5 zile, cu excepția situațiilor de urgență demonstrate corespunzător",
+      "Să anuleze procedura și să o reia integral prin mijloace electronice",
+      "Să prelungească termenul de depunere a ofertelor cu 10 zile, fără excepții",
+      "Să prelungească termenul de depunere a ofertelor cu 6 zile, respectiv 4 zile în situații de urgență"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 150 alin. (4) impune o prelungire de 5 zile a termenului de depunere, ca o compensație pentru accesul mai greoi la documente; aceeași soluție se aplică, potrivit alin. (6), și situației în care accesul este restricționat din motive de confidențialitate. Prelungirea nu operează în situațiile de urgență demonstrate corespunzător, prevăzute la art. 74 alin. (3), art. 79 alin. (5) și art. 84 alin. (5). Termenele de 6 și 4 zile sunt reale, dar aparțin altei instituții: durata minimă a prelungirii pentru clarificări netransmise în termen sau pentru modificarea semnificativă a documentelor achiziției (art. 153 alin. (3)). Termenul de 10 zile este durata minimă cu care trebuie transmis răspunsul la clarificări înainte de data-limită de depunere (art. 161 alin. (1)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 150 alin. (4)",
+      "citat": "În cazul prevăzut la alin. (3), autoritatea contractantă are obligația de a prelungi termenul de depunere a ofertelor sau solicitărilor de participare cu 5 zile, cu excepția situațiilor de urgență demonstrate în mod corespunzător de autoritatea contractantă, prevăzute la art. 74 alin. (3), art. 79 alin. (5) și art. 84 alin. (5).",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -11876,29 +11877,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98C-030",
-    "tip": "unic",
-    "test": 26,
-    "intrebare": "Autoritatea contractantă nu poate asigura prin mijloace electronice accesul direct, complet, nerestricționat și gratuit la anumite documente ale achiziției și indică în anunțul de participare o altă modalitate de acces. Ce obligație suplimentară are?",
-    "variante": [
-      "Să prelungească termenul de depunere a ofertelor sau solicitărilor de participare cu 5 zile, cu excepția situațiilor de urgență demonstrate corespunzător",
-      "Să anuleze procedura și să o reia integral prin mijloace electronice",
-      "Să prelungească termenul de depunere a ofertelor cu 10 zile, fără excepții",
-      "Să prelungească termenul de depunere a ofertelor cu 6 zile, respectiv 4 zile în situații de urgență"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 150 alin. (4) impune o prelungire de 5 zile a termenului de depunere, ca o compensație pentru accesul mai greoi la documente; aceeași soluție se aplică, potrivit alin. (6), și situației în care accesul este restricționat din motive de confidențialitate. Prelungirea nu operează în situațiile de urgență demonstrate corespunzător, prevăzute la art. 74 alin. (3), art. 79 alin. (5) și art. 84 alin. (5). Termenele de 6 și 4 zile sunt reale, dar aparțin altei instituții: durata minimă a prelungirii pentru clarificări netransmise în termen sau pentru modificarea semnificativă a documentelor achiziției (art. 153 alin. (3)). Termenul de 10 zile este durata minimă cu care trebuie transmis răspunsul la clarificări înainte de data-limită de depunere (art. 161 alin. (1)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 150 alin. (4)",
-      "citat": "În cazul prevăzut la alin. (3), autoritatea contractantă are obligația de a prelungi termenul de depunere a ofertelor sau solicitărilor de participare cu 5 zile, cu excepția situațiilor de urgență demonstrate în mod corespunzător de autoritatea contractantă, prevăzute la art. 74 alin. (3), art. 79 alin. (5) și art. 84 alin. (5).",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L101A-037",
     "tip": "multiplu",
     "test": 26,
@@ -11920,29 +11898,6 @@ const INTREBARI = [
       "articol": "art. 26 alin. (2)",
       "citat": "Consiliul examinează din punctul de vedere al legalității și temeiniciei actul atacat și poate: a) pronunța o decizie prin care îl anulează în tot sau în parte; b) obliga autoritatea contractantă să emită un act/să adopte măsurile necesare restabilirii legalității, cu indicarea clară și precisă a operațiunilor care urmează a fi realizate de autoritatea contractantă; c) anula procedura de atribuire, în situația în care nu este posibilă remedierea actului atacat.",
       "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "OUGC-002",
-    "tip": "unic",
-    "test": 26,
-    "intrebare": "La ce nivel se aprobă, în cadrul ANAP, avizul conform necondiționat, avizul conform condiționat, respectiv avizul conform final emis cu privire la raportul intermediar/raportul procedurii?",
-    "variante": [
-      "La nivelul structurii de specialitate din cadrul ANAP responsabile cu realizarea controlului ex ante.",
-      "Prin ordin al președintelui ANAP, pentru fiecare aviz în parte.",
-      "De către comitetul decizional constituit la nivelul ANAP pentru soluționarea cererilor de conciliere.",
-      "De către verificatorii ex ante care au efectuat controlul, prin semnătura proprie, fără altă aprobare."
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Potrivit art. 14 alin. (7^1) din O.U.G. nr. 98/2017, introdus prin O.U.G. nr. 114/2020, toate cele trei tipuri de avize se aprobă la nivel de structură de specialitate din cadrul ANAP responsabilă cu realizarea controlului ex ante - deci nu este nevoie de aprobarea conducerii instituției pentru fiecare aviz. Ordinul președintelui ANAP este real, dar are alt rol: prin el se aprobă aspectele procedurale aferente aplicării metodologiei de selecție (art. 7 alin. (2)), modul de aplicare a metodologiei și țintele anuale (art. 7 alin. (3^1)) și modelele de formulare privind evaluarea ofertelor (art. 13 alin. (2)). Comitetul decizional există și el, însă competența lui este limitată la adoptarea deciziei de conciliere (art. 18 alin. (1)), nu la aprobarea avizelor. Verificatorii ex ante răspund de acuratețea constatărilor și de fundamentarea propunerilor care stau la baza avizului (art. 13 alin. (2) din normele metodologice), dar nu ei aprobă avizul.",
-    "sursa": {
-      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
-      "articol": "art. 14 alin. (7^1)",
-      "citat": "Avizul conform necondiționat, avizul conform condiționat, respectiv avizul conform final, emis cu privire la raportul intermediar/raportul procedurii, se aprobă la nivel de structură de specialitate din cadrul ANAP responsabilă cu realizarea controlului ex ante.",
-      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
     },
     "status": "ok"
   },
@@ -11970,6 +11925,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "OUGC-002",
+    "tip": "unic",
+    "test": 26,
+    "intrebare": "La ce nivel se aprobă, în cadrul ANAP, avizul conform necondiționat, avizul conform condiționat, respectiv avizul conform final emis cu privire la raportul intermediar/raportul procedurii?",
+    "variante": [
+      "La nivelul structurii de specialitate din cadrul ANAP responsabile cu realizarea controlului ex ante.",
+      "Prin ordin al președintelui ANAP, pentru fiecare aviz în parte.",
+      "De către comitetul decizional constituit la nivelul ANAP pentru soluționarea cererilor de conciliere.",
+      "De către verificatorii ex ante care au efectuat controlul, prin semnătura proprie, fără altă aprobare."
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Potrivit art. 14 alin. (7^1) din O.U.G. nr. 98/2017, introdus prin O.U.G. nr. 114/2020, toate cele trei tipuri de avize se aprobă la nivel de structură de specialitate din cadrul ANAP responsabilă cu realizarea controlului ex ante - deci nu este nevoie de aprobarea conducerii instituției pentru fiecare aviz. Ordinul președintelui ANAP este real, dar are alt rol: prin el se aprobă aspectele procedurale aferente aplicării metodologiei de selecție (art. 7 alin. (2)), modul de aplicare a metodologiei și țintele anuale (art. 7 alin. (3^1)) și modelele de formulare privind evaluarea ofertelor (art. 13 alin. (2)). Comitetul decizional există și el, însă competența lui este limitată la adoptarea deciziei de conciliere (art. 18 alin. (1)), nu la aprobarea avizelor. Verificatorii ex ante răspund de acuratețea constatărilor și de fundamentarea propunerilor care stau la baza avizului (art. 13 alin. (2) din normele metodologice), dar nu ei aprobă avizul.",
+    "sursa": {
+      "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+      "articol": "art. 14 alin. (7^1)",
+      "citat": "Avizul conform necondiționat, avizul conform condiționat, respectiv avizul conform final, emis cu privire la raportul intermediar/raportul procedurii, se aprobă la nivel de structură de specialitate din cadrul ANAP responsabilă cu realizarea controlului ex ante.",
+      "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "N395B-034",
     "tip": "unic",
     "test": 26,
@@ -11983,7 +11961,7 @@ const INTREBARI = [
     "corecte": [
       1
     ],
-    "explicatie": "Art. 105 din Norme stabilește un termen de 15 zile de la data încheierii contractului/acordului-cadru pentru publicarea în SEAP a anunțului de atribuire aferent procedurii simplificate, obligație care se extinde și asupra oricărei modificări ulterioare a contractului/acordului-cadru. Termenul de 30 de zile este termenul GENERAL de transmitere spre publicare a anunțului de atribuire, prevăzut la art. 145 alin. (1) din Legea nr. 98/2016 (același termen apare și la art. 165 alin. (2) din norme, pentru anunțul privind modificarea contractelor prelungite) — pentru procedura simplificată, art. 105 din norme instituie însă termenul special, mai scurt, de 15 zile. Varianta de 48 de zile nu există în legislația actuală: ea provine din art. 56 al O.U.G. nr. 34/2006, abrogată prin Legea nr. 98/2016. Termenul curge de la data ÎNCHEIERII contractului, nu de la comunicarea rezultatului procedurii - o capcană clasică, întrucât între cele două momente se interpune termenul de așteptare prevăzut de Legea nr. 101/2016.",
+    "explicatie": "Art. 105 din Norme stabilește un termen de 15 zile de la data încheierii contractului/acordului-cadru pentru publicarea în SEAP a anunțului de atribuire aferent procedurii simplificate, obligație care se extinde și asupra oricărei modificări ulterioare a contractului/acordului-cadru. Termenul de 30 de zile este termenul GENERAL de transmitere spre publicare a anunțului de atribuire, prevăzut la art. 145 alin. (1) din Legea nr. 98/2016 (același termen apare și la art. 165 alin. (2) din norme, pentru anunțul privind modificarea contractelor prelungite) — pentru procedura simplificată, art. 105 din norme instituie însă termenul special, mai scurt, de 15 zile. Varianta de 48 de zile nu are corespondent în textul la zi al Legii nr. 98/2016 sau al Normelor. Termenul curge de la data ÎNCHEIERII contractului, nu de la comunicarea rezultatului procedurii - o capcană clasică, întrucât între cele două momente se interpune termenul de așteptare prevăzut de Legea nr. 101/2016.",
     "sursa": {
       "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
       "articol": "art. 105",
@@ -12039,29 +12017,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "ALOP-027",
-    "tip": "unic",
-    "test": 26,
-    "intrebare": "Ce obligație are, potrivit Normelor metodologice ALOP, persoana împuternicită să efectueze lichidarea cheltuielilor?",
-    "variante": [
-      "Să întocmească statele de plată colective pentru salarii și indemnizații.",
-      "Să transmită documentele justificative, în copie certificată, unității de trezorerie și contabilitate publică.",
-      "Să solicite viza de control financiar preventiv propriu pe fiecare factură primită de la furnizori.",
-      "Să verifice personal documentele justificative și să confirme pe propria răspundere că această verificare a fost realizată."
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Pct. 2 din Normele ALOP prevede că persoana împuternicită să efectueze lichidarea cheltuielilor verifică personal documentele justificative și confirmă pe propria răspundere că această verificare a fost realizată. Varianta cu solicitarea vizei de control financiar preventiv propriu pe fiecare factură este falsă: viza se acordă pe propunerea de angajare și pe angajamentul bugetar (pct. 1) și pe ordonanțarea de plată (pct. 3), în timp ce factura se vizează pentru «Bun de plată» de ordonatorul de credite sau de persoana delegată (pct. 2). Varianta cu transmiterea documentelor justificative, în copie certificată, unității de trezorerie contrazice regula de la pct. 3: ordonanțarea de plată se însoțește de documentele justificative în original și se înaintează conducătorului compartimentului financiar (financiar-contabil), copiile certificate pentru conformitate de ordonatorul de credite fiind acceptate doar în cazuri excepționale. Varianta cu întocmirea statelor de plată colective pentru salarii și indemnizații descrie atribuția compartimentului de specialitate (pct. 2), nu obligația persoanei care efectuează lichidarea. Tot pct. 2 prevede că documentele care atestă parcurgerea fazei de lichidare stau la baza înregistrării în contabilitatea patrimonială a serviciului efectuat și a obligației de plată față de terții creditori.",
-    "sursa": {
-      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
-      "articol": "pct. 2 (lichidarea cheltuielilor)",
-      "citat": "Persoana imputernicita să efectueze lichidarea cheltuielilor verifica personal documentele justificative și confirma pe propria răspundere ca aceasta verificare a fost realizată.",
-      "fisier": "09_Norme_ALOP_1792-2002.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98C-032",
     "tip": "unic",
     "test": 26,
@@ -12081,6 +12036,29 @@ const INTREBARI = [
       "articol": "art. 153 alin. (3)",
       "citat": "Durata prelungirii perioadei prevăzute la alin. (2) nu poate fi mai mică de 6 zile, respectiv 4 zile în situațiile de urgență demonstrate corespunzător de autoritatea contractantă, prevăzute de art. 74 alin. (3) și art. 79 alin. (5), respectiv 3 zile la procedura simplificată, respectiv două zile în situațiile de urgență demonstrate corespunzător de autoritatea contractantă prevăzute la art. 113 alin. (10), termene care se calculează de la data transmiterii informațiilor suplimentare și până la termenul stabilit pentru depunerea ofertelor sau solicitărilor de participare.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "ALOP-027",
+    "tip": "unic",
+    "test": 26,
+    "intrebare": "Ce obligație are, potrivit Normelor metodologice ALOP, persoana împuternicită să efectueze lichidarea cheltuielilor?",
+    "variante": [
+      "Să întocmească statele de plată colective pentru salarii și indemnizații.",
+      "Să transmită documentele justificative, în copie certificată, unității de trezorerie și contabilitate publică.",
+      "Să solicite viza de control financiar preventiv propriu pe fiecare factură primită de la furnizori.",
+      "Să verifice personal documentele justificative și să confirme pe propria răspundere că această verificare a fost realizată."
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Pct. 2 din Normele ALOP prevede că persoana împuternicită să efectueze lichidarea cheltuielilor verifică personal documentele justificative și confirmă pe propria răspundere că această verificare a fost realizată. Varianta cu solicitarea vizei de control financiar preventiv propriu pe fiecare factură este falsă: viza se acordă pe propunerea de angajare și pe angajamentul bugetar (pct. 1) și pe ordonanțarea de plată (pct. 3), în timp ce factura se vizează pentru «Bun de plată» de ordonatorul de credite sau de persoana delegată (pct. 2). Varianta cu transmiterea documentelor justificative, în copie certificată, unității de trezorerie contrazice regula de la pct. 3: ordonanțarea de plată se însoțește de documentele justificative în original și se înaintează conducătorului compartimentului financiar (financiar-contabil), copiile certificate pentru conformitate de ordonatorul de credite fiind acceptate doar în cazuri excepționale. Varianta cu întocmirea statelor de plată colective pentru salarii și indemnizații descrie atribuția compartimentului de specialitate (pct. 2), nu obligația persoanei care efectuează lichidarea. Tot pct. 2 prevede că documentele care atestă parcurgerea fazei de lichidare stau la baza înregistrării în contabilitatea patrimonială a serviciului efectuat și a obligației de plată față de terții creditori.",
+    "sursa": {
+      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+      "articol": "pct. 2 (lichidarea cheltuielilor)",
+      "citat": "Persoana imputernicita să efectueze lichidarea cheltuielilor verifica personal documentele justificative și confirma pe propria răspundere ca aceasta verificare a fost realizată.",
+      "fisier": "09_Norme_ALOP_1792-2002.txt"
     },
     "status": "ok"
   },
@@ -12110,7 +12088,7 @@ const INTREBARI = [
   {
     "id": "L98C-033",
     "tip": "unic",
-    "test": 27,
+    "test": 26,
     "intrebare": "Potrivit Legii nr. 98/2016, în care dintre următoarele situații autoritatea contractantă NU are obligația de a prelungi perioada pentru depunerea ofertelor?",
     "variante": [
       "Când, din motive legate de protejarea naturii confidențiale a informațiilor, nu poate fi asigurat accesul electronic la anumite documente ale achiziției, în afara situațiilor de urgență",
@@ -12127,31 +12105,6 @@ const INTREBARI = [
       "articol": "art. 153 alin. (4)",
       "citat": "În cazul în care informațiile suplimentare nu au fost transmise în timp util sau informațiile transmise de autoritatea contractantă sunt nesemnificative în ceea ce privește elaborarea ofertelor, autoritatea contractantă nu are obligația de a prelungi perioada pentru depunerea ofertelor.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L101A-038",
-    "tip": "multiplu",
-    "test": 27,
-    "intrebare": "Pentru care dintre următoarele motive poate CNSC să respingă o contestație, potrivit art. 26 alin. (6) din Legea nr. 101/2016? (selectați toate variantele corecte)",
-    "variante": [
-      "Ca lipsită de interes sau lipsită de obiect",
-      "Ca tardivă",
-      "Ca nefondată",
-      "Ca inadmisibilă, pentru lipsa notificării prealabile a autorității contractante"
-    ],
-    "corecte": [
-      0,
-      1,
-      2
-    ],
-    "explicatie": "Art. 26 alin. (6) permite respingerea contestației ca nefondată, tardivă, lipsită de interes, lipsită de obiect, introdusă de o persoană fără calitate ori fără calitatea de reprezentant, precum și pe orice altă excepție de procedură sau de fond. Lipsa notificării prealabile NU mai poate fi motiv de respingere: instituția notificării prealabile (fostele art. 6-7) a fost abrogată prin OUG nr. 45/2018, deci nu mai există o asemenea condiție de admisibilitate — capcană recurentă. De reținut și că excepțiile se soluționează cu prioritate: Consiliul se pronunță mai întâi asupra excepțiilor de procedură și de fond (art. 26 alin. (1)).",
-    "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 26 alin. (6)",
-      "citat": "Consiliul poate respinge contestația ca fiind nefondată, tardivă, lipsită de interes, lipsită de obiect, introdusă de o persoană fără calitate sau de o persoană care nu are calitatea de reprezentant, precum și pe orice altă excepție de procedură sau de fond, care împiedică soluționarea pe fond a contestației.",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
     },
     "status": "ok"
   },
@@ -12204,25 +12157,27 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500-N201",
-    "tip": "unic",
+    "id": "L101A-038",
+    "tip": "multiplu",
     "test": 27,
-    "intrebare": "Potrivit Legii nr. 500/2002 privind finanțele publice, cadrul bugetar al României, în calitate de stat membru al Uniunii Europene, respectă cerințele cadrului bugetar al Uniunii Europene. Care este scopul declarat de lege al acestei conformări?",
+    "intrebare": "Pentru care dintre următoarele motive poate CNSC să respingă o contestație, potrivit art. 26 alin. (6) din Legea nr. 101/2016? (selectați toate variantele corecte)",
     "variante": [
-      "Identificarea unor măsuri care să conducă la o eficiență sporită a utilizării fondurilor publice de către instituțiile publice analizate",
-      "Stingerea arieratelor înregistrate de instituțiile publice finanțate de la bugetul de stat",
-      "Întărirea supravegherii bugetare la nivelul Uniunii și asigurarea obligației din tratate de a evita deficitele publice excesive",
-      "Finanțarea unor cheltuieli urgente sau neprevăzute apărute în timpul exercițiului bugetar"
+      "Ca lipsită de interes sau lipsită de obiect",
+      "Ca tardivă",
+      "Ca nefondată",
+      "Ca inadmisibilă, pentru lipsa notificării prealabile a autorității contractante"
     ],
     "corecte": [
+      0,
+      1,
       2
     ],
-    "explicatie": "Art. 30^1 prevede că cadrul bugetar al României respectă cerințele cadrului bugetar al Uniunii Europene «în vederea întăririi supravegherii bugetare la nivelul Uniunii» și a asigurării obligației din tratate, «pentru a evita deficitele publice excesive». Finanțarea cheltuielilor urgente sau neprevăzute este destinația Fondului de rezervă bugetară la dispoziția Guvernului, potrivit art. 30 alin. (2). Identificarea măsurilor pentru o eficiență sporită a utilizării fondurilor publice este scopul analizelor cheltuielilor publice efectuate de Ministerul Finanțelor împreună cu ordonatorii principali de credite, potrivit art. 31^1 alin. (3) lit. b). Stingerea arieratelor apare la art. 28^4 alin. (1), ca excepție de la blocarea plăților de către unitățile Trezoreriei Statului. Scopul declarat al alinierii la cadrul bugetar european este cel din art. 30^1: supravegherea bugetară la nivelul Uniunii și evitarea deficitelor publice excesive.",
+    "explicatie": "Art. 26 alin. (6) permite respingerea contestației ca nefondată, tardivă, lipsită de interes, lipsită de obiect, introdusă de o persoană fără calitate ori fără calitatea de reprezentant, precum și pe orice altă excepție de procedură sau de fond. Lipsa notificării prealabile NU mai poate fi motiv de respingere: instituția notificării prealabile (fostele art. 6-7) a fost abrogată prin OUG nr. 45/2018, deci nu mai există o asemenea condiție de admisibilitate — capcană recurentă. De reținut și că excepțiile se soluționează cu prioritate: Consiliul se pronunță mai întâi asupra excepțiilor de procedură și de fond (art. 26 alin. (1)).",
     "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 30^1",
-      "citat": "Cadrul bugetar al României în calitate de stat membru al Uniunii Europene respectă cerințele cadrului bugetar al Uniunii Europene, în vederea întăririi supravegherii bugetare la nivelul Uniunii și asigurării obligației prevăzute de Tratatul privind funcționarea Uniunii Europene și alte tratate privind Uniunea Europeană, ratificate de România, pentru a evita deficitele publice excesive.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 26 alin. (6)",
+      "citat": "Consiliul poate respinge contestația ca fiind nefondată, tardivă, lipsită de interes, lipsită de obiect, introdusă de o persoană fără calitate sau de o persoană care nu are calitatea de reprezentant, precum și pe orice altă excepție de procedură sau de fond, care împiedică soluționarea pe fond a contestației.",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
     },
     "status": "ok"
   },
@@ -12246,6 +12201,29 @@ const INTREBARI = [
       "articol": "art. 154 alin. (3)",
       "citat": "Autoritatea contractantă are obligația de a solicita contractantului constituirea garanției de bună execuție în cuantum de maximum 10% din prețul contractului, fără TVA. Cu excepția contractelor de servicii de proiectare și a contractelor de lucrări, a căror valoare estimată este mai mică decât valoarea prevăzută la art. 7 alin. (1), precum și în cazul unui contract atribuit în urma aplicării procedurii de negociere, fără publicarea prealabilă a unui anunț de participare, autoritatea contractantă are dreptul de a nu solicita contractantului constituirea garanției de bună execuție.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L500-N201",
+    "tip": "unic",
+    "test": 27,
+    "intrebare": "Potrivit Legii nr. 500/2002 privind finanțele publice, cadrul bugetar al României, în calitate de stat membru al Uniunii Europene, respectă cerințele cadrului bugetar al Uniunii Europene. Care este scopul declarat de lege al acestei conformări?",
+    "variante": [
+      "Identificarea unor măsuri care să conducă la o eficiență sporită a utilizării fondurilor publice de către instituțiile publice analizate",
+      "Stingerea arieratelor înregistrate de instituțiile publice finanțate de la bugetul de stat",
+      "Întărirea supravegherii bugetare la nivelul Uniunii și asigurarea obligației din tratate de a evita deficitele publice excesive",
+      "Finanțarea unor cheltuieli urgente sau neprevăzute apărute în timpul exercițiului bugetar"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 30^1 prevede că cadrul bugetar al României respectă cerințele cadrului bugetar al Uniunii Europene «în vederea întăririi supravegherii bugetare la nivelul Uniunii» și a asigurării obligației din tratate, «pentru a evita deficitele publice excesive». Finanțarea cheltuielilor urgente sau neprevăzute este destinația Fondului de rezervă bugetară la dispoziția Guvernului, potrivit art. 30 alin. (2). Identificarea măsurilor pentru o eficiență sporită a utilizării fondurilor publice este scopul analizelor cheltuielilor publice efectuate de Ministerul Finanțelor împreună cu ordonatorii principali de credite, potrivit art. 31^1 alin. (3) lit. b). Stingerea arieratelor apare la art. 28^4 alin. (1), ca excepție de la blocarea plăților de către unitățile Trezoreriei Statului. Scopul declarat al alinierii la cadrul bugetar european este cel din art. 30^1: supravegherea bugetară la nivelul Uniunii și evitarea deficitelor publice excesive.",
+    "sursa": {
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 30^1",
+      "citat": "Cadrul bugetar al României în calitate de stat membru al Uniunii Europene respectă cerințele cadrului bugetar al Uniunii Europene, în vederea întăririi supravegherii bugetare la nivelul Uniunii și asigurării obligației prevăzute de Tratatul privind funcționarea Uniunii Europene și alte tratate privind Uniunea Europeană, ratificate de România, pentru a evita deficitele publice excesive.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
   },
@@ -12344,29 +12322,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "OUGB-036",
-    "tip": "unic",
-    "test": 27,
-    "intrebare": "Când și prin ce mijloc se transmite către ANAP notificarea intenției de a iniția o procedură de negociere fără publicare prealabilă, respectiv de a modifica un contract/acord-cadru?",
-    "variante": [
-      "Prin intermediul SEAP — sau prin alte mijloace electronice dacă, din motive tehnice, operatorul SEAP nu are posibilitatea transmiterii — în aceeași zi cu transmiterea invitațiilor către operatorii economici vizați",
-      "Prin intermediul SEAP, în termen de 3 zile lucrătoare de la transmiterea invitațiilor către operatorii economici",
-      "Prin intermediul SEAP, după finalizarea rundelor de negociere, odată cu transmiterea raportului procedurii",
-      "Exclusiv pe suport hârtie, cu cel puțin 10 zile înainte de demararea negocierii"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 10 alin. (1) impune două elemente: canalul (SEAP, cu alternativa altor mijloace electronice doar dacă operatorul SEAP nu are posibilitatea tehnică a transmiterii) și momentul (aceeași zi cu transmiterea invitațiilor către operatorii economici vizați), cu respectarea termenelor de la art. 20 și 21 din ordonanța de urgență. Simultaneitatea este esența regulii: ANAP trebuie să afle de intenție în același moment cu piața, nu ulterior. Un decalaj de 3 zile lucrătoare ar contrazice textul, iar transmiterea după finalizarea negocierii ar transforma controlul ex ante într-un control ex post. Notificarea trebuie să conțină informațiile din anexele nr. 1.1 și 1.2 la norme, iar anexele prevăd că demararea demersurilor se stabilește la minimum 5 zile lucrătoare de la data transmiterii notificării către ANAP.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
-      "articol": "art. 10 alin. (1)",
-      "citat": "Notificarea intenției de a iniția procedura de negociere fără publicare prealabilă, respectiv de a modifica contractul/acordul-cadru, se transmite către ANAP prin intermediul SEAP sau prin alte mijloace electronice dacă, din motive de natură tehnică, operatorul SEAP nu are posibilitatea transmiterii, în aceeași zi cu transmiterea invitațiilor către operatorii economici vizați, cu respectarea termenelor prevăzute la art. 20, respectiv art. 21 din ordonanța de urgență.",
-      "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L98C-037",
     "tip": "unic",
     "test": 27,
@@ -12390,25 +12345,71 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98C-038",
+    "id": "OUGB-036",
     "tip": "unic",
     "test": 27,
-    "intrebare": "În ce termen se restituie garanția de participare constituită de ofertantul a cărui ofertă a fost stabilită câștigătoare, într-o procedură în care este obligatorie garanția de bună execuție?",
+    "intrebare": "Când și prin ce mijloc se transmite către ANAP notificarea intenției de a iniția o procedură de negociere fără publicare prealabilă, respectiv de a modifica un contract/acord-cadru?",
     "variante": [
-      "În cel mult 3 zile lucrătoare de la data semnării contractului de achiziție publică",
-      "În cel mult 5 zile lucrătoare de la data constituirii garanției de bună execuție",
-      "În cel mult 14 zile de la data semnării contractului de achiziție publică",
-      "În cel mult 3 zile lucrătoare de la data constituirii garanției de bună execuție"
+      "Prin intermediul SEAP — sau prin alte mijloace electronice dacă, din motive tehnice, operatorul SEAP nu are posibilitatea transmiterii — în aceeași zi cu transmiterea invitațiilor către operatorii economici vizați",
+      "Prin intermediul SEAP, în termen de 3 zile lucrătoare de la transmiterea invitațiilor către operatorii economici",
+      "Prin intermediul SEAP, după finalizarea rundelor de negociere, odată cu transmiterea raportului procedurii",
+      "Exclusiv pe suport hârtie, cu cel puțin 10 zile înainte de demararea negocierii"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 10 alin. (1) impune două elemente: canalul (SEAP, cu alternativa altor mijloace electronice doar dacă operatorul SEAP nu are posibilitatea tehnică a transmiterii) și momentul (aceeași zi cu transmiterea invitațiilor către operatorii economici vizați), cu respectarea termenelor de la art. 20 și 21 din ordonanța de urgență. Simultaneitatea este esența regulii: ANAP trebuie să afle de intenție în același moment cu piața, nu ulterior. Un decalaj de 3 zile lucrătoare ar contrazice textul, iar transmiterea după finalizarea negocierii ar transforma controlul ex ante într-un control ex post. Notificarea trebuie să conțină informațiile din anexele nr. 1.1 și 1.2 la norme, iar anexele prevăd că demararea demersurilor se stabilește la minimum 5 zile lucrătoare de la data transmiterii notificării către ANAP.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+      "articol": "art. 10 alin. (1)",
+      "citat": "Notificarea intenției de a iniția procedura de negociere fără publicare prealabilă, respectiv de a modifica contractul/acordul-cadru, se transmite către ANAP prin intermediul SEAP sau prin alte mijloace electronice dacă, din motive de natură tehnică, operatorul SEAP nu are posibilitatea transmiterii, în aceeași zi cu transmiterea invitațiilor către operatorii economici vizați, cu respectarea termenelor prevăzute la art. 20, respectiv art. 21 din ordonanța de urgență.",
+      "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395A-059",
+    "tip": "unic",
+    "test": 27,
+    "intrebare": "Care este, în prezent, temeiul juridic al plafonului de 1% aplicabil valorii garanției de participare?",
+    "variante": [
+      "Art. 154 alin. (2) din Legea nr. 98/2016; alineatele corespunzătoare din Norme (art. 35 alin. (2) și (3)) sunt abrogate",
+      "Art. 36 alin. (1) din Normele metodologice aprobate prin H.G. nr. 395/2016",
+      "Art. 35 alin. (3) din Normele metodologice aprobate prin H.G. nr. 395/2016, în vigoare în forma inițială",
+      "Art. 154 alin. (2) din Legea nr. 98/2016, dispozițiile corespunzătoare din Norme fiind abrogate în anul 2023"
     ],
     "corecte": [
       3
     ],
-    "explicatie": "Art. 154^1 alin. (1) fixează reperul la data CONSTITUIRII GARANȚIEI DE BUNĂ EXECUȚIE, nu la semnarea contractului: garanția de participare rămâne activă până când riscul este preluat de garanția de bună execuție. Reperul semnării contractului/acordului-cadru se aplică doar în situațiile de la alin. (2), când garanția de bună execuție nu este obligatorie sau se atribuie un acord-cadru — tot în 3 zile lucrătoare. Termenul de 5 zile lucrătoare este real, dar aparține normelor metodologice (art. 39 alin. (3) din Normele aprobate prin H.G. nr. 395/2016) și privește termenul de constituire a garanției de bună execuție. Termenul de 14 zile privește eliberarea garanției de bună execuție la finalul contractului (art. 154^2). Reține și regula pentru ofertanții necâștigători: restituire după semnarea contractului, dar nu mai târziu de 3 zile lucrătoare de la semnare.",
+    "explicatie": "Plafonul garanției de participare este stabilit la nivel de lege: art. 154 alin. (2) din Legea nr. 98/2016 prevede că valoarea garanției de participare nu poate depăși 1% din valoarea estimată a contractului. În forma la zi a Normelor metodologice aprobate prin H.G. nr. 395/2016, din art. 35 a rămas în vigoare doar alin. (1), care definește garanția de participare; alin. (2) și (3) sunt abrogate. Capcana: în textul consolidat, sub alin. (3) abrogat mai apar afișate literele a) și b), iar lit. a) menționează tot plafonul de 1% — de aceea art. 35 alin. (3) pare în vigoare, dar nu mai este temei. Art. 36 alin. (1) din Norme este și el abrogat, iar art. 39 alin. (1) din Norme privește garanția de bună execuție, nu pe cea de participare. Temeiul corect este deci art. 154 alin. (2) din Legea nr. 98/2016.",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 154^1 alin. (1)",
-      "citat": "Garanția de participare, constituită de ofertantul a cărui ofertă a fost stabilită ca fiind câștigătoare, se restituie de către autoritatea contractantă în cel mult 3 zile lucrătoare de la data constituirii garanției de bună execuție.",
+      "articol": "art. 154 alin. (2)",
+      "citat": "Valoarea garanției de participare nu poate depăși 1% din valoarea estimată a contractului",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "N395B-037",
+    "tip": "unic",
+    "test": 27,
+    "intrebare": "Autoritatea contractantă reia competiția între semnatarii unui acord-cadru, dar în urma reofertării nu obține nicio îmbunătățire a elementelor/condițiilor care fac obiectul reluării competiției. Cum procedează?",
+    "variante": [
+      "Anulează reluarea competiției și inițiază o nouă procedură de atribuire pentru cantitatea respectivă.",
+      "Atribuie contractul ofertantului clasat pe primul loc în cadrul procedurii aplicate pentru încheierea acordului-cadru, luând în considerare condițiile și elementele prevăzute în oferta inițială a acestuia actualizată.",
+      "Atribuie contractul subsecvent operatorului economic care a răspuns primul la invitația de reofertare.",
+      "Împarte contractul subsecvent în mod egal între toți operatorii economici semnatari ai acordului-cadru."
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 110 alin. (7) rezolvă blocajul reofertării fără rezultat: contractul se atribuie ofertantului clasat pe primul loc în procedura inițială de încheiere a acordului-cadru, prin luarea în considerare a ofertei sale inițiale actualizate. Lipsa unei îmbunătățiri nu constituie motiv de anulare - acordul-cadru rămâne valabil și trebuie executat, iar inițierea unei noi proceduri ar încălca obligația asumată prin art. 108 alin. (1) lit. b). Criteriul „primul care a răspuns” nu are temei legal și ar contrazice criteriul de atribuire declarat. Împărțirea egală între semnatari este specifică acordurilor-cadru FĂRĂ reluarea competiției, în condițiile stabilite prin acord, nu ipotezei reofertării. A se reține și regula procedurală de la art. 110 alin. (1): invitația la reofertare se transmite CONCOMITENT tuturor operatorilor economici semnatari, iar potrivit alin. (5) noile oferte pot modifica elementele supuse reluării competiției numai în sensul îmbunătățirii lor.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 110 alin. (1) și (7)",
+      "citat": "în cazul în care acordul-cadru este încheiat cu mai mulți operatori economici, iar contractele subsecvente urmează să fie atribuite prin reluarea competiției, autoritatea contractantă are obligația [...] să transmită concomitent o invitație de participare la reofertare către toți operatorii economici semnatari ai acordului-cadru. [...] În cazul în care, în urma reofertării, autoritatea contractantă nu obține îmbunătățiri ale elementelor/condițiilor care fac obiectul reluării competiției, aceasta are obligația de a atribui contractul ofertantului clasat pe primul loc în cadrul procedurii aplicate pentru încheierea acordului-cadru, prin luarea în considerare a condițiilor și elementelor prevăzute în oferta inițială a acestuia actualizată.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -12459,25 +12460,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395B-037",
+    "id": "L98C-038",
     "tip": "unic",
     "test": 27,
-    "intrebare": "Autoritatea contractantă reia competiția între semnatarii unui acord-cadru, dar în urma reofertării nu obține nicio îmbunătățire a elementelor/condițiilor care fac obiectul reluării competiției. Cum procedează?",
+    "intrebare": "În ce termen se restituie garanția de participare constituită de ofertantul a cărui ofertă a fost stabilită câștigătoare, într-o procedură în care este obligatorie garanția de bună execuție?",
     "variante": [
-      "Anulează reluarea competiției și inițiază o nouă procedură de atribuire pentru cantitatea respectivă.",
-      "Atribuie contractul ofertantului clasat pe primul loc în cadrul procedurii aplicate pentru încheierea acordului-cadru, luând în considerare condițiile și elementele prevăzute în oferta inițială a acestuia actualizată.",
-      "Atribuie contractul subsecvent operatorului economic care a răspuns primul la invitația de reofertare.",
-      "Împarte contractul subsecvent în mod egal între toți operatorii economici semnatari ai acordului-cadru."
+      "În cel mult 3 zile lucrătoare de la data semnării contractului de achiziție publică",
+      "În cel mult 5 zile lucrătoare de la data constituirii garanției de bună execuție",
+      "În cel mult 14 zile de la data semnării contractului de achiziție publică",
+      "În cel mult 3 zile lucrătoare de la data constituirii garanției de bună execuție"
     ],
     "corecte": [
-      1
+      3
     ],
-    "explicatie": "Art. 110 alin. (7) rezolvă blocajul reofertării fără rezultat: contractul se atribuie ofertantului clasat pe primul loc în procedura inițială de încheiere a acordului-cadru, prin luarea în considerare a ofertei sale inițiale actualizate. Lipsa unei îmbunătățiri nu constituie motiv de anulare - acordul-cadru rămâne valabil și trebuie executat, iar inițierea unei noi proceduri ar încălca obligația asumată prin art. 108 alin. (1) lit. b). Criteriul „primul care a răspuns” nu are temei legal și ar contrazice criteriul de atribuire declarat. Împărțirea egală între semnatari este specifică acordurilor-cadru FĂRĂ reluarea competiției, în condițiile stabilite prin acord, nu ipotezei reofertării. A se reține și regula procedurală de la art. 110 alin. (1): invitația la reofertare se transmite CONCOMITENT tuturor operatorilor economici semnatari, iar potrivit alin. (5) noile oferte pot modifica elementele supuse reluării competiției numai în sensul îmbunătățirii lor.",
+    "explicatie": "Art. 154^1 alin. (1) fixează reperul la data CONSTITUIRII GARANȚIEI DE BUNĂ EXECUȚIE, nu la semnarea contractului: garanția de participare rămâne activă până când riscul este preluat de garanția de bună execuție. Reperul semnării contractului/acordului-cadru se aplică doar în situațiile de la alin. (2), când garanția de bună execuție nu este obligatorie sau se atribuie un acord-cadru — tot în 3 zile lucrătoare. Termenul de 5 zile lucrătoare este real, dar aparține normelor metodologice (art. 39 alin. (3) din Normele aprobate prin H.G. nr. 395/2016) și privește termenul de constituire a garanției de bună execuție. Termenul de 14 zile privește eliberarea garanției de bună execuție la finalul contractului (art. 154^2). Reține și regula pentru ofertanții necâștigători: restituire după semnarea contractului, dar nu mai târziu de 3 zile lucrătoare de la semnare.",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 110 alin. (1) și (7)",
-      "citat": "în cazul în care acordul-cadru este încheiat cu mai mulți operatori economici, iar contractele subsecvente urmează să fie atribuite prin reluarea competiției, autoritatea contractantă are obligația [...] să transmită concomitent o invitație de participare la reofertare către toți operatorii economici semnatari ai acordului-cadru. [...] În cazul în care, în urma reofertării, autoritatea contractantă nu obține îmbunătățiri ale elementelor/condițiilor care fac obiectul reluării competiției, aceasta are obligația de a atribui contractul ofertantului clasat pe primul loc în cadrul procedurii aplicate pentru încheierea acordului-cadru, prin luarea în considerare a condițiilor și elementelor prevăzute în oferta inițială a acestuia actualizată.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 154^1 alin. (1)",
+      "citat": "Garanția de participare, constituită de ofertantul a cărui ofertă a fost stabilită ca fiind câștigătoare, se restituie de către autoritatea contractantă în cel mult 3 zile lucrătoare de la data constituirii garanției de bună execuție.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -12505,29 +12506,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "ALOPB-002",
-    "tip": "unic",
-    "test": 27,
-    "intrebare": "Cum se realizează lichidarea salariilor și a indemnizațiilor, potrivit Normelor metodologice ALOP?",
-    "variante": [
-      "În baza statelor de plată individuale, întocmite de compartimentul financiar (financiar-contabil) pentru fiecare persoană în parte",
-      "În baza statelor de plată colective, întocmite de compartimentul de specialitate, cu excepția cazurilor în care este necesară lichidarea individuală",
-      "Nu parcurg faza de lichidare, întrucât salariile sunt considerate angajamente legale și bugetare de la data de 1 ianuarie a fiecărui an",
-      "În baza facturii fiscale sau a facturii, ca în cazul oricăror bunuri livrate, lucrări executate ori servicii prestate"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Normele prevăd expres că salariile și indemnizațiile se lichidează în baza statelor de plată colective, întocmite de compartimentul de specialitate, regula admițând excepția cazurilor în care este necesară lichidarea individuală. Documentul justificativ este deci statul de plată, nu factura. Distractorul a) transferă greșit întocmirea statelor la compartimentul financiar-contabil și impune inutil forma individuală, care este doar excepția. Distractorul c) invocă documentele prevăzute pentru bunuri livrate, lucrări executate și servicii prestate - Factura fiscală sau Factura din catalogul formularelor tipizate - care nu sunt aplicabile drepturilor de personal. Distractorul d) folosește un fapt real, dar cu alt rol: potrivit pct. 1, salariile personalului cuprins în statele de funcții anexate bugetului aprobat se consideră angajamente legale și bugetare de la 1 ianuarie cu întreaga sumă a creditelor bugetare aprobate; aceasta privește însă faza de angajare, nu scutește de parcurgerea lichidării. Capcană conexă: determinarea sau verificarea sumei datorate se face de persoana împuternicită de ordonatorul de credite, care verifică personal documentele justificative și confirmă pe propria răspundere realizarea verificării.",
-    "sursa": {
-      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
-      "articol": "pct. 2 (lichidarea cheltuielilor)",
-      "citat": "Salariile și indemnizațiile vor fi lichidate în baza statelor de plată colective, întocmite de compartimentul de specialitate, cu excepția cazurilor în care este necesară lichidarea individuală.",
-      "fisier": "09_Norme_ALOP_1792-2002.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N308",
     "tip": "unic",
     "test": 27,
@@ -12547,6 +12525,29 @@ const INTREBARI = [
       "articol": "art. 111 alin. (2)",
       "citat": "În cazul în care operatorul economic căruia autoritatea contractantă îi transmite o solicitare pentru încheierea unui contract subsecvent nu are capacitatea de a răspunde acestei solicitări din propria sa culpă, autoritatea contractantă are dreptul de a iniția o nouă procedură de atribuire pentru achiziționarea întregii cantități necesare, numai în cazul în care: a) acordul-cadru este încheiat doar cu operatorul economic respectiv; sau",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "ALOPB-002",
+    "tip": "unic",
+    "test": 27,
+    "intrebare": "Cum se realizează lichidarea salariilor și a indemnizațiilor, potrivit Normelor metodologice ALOP?",
+    "variante": [
+      "În baza statelor de plată individuale, întocmite de compartimentul financiar (financiar-contabil) pentru fiecare persoană în parte",
+      "În baza statelor de plată colective, întocmite de compartimentul de specialitate, cu excepția cazurilor în care este necesară lichidarea individuală",
+      "Nu parcurg faza de lichidare, întrucât salariile sunt considerate angajamente legale și bugetare de la data de 1 ianuarie a fiecărui an",
+      "În baza facturii fiscale sau a facturii, ca în cazul oricăror bunuri livrate, lucrări executate ori servicii prestate"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Normele prevăd expres că salariile și indemnizațiile se lichidează în baza statelor de plată colective, întocmite de compartimentul de specialitate, regula admițând excepția cazurilor în care este necesară lichidarea individuală. Documentul justificativ este deci statul de plată, nu factura. Distractorul a) transferă greșit întocmirea statelor la compartimentul financiar-contabil și impune inutil forma individuală, care este doar excepția. Distractorul c) invocă documentele prevăzute pentru bunuri livrate, lucrări executate și servicii prestate - Factura fiscală sau Factura din catalogul formularelor tipizate - care nu sunt aplicabile drepturilor de personal. Distractorul d) folosește un fapt real, dar cu alt rol: potrivit pct. 1, salariile personalului cuprins în statele de funcții anexate bugetului aprobat se consideră angajamente legale și bugetare de la 1 ianuarie cu întreaga sumă a creditelor bugetare aprobate; aceasta privește însă faza de angajare, nu scutește de parcurgerea lichidării. Capcană conexă: determinarea sau verificarea sumei datorate se face de persoana împuternicită de ordonatorul de credite, care verifică personal documentele justificative și confirmă pe propria răspundere realizarea verificării.",
+    "sursa": {
+      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+      "articol": "pct. 2 (lichidarea cheltuielilor)",
+      "citat": "Salariile și indemnizațiile vor fi lichidate în baza statelor de plată colective, întocmite de compartimentul de specialitate, cu excepția cazurilor în care este necesară lichidarea individuală.",
+      "fisier": "09_Norme_ALOP_1792-2002.txt"
     },
     "status": "ok"
   },
@@ -12574,29 +12575,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98E-010",
-    "tip": "unic",
-    "test": 28,
-    "intrebare": "Cum trebuie definite specificațiile tehnice pentru achizițiile destinate utilizării de către persoane fizice, potrivit Legii nr. 98/2016?",
-    "variante": [
-      "Astfel încât să țină seama de cerințele de accesibilitate ale persoanelor cu dizabilități sau de conceptul de proiectare pentru toate categoriile de utilizatori, cu excepția cazurilor temeinic justificate.",
-      "Ținând seama de cerințele de accesibilitate ale persoanelor cu dizabilități doar atunci când achiziția este destinată publicului larg, nu și personalului propriu al autorității contractante.",
-      "Exclusiv prin trimitere la standarde naționale care transpun standarde europene în materie de accesibilitate.",
-      "Fără cerințe speciale, accesibilitatea putând fi impusă numai prin solicitarea unei etichete specifice."
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 155 alin. (4) instituie o obligație generală de proiectare accesibilă pentru toate achizițiile destinate utilizării de persoane fizice, cu o singură supapă: cazurile temeinic justificate. Textul precizează expres că se aplică „indiferent dacă este vorba de publicul larg sau de personalul autorității contractante”, ceea ce infirmă varianta care limitează obligația la achizițiile destinate publicului larg. Eticheta este un mijloc de probă reglementat distinct la art. 157, nu instrumentul prin care se definesc cerințele de accesibilitate. Trimiterea la standarde este regula de redactare a specificațiilor tehnice de la art. 156, dar nu este exclusivă și nu privește accesibilitatea; atunci când un act normativ al Uniunii Europene introduce cerințe de accesibilitate obligatorii, art. 155 alin. (5) impune definirea specificațiilor prin trimitere la acele cerințe obligatorii, nu la standarde.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 155 alin. (4)",
-      "citat": "Pentru toate achizițiile destinate utilizării de către persoane fizice, indiferent dacă este vorba de publicul larg sau de personalul autorității contractante, specificațiile tehnice se definesc astfel încât să țină seama de cerințele de accesibilitate ale persoanelor cu dizabilități sau de conceptul de proiectare pentru toate categoriile de utilizatori, cu excepția cazurilor temeinic justificate.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395B-038",
     "tip": "unic",
     "test": 28,
@@ -12616,6 +12594,29 @@ const INTREBARI = [
       "articol": "art. 112 alin. (3)",
       "citat": "În aplicarea dispozițiilor alin. (2), autoritatea contractantă nu are dreptul: a) de a combina sistemul dinamic de achiziții cu parteneriate de inovare; b) de a decide organizarea unei etape de negociere a ofertelor; c) de a transmite o invitație de participare la etapa a doua a procedurii înainte de finalizarea atribuirii achiziției curente, prin publicarea anunțului de atribuire; d) de a iniția un sistem dinamic de achiziții cu o valabilitate mai mare de 4 ani.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98E-010",
+    "tip": "unic",
+    "test": 28,
+    "intrebare": "Cum trebuie definite specificațiile tehnice pentru achizițiile destinate utilizării de către persoane fizice, potrivit Legii nr. 98/2016?",
+    "variante": [
+      "Astfel încât să țină seama de cerințele de accesibilitate ale persoanelor cu dizabilități sau de conceptul de proiectare pentru toate categoriile de utilizatori, cu excepția cazurilor temeinic justificate.",
+      "Ținând seama de cerințele de accesibilitate ale persoanelor cu dizabilități doar atunci când achiziția este destinată publicului larg, nu și personalului propriu al autorității contractante.",
+      "Exclusiv prin trimitere la standarde naționale care transpun standarde europene în materie de accesibilitate.",
+      "Fără cerințe speciale, accesibilitatea putând fi impusă numai prin solicitarea unei etichete specifice."
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 155 alin. (4) instituie o obligație generală de proiectare accesibilă pentru toate achizițiile destinate utilizării de persoane fizice, cu o singură supapă: cazurile temeinic justificate. Textul precizează expres că se aplică „indiferent dacă este vorba de publicul larg sau de personalul autorității contractante”, ceea ce infirmă varianta care limitează obligația la achizițiile destinate publicului larg. Eticheta este un mijloc de probă reglementat distinct la art. 157, nu instrumentul prin care se definesc cerințele de accesibilitate. Trimiterea la standarde este regula de redactare a specificațiilor tehnice de la art. 156, dar nu este exclusivă și nu privește accesibilitatea; atunci când un act normativ al Uniunii Europene introduce cerințe de accesibilitate obligatorii, art. 155 alin. (5) impune definirea specificațiilor prin trimitere la acele cerințe obligatorii, nu la standarde.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 155 alin. (4)",
+      "citat": "Pentru toate achizițiile destinate utilizării de către persoane fizice, indiferent dacă este vorba de publicul larg sau de personalul autorității contractante, specificațiile tehnice se definesc astfel încât să țină seama de cerințele de accesibilitate ale persoanelor cu dizabilități sau de conceptul de proiectare pentru toate categoriile de utilizatori, cu excepția cazurilor temeinic justificate.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -12667,29 +12668,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L101A-042",
-    "tip": "unic",
-    "test": 28,
-    "intrebare": "Potrivit Legii nr. 101/2016, cum procedează Consiliul Național de Soluționare a Contestațiilor dacă, în cursul soluționării contestației, constată că, în afara actelor atacate de contestator, există alte acte care încalcă legislația în materia achizițiilor publice și la care contestația nu s-a referit?",
-    "variante": [
-      "Suspendă procedura de atribuire până la formularea unei noi contestații de către o persoană interesată",
-      "Sesizează exclusiv organele de urmărire penală, fără a informa autoritatea contractantă",
-      "Le anulează din oficiu, prin aceeași decizie, în temeiul rolului activ",
-      "Sesizează atât Agenția Națională pentru Achiziții Publice și Curtea de Conturi, transmițând datele și documentele relevante, cât și autoritatea contractantă"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 26 alin. (4) din Legea nr. 101/2016 reglementează o obligație de sesizare cu destinatari expres determinați: ANAP, Curtea de Conturi și autoritatea contractantă, însoțită de transmiterea tuturor datelor și/sau documentelor relevante în susținerea sesizării. Soluția se explică prin principiul disponibilității, consacrat la art. 26 alin. (2): Consiliul examinează legalitatea și temeinicia actului atacat, astfel încât nu poate anula din oficiu acte care nu au făcut obiectul contestației — de aceea varianta anulării din oficiu este greșită. Suspendarea procedurii de atribuire se dispune la cererea persoanei interesate, în cazuri bine justificate și pentru prevenirea unei pagube iminente (art. 22 alin. (1)), nu ca reacție la constatarea unor nereguli suplimentare. Varianta sesizării exclusive a organelor de urmărire penală, fără informarea autorității contractante, contrazice art. 26 alin. (4), care numește expres ca destinatari ANAP, Curtea de Conturi și autoritatea contractantă.",
-    "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 26 alin. (4)",
-      "citat": "În situația în care, în cursul soluționării contestației, Consiliul apreciază că, în afară de actele atacate de contestator, există alte acte care încalcă prevederile legislației în materia achizițiilor publice, achizițiilor sectoriale sau concesiunilor, după caz, și la care nu s-a făcut referire în contestație, sesizează atât Agenția Națională pentru Achiziții Publice, denumită în continuare ANAP, și Curtea de Conturi și transmite în acest sens toate datele și/sau documentele relevante în susținerea sesizării, cât și autoritatea contractantă.",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N309",
     "tip": "unic",
     "test": 28,
@@ -12709,6 +12687,29 @@ const INTREBARI = [
       "articol": "art. 113 alin. (1)",
       "citat": "Toate comunicările în cadrul unui sistem dinamic de achiziții se realizează exclusiv prin mijloace electronice.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L101A-042",
+    "tip": "unic",
+    "test": 28,
+    "intrebare": "Potrivit Legii nr. 101/2016, cum procedează Consiliul Național de Soluționare a Contestațiilor dacă, în cursul soluționării contestației, constată că, în afara actelor atacate de contestator, există alte acte care încalcă legislația în materia achizițiilor publice și la care contestația nu s-a referit?",
+    "variante": [
+      "Suspendă procedura de atribuire până la formularea unei noi contestații de către o persoană interesată",
+      "Sesizează exclusiv organele de urmărire penală, fără a informa autoritatea contractantă",
+      "Le anulează din oficiu, prin aceeași decizie, în temeiul rolului activ",
+      "Sesizează atât Agenția Națională pentru Achiziții Publice și Curtea de Conturi, transmițând datele și documentele relevante, cât și autoritatea contractantă"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 26 alin. (4) din Legea nr. 101/2016 reglementează o obligație de sesizare cu destinatari expres determinați: ANAP, Curtea de Conturi și autoritatea contractantă, însoțită de transmiterea tuturor datelor și/sau documentelor relevante în susținerea sesizării. Soluția se explică prin principiul disponibilității, consacrat la art. 26 alin. (2): Consiliul examinează legalitatea și temeinicia actului atacat, astfel încât nu poate anula din oficiu acte care nu au făcut obiectul contestației — de aceea varianta anulării din oficiu este greșită. Suspendarea procedurii de atribuire se dispune la cererea persoanei interesate, în cazuri bine justificate și pentru prevenirea unei pagube iminente (art. 22 alin. (1)), nu ca reacție la constatarea unor nereguli suplimentare. Varianta sesizării exclusive a organelor de urmărire penală, fără informarea autorității contractante, contrazice art. 26 alin. (4), care numește expres ca destinatari ANAP, Curtea de Conturi și autoritatea contractantă.",
+    "sursa": {
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 26 alin. (4)",
+      "citat": "În situația în care, în cursul soluționării contestației, Consiliul apreciază că, în afară de actele atacate de contestator, există alte acte care încalcă prevederile legislației în materia achizițiilor publice, achizițiilor sectoriale sau concesiunilor, după caz, și la care nu s-a făcut referire în contestație, sesizează atât Agenția Națională pentru Achiziții Publice, denumită în continuare ANAP, și Curtea de Conturi și transmite în acest sens toate datele și/sau documentele relevante în susținerea sesizării, cât și autoritatea contractantă.",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
     },
     "status": "ok"
   },
@@ -12761,29 +12762,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N406",
-    "tip": "unic",
-    "test": 28,
-    "intrebare": "Potrivit Legii nr. 98/2016, în cazul în care autoritatea contractantă solicită prezentarea unor certificate emise de un anumit organism de evaluare a conformității, drept mijloc de probă a conformității produselor, serviciilor sau lucrărilor:",
-    "variante": [
-      "acceptă certificate echivalente numai dacă sunt emise de organisme de evaluare a conformității acreditate în România",
-      "acceptă certificate echivalente numai dacă operatorul economic demonstrează că nu a putut obține certificatul solicitat din motive care nu îi sunt imputabile",
-      "acceptă și certificate echivalente emise de alte organisme de evaluare a conformității",
-      "poate respinge certificatele emise de alte organisme, dacă a precizat explicit organismul respectiv în anunțul de participare"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 158 alin. (2) din Legea nr. 98/2016 prevede că, atunci când solicită certificate emise de un anumit organism de evaluare a conformității, autoritatea contractantă acceptă și certificate echivalente emise de alte organisme de evaluare a conformității. Precizarea explicită în anunț nu înlătură această obligație; condiția „explicit în anunțul de participare” aparține regimului ofertelor alternative (art. 162 alin. (1)). Condiția motivelor neimputabile provine din art. 159, unde se referă la acceptarea altor mijloace de probă adecvate, cum ar fi dosarul tehnic al producătorului, atunci când operatorul nu deține certificatele — nu la certificatele echivalente. Nu există o restricție de acreditare în România: art. 158 alin. (3) definește organismul de evaluare a conformității ca organism acreditat potrivit Regulamentului (CE) nr. 765/2008.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 158 alin. (2)",
-      "citat": "În cazul prevăzut la alin. (1) în care autoritatea contractantă solicită prezentarea unor certificate emise de un anumit organism de evaluare a conformității, aceasta acceptă și certificate echivalente emise de alte organisme de evaluare a conformității.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N310",
     "tip": "unic",
     "test": 28,
@@ -12803,6 +12781,29 @@ const INTREBARI = [
       "articol": "art. 113^1 alin. (2)",
       "citat": "Autoritatea contractantă are obligația de a impune criterii minime de calificare care să se raporteze cel mult la valoarea estimată a celui mai mare contract subsecvent care se anticipează a fi atribuit pe durata sistemului dinamic de achiziții;",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N406",
+    "tip": "unic",
+    "test": 28,
+    "intrebare": "Potrivit Legii nr. 98/2016, în cazul în care autoritatea contractantă solicită prezentarea unor certificate emise de un anumit organism de evaluare a conformității, drept mijloc de probă a conformității produselor, serviciilor sau lucrărilor:",
+    "variante": [
+      "acceptă certificate echivalente numai dacă sunt emise de organisme de evaluare a conformității acreditate în România",
+      "acceptă certificate echivalente numai dacă operatorul economic demonstrează că nu a putut obține certificatul solicitat din motive care nu îi sunt imputabile",
+      "acceptă și certificate echivalente emise de alte organisme de evaluare a conformității",
+      "poate respinge certificatele emise de alte organisme, dacă a precizat explicit organismul respectiv în anunțul de participare"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 158 alin. (2) din Legea nr. 98/2016 prevede că, atunci când solicită certificate emise de un anumit organism de evaluare a conformității, autoritatea contractantă acceptă și certificate echivalente emise de alte organisme de evaluare a conformității. Precizarea explicită în anunț nu înlătură această obligație; condiția „explicit în anunțul de participare” aparține regimului ofertelor alternative (art. 162 alin. (1)). Condiția motivelor neimputabile provine din art. 159, unde se referă la acceptarea altor mijloace de probă adecvate, cum ar fi dosarul tehnic al producătorului, atunci când operatorul nu deține certificatele — nu la certificatele echivalente. Nu există o restricție de acreditare în România: art. 158 alin. (3) definește organismul de evaluare a conformității ca organism acreditat potrivit Regulamentului (CE) nr. 765/2008.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 158 alin. (2)",
+      "citat": "În cazul prevăzut la alin. (1) în care autoritatea contractantă solicită prezentarea unor certificate emise de un anumit organism de evaluare a conformității, aceasta acceptă și certificate echivalente emise de alte organisme de evaluare a conformității.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -12945,29 +12946,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98C-043",
-    "tip": "unic",
-    "test": 28,
-    "intrebare": "Cu cât timp înainte de termenul stabilit pentru depunerea ofertelor trebuie transmis răspunsul autorității contractante la solicitările de clarificări, în cazul unei licitații deschise desfășurate în condiții normale?",
-    "variante": [
-      "Cu cel puțin 15 zile",
-      "Cu cel puțin 10 zile",
-      "Cu cel puțin 5 zile",
-      "Cu cel puțin 6 zile"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 161 alin. (1) impune transmiterea răspunsului cu cel puțin 10 zile înainte de termenul stabilit pentru depunerea ofertelor sau solicitărilor de participare, cu condiția ca solicitarea de clarificări să fi fost adresată în termenul prevăzut în anunț. Termenul se reduce la 5 zile în situațiile de urgență demonstrate corespunzător, prevăzute la art. 74 alin. (3) și art. 79 alin. (5) — de aceea „5 zile” este un distractor real, dar aplicabil doar urgenței. Cifra de 6 zile aparține altor două instituții: durata minimă a prelungirii perioadei de depunere (art. 153 alin. (3)) și termenul de răspuns la procedura simplificată pentru contractele de lucrări (art. 161 alin. (2)). Nerespectarea acestor termene atrage obligația de prelungire a perioadei de depunere, conform art. 153 alin. (1) lit. a).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 161 alin. (1)",
-      "citat": "În măsura în care solicitările de clarificări sau informații suplimentare au fost adresate în termenul prevăzut în anunțul de participare/de concurs, răspunsul autorității contractante la aceste solicitări trebuie să fie transmis cu cel puțin 10 zile, respectiv 5 zile în situațiile de urgență demonstrate în mod corespunzător de autoritatea contractantă, prevăzute la art. 74 alin. (3) și art. 79 alin. (5), înainte de termenul stabilit pentru depunerea ofertelor sau solicitărilor de participare.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N311",
     "tip": "multiplu",
     "test": 28,
@@ -12988,6 +12966,29 @@ const INTREBARI = [
       "articol": "art. 113^3",
       "citat": "Invitația în vederea depunerii solicitării de participare pentru fiecare achiziție specifică trebuie să cuprindă cel puțin informații cu privire la: a) valoarea estimată a contractului; b) data-limită de depunere; c) termenul de valabilitate a ofertei;",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98C-043",
+    "tip": "unic",
+    "test": 28,
+    "intrebare": "Cu cât timp înainte de termenul stabilit pentru depunerea ofertelor trebuie transmis răspunsul autorității contractante la solicitările de clarificări, în cazul unei licitații deschise desfășurate în condiții normale?",
+    "variante": [
+      "Cu cel puțin 15 zile",
+      "Cu cel puțin 10 zile",
+      "Cu cel puțin 5 zile",
+      "Cu cel puțin 6 zile"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 161 alin. (1) impune transmiterea răspunsului cu cel puțin 10 zile înainte de termenul stabilit pentru depunerea ofertelor sau solicitărilor de participare, cu condiția ca solicitarea de clarificări să fi fost adresată în termenul prevăzut în anunț. Termenul se reduce la 5 zile în situațiile de urgență demonstrate corespunzător, prevăzute la art. 74 alin. (3) și art. 79 alin. (5) — de aceea „5 zile” este un distractor real, dar aplicabil doar urgenței. Cifra de 6 zile aparține altor două instituții: durata minimă a prelungirii perioadei de depunere (art. 153 alin. (3)) și termenul de răspuns la procedura simplificată pentru contractele de lucrări (art. 161 alin. (2)). Nerespectarea acestor termene atrage obligația de prelungire a perioadei de depunere, conform art. 153 alin. (1) lit. a).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 161 alin. (1)",
+      "citat": "În măsura în care solicitările de clarificări sau informații suplimentare au fost adresate în termenul prevăzut în anunțul de participare/de concurs, răspunsul autorității contractante la aceste solicitări trebuie să fie transmis cu cel puțin 10 zile, respectiv 5 zile în situațiile de urgență demonstrate în mod corespunzător de autoritatea contractantă, prevăzute la art. 74 alin. (3) și art. 79 alin. (5), înainte de termenul stabilit pentru depunerea ofertelor sau solicitărilor de participare.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -13038,25 +13039,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98C-045",
+    "id": "N395-N312",
     "tip": "unic",
     "test": 29,
-    "intrebare": "Un ofertant depune o ofertă alternativă într-o procedură în care autoritatea contractantă nu a menționat nimic în anunțul de participare despre ofertele alternative. Cum trebuie să procedeze autoritatea contractantă?",
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, după transmiterea invitațiilor pentru fiecare achiziție specifică în cadrul sistemului dinamic de achiziții, regulile cărei proceduri le aplică autoritatea contractantă?",
     "variante": [
-      "Să nu ia în considerare oferta alternativă, întrucât nu a precizat explicit în anunțul de participare că permite sau solicită oferte alternative",
-      "Să evalueze oferta alternativă, întrucât legea nu interzice depunerea acesteia",
-      "Să anuleze procedura de atribuire și să o reia cu precizarea regimului ofertelor alternative",
-      "Să solicite ofertantului clarificări și, dacă oferta alternativă respectă cerințele minime, să o evalueze"
+      "Ale licitației restrânse organizate exclusiv online",
+      "Ale negocierii competitive, cu negocierea ofertelor inițiale",
+      "Ale procedurii simplificate, desfășurate într-o singură etapă",
+      "Ale licitației electronice, cu runde succesive de ofertare"
     ],
     "corecte": [
       0
     ],
-    "explicatie": "Art. 162 alin. (1) și (2) instituie o regulă de opt-in explicit: ofertele alternative pot fi depuse numai dacă autoritatea contractantă a precizat expres în anunțul de participare că le permite sau le solicită; în lipsa acestei mențiuni, ea nu are dreptul de a le lua în considerare. Solicitarea de clarificări nu poate acoperi această lipsă, pentru că ar echivala cu o modificare a regulilor procedurii după depunerea ofertelor. Anularea procedurii nu este nici ea justificată: motivele de anulare sunt cele limitativ prevăzute la art. 212-213. Când autoritatea contractantă permite ofertele alternative, ea trebuie să stabilească în documentele achiziției cerințele minime obligatorii pe care acestea trebuie să le respecte (alin. (4)) și să nu ia în considerare ofertele alternative care nu le respectă (alin. (6)).",
+    "explicatie": "Art. 113^4 din Norme prevede că, după transmiterea invitațiilor pentru fiecare achiziție specifică, autoritatea contractantă aplică regulile licitației restrânse organizate exclusiv online, art. 67-72 din Norme fiind aplicabile în mod corespunzător. Procedura simplificată are regulile ei proprii în art. 101-105 din Norme, la care art. 113^4 nu trimite. Negocierea nu este compatibilă cu sistemul: art. 112 alin. (3) lit. b) din Norme interzice autorității contractante să decidă organizarea unei etape de negociere a ofertelor. Licitația electronică, cu numărul de runde introdus în SEAP (art. 118 din Norme), este un instrument distinct, reglementat de art. 114-122 din Norme. Trimiterea din art. 113^4 privește expres art. 67-72, adică paragraful licitației restrânse.",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 162 alin. (1) și (2)",
-      "citat": "Autoritatea contractantă are dreptul de a permite sau solicita ofertanților să depună oferte alternative numai dacă a precizat explicit în anunțul de participare că permite sau solicită depunerea de oferte alternative. [...] În cazul în care autoritatea contractantă nu a precizat explicit că permite sau solicită depunerea de oferte alternative conform dispozițiilor alin. (1), autoritatea contractantă nu are dreptul de a lua în considerare ofertele alternative.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 113^4",
+      "citat": "După transmiterea invitațiilor în vederea depunerii solicitărilor de participare pentru fiecare achiziție specifică, autoritatea contractantă aplică regulile licitației restrânse organizate exclusiv online, prevederile art. 67-72 fiind aplicabile în mod corespunzător.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -13086,25 +13087,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395-N312",
+    "id": "L98C-045",
     "tip": "unic",
     "test": 29,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, după transmiterea invitațiilor pentru fiecare achiziție specifică în cadrul sistemului dinamic de achiziții, regulile cărei proceduri le aplică autoritatea contractantă?",
+    "intrebare": "Un ofertant depune o ofertă alternativă într-o procedură în care autoritatea contractantă nu a menționat nimic în anunțul de participare despre ofertele alternative. Cum trebuie să procedeze autoritatea contractantă?",
     "variante": [
-      "Ale licitației restrânse organizate exclusiv online",
-      "Ale negocierii competitive, cu negocierea ofertelor inițiale",
-      "Ale procedurii simplificate, desfășurate într-o singură etapă",
-      "Ale licitației electronice, cu runde succesive de ofertare"
+      "Să nu ia în considerare oferta alternativă, întrucât nu a precizat explicit în anunțul de participare că permite sau solicită oferte alternative",
+      "Să evalueze oferta alternativă, întrucât legea nu interzice depunerea acesteia",
+      "Să anuleze procedura de atribuire și să o reia cu precizarea regimului ofertelor alternative",
+      "Să solicite ofertantului clarificări și, dacă oferta alternativă respectă cerințele minime, să o evalueze"
     ],
     "corecte": [
       0
     ],
-    "explicatie": "Art. 113^4 din Norme prevede că, după transmiterea invitațiilor pentru fiecare achiziție specifică, autoritatea contractantă aplică regulile licitației restrânse organizate exclusiv online, art. 67-72 din Norme fiind aplicabile în mod corespunzător. Procedura simplificată are regulile ei proprii în art. 101-105 din Norme, la care art. 113^4 nu trimite. Negocierea nu este compatibilă cu sistemul: art. 112 alin. (3) lit. b) din Norme interzice autorității contractante să decidă organizarea unei etape de negociere a ofertelor. Licitația electronică, cu numărul de runde introdus în SEAP (art. 118 din Norme), este un instrument distinct, reglementat de art. 114-122 din Norme. Trimiterea din art. 113^4 privește expres art. 67-72, adică paragraful licitației restrânse.",
+    "explicatie": "Art. 162 alin. (1) și (2) instituie o regulă de opt-in explicit: ofertele alternative pot fi depuse numai dacă autoritatea contractantă a precizat expres în anunțul de participare că le permite sau le solicită; în lipsa acestei mențiuni, ea nu are dreptul de a le lua în considerare. Solicitarea de clarificări nu poate acoperi această lipsă, pentru că ar echivala cu o modificare a regulilor procedurii după depunerea ofertelor. Anularea procedurii nu este nici ea justificată: motivele de anulare sunt cele limitativ prevăzute la art. 212-213. Când autoritatea contractantă permite ofertele alternative, ea trebuie să stabilească în documentele achiziției cerințele minime obligatorii pe care acestea trebuie să le respecte (alin. (4)) și să nu ia în considerare ofertele alternative care nu le respectă (alin. (6)).",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 113^4",
-      "citat": "După transmiterea invitațiilor în vederea depunerii solicitărilor de participare pentru fiecare achiziție specifică, autoritatea contractantă aplică regulile licitației restrânse organizate exclusiv online, prevederile art. 67-72 fiind aplicabile în mod corespunzător.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 162 alin. (1) și (2)",
+      "citat": "Autoritatea contractantă are dreptul de a permite sau solicita ofertanților să depună oferte alternative numai dacă a precizat explicit în anunțul de participare că permite sau solicită depunerea de oferte alternative. [...] În cazul în care autoritatea contractantă nu a precizat explicit că permite sau solicită depunerea de oferte alternative conform dispozițiilor alin. (1), autoritatea contractantă nu are dreptul de a lua în considerare ofertele alternative.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -13132,29 +13133,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N408",
-    "tip": "unic",
-    "test": 29,
-    "intrebare": "Potrivit Legii nr. 98/2016, criteriile de calificare și selecție pe care autoritatea contractantă are dreptul să le aplice în cadrul procedurii de atribuire se referă numai la:",
-    "variante": [
-      "motive de excludere a candidatului/ofertantului, capacitatea candidatului/ofertantului și factorii de evaluare a ofertelor",
-      "motive de excludere a candidatului/ofertantului și capacitatea candidatului/ofertantului",
-      "motive de excludere a candidatului/ofertantului și criteriul de atribuire stabilit în documentele achiziției",
-      "capacitatea de exercitare a activității profesionale, situația economică și financiară și capacitatea tehnică și profesională"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 163 din Legea nr. 98/2016 limitează criteriile de calificare și selecție la două categorii: motive de excludere a candidatului/ofertantului (lit. a)) și capacitatea candidatului/ofertantului (lit. b)). Enumerarea capacitate de exercitare a activității profesionale – situație economică și financiară – capacitate tehnică și profesională este reală, dar reprezintă doar criteriile de capacitate de la art. 172 alin. (1) și omite motivele de excludere. Factorii de evaluare și criteriul de atribuire nu sunt criterii de calificare, ci servesc la stabilirea ofertei celei mai avantajoase din punct de vedere economic (art. 187 alin. (2) și (3)). Capcana de examen este confuzia dintre criteriile de calificare (privesc operatorul economic) și criteriile de atribuire (privesc oferta), reglementate separat la art. 163 și art. 187.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 163",
-      "citat": "Autoritatea contractantă are dreptul de a aplica în cadrul procedurii de atribuire numai criterii de calificare și selecție referitoare la: a) motive de excludere a candidatului/ofertantului; b) capacitatea candidatului/ofertantului.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395B-041",
     "tip": "unic",
     "test": 29,
@@ -13174,6 +13152,29 @@ const INTREBARI = [
       "articol": "art. 114",
       "citat": "Categoriile de contracte pentru a căror atribuire nu poate fi utilizată licitația electronică sunt prevăzute în anexa nr. 1.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N408",
+    "tip": "unic",
+    "test": 29,
+    "intrebare": "Potrivit Legii nr. 98/2016, criteriile de calificare și selecție pe care autoritatea contractantă are dreptul să le aplice în cadrul procedurii de atribuire se referă numai la:",
+    "variante": [
+      "motive de excludere a candidatului/ofertantului, capacitatea candidatului/ofertantului și factorii de evaluare a ofertelor",
+      "motive de excludere a candidatului/ofertantului și capacitatea candidatului/ofertantului",
+      "motive de excludere a candidatului/ofertantului și criteriul de atribuire stabilit în documentele achiziției",
+      "capacitatea de exercitare a activității profesionale, situația economică și financiară și capacitatea tehnică și profesională"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 163 din Legea nr. 98/2016 limitează criteriile de calificare și selecție la două categorii: motive de excludere a candidatului/ofertantului (lit. a)) și capacitatea candidatului/ofertantului (lit. b)). Enumerarea capacitate de exercitare a activității profesionale – situație economică și financiară – capacitate tehnică și profesională este reală, dar reprezintă doar criteriile de capacitate de la art. 172 alin. (1) și omite motivele de excludere. Factorii de evaluare și criteriul de atribuire nu sunt criterii de calificare, ci servesc la stabilirea ofertei celei mai avantajoase din punct de vedere economic (art. 187 alin. (2) și (3)). Capcana de examen este confuzia dintre criteriile de calificare (privesc operatorul economic) și criteriile de atribuire (privesc oferta), reglementate separat la art. 163 și art. 187.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 163",
+      "citat": "Autoritatea contractantă are dreptul de a aplica în cadrul procedurii de atribuire numai criterii de calificare și selecție referitoare la: a) motive de excludere a candidatului/ofertantului; b) capacitatea candidatului/ofertantului.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -13224,29 +13225,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N409",
-    "tip": "unic",
-    "test": 29,
-    "intrebare": "Potrivit Legii nr. 98/2016, un operator economic care și-a încălcat obligațiile privind plata impozitelor, taxelor sau contribuțiilor la bugetul general consolidat NU este exclus din procedura de atribuire dacă:",
-    "variante": [
-      "încălcarea a fost stabilită printr-o decizie administrativă definitivă, iar nu printr-o hotărâre judecătorească",
-      "prezintă dovezi că măsurile luate sunt suficiente pentru a-și demonstra în concret credibilitatea prin raportare la motivul de excludere",
-      "anterior deciziei de excludere, își îndeplinește obligațiile prin plata sumelor datorate sau beneficiază, în condițiile legii, de eșalonarea acestora",
-      "obligațiile neachitate privesc sediile secundare/punctele de lucru, pentru care operatorul economic depune o declarație pe propria răspundere"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 165 alin. (2) din Legea nr. 98/2016 prevede că operatorul economic nu este exclus dacă, anterior deciziei de excludere, își îndeplinește obligațiile prin plata impozitelor, taxelor sau contribuțiilor datorate ori prin alte modalități de stingere sau beneficiază, în condițiile legii, de eșalonarea acestora ori de alte facilități. Demonstrarea credibilității prin măsuri luate (art. 171 alin. (1)) este posibilă numai pentru situațiile de la art. 164 și 167, nu și pentru obligațiile fiscale de la art. 165. Decizia administrativă definitivă și obligatorie este, alături de hotărârea judecătorească, chiar temeiul excluderii potrivit art. 165 alin. (1) lit. a), deci nu scutește de excludere. Declarația pe propria răspundere pentru sediile secundare/punctele de lucru din art. 165 alin. (3) este doar un mijloc de dovadă a îndeplinirii obligațiilor, nu o excepție de la excludere pentru datoriile acestor sedii. Separat, art. 166 alin. (2) prevede neexcluderea când cuantumul datorat și restant este mai mic de 10.000 lei.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 165 alin. (2)",
-      "citat": "Operatorul economic nu este exclus din procedura de atribuire dacă, anterior deciziei de excludere, își îndeplinește obligațiile prin plata impozitelor, taxelor sau contribuțiilor la bugetul general consolidat datorate ori prin alte modalități de stingere a acestora sau beneficiază, în condițiile legii, de eșalonarea acestora ori de alte facilități în vederea plății acestora",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N313",
     "tip": "unic",
     "test": 29,
@@ -13289,6 +13267,29 @@ const INTREBARI = [
       "articol": "art. 11 alin. (1) și (2)",
       "citat": "ANAP analizează, în termen de 3 zile lucrătoare de la primirea acestora, conținutul documentelor transmise de autoritatea/entitatea contractantă și emite, în același termen, avizul conform cu privire la modul în care autoritatea/entitatea contractantă a demonstrat respectarea prevederilor legale invocate, ce permit aplicarea procedurii de negociere fără publicarea prealabilă, precum și cu privire la prevederile documentației de atribuire. [...] În situații excepționale, în care complexitatea documentelor puse la dispoziție de autoritatea/entitatea contractantă impun o analiză ce necesită un interval de timp mai îndelungat, termenul pentru emiterea avizului conform se prelungește cu 2 zile lucrătoare.",
       "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N409",
+    "tip": "unic",
+    "test": 29,
+    "intrebare": "Potrivit Legii nr. 98/2016, un operator economic care și-a încălcat obligațiile privind plata impozitelor, taxelor sau contribuțiilor la bugetul general consolidat NU este exclus din procedura de atribuire dacă:",
+    "variante": [
+      "încălcarea a fost stabilită printr-o decizie administrativă definitivă, iar nu printr-o hotărâre judecătorească",
+      "prezintă dovezi că măsurile luate sunt suficiente pentru a-și demonstra în concret credibilitatea prin raportare la motivul de excludere",
+      "anterior deciziei de excludere, își îndeplinește obligațiile prin plata sumelor datorate sau beneficiază, în condițiile legii, de eșalonarea acestora",
+      "obligațiile neachitate privesc sediile secundare/punctele de lucru, pentru care operatorul economic depune o declarație pe propria răspundere"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 165 alin. (2) din Legea nr. 98/2016 prevede că operatorul economic nu este exclus dacă, anterior deciziei de excludere, își îndeplinește obligațiile prin plata impozitelor, taxelor sau contribuțiilor datorate ori prin alte modalități de stingere sau beneficiază, în condițiile legii, de eșalonarea acestora ori de alte facilități. Demonstrarea credibilității prin măsuri luate (art. 171 alin. (1)) este posibilă numai pentru situațiile de la art. 164 și 167, nu și pentru obligațiile fiscale de la art. 165. Decizia administrativă definitivă și obligatorie este, alături de hotărârea judecătorească, chiar temeiul excluderii potrivit art. 165 alin. (1) lit. a), deci nu scutește de excludere. Declarația pe propria răspundere pentru sediile secundare/punctele de lucru din art. 165 alin. (3) este doar un mijloc de dovadă a îndeplinirii obligațiilor, nu o excepție de la excludere pentru datoriile acestor sedii. Separat, art. 166 alin. (2) prevede neexcluderea când cuantumul datorat și restant este mai mic de 10.000 lei.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 165 alin. (2)",
+      "citat": "Operatorul economic nu este exclus din procedura de atribuire dacă, anterior deciziei de excludere, își îndeplinește obligațiile prin plata impozitelor, taxelor sau contribuțiilor la bugetul general consolidat datorate ori prin alte modalități de stingere a acestora sau beneficiază, în condițiile legii, de eșalonarea acestora ori de alte facilități în vederea plății acestora",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -13385,29 +13386,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N410",
-    "tip": "unic",
-    "test": 29,
-    "intrebare": "Potrivit Legii nr. 98/2016, în cazul în care în țara de origine a ofertantului nu se emit documente care să ateste neîncadrarea în situațiile de excludere prevăzute la art. 164, 165 și 167, autoritatea contractantă:",
-    "variante": [
-      "are obligația de a accepta o declarație pe propria răspundere sau, dacă în țara respectivă nu există prevederi legale referitoare la aceasta, o declarație autentică dată în fața unui notar, a unei autorități administrative sau judiciare ori a unei asociații profesionale competente",
-      "solicită în mod direct informații de la autoritățile competente străine, fără a putea accepta declarații ale ofertantului",
-      "solicită ofertantului documente echivalente emise de autoritățile competente din România",
-      "exclude ofertantul, întrucât acesta nu este în măsură să prezinte documentele justificative privind absența motivelor de excludere"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 168 alin. (3) din Legea nr. 98/2016 obligă autoritatea contractantă, când în țara de origine sau de stabilire nu se emit documentele edificatoare ori acestea nu vizează toate situațiile de la art. 164, 165 și 167, să accepte o declarație pe propria răspundere sau, în lipsa unor prevederi legale privind o astfel de declarație, o declarație autentică dată în fața unui notar, a unei autorități administrative sau judiciare ori a unei asociații profesionale competente. Excluderea pentru neprezentarea documentelor justificative este motivul de la art. 167 alin. (1) lit. h), care nu se aplică atunci când legea însăși oferă un mijloc alternativ de dovadă. Art. 168 alin. (1) se raportează la documentele considerate edificatoare în țara de origine sau de stabilire, nu la documente emise de autoritățile române. Solicitarea directă de informații de la autoritățile străine este un drept al autorității contractante, prevăzut la art. 168 alin. (2) pentru cazul incertitudinilor, și nu înlătură obligația de a accepta declarațiile de la alin. (3).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 168 alin. (3)",
-      "citat": "În cazul în care în țara de origine sau în țara în care este stabilit ofertantul/candidatul nu se emit documente de natura celor prevăzute la alin. (1) sau respectivele documente nu vizează toate situațiile prevăzute la art. 164, 165 și 167, autoritatea contractantă are obligația de a accepta o declarație pe propria răspundere sau, dacă în țara respectivă nu există prevederi legale referitoare la declarația pe propria răspundere, o declarație autentică dată în fața unui notar, a unei autorități administrative sau judiciare sau a unei asociații profesionale care are competențe în acest sens.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N401",
     "tip": "unic",
     "test": 29,
@@ -13427,6 +13405,29 @@ const INTREBARI = [
       "articol": "art. 117",
       "citat": "Licitația electronică se poate organiza numai în măsura în care facilitățile tehnice disponibile în cadrul SEAP permit aplicarea algoritmului de calcul stabilit de autoritatea contractantă.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N410",
+    "tip": "unic",
+    "test": 29,
+    "intrebare": "Potrivit Legii nr. 98/2016, în cazul în care în țara de origine a ofertantului nu se emit documente care să ateste neîncadrarea în situațiile de excludere prevăzute la art. 164, 165 și 167, autoritatea contractantă:",
+    "variante": [
+      "are obligația de a accepta o declarație pe propria răspundere sau, dacă în țara respectivă nu există prevederi legale referitoare la aceasta, o declarație autentică dată în fața unui notar, a unei autorități administrative sau judiciare ori a unei asociații profesionale competente",
+      "solicită în mod direct informații de la autoritățile competente străine, fără a putea accepta declarații ale ofertantului",
+      "solicită ofertantului documente echivalente emise de autoritățile competente din România",
+      "exclude ofertantul, întrucât acesta nu este în măsură să prezinte documentele justificative privind absența motivelor de excludere"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 168 alin. (3) din Legea nr. 98/2016 obligă autoritatea contractantă, când în țara de origine sau de stabilire nu se emit documentele edificatoare ori acestea nu vizează toate situațiile de la art. 164, 165 și 167, să accepte o declarație pe propria răspundere sau, în lipsa unor prevederi legale privind o astfel de declarație, o declarație autentică dată în fața unui notar, a unei autorități administrative sau judiciare ori a unei asociații profesionale competente. Excluderea pentru neprezentarea documentelor justificative este motivul de la art. 167 alin. (1) lit. h), care nu se aplică atunci când legea însăși oferă un mijloc alternativ de dovadă. Art. 168 alin. (1) se raportează la documentele considerate edificatoare în țara de origine sau de stabilire, nu la documente emise de autoritățile române. Solicitarea directă de informații de la autoritățile străine este un drept al autorității contractante, prevăzut la art. 168 alin. (2) pentru cazul incertitudinilor, și nu înlătură obligația de a accepta declarațiile de la alin. (3).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 168 alin. (3)",
+      "citat": "În cazul în care în țara de origine sau în țara în care este stabilit ofertantul/candidatul nu se emit documente de natura celor prevăzute la alin. (1) sau respectivele documente nu vizează toate situațiile prevăzute la art. 164, 165 și 167, autoritatea contractantă are obligația de a accepta o declarație pe propria răspundere sau, dacă în țara respectivă nu există prevederi legale referitoare la declarația pe propria răspundere, o declarație autentică dată în fața unui notar, a unei autorități administrative sau judiciare sau a unei asociații profesionale care are competențe în acest sens.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -13479,32 +13480,9 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N411",
-    "tip": "unic",
-    "test": 29,
-    "intrebare": "Potrivit Legii nr. 98/2016, în ce moment exclude autoritatea contractantă un operator economic despre care ia la cunoștință că se află într-una dintre situațiile de excludere prevăzute la art. 164, 165 și 167?",
-    "variante": [
-      "În orice moment al procedurii, dar numai pentru acțiunile sau inacțiunile săvârșite înainte de inițierea procedurii",
-      "În orice moment al procedurii de atribuire, având în vedere acțiunile sau inacțiunile săvârșite înainte sau în cursul procedurii",
-      "Numai dacă situația de excludere rezultă din DUAE depus la momentul depunerii ofertelor",
-      "Numai în etapa verificării documentelor de calificare, înainte de stabilirea ofertei câștigătoare"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 169 din Legea nr. 98/2016 prevede că autoritatea contractantă exclude un operator economic în orice moment al procedurii de atribuire în care ia la cunoștință că acesta se află, având în vedere acțiunile sau inacțiunile săvârșite înainte sau în cursul procedurii, într-una dintre situațiile de la art. 164, 165 și 167. Limitarea la etapa verificării documentelor de calificare contrazice formula „în orice moment al procedurii” din art. 169. Limitarea la faptele anterioare inițierii procedurii este greșită, deoarece art. 169 include expres și acțiunile sau inacțiunile săvârșite în cursul procedurii. DUAE este doar dovada preliminară a neîncadrării în situațiile de excludere (art. 193 alin. (1) lit. a)), iar art. 169 are în vedere luarea la cunoștință a situației pe orice cale.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 169",
-      "citat": "Autoritatea contractantă exclude un operator economic în orice moment al procedurii de atribuire în care ia la cunoștință că operatorul economic se află, având în vedere acțiunile sau inacțiunile săvârșite înainte sau în cursul procedurii, în una dintre situațiile prevăzute la art. 164, 165 și 167",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L500-N206",
     "tip": "unic",
-    "test": 30,
+    "test": 29,
     "intrebare": "Potrivit Legii nr. 500/2002 privind finanțele publice, cadrul, tema, rapoartele de analiză a cheltuielilor publice și măsurile stabilite pentru realizarea acestor analize, derulate de Ministerul Finanțelor și ordonatorii principali de credite, se aprobă:",
     "variante": [
       "de Guvern, prin memorandum, până la data de 15 iulie a fiecărui an",
@@ -13521,6 +13499,29 @@ const INTREBARI = [
       "articol": "art. 31^1 alin. (1)",
       "citat": "(1) Guvernul aprobă, prin memorandum, până la data de 15 iulie a fiecărui an, cadrul, tema, rapoartele de analiză a cheltuielilor publice și măsurile stabilite pentru realizarea acestor analize, derulate de Ministerul Finanțelor și ordonatorii principali de credite.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N411",
+    "tip": "unic",
+    "test": 30,
+    "intrebare": "Potrivit Legii nr. 98/2016, în ce moment exclude autoritatea contractantă un operator economic despre care ia la cunoștință că se află într-una dintre situațiile de excludere prevăzute la art. 164, 165 și 167?",
+    "variante": [
+      "În orice moment al procedurii, dar numai pentru acțiunile sau inacțiunile săvârșite înainte de inițierea procedurii",
+      "În orice moment al procedurii de atribuire, având în vedere acțiunile sau inacțiunile săvârșite înainte sau în cursul procedurii",
+      "Numai dacă situația de excludere rezultă din DUAE depus la momentul depunerii ofertelor",
+      "Numai în etapa verificării documentelor de calificare, înainte de stabilirea ofertei câștigătoare"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 169 din Legea nr. 98/2016 prevede că autoritatea contractantă exclude un operator economic în orice moment al procedurii de atribuire în care ia la cunoștință că acesta se află, având în vedere acțiunile sau inacțiunile săvârșite înainte sau în cursul procedurii, într-una dintre situațiile de la art. 164, 165 și 167. Limitarea la etapa verificării documentelor de calificare contrazice formula „în orice moment al procedurii” din art. 169. Limitarea la faptele anterioare inițierii procedurii este greșită, deoarece art. 169 include expres și acțiunile sau inacțiunile săvârșite în cursul procedurii. DUAE este doar dovada preliminară a neîncadrării în situațiile de excludere (art. 193 alin. (1) lit. a)), iar art. 169 are în vedere luarea la cunoștință a situației pe orice cale.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 169",
+      "citat": "Autoritatea contractantă exclude un operator economic în orice moment al procedurii de atribuire în care ia la cunoștință că operatorul economic se află, având în vedere acțiunile sau inacțiunile săvârșite înainte sau în cursul procedurii, în una dintre situațiile prevăzute la art. 164, 165 și 167",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -13596,29 +13597,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98C-049",
-    "tip": "unic",
-    "test": 30,
-    "intrebare": "În lipsa unei hotărâri judecătorești definitive prin care să se fi aplicat măsura interdicției de a participa la proceduri de atribuire, după ce perioade nu se mai aplică situațiile de excludere prevăzute la art. 164, respectiv la art. 167 din Legea nr. 98/2016?",
-    "variante": [
-      "3 ani de la hotărârea definitivă de condamnare (art. 164), respectiv 5 ani de la apariția situației (art. 167)",
-      "5 ani în ambele cazuri",
-      "3 ani în ambele cazuri",
-      "5 ani de la hotărârea definitivă de condamnare (art. 164), respectiv 3 ani de la apariția situației, săvârșirea faptei sau producerea evenimentului relevant (art. 167)"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 171 alin. (5) stabilește două perioade distincte de „prescripție” a motivelor de excludere: 5 ani de la data hotărârii definitive de condamnare pentru faptele penale de la art. 164 și 3 ani de la data apariției situației, săvârșirii faptei sau producerii evenimentului relevant pentru situațiile de la art. 167. Termenul mai lung corespunde faptelor mai grave, cele penale — de aceea inversarea celor două valori este capcana principală. Regula nu se aplică însă atunci când instanța a dispus prin hotărâre definitivă interdicția de a participa la proceduri de atribuire: pe toată perioada de excludere stabilită de instanță, nici măcar măsurile de self-cleaning prevăzute la alin. (1)-(3) nu produc efecte (alin. (4)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 171 alin. (5) lit. a) și b)",
-      "citat": "situațiile de excludere prevăzute la art. 164 și 167 nu se aplică: a) dacă, în cazul faptelor prevăzute la art. 164, a expirat o perioadă de 5 ani de la data hotărârii definitive de condamnare; b) dacă, în cazul situațiilor, faptelor sau evenimentelor prevăzute la art. 167, a expirat o perioadă de 3 ani de la data apariției situației, săvârșirii faptei sau producerii evenimentului relevant.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395B-040",
     "tip": "unic",
     "test": 30,
@@ -13638,6 +13616,29 @@ const INTREBARI = [
       "articol": "art. 119 alin. (1)",
       "citat": "Durata unei runde de licitație electronică se stabilește în zile și este de minimum o zi, iar între runde trebuie să existe intervale stabilite în zile, a căror durată minimă este de o zi.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98C-049",
+    "tip": "unic",
+    "test": 30,
+    "intrebare": "În lipsa unei hotărâri judecătorești definitive prin care să se fi aplicat măsura interdicției de a participa la proceduri de atribuire, după ce perioade nu se mai aplică situațiile de excludere prevăzute la art. 164, respectiv la art. 167 din Legea nr. 98/2016?",
+    "variante": [
+      "3 ani de la hotărârea definitivă de condamnare (art. 164), respectiv 5 ani de la apariția situației (art. 167)",
+      "5 ani în ambele cazuri",
+      "3 ani în ambele cazuri",
+      "5 ani de la hotărârea definitivă de condamnare (art. 164), respectiv 3 ani de la apariția situației, săvârșirea faptei sau producerea evenimentului relevant (art. 167)"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 171 alin. (5) stabilește două perioade distincte de „prescripție” a motivelor de excludere: 5 ani de la data hotărârii definitive de condamnare pentru faptele penale de la art. 164 și 3 ani de la data apariției situației, săvârșirii faptei sau producerii evenimentului relevant pentru situațiile de la art. 167. Termenul mai lung corespunde faptelor mai grave, cele penale — de aceea inversarea celor două valori este capcana principală. Regula nu se aplică însă atunci când instanța a dispus prin hotărâre definitivă interdicția de a participa la proceduri de atribuire: pe toată perioada de excludere stabilită de instanță, nici măcar măsurile de self-cleaning prevăzute la alin. (1)-(3) nu produc efecte (alin. (4)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 171 alin. (5) lit. a) și b)",
+      "citat": "situațiile de excludere prevăzute la art. 164 și 167 nu se aplică: a) dacă, în cazul faptelor prevăzute la art. 164, a expirat o perioadă de 5 ani de la data hotărârii definitive de condamnare; b) dacă, în cazul situațiilor, faptelor sau evenimentelor prevăzute la art. 167, a expirat o perioadă de 3 ani de la data apariției situației, săvârșirii faptei sau producerii evenimentului relevant.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -13667,29 +13668,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500-N207",
-    "tip": "unic",
-    "test": 30,
-    "intrebare": "Potrivit Legii nr. 500/2002 privind finanțele publice, în cadrul activității de analiză a cheltuielilor publice, care dintre următoarele reprezintă o obligație a ordonatorilor principali de credite (și nu o competență sau atribuție a Ministerului Finanțelor)?",
-    "variante": [
-      "Să coordoneze activitatea de analiză a cheltuielilor publice",
-      "Să ducă la îndeplinire măsurile cuprinse în rapoartele aprobate de Guvern",
-      "Să elaboreze strategia multianuală de analiză a cheltuielilor bugetare",
-      "Să informeze Guvernul anual, până la sfârșitul lunii iunie, asupra stadiului de ducere la îndeplinire a măsurilor dispuse prin rapoartele aprobate de Guvern"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 31^1 alin. (4) lit. d) obligă ordonatorii principali de credite «să ducă la îndeplinire măsurile cuprinse în rapoartele aprobate de Guvern»; tot lor le revin, potrivit alin. (4) lit. a)–c), nominalizarea personalului pentru grupurile de lucru, transmiterea documentelor solicitate și colaborarea la stabilirea cadrului analizei. Coordonarea activității de analiză a cheltuielilor publice este o competență a Ministerului Finanțelor, potrivit art. 31^1 alin. (2) lit. a). Elaborarea strategiei multianuale de analiză a cheltuielilor bugetare, aprobate de Guvern prin memorandum, este o atribuție a Ministerului Finanțelor, potrivit art. 31^1 alin. (3) lit. a). Urmărirea stadiului măsurilor și informarea anuală a Guvernului, până la sfârșitul lunii iunie, revin tot Ministerului Finanțelor, potrivit art. 31^1 alin. (3) lit. e). Capcana: ordonatorii principali execută măsurile, dar monitorizarea și raportarea către Guvern sunt ale Ministerului Finanțelor, conform art. 31^1 alin. (3) lit. e).",
-    "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 31^1 alin. (4) lit. d)",
-      "citat": "(4) Ordonatorii principali de credite au următoarele obligații: [...] d) să ducă la îndeplinire măsurile cuprinse în rapoartele aprobate de Guvern.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N403",
     "tip": "unic",
     "test": 30,
@@ -13709,6 +13687,29 @@ const INTREBARI = [
       "articol": "art. 120",
       "citat": "La licitația electronică au dreptul să participe doar operatorii economici înregistrați în SEAP și cărora le-au fost transmise invitații de participare la această fază de către autoritatea contractantă.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L500-N207",
+    "tip": "unic",
+    "test": 30,
+    "intrebare": "Potrivit Legii nr. 500/2002 privind finanțele publice, în cadrul activității de analiză a cheltuielilor publice, care dintre următoarele reprezintă o obligație a ordonatorilor principali de credite (și nu o competență sau atribuție a Ministerului Finanțelor)?",
+    "variante": [
+      "Să coordoneze activitatea de analiză a cheltuielilor publice",
+      "Să ducă la îndeplinire măsurile cuprinse în rapoartele aprobate de Guvern",
+      "Să elaboreze strategia multianuală de analiză a cheltuielilor bugetare",
+      "Să informeze Guvernul anual, până la sfârșitul lunii iunie, asupra stadiului de ducere la îndeplinire a măsurilor dispuse prin rapoartele aprobate de Guvern"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 31^1 alin. (4) lit. d) obligă ordonatorii principali de credite «să ducă la îndeplinire măsurile cuprinse în rapoartele aprobate de Guvern»; tot lor le revin, potrivit alin. (4) lit. a)–c), nominalizarea personalului pentru grupurile de lucru, transmiterea documentelor solicitate și colaborarea la stabilirea cadrului analizei. Coordonarea activității de analiză a cheltuielilor publice este o competență a Ministerului Finanțelor, potrivit art. 31^1 alin. (2) lit. a). Elaborarea strategiei multianuale de analiză a cheltuielilor bugetare, aprobate de Guvern prin memorandum, este o atribuție a Ministerului Finanțelor, potrivit art. 31^1 alin. (3) lit. a). Urmărirea stadiului măsurilor și informarea anuală a Guvernului, până la sfârșitul lunii iunie, revin tot Ministerului Finanțelor, potrivit art. 31^1 alin. (3) lit. e). Capcana: ordonatorii principali execută măsurile, dar monitorizarea și raportarea către Guvern sunt ale Ministerului Finanțelor, conform art. 31^1 alin. (3) lit. e).",
+    "sursa": {
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 31^1 alin. (4) lit. d)",
+      "citat": "(4) Ordonatorii principali de credite au următoarele obligații: [...] d) să ducă la îndeplinire măsurile cuprinse în rapoartele aprobate de Guvern.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
   },
@@ -13736,29 +13737,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N501",
-    "tip": "unic",
-    "test": 30,
-    "intrebare": "Potrivit Legii nr. 98/2016, autoritatea contractantă are dreptul de a solicita oricărui operator economic documente relevante care să dovedească forma de înregistrare și, după caz, de atestare ori apartenență din punct de vedere profesional. În conformitate cu ce cerințe legale se face această dovadă?",
-    "variante": [
-      "Cerințele legale din România, ca stat al autorității contractante",
-      "Cerințele legale din țara în care este stabilit operatorul economic",
-      "Cerințele stabilite de autoritatea contractantă prin caietul de sarcini",
-      "Cerințele legale din statul în care urmează să fie executat contractul"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 173 alin. (1) din Legea nr. 98/2016 prevede că documentele privind forma de înregistrare și, după caz, de atestare ori apartenență profesională se prezintă în conformitate cu cerințele legale din țara în care este stabilit operatorul economic. Legea nu raportează această dovadă la legislația română, deci varianta cu România ca stat al autorității contractante este greșită. Nici statul în care se execută contractul nu este criteriul de raportare: art. 173 alin. (2) se referă, pentru servicii, tot la autorizația sau apartenența cerută în statul de origine al operatorului. Caietul de sarcini conține specificațiile tehnice ale obiectului achiziției (art. 20 alin. (10) din Normele aprobate prin H.G. nr. 395/2016), nu regulile după care se dovedește înregistrarea operatorului. Capacitatea de exercitare a activității profesionale este unul dintre cele trei criterii de capacitate permise de art. 172 alin. (1) lit. a).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 173 alin. (1)",
-      "citat": "Autoritatea contractantă are dreptul de a solicita oricărui operator economic să prezinte documente relevante care să dovedească forma de înregistrare și, după caz, de atestare ori apartenență din punct de vedere profesional, în conformitate cu cerințele legale din țara în care este stabilit operatorul economic.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L101A-044",
     "tip": "unic",
     "test": 30,
@@ -13782,24 +13760,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N502",
+    "id": "L98-N501",
     "tip": "unic",
     "test": 30,
-    "intrebare": "Potrivit Legii nr. 98/2016, dacă din informațiile și documentele prezentate nu rezultă că subcontractantul propus are capacitatea tehnică și profesională necesară pentru partea din contract pe care urmează să o îndeplinească efectiv, autoritatea contractantă:",
+    "intrebare": "Potrivit Legii nr. 98/2016, autoritatea contractantă are dreptul de a solicita oricărui operator economic documente relevante care să dovedească forma de înregistrare și, după caz, de atestare ori apartenență din punct de vedere profesional. În conformitate cu ce cerințe legale se face această dovadă?",
     "variante": [
-      "respinge oferta ca inacceptabilă, fără a permite înlocuirea subcontractantului",
-      "respinge subcontractantul propus și solicită ofertantului/candidatului, o singură dată, înlocuirea acestuia cu un alt subcontractant care are capacitatea necesară",
-      "acceptă subcontractantul dacă ofertantul și subcontractantul se angajează să răspundă în mod solidar pentru executarea contractului",
-      "stabilește pentru subcontractant cerințe de participare proprii și îi solicită să facă dovada îndeplinirii lor"
+      "Cerințele legale din România, ca stat al autorității contractante",
+      "Cerințele legale din țara în care este stabilit operatorul economic",
+      "Cerințele stabilite de autoritatea contractantă prin caietul de sarcini",
+      "Cerințele legale din statul în care urmează să fie executat contractul"
     ],
     "corecte": [
       1
     ],
-    "explicatie": "Art. 174 alin. (2) din Legea nr. 98/2016: autoritatea contractantă respinge subcontractantul propus și solicită ofertantului/candidatului o singură dată înlocuirea acestuia cu un alt subcontractant care are capacitatea tehnică și profesională necesară. Respingerea directă a ofertei este greșită, deoarece legea dă mai întâi posibilitatea înlocuirii subcontractantului. Răspunderea solidară este prevăzută pentru terțul care acordă susținere pentru situația economică și financiară (art. 184) și pentru asocieri (art. 185 alin. (1)), nu ca remediu pentru lipsa capacității subcontractantului. Stabilirea de cerințe de participare pentru subcontractanți este interzisă de art. 172 alin. (4), care permite doar luarea în considerare a capacității lor pentru partea lor de implicare. Capcana de examen este „o singură dată”, aceeași formulă folosită de art. 183 alin. (2) pentru înlocuirea terțului susținător.",
+    "explicatie": "Art. 173 alin. (1) din Legea nr. 98/2016 prevede că documentele privind forma de înregistrare și, după caz, de atestare ori apartenență profesională se prezintă în conformitate cu cerințele legale din țara în care este stabilit operatorul economic. Legea nu raportează această dovadă la legislația română, deci varianta cu România ca stat al autorității contractante este greșită. Nici statul în care se execută contractul nu este criteriul de raportare: art. 173 alin. (2) se referă, pentru servicii, tot la autorizația sau apartenența cerută în statul de origine al operatorului. Caietul de sarcini conține specificațiile tehnice ale obiectului achiziției (art. 20 alin. (10) din Normele aprobate prin H.G. nr. 395/2016), nu regulile după care se dovedește înregistrarea operatorului. Capacitatea de exercitare a activității profesionale este unul dintre cele trei criterii de capacitate permise de art. 172 alin. (1) lit. a).",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 174 alin. (2)",
-      "citat": "autoritatea contractantă respinge subcontractantul propus și solicită ofertantului/candidatului o singură dată înlocuirea acestuia și prezentarea unui alt subcontractant care să aibă capacitatea tehnică și profesională necesară pentru partea/părțile din contract pe care acesta urmează să o/le îndeplinească efectiv.",
+      "articol": "art. 173 alin. (1)",
+      "citat": "Autoritatea contractantă are dreptul de a solicita oricărui operator economic să prezinte documente relevante care să dovedească forma de înregistrare și, după caz, de atestare ori apartenență din punct de vedere profesional, în conformitate cu cerințele legale din țara în care este stabilit operatorul economic.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -13828,6 +13806,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98-N502",
+    "tip": "unic",
+    "test": 30,
+    "intrebare": "Potrivit Legii nr. 98/2016, dacă din informațiile și documentele prezentate nu rezultă că subcontractantul propus are capacitatea tehnică și profesională necesară pentru partea din contract pe care urmează să o îndeplinească efectiv, autoritatea contractantă:",
+    "variante": [
+      "respinge oferta ca inacceptabilă, fără a permite înlocuirea subcontractantului",
+      "respinge subcontractantul propus și solicită ofertantului/candidatului, o singură dată, înlocuirea acestuia cu un alt subcontractant care are capacitatea necesară",
+      "acceptă subcontractantul dacă ofertantul și subcontractantul se angajează să răspundă în mod solidar pentru executarea contractului",
+      "stabilește pentru subcontractant cerințe de participare proprii și îi solicită să facă dovada îndeplinirii lor"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 174 alin. (2) din Legea nr. 98/2016: autoritatea contractantă respinge subcontractantul propus și solicită ofertantului/candidatului o singură dată înlocuirea acestuia cu un alt subcontractant care are capacitatea tehnică și profesională necesară. Respingerea directă a ofertei este greșită, deoarece legea dă mai întâi posibilitatea înlocuirii subcontractantului. Răspunderea solidară este prevăzută pentru terțul care acordă susținere pentru situația economică și financiară (art. 184) și pentru asocieri (art. 185 alin. (1)), nu ca remediu pentru lipsa capacității subcontractantului. Stabilirea de cerințe de participare pentru subcontractanți este interzisă de art. 172 alin. (4), care permite doar luarea în considerare a capacității lor pentru partea lor de implicare. Capcana de examen este „o singură dată”, aceeași formulă folosită de art. 183 alin. (2) pentru înlocuirea terțului susținător.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 174 alin. (2)",
+      "citat": "autoritatea contractantă respinge subcontractantul propus și solicită ofertantului/candidatului o singură dată înlocuirea acestuia și prezentarea unui alt subcontractant care să aibă capacitatea tehnică și profesională necesară pentru partea/părțile din contract pe care acesta urmează să o/le îndeplinească efectiv.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98C-050",
     "tip": "unic",
     "test": 30,
@@ -13846,29 +13847,6 @@ const INTREBARI = [
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 175 alin. (2) lit. a)",
       "citat": "un anumit nivel minim al cifrei de afaceri anuale, inclusiv o anumită cifră de afaceri minimă în domeniul obiectului contractului de achiziție publică/acordului-cadru; cifra de afaceri minimă anuală impusă operatorilor economici nu trebuie să depășească de două ori [...] rea estimată a contractului de achiziție publică sau, după caz, la valoarea maximă anticipată a contractelor subsecvente ce urmează să se execute în același timp sau, dacă aceasta nu este cunoscută, la valoarea estimată a celui mai mare contract subsecvent",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98-N503",
-    "tip": "unic",
-    "test": 30,
-    "intrebare": "Potrivit Legii nr. 98/2016, în cazul unui sistem dinamic de achiziții, nivelul cifrei de afaceri minime anuale impuse operatorilor economici se raportează la:",
-    "variante": [
-      "valoarea estimată a celui mai mare contract subsecvent",
-      "valoarea maximă anticipată a contractelor subsecvente care urmează să fie atribuite în cadrul sistemului respectiv",
-      "valoarea estimată a întregului sistem dinamic de achiziții pe toată durata sa de valabilitate",
-      "valoarea maximă anticipată a contractelor subsecvente ce urmează să se execute în același timp"
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 176 alin. (2) din Legea nr. 98/2016 prevede că, în cazul unui sistem dinamic de achiziții, nivelul cifrei de afaceri minime anuale se raportează la valoarea maximă anticipată a contractelor subsecvente care urmează să fie atribuite în cadrul sistemului respectiv. Valoarea maximă anticipată a contractelor subsecvente care se execută în același timp este regula de la art. 176 alin. (1) pentru acordul-cadru cu reluarea competiției, nu pentru sistemul dinamic. Valoarea estimată a celui mai mare contract subsecvent este tot o regulă a acordului-cadru, aplicabilă numai dacă valoarea maximă anticipată a contractelor executate simultan nu este cunoscută (art. 176 alin. (1)). Legea nu raportează cifra de afaceri la valoarea întregului sistem pe durata sa. Limita generală este dublul valorii estimate a contractului, potrivit art. 175 alin. (2) lit. a).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 176 alin. (2)",
-      "citat": "În cazul unui sistem dinamic de achiziții, nivelul cifrei de afaceri minime anuale prevăzut la art. 175 alin. (2) lit. a) se raportează la valoarea maximă anticipată a contractelor subsecvente care urmează să fie atribuite în cadrul sistemului respectiv.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -13921,6 +13899,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L98-N503",
+    "tip": "unic",
+    "test": 30,
+    "intrebare": "Potrivit Legii nr. 98/2016, în cazul unui sistem dinamic de achiziții, nivelul cifrei de afaceri minime anuale impuse operatorilor economici se raportează la:",
+    "variante": [
+      "valoarea estimată a celui mai mare contract subsecvent",
+      "valoarea maximă anticipată a contractelor subsecvente care urmează să fie atribuite în cadrul sistemului respectiv",
+      "valoarea estimată a întregului sistem dinamic de achiziții pe toată durata sa de valabilitate",
+      "valoarea maximă anticipată a contractelor subsecvente ce urmează să se execute în același timp"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 176 alin. (2) din Legea nr. 98/2016 prevede că, în cazul unui sistem dinamic de achiziții, nivelul cifrei de afaceri minime anuale se raportează la valoarea maximă anticipată a contractelor subsecvente care urmează să fie atribuite în cadrul sistemului respectiv. Valoarea maximă anticipată a contractelor subsecvente care se execută în același timp este regula de la art. 176 alin. (1) pentru acordul-cadru cu reluarea competiției, nu pentru sistemul dinamic. Valoarea estimată a celui mai mare contract subsecvent este tot o regulă a acordului-cadru, aplicabilă numai dacă valoarea maximă anticipată a contractelor executate simultan nu este cunoscută (art. 176 alin. (1)). Legea nu raportează cifra de afaceri la valoarea întregului sistem pe durata sa. Limita generală este dublul valorii estimate a contractului, potrivit art. 175 alin. (2) lit. a).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 176 alin. (2)",
+      "citat": "În cazul unui sistem dinamic de achiziții, nivelul cifrei de afaceri minime anuale prevăzut la art. 175 alin. (2) lit. a) se raportează la valoarea maximă anticipată a contractelor subsecvente care urmează să fie atribuite în cadrul sistemului respectiv.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L500-042",
     "tip": "unic",
     "test": 30,
@@ -13944,34 +13945,9 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N504",
-    "tip": "multiplu",
-    "test": 30,
-    "intrebare": "Potrivit Legii nr. 98/2016, prin care dintre următoarele informații și documente face, de regulă, operatorul economic dovada îndeplinirii cerințelor privind situația economică și financiară?",
-    "variante": [
-      "O declarație privind cifra totală de afaceri pentru cel mult ultimele trei exerciții financiare disponibile",
-      "Declarații sau extrase bancare corespunzătoare ori, acolo unde este cazul, dovada asigurării de risc profesional",
-      "Situațiile financiare sau extrase din acestea, în cazul în care publicarea lor este prevăzută de legislația țării în care este stabilit operatorul economic",
-      "O listă a principalelor livrări de produse efectuate în cursul unei perioade care acoperă cel mult ultimii 3 ani"
-    ],
-    "corecte": [
-      0,
-      1,
-      2
-    ],
-    "explicatie": "Art. 177 alin. (1) din Legea nr. 98/2016 enumeră la lit. a) declarațiile sau extrasele bancare ori dovada asigurării de risc profesional, la lit. b) situațiile financiare sau extrasele din acestea, dacă publicarea lor este prevăzută de legislația țării de stabilire, și la lit. c) declarația privind cifra totală de afaceri pentru cel mult ultimele trei exerciții financiare disponibile. Lista principalelor livrări de produse din cel mult ultimii 3 ani este un mijloc de probă pentru capacitatea tehnică și profesională, prevăzut la art. 179 lit. b), nu pentru situația economică și financiară. Capcana constă în confuzia dintre „ultimele trei exerciții financiare” (cifra de afaceri) și „ultimii 3 ani” (livrări și servicii). Dacă, din motive obiective și justificate, operatorul nu poate prezenta aceste documente, poate folosi orice alt document considerat adecvat de autoritatea contractantă, potrivit art. 177 alin. (2).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 177 alin. (1)",
-      "citat": "a) declarații sau extrase bancare corespunzătoare sau, acolo unde este cazul, dovada asigurării de risc profesional; b) prezentarea situațiilor financiare sau a extraselor din situațiile financiare, în cazul în care publicarea situațiilor financiare este prevăzută de legislația țării în care este stabilit operatorul economic; c) o declarație privind cifra totală de afaceri a operatorului economic [...] pentru cel mult ultimele trei exerciții financiare disponibile",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "ALOP-030",
     "tip": "unic",
-    "test": 31,
+    "test": 30,
     "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), ce condiție trebuie îndeplinită înainte ca o ordonanțare de plată să fie prezentată spre semnare ordonatorului de credite?",
     "variante": [
       "Ordonanțarea trebuie să fi fost avizată de comisia de recepție și de compartimentul de audit public intern.",
@@ -14011,6 +13987,29 @@ const INTREBARI = [
       "articol": "art. 123 alin. (2)",
       "citat": "Autoritatea contractantă are dreptul să solicite în original orice document cu regim special a cărui valabilitate este condiționată de prezentarea în această formă.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98D-015",
+    "tip": "unic",
+    "test": 31,
+    "intrebare": "Ce obligație are autoritatea contractantă față de ofertanți atunci când reia competiția prin colectarea informațiilor din cataloagele electronice deja transmise, potrivit art. 205 alin. (4) din Legea nr. 98/2016?",
+    "variante": [
+      "Să notifice ofertanții cu privire la data și ora colectării și să le dea posibilitatea de a refuza această colectare de informații",
+      "Să republice cataloagele colectate în SEAP înainte de atribuire",
+      "Să solicite CNSC validarea prealabilă a metodei de colectare",
+      "Să transmită tuturor ofertanților un nou caiet de sarcini actualizat"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 205 alin. (4) impune notificarea ofertanților cu privire la data și ora la care autoritatea intenționează să colecteze informațiile, cu posibilitatea acestora de a refuza colectarea. Garanțiile continuă: între notificare și colectarea efectivă trebuie prevăzută o perioadă corespunzătoare de timp (alin. (5)), iar înainte de atribuire informațiile colectate se prezintă ofertantului în cauză pentru a contesta sau confirma că oferta astfel constituită nu conține erori semnificative (alin. (6)). Validarea CNSC, republicarea în SEAP și noul caiet de sarcini nu au bază legală în acest mecanism.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 205 alin. (4)",
+      "citat": "aceasta notifică ofertanții cu privire la data și ora la care intenționează să colecteze informațiile necesare pentru a constitui oferte adaptate la cerințele contractului în cauză și le dă ofertanților posibilitatea de a refuza această colectare de informații.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -14061,29 +14060,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98A-045",
-    "tip": "unic",
-    "test": 31,
-    "intrebare": "Legea nr. 98/2016 nu se aplică anumitor contracte atribuite de o autoritate contractantă care furnizează servicii poștale, în scopul desfășurării unor activități expres enumerate. Care dintre următoarele NU se numără printre aceste activități?",
-    "variante": [
-      "Servicii financiare care fac obiectul codurilor CPV cuprinse între 66100000-1 și 66720000-3, incluzând în principal mandate poștale și transferuri pe bază de conturi curente poștale.",
-      "Servicii de transport aerian de mărfuri prestate cu aeronave proprii pentru terți, fără legătură cu trimiterile poștale.",
-      "Servicii filatelice.",
-      "Servicii de logistică, constând în servicii care combină livrarea fizică și/sau depozitarea cu alte funcții decât cele poștale."
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 26 alin. (2) enumeră limitativ patru activități pentru care legea nu se aplică atunci când achiziția este realizată de o autoritate contractantă furnizoare de servicii poștale: serviciile cu valoare adăugată legate de poșta electronică, serviciile financiare din intervalul CPV 66100000-1 – 66720000-3, serviciile filatelice și serviciile de logistică. Transportul aerian de mărfuri pentru terți nu figurează în această listă, deci nu beneficiază de exceptare în temeiul acestui text. Capcană conexă: art. 26 alin. (1) exceptează separat contractele sectoriale (atribuite de autorități care aplică legea privind achizițiile sectoriale) — nu confundați cele două alineate. De asemenea, exceptarea de la alin. (2) este funcțională: ea operează doar în scopul desfășurării activităților enumerate, nu pentru orice achiziție a operatorului poștal.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 26 alin. (2)",
-      "citat": "(2) Prezenta lege nu se aplică contractelor de achiziție publică, acordurilor-cadru și concursurilor de soluții atribuite sau organizate de o autoritate contractantă care furnizează servicii poștale în sensul dispozițiilor legii privind achizițiile sectoriale în scopul desfășurării următoarelor activități: a) servicii cu valoare adăugată în legătură cu poșta electronică, furnizate integral prin mijloace electronice [...] b) servicii financiare care fac obiectul codurilor CPV cuprinse între 66100000-1 și 66720000-3 și al dispozițiilor legii privind achizițiile sectoriale, care includ, în principal, mandate poștale și transferuri pe bază de conturi curente poștale; c) servicii filatelice; d) servicii de logistică, constând în servicii care combină livrarea fizică și/sau depozitarea cu alte funcții decât cele poștale.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395B-043",
     "tip": "unic",
     "test": 31,
@@ -14103,6 +14079,29 @@ const INTREBARI = [
       "articol": "art. 124 alin. (3)",
       "citat": "Autoritatea contractantă are obligația de a solicita prelungirea valabilității ofertelor, precum și, după caz, a garanției de participare, în situații excepționale care impun o astfel de prelungire. În cazul în care un operator economic nu se conformează acestei solicitări, oferta sa va fi respinsă ca fiind inacceptabilă.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N107",
+    "tip": "unic",
+    "test": 31,
+    "intrebare": "Potrivit Legii nr. 98/2016, o autoritate contractantă alege să atribuie un singur contract mixt, cu părți obiectiv separabile, atribuirea unui singur contract fiind justificată de motive obiective. Contractul cuprinde achiziții supuse Legii nr. 98/2016, o parte care face obiectul actelor normative emise în temeiul art. 20 alin. (3) din O.U.G. nr. 114/2011, în legătură cu situațiile prevăzute la art. 346 din TFUE, și o parte care face obiectul O.U.G. nr. 114/2011. Ce regim juridic se aplică atribuirii?",
+    "variante": [
+      "Regimul juridic se stabilește în funcție de obiectul principal al contractului, determinat după cea mai mare dintre valorile estimate ale părților",
+      "Criteriul aplicabil părții supuse actelor normative emise în temeiul art. 20 alin. (3) din O.U.G. nr. 114/2011: contractul poate fi atribuit fără aplicarea dispozițiilor Legii nr. 98/2016",
+      "Contractul se atribuie potrivit Legii nr. 98/2016, indiferent de valoarea părților care, dacă ar fi cuprinse în contracte separate, ar fi supuse unui alt act normativ",
+      "Criteriul aplicabil părții supuse O.U.G. nr. 114/2011: contractul poate fi atribuit în conformitate cu dispozițiile O.U.G. nr. 114/2011"
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 38 alin. (3) din Legea nr. 98/2016 stabilește două criterii pentru contractul unic: lit. a) (parte supusă actelor emise în temeiul art. 20 alin. (3) din O.U.G. nr. 114/2011, art. 346 TFUE) permite atribuirea fără aplicarea Legii nr. 98/2016, iar lit. b) (parte supusă O.U.G. nr. 114/2011) permite atribuirea potrivit O.U.G. nr. 114/2011. Când ambele sunt incidente, art. 38 alin. (5) dă prioritate lit. a), de aceea criteriul O.U.G. nr. 114/2011 este eliminat. Atribuirea potrivit Legii nr. 98/2016 indiferent de valoarea părților este regula generală de la art. 34 alin. (3), care exceptează expres situația în care se aplică art. 38. Determinarea obiectului principal după cea mai mare valoare estimată este regula de la art. 35 alin. (2), pentru contractele mixte servicii/produse supuse aceleiași legi.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 38",
+      "citat": "a) atunci când o parte a contractului face obiectul actelor normative emise în temeiul art. 20 alin. (3) din Ordonanța de urgență a Guvernului nr. 114/2011, aprobată cu modificări și completări prin Legea nr. 195/2012, în legătură cu situațiile prevăzute la art. 346 din TFUE, contractul poate fi atribuit fără aplicarea dispozițiilor prezentei legi, cu condiția ca atribuirea unui singur contract să fie justificată de motive obiective; [...] (5) În cazul în care, în legătură cu un anumit contract, sunt aplicabile atât dispozițiile alin. (3) lit. a), cât și ale alin. (3) lit. b), se aplică dispozițiile alin. (3) lit. a).",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -14223,27 +14222,27 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98C-052",
+    "id": "N395B-044",
     "tip": "multiplu",
     "test": 31,
-    "intrebare": "Care dintre următoarele afirmații privind terțul susținător sunt corecte, potrivit Legii nr. 98/2016?",
+    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele afirmații privind componența și funcționarea comisiei de evaluare sunt corecte?",
     "variante": [
-      "Dacă terțul susținător nu îndeplinește criteriile relevante privind capacitatea sau se află într-un motiv de excludere, autoritatea contractantă solicită, o singură dată, înlocuirea acestuia",
-      "Când susținerea vizează situația economică și financiară, autoritatea contractantă solicită ca operatorul economic și terțul susținător să răspundă în mod solidar pentru executarea contractului",
-      "Operatorul economic poate invoca susținerea unui terț indiferent de natura relațiilor juridice existente între el și terțul respectiv",
-      "Susținerea privind calificările educaționale și profesionale poate fi invocată chiar dacă terțul nu va desfășura efectiv lucrările sau serviciile pentru care sunt necesare acele calificări"
+      "Președintele comisiei de evaluare poate fi limitat numai la aspectele de organizare și reprezentare, caz în care nu are drept de vot.",
+      "Persoanele care constituie comisia de evaluare nu trebuie să fie în relații de subordonare ierarhică unele față de altele, în măsura în care structura organizatorică permite acest lucru.",
+      "Autoritatea contractantă are dreptul de a nominaliza membri de rezervă, însă poate înlocui un membru titular cu un membru de rezervă numai dacă persoana înlocuită nu are posibilitatea de a-și îndeplini atribuțiile.",
+      "Comisia de evaluare trebuie să aibă în mod obligatoriu un număr impar de membri, dar nu mai puțin de 3 persoane."
     ],
     "corecte": [
       0,
       1,
       2
     ],
-    "explicatie": "Art. 182 alin. (1) consacră dreptul de a invoca susținerea unui terț indiferent de natura relațiilor juridice dintre părți, pentru criteriile privind situația economică și financiară și/sau capacitatea tehnică și profesională. Art. 183 alin. (2) obligă autoritatea contractantă să solicite o singură dată înlocuirea terțului care nu îndeplinește criteriile de capacitate ori se încadrează într-un motiv de excludere de la art. 164, 165 și 167. Art. 184 impune răspunderea solidară a operatorului economic și a terțului susținător pentru executarea contractului, atunci când susținerea privește situația economică și financiară. Afirmația că susținerea privind calificările educaționale și profesionale poate fi invocată chiar dacă terțul nu desfășoară efectiv lucrările sau serviciile este falsă: art. 182 alin. (2) permite invocarea susținerii pentru calificările educaționale și profesionale sau pentru experiența profesională relevantă DOAR dacă terțul va desfășura efectiv lucrările sau serviciile în cauză. Regula răspunderii solidare este aceeași și pentru asocierea de operatori economici (art. 185 alin. (1)).",
+    "explicatie": "Art. 126 alin. (7) din Normele metodologice permite limitarea rolului președintelui comisiei de evaluare la organizare și reprezentare, ipoteză în care acesta nu are drept de vot - element relevant pentru majoritatea de cel puțin 2/3 de la art. 131 alin. (3), care se raportează la membrii cu drept de vot. Art. 126 alin. (8) cere ca membrii comisiei să nu fie în relații de subordonare ierarhică unii față de alții, în măsura în care structura organizatorică permite acest lucru. Art. 126 alin. (9) și (10) permit nominalizarea de membri de rezervă, iar înlocuirea unui membru cu un membru de rezervă este condiționată de imposibilitatea titularului de a-și îndeplini atribuțiile; membrul de rezervă preia apoi calitatea până la finalizarea procedurii (alin. (11)). Art. 126 din Norme nu stabilește un număr minim ori impar de membri ai comisiei de evaluare; pragul de „cel puțin 3 membri” apare doar la juriul concursului de soluții (art. 99 alin. (2) din Norme).",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 182 alin. (1) și (2)",
-      "citat": "Operatorul economic are dreptul, dacă este cazul și în legătură cu un anumit contract de achiziție publică/acord-cadru, să invoce susținerea unui/unor terț/terți în ceea ce privește îndeplinirea criteriilor referitoare la situația economică și financiară și/sau a criteriilor privind capacitatea tehnică și profesională, indiferent de natura relațiilor juridice existente între operatorul economic și terțul/terții respectiv/respectivi. (2) În ceea ce privește îndeplinirea criteriilor referitoare la calificările educaționale și profesionale prevăzute la art. 179 lit. g) sau la experiența profesională relevantă, operatorul economic poate să se bazeze pe capacitatea terțului susținător doar atunci când acesta va desfășura efectiv lucrările sau serviciile în legătură cu care sunt necesare respectivele calificări.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 126 alin. (7)-(10)",
+      "citat": "(7) Președintele comisiei de evaluare poate fi limitat numai la aspectele de organizare și reprezentare, în acest din urmă caz neavând drept de vot. (8) Persoanele care constituie comisia de evaluare nu trebuie să fie în relații de subordonare ierarhică unele față de altele, în măsura în care structura organizatorică permite acest lucru. (9) Autoritatea contractantă are dreptul de a nominaliza membri de rezervă pentru membrii comisiei de evaluare. (10) Autoritatea contractantă are dreptul de a înlocui un membru al comisiei de evaluare cu un membru de rezervă numai dacă persoana care urmează să fie înlocuită nu are posibilitatea de a-și îndeplini atribuțiile care rezultă din calitatea de membru al comisiei de evaluare.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -14271,27 +14270,27 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "N395B-044",
+    "id": "L98C-052",
     "tip": "multiplu",
     "test": 31,
-    "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele afirmații privind componența și funcționarea comisiei de evaluare sunt corecte?",
+    "intrebare": "Care dintre următoarele afirmații privind terțul susținător sunt corecte, potrivit Legii nr. 98/2016?",
     "variante": [
-      "Președintele comisiei de evaluare poate fi limitat numai la aspectele de organizare și reprezentare, caz în care nu are drept de vot.",
-      "Persoanele care constituie comisia de evaluare nu trebuie să fie în relații de subordonare ierarhică unele față de altele, în măsura în care structura organizatorică permite acest lucru.",
-      "Autoritatea contractantă are dreptul de a nominaliza membri de rezervă, însă poate înlocui un membru titular cu un membru de rezervă numai dacă persoana înlocuită nu are posibilitatea de a-și îndeplini atribuțiile.",
-      "Comisia de evaluare trebuie să aibă în mod obligatoriu un număr impar de membri, dar nu mai puțin de 3 persoane."
+      "Dacă terțul susținător nu îndeplinește criteriile relevante privind capacitatea sau se află într-un motiv de excludere, autoritatea contractantă solicită, o singură dată, înlocuirea acestuia",
+      "Când susținerea vizează situația economică și financiară, autoritatea contractantă solicită ca operatorul economic și terțul susținător să răspundă în mod solidar pentru executarea contractului",
+      "Operatorul economic poate invoca susținerea unui terț indiferent de natura relațiilor juridice existente între el și terțul respectiv",
+      "Susținerea privind calificările educaționale și profesionale poate fi invocată chiar dacă terțul nu va desfășura efectiv lucrările sau serviciile pentru care sunt necesare acele calificări"
     ],
     "corecte": [
       0,
       1,
       2
     ],
-    "explicatie": "Art. 126 alin. (7) din Normele metodologice permite limitarea rolului președintelui comisiei de evaluare la organizare și reprezentare, ipoteză în care acesta nu are drept de vot - element relevant pentru majoritatea de cel puțin 2/3 de la art. 131 alin. (3), care se raportează la membrii cu drept de vot. Art. 126 alin. (8) cere ca membrii comisiei să nu fie în relații de subordonare ierarhică unii față de alții, în măsura în care structura organizatorică permite acest lucru. Art. 126 alin. (9) și (10) permit nominalizarea de membri de rezervă, iar înlocuirea unui membru cu un membru de rezervă este condiționată de imposibilitatea titularului de a-și îndeplini atribuțiile; membrul de rezervă preia apoi calitatea până la finalizarea procedurii (alin. (11)). Art. 126 din Norme nu stabilește un număr minim ori impar de membri ai comisiei de evaluare; pragul de „cel puțin 3 membri” apare doar la juriul concursului de soluții (art. 99 alin. (2) din Norme).",
+    "explicatie": "Art. 182 alin. (1) consacră dreptul de a invoca susținerea unui terț indiferent de natura relațiilor juridice dintre părți, pentru criteriile privind situația economică și financiară și/sau capacitatea tehnică și profesională. Art. 183 alin. (2) obligă autoritatea contractantă să solicite o singură dată înlocuirea terțului care nu îndeplinește criteriile de capacitate ori se încadrează într-un motiv de excludere de la art. 164, 165 și 167. Art. 184 impune răspunderea solidară a operatorului economic și a terțului susținător pentru executarea contractului, atunci când susținerea privește situația economică și financiară. Afirmația că susținerea privind calificările educaționale și profesionale poate fi invocată chiar dacă terțul nu desfășoară efectiv lucrările sau serviciile este falsă: art. 182 alin. (2) permite invocarea susținerii pentru calificările educaționale și profesionale sau pentru experiența profesională relevantă DOAR dacă terțul va desfășura efectiv lucrările sau serviciile în cauză. Regula răspunderii solidare este aceeași și pentru asocierea de operatori economici (art. 185 alin. (1)).",
     "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 126 alin. (7)-(10)",
-      "citat": "(7) Președintele comisiei de evaluare poate fi limitat numai la aspectele de organizare și reprezentare, în acest din urmă caz neavând drept de vot. (8) Persoanele care constituie comisia de evaluare nu trebuie să fie în relații de subordonare ierarhică unele față de altele, în măsura în care structura organizatorică permite acest lucru. (9) Autoritatea contractantă are dreptul de a nominaliza membri de rezervă pentru membrii comisiei de evaluare. (10) Autoritatea contractantă are dreptul de a înlocui un membru al comisiei de evaluare cu un membru de rezervă numai dacă persoana care urmează să fie înlocuită nu are posibilitatea de a-și îndeplini atribuțiile care rezultă din calitatea de membru al comisiei de evaluare.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 182 alin. (1) și (2)",
+      "citat": "Operatorul economic are dreptul, dacă este cazul și în legătură cu un anumit contract de achiziție publică/acord-cadru, să invoce susținerea unui/unor terț/terți în ceea ce privește îndeplinirea criteriilor referitoare la situația economică și financiară și/sau a criteriilor privind capacitatea tehnică și profesională, indiferent de natura relațiilor juridice existente între operatorul economic și terțul/terții respectiv/respectivi. (2) În ceea ce privește îndeplinirea criteriilor referitoare la calificările educaționale și profesionale prevăzute la art. 179 lit. g) sau la experiența profesională relevantă, operatorul economic poate să se bazeze pe capacitatea terțului susținător doar atunci când acesta va desfășura efectiv lucrările sau serviciile în legătură cu care sunt necesare respectivele calificări.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -14342,29 +14341,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500-044",
-    "tip": "unic",
-    "test": 31,
-    "intrebare": "Până la ce dată au obligația ordonatorii principali de credite să depună la Ministerul Finanțelor Publice propunerile pentru proiectul de buget și anexele la acesta?",
-    "variante": [
-      "Până la data de 1 septembrie a fiecărui an.",
-      "Până la data de 30 septembrie a fiecărui an.",
-      "Până la data de 15 septembrie a fiecărui an.",
-      "Până la data de 1 octombrie a fiecărui an."
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 34 alin. (1) stabilește termenul de 1 septembrie pentru depunerea propunerilor pentru proiectul de buget și a anexelor la acesta, cu încadrarea în limitele de cheltuieli și estimările comunicate prin scrisoarea-cadru și însoțite de documentații și fundamentări detaliate. Data de 15 septembrie este termenul următor, pentru depunerea proiectelor REFĂCUTE (art. 34 alin. (5)), iar 30 septembrie este termenul până la care Ministerul Finanțelor Publice depune la Guvern, pentru prima lectură, proiectele legilor bugetare și proiectele bugetelor (art. 35 alin. (1)). Capcană conexă: Camera Deputaților și Senatul își aprobă bugetele proprii, cu consultarea Guvernului, și le înaintează Guvernului pentru includere în proiectul bugetului de stat (art. 34 alin. (2)).",
-    "sursa": {
-      "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 34 alin. (1)",
-      "citat": "Ordonatorii principali de credite au obligația ca, până la data de 1 septembrie a fiecărui an, să depună la Ministerul Finanțelor Publice propunerile pentru proiectul de buget și anexele la acesta, pentru anul bugetar următor, cu încadrarea în limitele de cheltuieli și estimările pentru următorii 3 ani, comunicate potrivit art. 33, însoțite de documentații și fundamentări detaliate.",
-      "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N407",
     "tip": "multiplu",
     "test": 31,
@@ -14385,6 +14361,29 @@ const INTREBARI = [
       "articol": "art. 127 alin. (1)",
       "citat": "a) deschiderea ofertelor și, după caz, a altor documente care însoțesc oferta; [...] k) stabilirea ofertelor admisibile;",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L500-044",
+    "tip": "unic",
+    "test": 31,
+    "intrebare": "Până la ce dată au obligația ordonatorii principali de credite să depună la Ministerul Finanțelor Publice propunerile pentru proiectul de buget și anexele la acesta?",
+    "variante": [
+      "Până la data de 1 septembrie a fiecărui an.",
+      "Până la data de 30 septembrie a fiecărui an.",
+      "Până la data de 15 septembrie a fiecărui an.",
+      "Până la data de 1 octombrie a fiecărui an."
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 34 alin. (1) stabilește termenul de 1 septembrie pentru depunerea propunerilor pentru proiectul de buget și a anexelor la acesta, cu încadrarea în limitele de cheltuieli și estimările comunicate prin scrisoarea-cadru și însoțite de documentații și fundamentări detaliate. Data de 15 septembrie este termenul următor, pentru depunerea proiectelor REFĂCUTE (art. 34 alin. (5)), iar 30 septembrie este termenul până la care Ministerul Finanțelor Publice depune la Guvern, pentru prima lectură, proiectele legilor bugetare și proiectele bugetelor (art. 35 alin. (1)). Capcană conexă: Camera Deputaților și Senatul își aprobă bugetele proprii, cu consultarea Guvernului, și le înaintează Guvernului pentru includere în proiectul bugetului de stat (art. 34 alin. (2)).",
+    "sursa": {
+      "act": "Legea nr. 500/2002 privind finanțele publice",
+      "articol": "art. 34 alin. (1)",
+      "citat": "Ordonatorii principali de credite au obligația ca, până la data de 1 septembrie a fiecărui an, să depună la Ministerul Finanțelor Publice propunerile pentru proiectul de buget și anexele la acesta, pentru anul bugetar următor, cu încadrarea în limitele de cheltuieli și estimările pentru următorii 3 ani, comunicate potrivit art. 33, însoțite de documentații și fundamentări detaliate.",
+      "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
   },
@@ -14412,9 +14411,32 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N510",
+    "id": "N395-N408",
     "tip": "unic",
     "test": 31,
+    "intrebare": "Conducătorul autorității contractante nu aprobă raportul procedurii de atribuire și optează pentru o reevaluare completă. Ce prevăd Normele metodologice aprobate prin H.G. nr. 395/2016 pentru această situație?",
+    "variante": [
+      "Conducătorul autorității contractante preia atribuțiile comisiei de evaluare și finalizează el însuși reevaluarea ofertelor.",
+      "Conducătorul autorității contractante își motivează în scris decizia, iar pentru reevaluarea completă va fi numită o nouă comisie de evaluare.",
+      "Raportul se returnează aceleiași comisii de evaluare, care reia integral evaluarea, returnarea putând fi dispusă de cel mult două ori.",
+      "Procedura de atribuire se anulează, iar autoritatea contractantă are obligația de a o relua cu o nouă comisie de evaluare."
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 127 alin. (3) din Norme prevede că, dacă nu aprobă raportul procedurii, conducătorul autorității contractante își motivează decizia în scris și poate fie returna raportul, o singură dată, comisiei spre corectare sau reevaluare parțială (lit. a), fie solicita o reevaluare completă, caz în care va fi numită o nouă comisie de evaluare (lit. b). Varianta cu returnarea către aceeași comisie de cel mult două ori confundă cele două ipoteze și contrazice limita de „o singură dată” din lit. a). Neaprobarea raportului nu este un caz de anulare a procedurii, cazurile de anulare fiind cele din art. 212 și 213 din Legea nr. 98/2016. Conducătorul nu preia atribuțiile comisiei, rolul său fiind de a aproba rapoartele pe care președintele comisiei i le înaintează, potrivit art. 127 alin. (2) din Norme. Reevaluarea completă se face, așadar, potrivit art. 127 alin. (3) lit. b), de o comisie nou numită.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 127 alin. (3)",
+      "citat": "În cazul în care nu aprobă raportul procedurii, conducătorul autorității contractante va motiva în scris decizia sa și poate, după caz: [...] b) solicita o reevaluare completă, caz în care o nouă comisie de evaluare va fi numită.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N510",
+    "tip": "unic",
+    "test": 32,
     "intrebare": "Potrivit Legii nr. 98/2016, în cazul în care mai mulți operatori economici participă în comun la procedura de atribuire, îndeplinirea criteriilor privind capacitatea tehnică și profesională și a celor privind situația economică și financiară se demonstrează:",
     "variante": [
       "prin luarea în considerare a resurselor tuturor membrilor grupului, fără posibilitatea ca grupul să beneficieze și de susținerea unui terț",
@@ -14435,48 +14457,27 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "ALOP-031",
-    "tip": "unic",
+    "id": "ALOP-012",
+    "tip": "multiplu",
     "test": 32,
-    "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), care este consecința lipsei vizei de control financiar preventiv propriu de pe o ordonanțare de plată?",
+    "intrebare": "Care dintre următoarele pot constitui forme ale angajamentului legal, potrivit Normelor ALOP?",
     "variante": [
-      "Ordonanțarea se consideră tacit avizată dacă viza nu a fost refuzată în termen de 3 zile lucrătoare de la primire.",
-      "Ordonanțarea este nulă și fără valoare pentru conducătorul compartimentului financiar (financiar-contabil) care urmează să facă plata, dacă nu este autorizată în condițiile prevăzute de lege.",
-      "Ordonanțarea produce efecte, însă plata poate fi efectuată numai după expirarea unui termen de 30 de zile de la emitere.",
-      "Ordonanțarea rămâne pe deplin valabilă, răspunderea revenind exclusiv ordonatorului de credite care a semnat-o."
+      "contractul de muncă, actele de control și acordul de împrumut",
+      "ordinul de plată pentru trezoreria statului (OPHT)",
+      "comanda și convenția",
+      "contractul de achiziție publică"
     ],
     "corecte": [
-      1
+      0,
+      2,
+      3
     ],
-    "explicatie": "Pct. 3 din Normele ALOP prevede că ordonanțările de plată nevizate de persoana desemnată să exercite controlul financiar preventiv propriu sunt nule și fără valoare pentru conducătorul compartimentului financiar (financiar-contabil) care urmează să facă plata, dacă nu sunt autorizate în condițiile prevăzute de lege. Coerent, pct. 4 prevede că plata nu se poate efectua când nu există viza de control financiar preventiv propriu pe ordonanțarea de plată și nici autorizarea prevăzută de lege. Varianta cu efectuarea plății după un termen de 30 de zile introduce un termen pe care Normele nu îl prevăd; lipsa vizei împiedică plata (pct. 4). Varianta cu avizarea tacită după 3 zile lucrătoare este contrazisă de pct. 3, potrivit căruia nicio ordonanțare nu poate fi prezentată spre semnare ordonatorului de credite decât după ce viza a fost acordată. Varianta cu valabilitatea deplină a ordonanțării, cu răspunderea exclusivă a ordonatorului care a semnat-o, contrazice textul: tocmai pentru conducătorul compartimentului financiar documentul este nul și fără valoare. Potrivit pct. 1, angajarea și ordonanțarea cheltuielilor se efectuează numai cu viza prealabilă de control financiar preventiv propriu, potrivit dispozițiilor legale.",
+    "explicatie": "Normele enumeră exemplificativ formele angajamentului legal: contract de achiziție publică, comandă, convenție, contract de muncă, acte de control, acord de împrumut etc. — toate fiind acte juridice din care rezultă obligații pe seama fondurilor publice. OPHT-ul este un INSTRUMENT DE PLATĂ (alături de cecul de numerar), folosit în faza finală a execuției bugetare de către contabil, nu un act generator de obligații — este capcana dintre faza de angajare și faza de plată. Contractul de muncă surprinde adesea: și cheltuielile de personal au la bază un angajament legal.",
     "sursa": {
       "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
-      "articol": "pct. 3 (ordonanțarea cheltuielilor)",
-      "citat": "Ordonantarile de plată nevizate de persoana desemnată să exercite controlul financiar preventiv propriu sunt nule și fără valoare pentru conducătorul compartimentului financiar (financiar-contabil) care urmează să facă plata, dacă nu sunt autorizate în condițiile prevăzute de lege.",
+      "articol": "pct. 1 (angajarea)",
+      "citat": "Angajamentul legal ia forma unui contract de achiziție publică, comanda, convenție, contract de muncă, acte de control, acord de împrumut etc.",
       "fisier": "09_Norme_ALOP_1792-2002.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395-N408",
-    "tip": "unic",
-    "test": 32,
-    "intrebare": "Conducătorul autorității contractante nu aprobă raportul procedurii de atribuire și optează pentru o reevaluare completă. Ce prevăd Normele metodologice aprobate prin H.G. nr. 395/2016 pentru această situație?",
-    "variante": [
-      "Conducătorul autorității contractante preia atribuțiile comisiei de evaluare și finalizează el însuși reevaluarea ofertelor.",
-      "Conducătorul autorității contractante își motivează în scris decizia, iar pentru reevaluarea completă va fi numită o nouă comisie de evaluare.",
-      "Raportul se returnează aceleiași comisii de evaluare, care reia integral evaluarea, returnarea putând fi dispusă de cel mult două ori.",
-      "Procedura de atribuire se anulează, iar autoritatea contractantă are obligația de a o relua cu o nouă comisie de evaluare."
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 127 alin. (3) din Norme prevede că, dacă nu aprobă raportul procedurii, conducătorul autorității contractante își motivează decizia în scris și poate fie returna raportul, o singură dată, comisiei spre corectare sau reevaluare parțială (lit. a), fie solicita o reevaluare completă, caz în care va fi numită o nouă comisie de evaluare (lit. b). Varianta cu returnarea către aceeași comisie de cel mult două ori confundă cele două ipoteze și contrazice limita de „o singură dată” din lit. a). Neaprobarea raportului nu este un caz de anulare a procedurii, cazurile de anulare fiind cele din art. 212 și 213 din Legea nr. 98/2016. Conducătorul nu preia atribuțiile comisiei, rolul său fiind de a aproba rapoartele pe care președintele comisiei i le înaintează, potrivit art. 127 alin. (2) din Norme. Reevaluarea completă se face, așadar, potrivit art. 127 alin. (3) lit. b), de o comisie nou numită.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 127 alin. (3)",
-      "citat": "În cazul în care nu aprobă raportul procedurii, conducătorul autorității contractante va motiva în scris decizia sa și poate, după caz: [...] b) solicita o reevaluare completă, caz în care o nouă comisie de evaluare va fi numită.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -14550,29 +14551,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98C-053",
-    "tip": "unic",
-    "test": 32,
-    "intrebare": "În ce situații poate autoritatea contractantă să utilizeze criteriul de atribuire „prețul cel mai scăzut”?",
-    "variante": [
-      "Numai atunci când valoarea estimată a contractului nu depășește pragurile prevăzute la art. 7 alin. (1), precum și în cazul negocierii fără publicare prealabilă prevăzute la art. 104 alin. (1) lit. b)",
-      "Numai atunci când valoarea estimată a contractului nu depășește pragurile achiziției directe prevăzute la art. 7 alin. (5)",
-      "Numai în cazul contractelor de lucrări, indiferent de valoarea estimată",
-      "În orice procedură de atribuire, criteriul fiind lăsat la libera alegere a autorității contractante"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 187 alin. (3) enumeră cele patru criterii de atribuire posibile: cel mai bun raport calitate-preț, cel mai bun raport calitate-cost, costul cel mai scăzut și prețul cel mai scăzut. Alin. (3^1), astfel cum a fost modificat prin Legea nr. 208/2022, restrânge însă utilizarea prețului celui mai scăzut la achizițiile de produse, servicii sau lucrări a căror valoare estimată nu depășește pragurile de la art. 7 alin. (1) și la negocierea fără publicare prealabilă de la art. 104 alin. (1) lit. b). Trimiterea la art. 7 alin. (5) este greșită: acolo se află pragurile achiziției directe, mult mai mici. Alegerea criteriului nu este liberă și nici legată de obiectul „lucrări”. Toate criteriile servesc însă aceluiași scop, stabilit la alin. (1): atribuirea către ofertantul care a depus oferta cea mai avantajoasă din punct de vedere economic.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 187 alin. (3) și (3^1)",
-      "citat": "autoritatea contractantă are dreptul de a aplica unul dintre următoarele criterii de atribuire: a) cel mai bun raport calitate-preț; b) cel mai bun raport calitate-cost; c) costul cel mai scăzut; d) prețul cel mai scăzut. [...] Autoritatea contractantă poate utiliza criteriul prețul cel mai scăzut numai în situația în care achiziționează produse, servicii sau lucrări a căror valoare estimată a contractului nu depășește pragurile prevăzute la art. 7 alin. (1), precum și în situația aplicării procedurii de negociere fără publicare prealabilă a unui anunț de participare prevăzute la art. 104 alin. (1) lit. b).",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "L500-045",
     "tip": "unic",
     "test": 32,
@@ -14596,24 +14574,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98C-054",
+    "id": "L98C-053",
     "tip": "unic",
     "test": 32,
-    "intrebare": "În care dintre următoarele cazuri autoritatea contractantă NU poate utiliza costul cel mai scăzut/prețul cel mai scăzut drept criteriu de atribuire?",
+    "intrebare": "În ce situații poate autoritatea contractantă să utilizeze criteriul de atribuire „prețul cel mai scăzut”?",
     "variante": [
-      "La contractele de achiziție publică atribuite prin procedura simplificată",
-      "La contractele atribuite prin negociere fără publicarea prealabilă a unui anunț de participare prevăzută la art. 104 alin. (1) lit. b)",
-      "La contractele de achiziție publică/acordurile-cadru de lucrări sau de servicii care au ca obiect servicii intelectuale",
-      "La contractele de furnizare de produse de uz curent, standardizate"
+      "Numai atunci când valoarea estimată a contractului nu depășește pragurile prevăzute la art. 7 alin. (1), precum și în cazul negocierii fără publicare prealabilă prevăzute la art. 104 alin. (1) lit. b)",
+      "Numai atunci când valoarea estimată a contractului nu depășește pragurile achiziției directe prevăzute la art. 7 alin. (5)",
+      "Numai în cazul contractelor de lucrări, indiferent de valoarea estimată",
+      "În orice procedură de atribuire, criteriul fiind lăsat la libera alegere a autorității contractante"
     ],
     "corecte": [
-      2
+      0
     ],
-    "explicatie": "Art. 187 alin. (8) interzice utilizarea costului sau prețului celui mai scăzut la trei categorii: contractele de lucrări sau servicii având ca obiect servicii intelectuale (lit. a)), contractele de proiectare și execuție sau de servicii aferente proiectelor de infrastructură de transport transeuropene și drumurilor județene (lit. b)) și anumite categorii de contracte de produse cu impact asupra mediului pe durata întregului ciclu de viață (lit. c)). Rațiunea este că, pentru prestații intelectuale sau cu miză tehnică majoră, calitatea nu poate fi surprinsă printr-o competiție exclusiv pe preț. Negocierea fără publicare prealabilă de la art. 104 alin. (1) lit. b) este chiar excepția expres prevăzută la începutul alin. (8). Produsele standardizate și procedura simplificată nu figurează printre interdicții — dimpotrivă, sub pragurile art. 7 alin. (1) prețul cel mai scăzut este permis potrivit alin. (3^1). Categoriile vizate și ponderea maximă a elementului preț sau cost se stabilesc prin normele metodologice (alin. (9)).",
+    "explicatie": "Art. 187 alin. (3) enumeră cele patru criterii de atribuire posibile: cel mai bun raport calitate-preț, cel mai bun raport calitate-cost, costul cel mai scăzut și prețul cel mai scăzut. Alin. (3^1), astfel cum a fost modificat prin Legea nr. 208/2022, restrânge însă utilizarea prețului celui mai scăzut la achizițiile de produse, servicii sau lucrări a căror valoare estimată nu depășește pragurile de la art. 7 alin. (1) și la negocierea fără publicare prealabilă de la art. 104 alin. (1) lit. b). Trimiterea la art. 7 alin. (5) este greșită: acolo se află pragurile achiziției directe, mult mai mici. Alegerea criteriului nu este liberă și nici legată de obiectul „lucrări”. Toate criteriile servesc însă aceluiași scop, stabilit la alin. (1): atribuirea către ofertantul care a depus oferta cea mai avantajoasă din punct de vedere economic.",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 187 alin. (8)",
-      "citat": "Cu excepția aplicării procedurii de negociere fără publicarea prealabilă a unui anunț de participare prevăzută la art. 104 alin. (1) lit. b), autoritatea contractantă nu va utiliza costul cel mai scăzut/prețul cel mai scăzut drept criteriu de atribuire în cazul: a) categoriilor de contracte de achiziție publică/acorduri-cadru de lucrări sau de servicii care au ca obiect servicii intelectuale; b) contractelor de achiziție publică/acordurilor-cadru de proiectare și execuție sau de servicii care sunt aferente proiectelor de infrastructură de transport transeuropene, așa cum sunt definite în prezenta lege, și drumuri județene;",
+      "articol": "art. 187 alin. (3) și (3^1)",
+      "citat": "autoritatea contractantă are dreptul de a aplica unul dintre următoarele criterii de atribuire: a) cel mai bun raport calitate-preț; b) cel mai bun raport calitate-cost; c) costul cel mai scăzut; d) prețul cel mai scăzut. [...] Autoritatea contractantă poate utiliza criteriul prețul cel mai scăzut numai în situația în care achiziționează produse, servicii sau lucrări a căror valoare estimată a contractului nu depășește pragurile prevăzute la art. 7 alin. (1), precum și în situația aplicării procedurii de negociere fără publicare prealabilă a unui anunț de participare prevăzute la art. 104 alin. (1) lit. b).",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -14638,6 +14616,29 @@ const INTREBARI = [
       "articol": "art. 129 alin. (3)",
       "citat": "Cu excepția ședinței de deschidere a ofertelor la care au dreptul de a participa și alte persoane, la întrunirile comisiei de evaluare au dreptul de a participa numai membrii acesteia și, după caz, experții cooptați, precum și persoanele împuternicite de către ANAP.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98C-054",
+    "tip": "unic",
+    "test": 32,
+    "intrebare": "În care dintre următoarele cazuri autoritatea contractantă NU poate utiliza costul cel mai scăzut/prețul cel mai scăzut drept criteriu de atribuire?",
+    "variante": [
+      "La contractele de achiziție publică atribuite prin procedura simplificată",
+      "La contractele atribuite prin negociere fără publicarea prealabilă a unui anunț de participare prevăzută la art. 104 alin. (1) lit. b)",
+      "La contractele de achiziție publică/acordurile-cadru de lucrări sau de servicii care au ca obiect servicii intelectuale",
+      "La contractele de furnizare de produse de uz curent, standardizate"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 187 alin. (8) interzice utilizarea costului sau prețului celui mai scăzut la trei categorii: contractele de lucrări sau servicii având ca obiect servicii intelectuale (lit. a)), contractele de proiectare și execuție sau de servicii aferente proiectelor de infrastructură de transport transeuropene și drumurilor județene (lit. b)) și anumite categorii de contracte de produse cu impact asupra mediului pe durata întregului ciclu de viață (lit. c)). Rațiunea este că, pentru prestații intelectuale sau cu miză tehnică majoră, calitatea nu poate fi surprinsă printr-o competiție exclusiv pe preț. Negocierea fără publicare prealabilă de la art. 104 alin. (1) lit. b) este chiar excepția expres prevăzută la începutul alin. (8). Produsele standardizate și procedura simplificată nu figurează printre interdicții — dimpotrivă, sub pragurile art. 7 alin. (1) prețul cel mai scăzut este permis potrivit alin. (3^1). Categoriile vizate și ponderea maximă a elementului preț sau cost se stabilesc prin normele metodologice (alin. (9)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 187 alin. (8)",
+      "citat": "Cu excepția aplicării procedurii de negociere fără publicarea prealabilă a unui anunț de participare prevăzută la art. 104 alin. (1) lit. b), autoritatea contractantă nu va utiliza costul cel mai scăzut/prețul cel mai scăzut drept criteriu de atribuire în cazul: a) categoriilor de contracte de achiziție publică/acorduri-cadru de lucrări sau de servicii care au ca obiect servicii intelectuale; b) contractelor de achiziție publică/acordurilor-cadru de proiectare și execuție sau de servicii care sunt aferente proiectelor de infrastructură de transport transeuropene, așa cum sunt definite în prezenta lege, și drumuri județene;",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -14873,33 +14874,9 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-N602",
-    "tip": "multiplu",
-    "test": 32,
-    "intrebare": "Potrivit Legii nr. 98/2016, metoda utilizată de autoritatea contractantă pentru evaluarea costurilor determinate de efectele externe asupra mediului, în cadrul calculării costurilor pe parcursul ciclului de viață, trebuie să îndeplinească în mod cumulativ anumite condiții. Care dintre următoarele se numără printre aceste condiții?",
-    "variante": [
-      "Metoda se bazează pe criterii nediscriminatorii și verificabile în mod obiectiv.",
-      "Datele solicitate pot fi furnizate numai de operatori economici stabiliți în statele membre ale Uniunii Europene.",
-      "Metoda a fost stabilită în vederea aplicării repetate sau continue.",
-      "Metoda este accesibilă tuturor părților interesate."
-    ],
-    "corecte": [
-      0,
-      3
-    ],
-    "explicatie": "Art. 192 alin. (2) enumeră trei condiții cumulative: criterii nediscriminatorii și verificabile în mod obiectiv (lit. a), accesibilitatea metodei pentru toate părțile interesate (lit. b) și posibilitatea furnizării datelor printr-un efort rezonabil de operatori economici cu diligență obișnuită (lit. c). Aplicarea repetată sau continuă nu este o condiție: lit. a) are în vedere tocmai metoda care nu a fost stabilită în acest scop, cerând ca ea să nu favorizeze sau să dezavantajeze nejustificat anumiți operatori economici. Limitarea la operatori din statele membre contrazice lit. c), care include expres operatorii din țări terțe parte la Acordul privind achizițiile publice al Organizației Mondiale a Comerțului sau la alte acorduri internaționale asumate de Uniunea Europeană. Costurile vizate sunt cele definite la art. 191 lit. b), cu condiția ca valoarea lor pecuniară să poată fi determinată și verificată. Dacă o metodă comună de calcul a devenit obligatorie printr-un act adoptat la nivelul Uniunii Europene, art. 192 alin. (3) impune aplicarea acelei metode.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 192 alin. (2)",
-      "citat": "Metoda utilizată de autoritatea contractantă pentru evaluarea costurilor determinate de efectele externe asupra mediului prevăzute la art. 191 lit. b) trebuie să îndeplinească în mod cumulativ următoarele condiții: a) se bazează pe criterii nediscriminatorii și verificabile în mod obiectiv; în special, în cazul în care nu a fost stabilită în vederea aplicării repetate sau continue, nu favorizează sau dezavantajează în mod nejustificat anumiți operatori economici; b) este accesibilă tuturor părților interesate; c) datele solicitate pot fi furnizate printr-un efort rezonabil de către operatori economici care dau dovadă de o diligență obișnuită, inclusiv de operatori economici din țări terțe [...]",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395B-047",
     "tip": "unic",
-    "test": 33,
+    "test": 32,
     "intrebare": "Cui solicită comisia de evaluare documentele doveditoare privind îndeplinirea criteriilor de calificare?",
     "variante": [
       "Tuturor ofertanților ale căror oferte au fost declarate admisibile, în vederea întocmirii clasamentului.",
@@ -14916,6 +14893,29 @@ const INTREBARI = [
       "articol": "art. 132 alin. (2)",
       "citat": "Comisia de evaluare are obligația solicitării documentelor doveditoare privind îndeplinirea criteriilor de calificare ofertantului clasat pe primul loc în urma aplicării criteriului de atribuire.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98B-044",
+    "tip": "unic",
+    "test": 33,
+    "intrebare": "Care este obligația autorității contractante pe parcursul aplicării procedurii de atribuire, în materia conflictului de interese, potrivit art. 58 din Legea nr. 98/2016?",
+    "variante": [
+      "De a identifica situațiile de conflict de interese, remedierea acestora fiind atribuția exclusivă a ANAP.",
+      "De a sesiza Consiliul Național de Soluționare a Contestațiilor ori de câte ori identifică o situație potențial generatoare de conflict de interese.",
+      "De a lua toate măsurile necesare pentru a preveni, identifica și remedia situațiile de conflict de interese, în scopul evitării denaturării concurenței și al asigurării tratamentului egal pentru toți operatorii economici.",
+      "De a solicita membrilor comisiei de evaluare declarații de imparțialitate, această formalitate epuizând obligațiile sale legale."
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 58 stabilește o obligație în trei timpi — prevenire, identificare și remediere — cu o finalitate expresă: evitarea denaturării concurenței și asigurarea tratamentului egal. Obligația aparține autorității contractante, nu ANAP, care exercită funcții de control ex ante și de îndrumare, nu de remediere a fiecărei situații concrete. Declarațiile de imparțialitate sunt un instrument util, dar nu epuizează obligația legală, care presupune și demersuri active: potrivit art. 62 alin. (1) și (2), autoritatea contractantă analizează situația și solicită punctul de vedere al candidatului/ofertantului, iar potrivit alin. (3) adoptă măsuri precum înlocuirea persoanelor responsabile cu evaluarea sau eliminarea ofertantului aflat în relație cu persoanele cu funcții de decizie. Sesizarea CNSC nu este o obligație prevăzută aici — CNSC soluționează contestații, la sesizarea persoanelor vătămate.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 58",
+      "citat": "Pe parcursul aplicării procedurii de atribuire, autoritatea contractantă are obligația de a lua toate măsurile necesare pentru a preveni, identifica și remedia situațiile de conflict de interese, în scopul evitării denaturării concurenței și al asigurării tratamentului egal pentru toți operatorii economici.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -14966,6 +14966,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395B-048",
+    "tip": "unic",
+    "test": 33,
+    "intrebare": "În ce termen solicită comisia de evaluare clarificări privind neconcordanțele referitoare la garanția de participare și ce termen de răspuns acordă ofertantului?",
+    "variante": [
+      "Solicită clarificări în termen de 3 zile lucrătoare de la data-limită de depunere a ofertelor și acordă ofertantului o zi pentru a răspunde.",
+      "Solicită clarificări în termen de o zi lucrătoare de la data-limită de depunere a ofertelor și acordă ofertantului un termen de 3 zile pentru a răspunde, sub sancțiunea respingerii ofertei ca inacceptabilă.",
+      "Solicită clarificări oricând pe parcursul evaluării, cu un termen de răspuns de minimum 10 zile de la primirea solicitării.",
+      "Solicită clarificări în termen de 5 zile de la deschiderea ofertelor și acordă ofertantului 5 zile lucrătoare pentru a răspunde."
+    ],
+    "corecte": [
+      1
+    ],
+    "explicatie": "Art. 132 alin. (3), în aplicarea art. 215 alin. (4) din Lege, cuplează două termene cu unități de măsură diferite - o capcană clasică: comisia solicită clarificările în termen de O ZI LUCRĂTOARE de la data-limită de depunere a ofertelor, iar ofertantul are 3 ZILE (calendaristice) pentru a răspunde, sub sancțiunea respingerii ofertei ca inacceptabilă. Inversarea celor două valori (3 zile lucrătoare pentru solicitare și o zi pentru răspuns) este cea mai frecventă greșeală. Obiectul clarificărilor este limitat: condițiile de formă ale garanției de participare, cuantumul și valabilitatea acesteia - nu constituirea propriu-zisă a garanției. Regula derogă de la regimul general al clarificărilor de la art. 134 alin. (1), unde comisia stabilește ea însăși termenul, obligatoriu la nivel de zile lucrătoare și fără indicarea unei ore anume.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 132 alin. (3)",
+      "citat": "comisia de evaluare solicită clarificări, în termen de o zi lucrătoare de la data-limită de depunere a ofertelor, privind eventualele neconcordanțe referitoare la îndeplinirea condițiilor de formă ale garanției de participare, precum și la cuantumul sau valabilitatea acesteia, acordând ofertantului un termen de 3 zile pentru a răspunde la solicitarea de clarificare, sub sancțiunea respingerii ofertei ca inacceptabilă.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L500-046",
     "tip": "multiplu",
     "test": 33,
@@ -14987,29 +15010,6 @@ const INTREBARI = [
       "articol": "art. 35 alin. (1), (3^1) și (4)",
       "citat": "pe care le depune la Guvern pentru prima lectură, până la data de 30 septembrie a fiecărui an. [...] Ministerul Finanțelor Publice, pe baza prognozelor de toamnă ale Comisiei Naționale de Prognoză, definitivează proiectele de buget ale ordonatorilor principali de credite și al bugetului propriu și proiectele legilor bugetare anuale, pe care le depune la Guvern, până la data de 1 noiembrie a fiecărui an. [...] acesta le supune spre adoptare Parlamentului, cel mai târziu până la data de 15 noiembrie a fiecărui an.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395B-048",
-    "tip": "unic",
-    "test": 33,
-    "intrebare": "În ce termen solicită comisia de evaluare clarificări privind neconcordanțele referitoare la garanția de participare și ce termen de răspuns acordă ofertantului?",
-    "variante": [
-      "Solicită clarificări în termen de 3 zile lucrătoare de la data-limită de depunere a ofertelor și acordă ofertantului o zi pentru a răspunde.",
-      "Solicită clarificări în termen de o zi lucrătoare de la data-limită de depunere a ofertelor și acordă ofertantului un termen de 3 zile pentru a răspunde, sub sancțiunea respingerii ofertei ca inacceptabilă.",
-      "Solicită clarificări oricând pe parcursul evaluării, cu un termen de răspuns de minimum 10 zile de la primirea solicitării.",
-      "Solicită clarificări în termen de 5 zile de la deschiderea ofertelor și acordă ofertantului 5 zile lucrătoare pentru a răspunde."
-    ],
-    "corecte": [
-      1
-    ],
-    "explicatie": "Art. 132 alin. (3), în aplicarea art. 215 alin. (4) din Lege, cuplează două termene cu unități de măsură diferite - o capcană clasică: comisia solicită clarificările în termen de O ZI LUCRĂTOARE de la data-limită de depunere a ofertelor, iar ofertantul are 3 ZILE (calendaristice) pentru a răspunde, sub sancțiunea respingerii ofertei ca inacceptabilă. Inversarea celor două valori (3 zile lucrătoare pentru solicitare și o zi pentru răspuns) este cea mai frecventă greșeală. Obiectul clarificărilor este limitat: condițiile de formă ale garanției de participare, cuantumul și valabilitatea acesteia - nu constituirea propriu-zisă a garanției. Regula derogă de la regimul general al clarificărilor de la art. 134 alin. (1), unde comisia stabilește ea însăși termenul, obligatoriu la nivel de zile lucrătoare și fără indicarea unei ore anume.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 132 alin. (3)",
-      "citat": "comisia de evaluare solicită clarificări, în termen de o zi lucrătoare de la data-limită de depunere a ofertelor, privind eventualele neconcordanțe referitoare la îndeplinirea condițiilor de formă ale garanției de participare, precum și la cuantumul sau valabilitatea acesteia, acordând ofertantului un termen de 3 zile pentru a răspunde la solicitarea de clarificare, sub sancțiunea respingerii ofertei ca inacceptabilă.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -15062,6 +15062,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395-N411",
+    "tip": "unic",
+    "test": 33,
+    "intrebare": "Potrivit art. 133 din Normele metodologice aprobate prin H.G. nr. 395/2016, ce cerință trebuie să îndeplinească propunerea financiară a ofertantului?",
+    "variante": [
+      "Să nu depășească cu mai mult de 10% valoarea estimată comunicată prin anunțul de participare, indiferent de fondurile care pot fi disponibilizate.",
+      "Să nu reprezinte mai puțin de 80% din valoarea estimată a contractului, în caz contrar oferta fiind respinsă direct ca neconformă.",
+      "Să fie însoțită, în toate cazurile, de dovezi privind prețurile obținute de la furnizori și nivelul de salarizare al personalului ofertantului.",
+      "Să se încadreze în fondurile care pot fi disponibilizate pentru îndeplinirea contractului și să fie corelată cu elementele propunerii tehnice, pentru a evita executarea defectuoasă a contractului."
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 133 alin. (3) din Norme cere ca propunerea financiară să se încadreze în fondurile care pot fi disponibilizate, să fie corelată cu elementele propunerii tehnice pentru a evita executarea defectuoasă a contractului, să nu se afle în situația prevăzută la art. 210 din Legea nr. 98/2016 și să nu reprezinte o abatere de la legislația incidentă. Pragul de 80% din valoarea estimată provine din art. 136 alin. (4) din Norme și marchează doar un preț aparent neobișnuit de scăzut, care declanșează solicitarea de explicații (art. 136 alin. (1)); respingerea ca neconformă intervine abia dacă explicațiile lipsesc sau nu justifică prețul (art. 136 alin. (3)). Depășirea valorii estimate nu este plafonată la 10% de art. 133, consecințele ei fiind reglementate de art. 137 alin. (2) lit. e) și f) din Norme, în funcție de posibilitatea disponibilizării de fonduri suplimentare. Dovezile privind prețurile furnizorilor și salarizarea personalului se prezintă, potrivit art. 136 alin. (2), numai odată cu explicațiile cerute pentru un preț aparent neobișnuit de scăzut.",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 133 alin. (3)",
+      "citat": "Propunerea financiară trebuie să se încadreze în fondurile care pot fi disponibilizate pentru îndeplinirea contractului de achiziție publică, respectiv să fie corelată cu elementele propunerii tehnice pentru a evita executarea defectuoasă a contractului",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98D-003",
     "tip": "unic",
     "test": 33,
@@ -15105,29 +15128,6 @@ const INTREBARI = [
       "articol": "art. 2 lit. a) și b)",
       "citat": "La data intrării în vigoare a prezentei hotărâri se abrogă: a) Hotărârea Guvernului nr. 925/2006 pentru aprobarea normelor de aplicare a prevederilor referitoare la atribuirea contractelor de achiziție publică din Ordonanța de urgență a Guvernului nr. 34/2006 [...] b) Hotărârea Guvernului nr. 1.660/2006 pentru aprobarea Normelor de aplicare a prevederilor referitoare la atribuirea contractelor de achiziție publică prin mijloace electronice",
       "fisier": "02_HG_395-2016_act_de_aprobare.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395-N411",
-    "tip": "unic",
-    "test": 33,
-    "intrebare": "Potrivit art. 133 din Normele metodologice aprobate prin H.G. nr. 395/2016, ce cerință trebuie să îndeplinească propunerea financiară a ofertantului?",
-    "variante": [
-      "Să nu depășească cu mai mult de 10% valoarea estimată comunicată prin anunțul de participare, indiferent de fondurile care pot fi disponibilizate.",
-      "Să nu reprezinte mai puțin de 80% din valoarea estimată a contractului, în caz contrar oferta fiind respinsă direct ca neconformă.",
-      "Să fie însoțită, în toate cazurile, de dovezi privind prețurile obținute de la furnizori și nivelul de salarizare al personalului ofertantului.",
-      "Să se încadreze în fondurile care pot fi disponibilizate pentru îndeplinirea contractului și să fie corelată cu elementele propunerii tehnice, pentru a evita executarea defectuoasă a contractului."
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 133 alin. (3) din Norme cere ca propunerea financiară să se încadreze în fondurile care pot fi disponibilizate, să fie corelată cu elementele propunerii tehnice pentru a evita executarea defectuoasă a contractului, să nu se afle în situația prevăzută la art. 210 din Legea nr. 98/2016 și să nu reprezinte o abatere de la legislația incidentă. Pragul de 80% din valoarea estimată provine din art. 136 alin. (4) din Norme și marchează doar un preț aparent neobișnuit de scăzut, care declanșează solicitarea de explicații (art. 136 alin. (1)); respingerea ca neconformă intervine abia dacă explicațiile lipsesc sau nu justifică prețul (art. 136 alin. (3)). Depășirea valorii estimate nu este plafonată la 10% de art. 133, consecințele ei fiind reglementate de art. 137 alin. (2) lit. e) și f) din Norme, în funcție de posibilitatea disponibilizării de fonduri suplimentare. Dovezile privind prețurile furnizorilor și salarizarea personalului se prezintă, potrivit art. 136 alin. (2), numai odată cu explicațiile cerute pentru un preț aparent neobișnuit de scăzut.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 133 alin. (3)",
-      "citat": "Propunerea financiară trebuie să se încadreze în fondurile care pot fi disponibilizate pentru îndeplinirea contractului de achiziție publică, respectiv să fie corelată cu elementele propunerii tehnice pentru a evita executarea defectuoasă a contractului",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -15295,29 +15295,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98D-006",
-    "tip": "unic",
-    "test": 33,
-    "intrebare": "În ce termen trebuie depuse documentele justificative solicitate de autoritatea contractantă ca dovadă a informațiilor cuprinse în DUAE, atunci când solicitarea este făcută în orice moment pe durata procedurii, potrivit art. 196 alin. (1) din Legea nr. 98/2016?",
-    "variante": [
-      "În cel mult 5 zile lucrătoare, cu posibilitatea de prelungire cu maximum 5 zile lucrătoare",
-      "În cel mult 10 zile lucrătoare, cu posibilitatea de prelungire cu maximum 5 zile lucrătoare",
-      "În cel mult 3 zile lucrătoare, cu posibilitatea de prelungire cu maximum 3 zile lucrătoare",
-      "În cel mult 7 zile calendaristice, fără posibilitate de prelungire"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 196 alin. (1) prevede termenul de cel mult 5 zile lucrătoare de la primirea solicitării, sub sancțiunea excluderii, cu posibilitatea de prelungire cu maximum 5 zile lucrătoare la solicitarea motivată a candidatului/ofertantului. Capcană majoră: acest termen (5+5) se aplică solicitărilor făcute ORICÂND pe durata procedurii; pentru ofertantul clasat pe primul loc, înainte de atribuire, art. 196 alin. (2) prevede un alt termen — până la 7 zile lucrătoare, prelungibil cu cel mult 3 zile lucrătoare. Distractorii folosesc tocmai aceste valori cu rol diferit, plus confuzia zile lucrătoare/calendaristice.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 196 alin. (1)",
-      "citat": "Documentele solicitate vor trebui depuse de către candidați/ofertanți, sub sancțiunea excluderii, în termen de cel mult 5 zile lucrătoare de la primirea solicitării din partea autorității contractante, cu posibilitatea de prelungire cu maximum 5 zile lucrătoare, la solicitarea motivată a candidatului/ofertantului respectiv.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395B-050",
     "tip": "unic",
     "test": 33,
@@ -15337,6 +15314,29 @@ const INTREBARI = [
       "articol": "art. 135 alin. (3)",
       "citat": "viciile de formă reprezintă acele erori sau omisiuni din cadrul unui document a căror corectare/completare este susținută în mod neechivoc de sensul și [...] de conținutul altor informații existente inițial în alte documente prezentate de ofertant sau a căror corectare/completare are rol de clarificare sau de confirmare, nefiind susceptibile de a produce un avantaj incorect în raport cu ceilalți participanți la procedura de atribuire.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98D-006",
+    "tip": "unic",
+    "test": 33,
+    "intrebare": "În ce termen trebuie depuse documentele justificative solicitate de autoritatea contractantă ca dovadă a informațiilor cuprinse în DUAE, atunci când solicitarea este făcută în orice moment pe durata procedurii, potrivit art. 196 alin. (1) din Legea nr. 98/2016?",
+    "variante": [
+      "În cel mult 5 zile lucrătoare, cu posibilitatea de prelungire cu maximum 5 zile lucrătoare",
+      "În cel mult 10 zile lucrătoare, cu posibilitatea de prelungire cu maximum 5 zile lucrătoare",
+      "În cel mult 3 zile lucrătoare, cu posibilitatea de prelungire cu maximum 3 zile lucrătoare",
+      "În cel mult 7 zile calendaristice, fără posibilitate de prelungire"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 196 alin. (1) prevede termenul de cel mult 5 zile lucrătoare de la primirea solicitării, sub sancțiunea excluderii, cu posibilitatea de prelungire cu maximum 5 zile lucrătoare la solicitarea motivată a candidatului/ofertantului. Capcană majoră: acest termen (5+5) se aplică solicitărilor făcute ORICÂND pe durata procedurii; pentru ofertantul clasat pe primul loc, înainte de atribuire, art. 196 alin. (2) prevede un alt termen — până la 7 zile lucrătoare, prelungibil cu cel mult 3 zile lucrătoare. Distractorii folosesc tocmai aceste valori cu rol diferit, plus confuzia zile lucrătoare/calendaristice.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 196 alin. (1)",
+      "citat": "Documentele solicitate vor trebui depuse de către candidați/ofertanți, sub sancțiunea excluderii, în termen de cel mult 5 zile lucrătoare de la primirea solicitării din partea autorității contractante, cu posibilitatea de prelungire cu maximum 5 zile lucrătoare, la solicitarea motivată a candidatului/ofertantului respectiv.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -15480,29 +15480,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98D-009",
-    "tip": "unic",
-    "test": 34,
-    "intrebare": "Cine pune la dispoziția Comisiei Europene și actualizează în e-Certis lista completă a bazelor de date care conțin informații relevante privind operatorii economici stabiliți în România?",
-    "variante": [
-      "Ministerul Finanțelor Publice",
-      "Consiliul Național de Soluționare a Contestațiilor",
-      "ANAP",
-      "Operatorul SEAP"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Art. 198 atribuie ANAP obligația de a pune la dispoziția Comisiei Europene și de a actualiza în e-Certis lista completă a bazelor de date cu informații relevante privind operatorii economici din România. Tot ANAP se asigură, potrivit art. 199 alin. (1), că informațiile privind certificatele introduse în e-Certis sunt actualizate în permanență. Operatorul SEAP administrează platforma electronică de achiziții, nu e-Certis; CNSC soluționează contestații; Ministerul Finanțelor nu are atribuții aici. Capcană conexă: autoritățile contractante au obligația să UTILIZEZE e-Certis și să solicite în principal certificatele disponibile acolo (art. 199 alin. (2)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 198",
-      "citat": "ANAP pune la dispoziția Comisiei Europene și actualizează în e-Certis lista completă a bazelor de date care conțin informații relevante privind operatorii economici stabiliți în România.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395B-051",
     "tip": "unic",
     "test": 34,
@@ -15522,6 +15499,29 @@ const INTREBARI = [
       "articol": "art. 137 alin. (2) lit. i) și alin. (3) lit. a)-c)",
       "citat": "i) ofertantul refuză să prelungească perioada de valabilitate a ofertei și a garanției de participare; [...] (3) În condițiile art. 215 alin. (5) din Lege, oferta este considerată neconformă în următoarele situații: a) nu satisface în mod corespunzător cerințele caietului de sarcini; b) conține propuneri de modificare a clauzelor contractuale pe care le-a stabilit autoritatea contractantă în cadrul documentației de atribuire, care sunt în mod evident dezavantajoase pentru aceasta din urmă, iar ofertantul, deși a fost informat cu privire la respectiva situație, nu acceptă renunțarea la clauzele respective. c) conține în cadrul propunerii financiare prețuri care nu sunt rezultatul liberei concurențe și care nu pot fi justificate;",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98D-009",
+    "tip": "unic",
+    "test": 34,
+    "intrebare": "Cine pune la dispoziția Comisiei Europene și actualizează în e-Certis lista completă a bazelor de date care conțin informații relevante privind operatorii economici stabiliți în România?",
+    "variante": [
+      "Ministerul Finanțelor Publice",
+      "Consiliul Național de Soluționare a Contestațiilor",
+      "ANAP",
+      "Operatorul SEAP"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Art. 198 atribuie ANAP obligația de a pune la dispoziția Comisiei Europene și de a actualiza în e-Certis lista completă a bazelor de date cu informații relevante privind operatorii economici din România. Tot ANAP se asigură, potrivit art. 199 alin. (1), că informațiile privind certificatele introduse în e-Certis sunt actualizate în permanență. Operatorul SEAP administrează platforma electronică de achiziții, nu e-Certis; CNSC soluționează contestații; Ministerul Finanțelor nu are atribuții aici. Capcană conexă: autoritățile contractante au obligația să UTILIZEZE e-Certis și să solicite în principal certificatele disponibile acolo (art. 199 alin. (2)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 198",
+      "citat": "ANAP pune la dispoziția Comisiei Europene și actualizează în e-Certis lista completă a bazelor de date care conțin informații relevante privind operatorii economici stabiliți în România.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -15758,29 +15758,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98D-013",
-    "tip": "unic",
-    "test": 34,
-    "intrebare": "În ce condiții poate autoritatea contractantă să solicite ca ofertele să fie prezentate sub formă de catalog electronic sau să includă un catalog electronic?",
-    "variante": [
-      "În cazul în care dispozițiile legale impun utilizarea mijloacelor electronice de comunicare",
-      "Numai pentru contractele de produse cu valoare peste pragul european",
-      "Doar cu acordul prealabil al ANAP",
-      "Numai în cadrul licitației electronice"
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 203 alin. (1) leagă dreptul autorității contractante de a solicita cataloage electronice de situația în care dispozițiile legale impun utilizarea mijloacelor electronice de comunicare. Nu este vorba de licitația electronică (tehnică distinctă de reducere a valorilor ofertelor), nu există condiția pragului european pentru produse și nici avizul ANAP. Conex: prin normele metodologice se stabilesc categoriile de achiziții pentru care utilizarea cataloagelor electronice este OBLIGATORIE (alin. (2)), iar ofertele-catalog pot fi însoțite de alte documente care le completează (alin. (3)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 203 alin. (1)",
-      "citat": "În cazul în care dispozițiile legale impun utilizarea mijloacelor electronice de comunicare, autoritatea contractantă poate solicita ca ofertele să fie prezentate sub formă de catalog electronic sau să includă un catalog electronic.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N412",
     "tip": "unic",
     "test": 34,
@@ -15800,6 +15777,29 @@ const INTREBARI = [
       "articol": "art. 140",
       "citat": "(1) În cazul în care atribuirea contractului de achiziție publică/acordului-cadru se face pe baza criteriului \"costul cel mai scăzut\", evaluarea ofertelor se realizează prin acordarea, pentru fiecare ofertă în parte, a unui punctaj rezultat ca urmare a aplicării algoritmului de calcul stabilit în documentația de atribuire. [...] (3) În cazul în care două sau mai multe oferte sunt clasate pe primul loc, departajarea se va face prin solicitarea de noi propuneri financiare, și oferta câștigătoare va fi desemnată cea care va prezenta prețul cel mai scăzut.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98D-013",
+    "tip": "unic",
+    "test": 34,
+    "intrebare": "În ce condiții poate autoritatea contractantă să solicite ca ofertele să fie prezentate sub formă de catalog electronic sau să includă un catalog electronic?",
+    "variante": [
+      "În cazul în care dispozițiile legale impun utilizarea mijloacelor electronice de comunicare",
+      "Numai pentru contractele de produse cu valoare peste pragul european",
+      "Doar cu acordul prealabil al ANAP",
+      "Numai în cadrul licitației electronice"
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 203 alin. (1) leagă dreptul autorității contractante de a solicita cataloage electronice de situația în care dispozițiile legale impun utilizarea mijloacelor electronice de comunicare. Nu este vorba de licitația electronică (tehnică distinctă de reducere a valorilor ofertelor), nu există condiția pragului european pentru produse și nici avizul ANAP. Conex: prin normele metodologice se stabilesc categoriile de achiziții pentru care utilizarea cataloagelor electronice este OBLIGATORIE (alin. (2)), iar ofertele-catalog pot fi însoțite de alte documente care le completează (alin. (3)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 203 alin. (1)",
+      "citat": "În cazul în care dispozițiile legale impun utilizarea mijloacelor electronice de comunicare, autoritatea contractantă poate solicita ca ofertele să fie prezentate sub formă de catalog electronic sau să includă un catalog electronic.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -15966,50 +15966,25 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "ALOP-012",
-    "tip": "multiplu",
-    "test": 35,
-    "intrebare": "Care dintre următoarele pot constitui forme ale angajamentului legal, potrivit Normelor ALOP?",
-    "variante": [
-      "contractul de muncă, actele de control și acordul de împrumut",
-      "ordinul de plată pentru trezoreria statului (OPHT)",
-      "comanda și convenția",
-      "contractul de achiziție publică"
-    ],
-    "corecte": [
-      0,
-      2,
-      3
-    ],
-    "explicatie": "Normele enumeră exemplificativ formele angajamentului legal: contract de achiziție publică, comandă, convenție, contract de muncă, acte de control, acord de împrumut etc. — toate fiind acte juridice din care rezultă obligații pe seama fondurilor publice. OPHT-ul este un INSTRUMENT DE PLATĂ (alături de cecul de numerar), folosit în faza finală a execuției bugetare de către contabil, nu un act generator de obligații — este capcana dintre faza de angajare și faza de plată. Contractul de muncă surprinde adesea: și cheltuielile de personal au la bază un angajament legal.",
-    "sursa": {
-      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
-      "articol": "pct. 1 (angajarea)",
-      "citat": "Angajamentul legal ia forma unui contract de achiziție publică, comanda, convenție, contract de muncă, acte de control, acord de împrumut etc.",
-      "fisier": "09_Norme_ALOP_1792-2002.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L98D-015",
+    "id": "ALOP-032",
     "tip": "unic",
     "test": 35,
-    "intrebare": "Ce obligație are autoritatea contractantă față de ofertanți atunci când reia competiția prin colectarea informațiilor din cataloagele electronice deja transmise, potrivit art. 205 alin. (4) din Legea nr. 98/2016?",
+    "intrebare": "Prin ce structuri se efectuează plata cheltuielilor instituțiilor publice și care este excepția prevăzută de Normele metodologice ALOP?",
     "variante": [
-      "Să notifice ofertanții cu privire la data și ora colectării și să le dea posibilitatea de a refuza această colectare de informații",
-      "Să republice cataloagele colectate în SEAP înainte de atribuire",
-      "Să solicite CNSC validarea prealabilă a metodei de colectare",
-      "Să transmită tuturor ofertanților un nou caiet de sarcini actualizat"
+      "Prin casieria proprie a instituției publice, cu excepția plăților care depășesc plafonul stabilit prin hotărâre a Guvernului.",
+      "Prin unitățile de trezorerie și contabilitate publică la care instituțiile au conturile deschise, cu excepția plăților în valută, care se efectuează prin bănci, sau a altor plăți prevăzute de lege să se efectueze prin bănci.",
+      "Exclusiv prin unitățile de trezorerie și contabilitate publică, fără nicio excepție.",
+      "Prin bănci comerciale, cu excepția plăților în lei, care se efectuează prin unitățile de trezorerie și contabilitate publică."
     ],
     "corecte": [
-      0
+      1
     ],
-    "explicatie": "Art. 205 alin. (4) impune notificarea ofertanților cu privire la data și ora la care autoritatea intenționează să colecteze informațiile, cu posibilitatea acestora de a refuza colectarea. Garanțiile continuă: între notificare și colectarea efectivă trebuie prevăzută o perioadă corespunzătoare de timp (alin. (5)), iar înainte de atribuire informațiile colectate se prezintă ofertantului în cauză pentru a contesta sau confirma că oferta astfel constituită nu conține erori semnificative (alin. (6)). Validarea CNSC, republicarea în SEAP și noul caiet de sarcini nu au bază legală în acest mecanism.",
+    "explicatie": "Pct. 4 din Normele ALOP prevede că plata cheltuielilor se efectuează de persoanele autorizate care poartă denumirea generică de contabil, în limita creditelor bugetare și destinațiilor aprobate, prin unitățile de trezorerie și contabilitate publică la care instituțiile își au conturile deschise, cu excepția plăților în valută, care se efectuează prin bănci, sau a altor plăți prevăzute de lege să se efectueze prin bănci. Varianta cu plata prin bănci comerciale, cu excepția plăților în lei, inversează regula cu excepția. Varianta cu plata exclusiv prin unitățile de trezorerie, fără nicio excepție, elimină excepția expresă din text. Varianta cu plata prin casieria proprie confundă regula cu plățile în numerar: potrivit pct. 4, instituțiile publice iau măsuri pentru reducerea la maximum a plăților în numerar, efectuând prin casieria proprie numai cheltuielile de volum redus care nu se justifică a fi efectuate prin virament. Tot pct. 4 prevede că plata cheltuielilor este asigurată de șeful compartimentului financiar (financiar-contabil), iar în instituțiile publice fără un asemenea compartiment, de persoana desemnată de ordonatorul de credite.",
     "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 205 alin. (4)",
-      "citat": "aceasta notifică ofertanții cu privire la data și ora la care intenționează să colecteze informațiile necesare pentru a constitui oferte adaptate la cerințele contractului în cauză și le dă ofertanților posibilitatea de a refuza această colectare de informații.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+      "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+      "articol": "pct. 4 (plata cheltuielilor)",
+      "citat": "Plata cheltuielilor se efectuează de persoanele autorizate care, potrivit legii, poarta denumirea generica de contabil, în limita creditelor bugetare și destinațiilor aprobate în condițiile dispozițiilor legale, prin unitățile de trezorerie și contabilitate publică la care își au conturile deschise, cu excepția plăților în valută, care se efectuează prin bănci, sau a altor plati prevăzute de lege să se efectueze prin bănci.",
+      "fisier": "09_Norme_ALOP_1792-2002.txt"
     },
     "status": "ok"
   },
@@ -16033,6 +16008,31 @@ const INTREBARI = [
       "articol": "art. 142",
       "citat": "(1) Pe baza informațiilor introduse în SEAP de către autoritatea contractantă, sistemul informatic generează automat către toți ofertanții participanți notificări cu privire la rezultatul procedurii de atribuire. (2) Autoritatea contractantă are obligația de a efectua și comunicările prevăzute la secțiunea a 13-a a cap. IV din Lege.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98-N504",
+    "tip": "multiplu",
+    "test": 35,
+    "intrebare": "Potrivit Legii nr. 98/2016, prin care dintre următoarele informații și documente face, de regulă, operatorul economic dovada îndeplinirii cerințelor privind situația economică și financiară?",
+    "variante": [
+      "O declarație privind cifra totală de afaceri pentru cel mult ultimele trei exerciții financiare disponibile",
+      "Declarații sau extrase bancare corespunzătoare ori, acolo unde este cazul, dovada asigurării de risc profesional",
+      "Situațiile financiare sau extrase din acestea, în cazul în care publicarea lor este prevăzută de legislația țării în care este stabilit operatorul economic",
+      "O listă a principalelor livrări de produse efectuate în cursul unei perioade care acoperă cel mult ultimii 3 ani"
+    ],
+    "corecte": [
+      0,
+      1,
+      2
+    ],
+    "explicatie": "Art. 177 alin. (1) din Legea nr. 98/2016 enumeră la lit. a) declarațiile sau extrasele bancare ori dovada asigurării de risc profesional, la lit. b) situațiile financiare sau extrasele din acestea, dacă publicarea lor este prevăzută de legislația țării de stabilire, și la lit. c) declarația privind cifra totală de afaceri pentru cel mult ultimele trei exerciții financiare disponibile. Lista principalelor livrări de produse din cel mult ultimii 3 ani este un mijloc de probă pentru capacitatea tehnică și profesională, prevăzut la art. 179 lit. b), nu pentru situația economică și financiară. Capcana constă în confuzia dintre „ultimele trei exerciții financiare” (cifra de afaceri) și „ultimii 3 ani” (livrări și servicii). Dacă, din motive obiective și justificate, operatorul nu poate prezenta aceste documente, poate folosi orice alt document considerat adecvat de autoritatea contractantă, potrivit art. 177 alin. (2).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 177 alin. (1)",
+      "citat": "a) declarații sau extrase bancare corespunzătoare sau, acolo unde este cazul, dovada asigurării de risc profesional; b) prezentarea situațiilor financiare sau a extraselor din situațiile financiare, în cazul în care publicarea situațiilor financiare este prevăzută de legislația țării în care este stabilit operatorul economic; c) o declarație privind cifra totală de afaceri a operatorului economic [...] pentru cel mult ultimele trei exerciții financiare disponibile",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -16152,6 +16152,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "N395C-002",
+    "tip": "unic",
+    "test": 35,
+    "intrebare": "Ofertantul declarat câștigător refuză nemotivat să semneze contractul de achiziție publică. Cum califică Normele metodologice aprobate prin H.G. nr. 395/2016 acest refuz?",
+    "variante": [
+      "Este asimilabil situației prevăzute la art. 167 alin. (1) lit. g) din Legea nr. 98/2016, respectiv încălcării grave a obligațiilor unui contract anterior.",
+      "Determină de drept anularea procedurii de atribuire, cu obligația reluării acesteia.",
+      "Este asimilabil unei situații de excludere pentru condamnare penală, prevăzută la art. 164 alin. (1) din Legea nr. 98/2016.",
+      "Constituie o modificare substanțială a contractului, în sensul art. 221 din Legea nr. 98/2016."
+    ],
+    "corecte": [
+      0
+    ],
+    "explicatie": "Art. 144 alin. (1) din Norme asimilează refuzul nemotivat de semnare situației de excludere de la art. 167 alin. (1) lit. g) din Legea nr. 98/2016 — încălcarea gravă a obligațiilor contractuale anterioare —, ceea ce îl poate costa pe ofertant participarea la proceduri viitoare; corelativ, art. 144 alin. (2) trimite la art. 166 alin. (2), potrivit căruia se emite document constatator în termen de 14 zile de la data la care ar fi trebuit încheiat contractul. Art. 164 alin. (1) din Lege privește excluderea pentru condamnări definitive (corupție, fraudă, spălare de bani etc.), nu conduita din procedură. Art. 221 din Lege reglementează modificarea contractului deja încheiat, ipoteză exclusă aici tocmai pentru că nu s-a semnat niciun contract. Anularea nu operează de drept: cazurile de anulare sunt cele limitativ prevăzute la art. 212 și 213 din Lege, niciunul automat pentru refuzul de semnare; consecința expresă a refuzului este reținerea garanției de participare (art. 37 alin. (1) lit. c) din Norme).",
+    "sursa": {
+      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+      "articol": "art. 144 alin. (1)",
+      "citat": "Fără a aduce atingere prevederilor art. 207 alin. (2) din Lege, refuzul nemotivat al ofertantului declarat câștigător de a semna contractul de achiziție publică/acordul-cadru este asimilabil situației prevăzute la art. 167 alin. (1) lit. g) din Lege.",
+      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98D-017",
     "tip": "unic",
     "test": 35,
@@ -16194,29 +16217,6 @@ const INTREBARI = [
       "articol": "art. 32 alin. (3)",
       "citat": "În situația formulării plângerilor, Consiliul nu are calitate de parte în proces.",
       "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "N395C-002",
-    "tip": "unic",
-    "test": 35,
-    "intrebare": "Ofertantul declarat câștigător refuză nemotivat să semneze contractul de achiziție publică. Cum califică Normele metodologice aprobate prin H.G. nr. 395/2016 acest refuz?",
-    "variante": [
-      "Este asimilabil situației prevăzute la art. 167 alin. (1) lit. g) din Legea nr. 98/2016, respectiv încălcării grave a obligațiilor unui contract anterior.",
-      "Determină de drept anularea procedurii de atribuire, cu obligația reluării acesteia.",
-      "Este asimilabil unei situații de excludere pentru condamnare penală, prevăzută la art. 164 alin. (1) din Legea nr. 98/2016.",
-      "Constituie o modificare substanțială a contractului, în sensul art. 221 din Legea nr. 98/2016."
-    ],
-    "corecte": [
-      0
-    ],
-    "explicatie": "Art. 144 alin. (1) din Norme asimilează refuzul nemotivat de semnare situației de excludere de la art. 167 alin. (1) lit. g) din Legea nr. 98/2016 — încălcarea gravă a obligațiilor contractuale anterioare —, ceea ce îl poate costa pe ofertant participarea la proceduri viitoare; corelativ, art. 144 alin. (2) trimite la art. 166 alin. (2), potrivit căruia se emite document constatator în termen de 14 zile de la data la care ar fi trebuit încheiat contractul. Art. 164 alin. (1) din Lege privește excluderea pentru condamnări definitive (corupție, fraudă, spălare de bani etc.), nu conduita din procedură. Art. 221 din Lege reglementează modificarea contractului deja încheiat, ipoteză exclusă aici tocmai pentru că nu s-a semnat niciun contract. Anularea nu operează de drept: autoritatea contractantă poate continua cu ofertantul clasat pe locul următor, iar cazurile de anulare sunt cele limitativ prevăzute la art. 212 și 213 din Lege.",
-    "sursa": {
-      "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
-      "articol": "art. 144 alin. (1)",
-      "citat": "Fără a aduce atingere prevederilor art. 207 alin. (2) din Lege, refuzul nemotivat al ofertantului declarat câștigător de a semna contractul de achiziție publică/acordul-cadru este asimilabil situației prevăzute la art. 167 alin. (1) lit. g) din Lege.",
-      "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -16663,6 +16663,29 @@ const INTREBARI = [
     "status": "ok"
   },
   {
+    "id": "L101C-009",
+    "tip": "unic",
+    "test": 36,
+    "intrebare": "În cadrul soluționării plângerii, în cazuri temeinic justificate și pentru prevenirea unei pagube iminente, ce poate dispune instanța și ce regim are hotărârea prin care se pronunță asupra acestei cereri?",
+    "variante": [
+      "Poate dispune, din oficiu și fără citarea părților, suspendarea procedurii de atribuire, încheierea putând fi atacată separat cu recurs în termen de 5 zile.",
+      "Poate dispune suspendarea doar cu acordul expres al autorității contractante, exprimat prin întâmpinare.",
+      "Poate dispune numai suspendarea executării contractului, nu și a procedurii de atribuire, prin încheiere supusă apelului la Înalta Curte de Casație și Justiție.",
+      "Poate dispune, la cererea părții interesate, prin încheiere dată cu citarea părților, suspendarea procedurii de atribuire și/sau a executării contractului până la soluționarea cauzei, încheierea fiind definitivă."
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 33 alin. (1) prevede cumulativ: cazuri temeinic justificate ȘI prevenirea unei pagube iminente, cerere a părții interesate, încheiere dată cu citarea părților, obiect care poate viza atât procedura de atribuire, cât și executarea contractului, iar încheierea este definitivă — deci nu poate fi atacată separat. Aceasta este diferența majoră față de suspendarea dispusă de Consiliu: încheierea Consiliului privind cererea de suspendare se atacă cu plângere în 5 zile de la comunicare [art. 23 alin. (2)]. Varianta „din oficiu și fără citare” contrazice dublu textul. Varianta care limitează măsura la executarea contractului ignoră formula „și/sau”. Varianta cu acordul autorității contractante este absurdă juridic — măsura este tocmai împotriva intereselor imediate ale acesteia. De reținut și criteriul de apreciere din art. 33 alin. (13): instanța cântărește consecințele asupra tuturor categoriilor de interese, inclusiv asupra interesului public, și poate refuza măsura dacă efectele negative ar depăși beneficiile.",
+    "sursa": {
+      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+      "articol": "art. 33 alin. (1)",
+      "citat": "În cazuri temeinic justificate și pentru prevenirea unei pagube iminente, instanța poate dispune, la cererea părții interesate, prin încheiere dată cu citarea părților, suspendarea procedurii de atribuire și/sau a executării contractului până la soluționarea cauzei. Încheierea este definitivă.",
+      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    "status": "ok"
+  },
+  {
     "id": "L98D-025",
     "tip": "multiplu",
     "test": 36,
@@ -16684,29 +16707,6 @@ const INTREBARI = [
       "articol": "art. 212 alin. (1) lit. a), b) și e)",
       "citat": "Autoritatea contractantă are obligația de a anula procedura de atribuire a contractului de achiziție publică/acordului-cadru în următoarele cazuri: a) dacă nu a fost depusă nicio ofertă/solicitare de participare sau dacă nu a fost depusă nicio ofertă admisibilă; b) dacă au fost depuse oferte admisibile care nu pot fi comparate din cauza modului neuniform de abordare a soluțiilor tehnice și/ori financiare; [...] e) dacă contractul/acordul-cadru nu poate fi încheiat cu ofertantul a cărui ofertă a fost stabilită câștigătoare din cauza faptului că ofertantul în cauză se află într-o situație de forță majoră sau în imposibilitatea fortuită de a executa contractul/acordul-cadru și nu există o ofertă clasată pe locul următor admisibilă.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
-    "id": "L101C-009",
-    "tip": "unic",
-    "test": 36,
-    "intrebare": "În cadrul soluționării plângerii, în cazuri temeinic justificate și pentru prevenirea unei pagube iminente, ce poate dispune instanța și ce regim are hotărârea prin care se pronunță asupra acestei cereri?",
-    "variante": [
-      "Poate dispune, din oficiu și fără citarea părților, suspendarea procedurii de atribuire, încheierea putând fi atacată separat cu recurs în termen de 5 zile.",
-      "Poate dispune suspendarea doar cu acordul expres al autorității contractante, exprimat prin întâmpinare.",
-      "Poate dispune numai suspendarea executării contractului, nu și a procedurii de atribuire, prin încheiere supusă apelului la Înalta Curte de Casație și Justiție.",
-      "Poate dispune, la cererea părții interesate, prin încheiere dată cu citarea părților, suspendarea procedurii de atribuire și/sau a executării contractului până la soluționarea cauzei, încheierea fiind definitivă."
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 33 alin. (1) prevede cumulativ: cazuri temeinic justificate ȘI prevenirea unei pagube iminente, cerere a părții interesate, încheiere dată cu citarea părților, obiect care poate viza atât procedura de atribuire, cât și executarea contractului, iar încheierea este definitivă — deci nu poate fi atacată separat. Aceasta este diferența majoră față de suspendarea dispusă de Consiliu: încheierea Consiliului privind cererea de suspendare se atacă cu plângere în 5 zile de la comunicare [art. 23 alin. (2)]. Varianta „din oficiu și fără citare” contrazice dublu textul. Varianta care limitează măsura la executarea contractului ignoră formula „și/sau”. Varianta cu acordul autorității contractante este absurdă juridic — măsura este tocmai împotriva intereselor imediate ale acesteia. De reținut și criteriul de apreciere din art. 33 alin. (13): instanța cântărește consecințele asupra tuturor categoriilor de interese, inclusiv asupra interesului public, și poate refuza măsura dacă efectele negative ar depăși beneficiile.",
-    "sursa": {
-      "act": "Legea nr. 101/2016 privind remediile și căile de atac",
-      "articol": "art. 33 alin. (1)",
-      "citat": "În cazuri temeinic justificate și pentru prevenirea unei pagube iminente, instanța poate dispune, la cererea părții interesate, prin încheiere dată cu citarea părților, suspendarea procedurii de atribuire și/sau a executării contractului până la soluționarea cauzei. Încheierea este definitivă.",
-      "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
     },
     "status": "ok"
   },
@@ -16734,32 +16734,9 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98D-026",
-    "tip": "unic",
-    "test": 36,
-    "intrebare": "Ce se înțelege prin „încălcări ale prevederilor legale”, drept caz de anulare obligatorie a procedurii prevăzut la art. 212 alin. (1) lit. c) din Legea nr. 98/2016?",
-    "variante": [
-      "Orice abatere de la documentația de atribuire constatată de comisia de evaluare",
-      "Nerespectarea termenului de întocmire a raportului procedurii",
-      "Orice contestație admisă de CNSC împotriva unui act al autorității contractante",
-      "Situația în care se constată erori sau omisiuni, iar autoritatea contractantă se află în imposibilitatea de a adopta măsuri corective fără încălcarea principiilor de la art. 2 alin. (2)"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 212 alin. (2) definește restrictiv noțiunea: trebuie întrunite cumulativ constatarea unor erori sau omisiuni pe parcursul procedurii ȘI imposibilitatea adoptării de măsuri corective fără a încălca principiile achizițiilor publice de la art. 2 alin. (2). Deci nu orice abatere sau contestație admisă conduce automat la anulare — dacă există măsuri de remediere compatibile cu principiile, procedura continuă. Nerespectarea termenului raportului procedurii este o problemă de conformitate (posibilă contravenție potrivit art. 224 alin. (1) lit. l)), nu un caz de anulare.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 212 alin. (2)",
-      "citat": "prin încălcări ale prevederilor legale se înțelege situația în care, pe parcursul procedurii de atribuire, se constată erori sau omisiuni, iar autoritatea contractantă se află în imposibilitatea de a adopta măsuri corective fără ca aceasta să conducă la încălcarea principiilor prevăzute la art. 2 alin. (2).",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "OUGA-034",
     "tip": "unic",
-    "test": 37,
+    "test": 36,
     "intrebare": "Ce obligație are operatorul SEAP față de ANAP în legătură cu procedurile selectate pentru controlul ex ante?",
     "variante": [
       "De a notifica operatorii economici cu privire la selectarea procedurii pentru control",
@@ -16776,6 +16753,29 @@ const INTREBARI = [
       "articol": "art. 24 alin. (2)",
       "citat": "Operatorul SEAP are obligația de a asigura ANAP accesul nelimitat la vizualizarea tuturor documentelor încărcate de autoritățile contractante și operatorii economici în SEAP în legătură cu procedurile de atribuire și modificările contractuale selectate pentru controlul ex ante.",
       "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98D-026",
+    "tip": "unic",
+    "test": 37,
+    "intrebare": "Ce se înțelege prin „încălcări ale prevederilor legale”, drept caz de anulare obligatorie a procedurii prevăzut la art. 212 alin. (1) lit. c) din Legea nr. 98/2016?",
+    "variante": [
+      "Orice abatere de la documentația de atribuire constatată de comisia de evaluare",
+      "Nerespectarea termenului de întocmire a raportului procedurii",
+      "Orice contestație admisă de CNSC împotriva unui act al autorității contractante",
+      "Situația în care se constată erori sau omisiuni, iar autoritatea contractantă se află în imposibilitatea de a adopta măsuri corective fără încălcarea principiilor de la art. 2 alin. (2)"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 212 alin. (2) definește restrictiv noțiunea: trebuie întrunite cumulativ constatarea unor erori sau omisiuni pe parcursul procedurii ȘI imposibilitatea adoptării de măsuri corective fără a încălca principiile achizițiilor publice de la art. 2 alin. (2). Deci nu orice abatere sau contestație admisă conduce automat la anulare — dacă există măsuri de remediere compatibile cu principiile, procedura continuă. Nerespectarea termenului raportului procedurii este o problemă de conformitate (posibilă contravenție potrivit art. 224 alin. (1) lit. l)), nu un caz de anulare.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 212 alin. (2)",
+      "citat": "prin încălcări ale prevederilor legale se înțelege situația în care, pe parcursul procedurii de atribuire, se constată erori sau omisiuni, iar autoritatea contractantă se află în imposibilitatea de a adopta măsuri corective fără ca aceasta să conducă la încălcarea principiilor prevăzute la art. 2 alin. (2).",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -16803,29 +16803,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98D-027",
-    "tip": "unic",
-    "test": 37,
-    "intrebare": "În ce termen și prin ce mijloc trebuie să facă publică autoritatea contractantă decizia de anulare a procedurii de atribuire, potrivit art. 213 alin. (2) din Legea nr. 98/2016?",
-    "variante": [
-      "În termen de 10 zile de la rămânerea definitivă a deciziei, pe pagina proprie de internet",
-      "În termen de 3 zile de la adoptare, prin publicare în JOUE",
-      "În termen de 5 zile lucrătoare de la adoptare, prin comunicare individuală către ofertanți",
-      "În termen de o zi lucrătoare de la adoptarea deciziei, prin intermediul platformei electronice (SEAP), însoțită de justificarea anulării"
-    ],
-    "corecte": [
-      3
-    ],
-    "explicatie": "Art. 213 alin. (2) impune publicarea deciziei de anulare, însoțită de justificarea anulării, prin intermediul platformei electronice prevăzute la art. 150 alin. (1) (SEAP), în termen de O ZI LUCRĂTOARE de la adoptarea deciziei. Distractorul cu 3 zile folosește termenul comunicării rezultatului procedurii de la art. 215 alin. (1) — valoare reală cu alt rol. Publicarea în SEAP nu exclude, desigur, informarea individuală a candidaților/ofertanților potrivit art. 215, dar obligația de transparență din art. 213 alin. (2) privește platforma electronică. Textul în forma actuală a fost modificat prin O.G. nr. 3/2021.",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 213 alin. (2)",
-      "citat": "Autoritatea contractantă are obligația de a face publică decizia de anulare a procedurii de atribuire a contractului de achiziție publică/acordului-cadru, însoțită de justificarea anulării procedurii de atribuire, prin intermediul platformei electronice prevăzute la art. 150 alin. (1), în termen de o zi lucrătoare de la adoptarea deciziei de anulare.",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395C-004",
     "tip": "multiplu",
     "test": 37,
@@ -16847,6 +16824,29 @@ const INTREBARI = [
       "articol": "art. 151 lit. a)-c)",
       "citat": "Înlocuirea/implicarea subcontractanților de către contractant în perioada de implementare a contractului poate interveni în următoarele situații: a) înlocuirea subcontractanților nominalizați în ofertă și ale căror activități au fost indicate în ofertă ca fiind realizate de subcontractanți, b) declararea unor noi subcontractanți ulterior semnării contractului de achiziție publică în condițiile în care lucrările/serviciile ce urmează a fi subcontractate au fost prevăzute în ofertă fără a se indica inițial opțiunea subcontractării acestora, c) renunțarea/retragerea subcontractanților din contractul de achiziție publică.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98D-027",
+    "tip": "unic",
+    "test": 37,
+    "intrebare": "În ce termen și prin ce mijloc trebuie să facă publică autoritatea contractantă decizia de anulare a procedurii de atribuire, potrivit art. 213 alin. (2) din Legea nr. 98/2016?",
+    "variante": [
+      "În termen de 10 zile de la rămânerea definitivă a deciziei, pe pagina proprie de internet",
+      "În termen de 3 zile de la adoptare, prin publicare în JOUE",
+      "În termen de 5 zile lucrătoare de la adoptare, prin comunicare individuală către ofertanți",
+      "În termen de o zi lucrătoare de la adoptarea deciziei, prin intermediul platformei electronice (SEAP), însoțită de justificarea anulării"
+    ],
+    "corecte": [
+      3
+    ],
+    "explicatie": "Art. 213 alin. (2) impune publicarea deciziei de anulare, însoțită de justificarea anulării, prin intermediul platformei electronice prevăzute la art. 150 alin. (1) (SEAP), în termen de O ZI LUCRĂTOARE de la adoptarea deciziei. Distractorul cu 3 zile folosește termenul comunicării rezultatului procedurii de la art. 215 alin. (1) — valoare reală cu alt rol. Publicarea în SEAP nu exclude, desigur, informarea individuală a candidaților/ofertanților potrivit art. 215, dar obligația de transparență din art. 213 alin. (2) privește platforma electronică. Textul în forma actuală a fost modificat prin O.G. nr. 3/2021.",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 213 alin. (2)",
+      "citat": "Autoritatea contractantă are obligația de a face publică decizia de anulare a procedurii de atribuire a contractului de achiziție publică/acordului-cadru, însoțită de justificarea anulării procedurii de atribuire, prin intermediul platformei electronice prevăzute la art. 150 alin. (1), în termen de o zi lucrătoare de la adoptarea deciziei de anulare.",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -16990,29 +16990,6 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98D-030",
-    "tip": "unic",
-    "test": 37,
-    "intrebare": "Cu cât și în ce condiții se poate prelungi termenul de întocmire a raportului procedurii în cazul unei licitații deschise, potrivit art. 214 alin. (5) din Legea nr. 98/2016?",
-    "variante": [
-      "O singură dată, cu cel mult 50 de zile lucrătoare, cu avizul CNSC",
-      "Cu cel mult 60 de zile lucrătoare, prin decizia comisiei de evaluare",
-      "O singură dată, cu cel mult 30 de zile lucrătoare, în cazuri temeinic justificate și cu aprobarea conducătorului autorității contractante",
-      "Cu cel mult 15 zile lucrătoare, de mai multe ori, cu notificarea ANAP"
-    ],
-    "corecte": [
-      2
-    ],
-    "explicatie": "Prelungirea este permisă O SINGURĂ DATĂ, în cazuri temeinic justificate și cu aprobarea conducătorului autorității contractante, cu un termen ce nu poate depăși: 30 de zile lucrătoare pentru grupa care include licitația deschisă (lit. a), b), e) și g) din art. 68 alin. (1)); 15 zile lucrătoare pentru negocierea fără publicare și procedura simplificată; 50 de zile lucrătoare pentru negocierea competitivă și dialogul competitiv. Valorile 15 și 50 din distractori sunt reale, dar pentru alte grupe de proceduri; competența aparține conducătorului autorității, nu ANAP, CNSC sau comisiei de evaluare. Conex: decizia de prelungire se comunică operatorilor implicați în cel mult două zile lucrătoare de la expirarea termenului inițial (alin. (5^1)).",
-    "sursa": {
-      "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 214 alin. (5) lit. a)",
-      "citat": "în cazuri temeinic justificate și cu aprobarea conducătorului autorității contractante, termenul de întocmire a raportului procedurii sau a raportului intermediar se poate prelungi o singură dată, cu un termen ce nu poate depăși: a) 30 de zile lucrătoare, pentru procedurile prevăzute la art. 68 alin. (1) lit. a), b), e) și g);",
-      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
-    },
-    "status": "ok"
-  },
-  {
     "id": "N395-N504",
     "tip": "unic",
     "test": 37,
@@ -17032,6 +17009,29 @@ const INTREBARI = [
       "articol": "art. 153",
       "citat": "noii subcontractanți au obligația de a prezenta o declarație pe propria răspundere prin care își asumă respectarea prevederilor caietului de sarcini și a propunerii tehnice depuse de către contractant la ofertă, aferentă activității supuse subcontractării.",
       "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    "status": "ok"
+  },
+  {
+    "id": "L98D-030",
+    "tip": "unic",
+    "test": 37,
+    "intrebare": "Cu cât și în ce condiții se poate prelungi termenul de întocmire a raportului procedurii în cazul unei licitații deschise, potrivit art. 214 alin. (5) din Legea nr. 98/2016?",
+    "variante": [
+      "O singură dată, cu cel mult 50 de zile lucrătoare, cu avizul CNSC",
+      "Cu cel mult 60 de zile lucrătoare, prin decizia comisiei de evaluare",
+      "O singură dată, cu cel mult 30 de zile lucrătoare, în cazuri temeinic justificate și cu aprobarea conducătorului autorității contractante",
+      "Cu cel mult 15 zile lucrătoare, de mai multe ori, cu notificarea ANAP"
+    ],
+    "corecte": [
+      2
+    ],
+    "explicatie": "Prelungirea este permisă O SINGURĂ DATĂ, în cazuri temeinic justificate și cu aprobarea conducătorului autorității contractante, cu un termen ce nu poate depăși: 30 de zile lucrătoare pentru grupa care include licitația deschisă (lit. a), b), e) și g) din art. 68 alin. (1)); 15 zile lucrătoare pentru negocierea fără publicare și procedura simplificată; 50 de zile lucrătoare pentru negocierea competitivă și dialogul competitiv. Valorile 15 și 50 din distractori sunt reale, dar pentru alte grupe de proceduri; competența aparține conducătorului autorității, nu ANAP, CNSC sau comisiei de evaluare. Conex: decizia de prelungire se comunică operatorilor implicați în cel mult două zile lucrătoare de la expirarea termenului inițial (alin. (5^1)).",
+    "sursa": {
+      "act": "Legea nr. 98/2016 privind achizițiile publice",
+      "articol": "art. 214 alin. (5) lit. a)",
+      "citat": "în cazuri temeinic justificate și cu aprobarea conducătorului autorității contractante, termenul de întocmire a raportului procedurii sau a raportului intermediar se poate prelungi o singură dată, cu un termen ce nu poate depăși: a) 30 de zile lucrătoare, pentru procedurile prevăzute la art. 68 alin. (1) lit. a), b), e) și g);",
+      "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
   },
@@ -17688,26 +17688,24 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L98-principii",
-    "tip": "multiplu",
+    "id": "L98-N608",
+    "tip": "unic",
     "test": 39,
-    "intrebare": "Care dintre următoarele sunt principii care stau la baza atribuirii contractelor de achiziție publică, conform Legii nr. 98/2016?",
+    "intrebare": "Potrivit Legii nr. 98/2016, în ce condiții poate contractantul implica noi subcontractanți pe durata executării contractului de achiziție publică?",
     "variante": [
-      "Proporționalitatea",
-      "Eficiența utilizării fondurilor publice",
-      "Asumarea răspunderii",
-      "Transparența"
+      "Cu condiția ca nominalizarea acestora să nu reprezinte o modificare substanțială a contractului, în condițiile art. 221, și cu obținerea acordului autorității contractante.",
+      "Numai prin organizarea de către autoritatea contractantă a unei noi proceduri de atribuire pentru partea care urmează a fi subcontractată.",
+      "Fără acordul autorității contractante, fiind suficientă notificarea modificării informațiilor privind subcontractanții.",
+      "Numai dacă valoarea părții subcontractate este mai mică decât 10% din prețul contractului inițial, indiferent de acordul autorității contractante."
     ],
     "corecte": [
-      0,
-      2,
-      3
+      0
     ],
-    "explicatie": "Art. 2 alin. (2) din Legea nr. 98/2016 enumeră exact șase principii: nediscriminarea, tratamentul egal, recunoașterea reciprocă, transparența, proporționalitatea și asumarea răspunderii. „Eficiența utilizării fondurilor publice” era principiu sub vechea O.U.G. nr. 34/2006 (abrogată prin Legea 98/2016) — este o capcană clasică în grile: sub legea actuală sintagma nu mai apare deloc în text, nici ca principiu, nici altfel: art. 2 alin. (1) formulează scopul legii ca achiziționare „în condiții de eficiență economică și socială”.",
+    "explicatie": "Art. 219 alin. (3) dă contractantului dreptul de a implica noi subcontractanți pe durata executării, cu condiția ca nominalizarea lor să nu reprezinte o modificare substanțială a contractului, în condițiile art. 221; art. 219 alin. (4) cere transmiterea informațiilor de identificare și obținerea acordului autorității contractante. Noua procedură de atribuire este consecința modificărilor făcute în afara cazurilor de la art. 221, potrivit art. 222 alin. (1), nu regula pentru orice subcontractant nou. Pragul de 10% provine din art. 221 alin. (1) lit. f) pct. (ii), care privește valoarea modificării prețului unui contract de servicii sau de produse, nu introducerea subcontractanților, și nu înlătură acordul autorității. Simpla notificare, prevăzută la art. 219 alin. (2), acoperă modificările datelor subcontractanților deja declarați, nu implicarea unor subcontractanți noi. Potrivit art. 219 alin. (5), subcontractanții introduși după atribuire transmit și documentele pentru verificarea inexistenței situațiilor de excludere și a resurselor/capacităților corespunzătoare.",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
-      "articol": "art. 2 alin. (2)",
-      "citat": "Principiile care stau la baza atribuirii contractelor de achiziție publică și a organizării concursurilor de soluții sunt: a) nediscriminarea; b) tratamentul egal; c) recunoașterea reciprocă; d) transparența; e) proporționalitatea; f) asumarea răspunderii.",
+      "articol": "art. 219 alin. (3) și (4)",
+      "citat": "Contractantul are dreptul de a implica noi subcontractanți, pe durata executării contractului de achiziție publică, cu condiția ca nominalizarea acestora să nu reprezinte o modificare substanțială a contractului de achiziție publică, în condițiile art. 221. [...] În situația prevăzută la alin. (3), contractantul va transmite autorității contractante informațiile prevăzute la alin. (1) și va obține acordul autorității contractante privind eventualii noi subcontractanți implicați ulterior în executarea contractului.",
       "fisier": "01_Legea_98-2016_achizitii_publice.txt"
     },
     "status": "ok"
@@ -17828,24 +17826,26 @@ const INTREBARI = [
     "status": "ok"
   },
   {
-    "id": "L500-071",
-    "tip": "unic",
+    "id": "L500-001",
+    "tip": "multiplu",
     "test": 39,
-    "intrebare": "În ce termen trebuie rambursate împrumuturile fără dobândă acordate de ordonatorii principali de credite, din bugetul propriu, instituțiilor publice sau activităților finanțate integral din venituri proprii nou-înființate în subordinea lor?",
+    "intrebare": "Care dintre următoarele bugete intră în sfera de aplicare a Legii nr. 500/2002 privind finanțele publice, potrivit art. 1 alin. (2)?",
     "variante": [
-      "Integral, în termen de 6 luni de la data acordării.",
-      "Până la sfârșitul exercițiului bugetar în care au fost acordate.",
-      "În termen de 12 luni de la data acordării, cu posibilitatea prelungirii cu încă 6 luni.",
-      "În termen de 3 luni de la data acordării."
+      "bugetele fondurilor speciale",
+      "bugetul fondurilor externe nerambursabile",
+      "bugetele locale",
+      "bugetul trezoreriei statului"
     ],
     "corecte": [
-      0
+      0,
+      1,
+      3
     ],
-    "explicatie": "Art. 69 alin. (2) impune rambursarea INTEGRALĂ în termen de 6 luni de la data acordării, ceea ce face din acest instrument un ajutor strict tranzitoriu de pornire. Condițiile de acordare, prevăzute la alin. (1), sunt cumulative: instituția sau activitatea finanțată integral din venituri proprii să fie nou-înființată în subordinea ordonatorului principal, să nu dispună de fonduri suficiente, să existe documentații temeinic fundamentate, împrumutul să fie fără dobândă și acordat pe bază de convenție. Termenul nu este legat de încheierea exercițiului bugetar și nu este prelungibil potrivit acestui text. Nerespectarea art. 69 alin. (2) constituie contravenție, potrivit art. 72 alin. (1) lit. b).",
+    "explicatie": "Art. 1 alin. (2) enumeră nouă categorii de bugete cărora li se aplică legea: bugetul de stat, bugetul asigurărilor sociale de stat, bugetele fondurilor speciale, bugetul trezoreriei statului, bugetele instituțiilor publice autonome, bugetele instituțiilor publice finanțate integral sau parțial de la aceste bugete, bugetele instituțiilor publice finanțate integral din venituri proprii, bugetul creditelor externe și bugetul fondurilor externe nerambursabile. Capcana clasică: bugetele locale NU figurează în această enumerare — ele sunt reglementate de legislația finanțelor publice locale, nu de această enumerare. Totuși, potrivit art. 2 alin. (1) pct. 38, «sistemul bugetar» cuprinde bugetele de la art. 1 alin. (2) ȘI bugetele locale — distincție frecvent testată.",
     "sursa": {
       "act": "Legea nr. 500/2002 privind finanțele publice",
-      "articol": "art. 69 alin. (2)",
-      "citat": "Împrumuturile acordate în condițiile alin. (1) vor fi rambursate integral în termen de 6 luni de la data acordării.",
+      "articol": "art. 1 alin. (2)",
+      "citat": "Dispozițiile prezentei legi se aplica în domeniul elaborării, aprobării, executării și raportării: a) bugetului de stat; b) bugetului asigurărilor sociale de stat; c) bugetelor fondurilor speciale; d) bugetului trezoreriei statului; [...] i) bugetului fondurilor externe nerambursabile.",
       "fisier": "10_Legea_500-2002_finantele_publice.txt"
     },
     "status": "ok"
@@ -17889,7 +17889,7 @@ const INTREBARI = [
     "corecte": [
       1
     ],
-    "explicatie": "Normele impun două reguli cumulative: ordinele de plată se emit pe numele fiecărui creditor, fiind datate și având înscrise în spațiul rezervat obiectul plății și subdiviziunea bugetului aprobat de la care se face plata, iar un ordin de plată nu poate cuprinde plăți referitoare la mai multe subdiviziuni ale bugetului aprobat. Scopul este trasabilitatea plății pe subdiviziunea bugetară corectă, condiție verificată de altfel și înainte de efectuarea plății. Distractorul a) încalcă regula emiterii pe numele fiecărui creditor, iar distractorul c) încalcă regula unicității subdiviziunii, folosind ca pretext o mențiune care există în text, dar cu alt rol - identificarea obiectului plății. Distractorul d) inversează regula reală: ordinele de plată se emit pe baza documentelor justificative din care să reiasă că urmează să se achite integral sau parțial o datorie contractată și justificată, singura excepție fiind ordinele de plată emise pentru plata de avansuri. Capcană conexă: ordinele de plată se înscriu într-un registru distinct și poartă un număr de ordine unic, care începe cu numărul 1, în ordine crescătoare, pentru fiecare ordonator de credite și pentru fiecare exercițiu bugetar - deci numerotarea se reia anual, nu continuă de la un an la altul.",
+    "explicatie": "Normele impun două reguli cumulative: ordinele de plată se emit pe numele fiecărui creditor, fiind datate și având înscrise în spațiul rezervat obiectul plății și subdiviziunea bugetului aprobat de la care se face plata, iar un ordin de plată nu poate cuprinde plăți referitoare la mai multe subdiviziuni ale bugetului aprobat. Scopul este trasabilitatea plății pe subdiviziunea bugetară corectă, condiție verificată de altfel și înainte de efectuarea plății. Varianta cu plăți către mai mulți creditori încalcă regula emiterii pe numele fiecărui creditor, iar varianta cu plăți de la mai multe subdiviziuni bugetare încalcă regula unicității subdiviziunii, folosind ca pretext o mențiune care există în text, dar cu alt rol - identificarea obiectului plății. Varianta cu ordinele emise fără documente justificative inversează regula reală: ordinele de plată se emit pe baza documentelor justificative din care să reiasă că urmează să se achite integral sau parțial o datorie contractată și justificată, singura excepție fiind ordinele de plată emise pentru plata de avansuri. Capcană conexă: ordinele de plată se înscriu într-un registru distinct și poartă un număr de ordine unic, care începe cu numărul 1, în ordine crescătoare, pentru fiecare ordonator de credite și pentru fiecare exercițiu bugetar - deci numerotarea se reia anual, nu continuă de la un an la altul.",
     "sursa": {
       "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
       "articol": "pct. 4 (plata cheltuielilor)",
@@ -18073,7 +18073,7 @@ const INTREBARI = [
     "corecte": [
       3
     ],
-    "explicatie": "Bugetul aprobat trebuie transmis unității teritoriale a Trezoreriei Statului în termen de 10 zile de la aprobare - art. 70 alin. (3). Dacă termenul este depășit, alin. (4) permite continuarea plăților în limita a 1/12 din ultimul buget aprobat, dar numai 45 de zile de la expirarea termenului de depunere și cu excluderea plăților pentru acțiuni și obiective de investiții noi. Termenul poate fi prelungit, la solicitarea fundamentată a instituției, cu aprobarea ministrului finanțelor publice - alin. (5) - iar după expirarea lui unitățile Trezoreriei Statului nu mai acceptă la decontare documente de plată - alin. (6). Distractorul b) descrie sancțiunea distinctă din art. 28^4 alin. (1), aplicabilă instituțiilor care înregistrează arierate, unde plățile permise sunt cele salariale, cele pentru stingerea arieratelor și cele aferente datoriei publice. Distractorul c) elimină exact elementul esențial - caracterul temporar al măsurii, iar distractorul d) schimbă atât fracția, cât și durata. Capcană conexă: regula celor 1/12 apare și la art. 37, dar acolo într-un cu totul alt context - neadoptarea legilor bugetare până la finele exercițiului bugetar.",
+    "explicatie": "Bugetul aprobat trebuie transmis unității teritoriale a Trezoreriei Statului în termen de 10 zile de la aprobare - art. 70 alin. (3). Dacă termenul este depășit, alin. (4) permite continuarea plăților în limita a 1/12 din ultimul buget aprobat, dar numai 45 de zile de la expirarea termenului de depunere și cu excluderea plăților pentru acțiuni și obiective de investiții noi. Termenul poate fi prelungit, la solicitarea fundamentată a instituției, cu aprobarea ministrului finanțelor publice - alin. (5) - iar după expirarea lui unitățile Trezoreriei Statului nu mai acceptă la decontare documente de plată - alin. (6). Distractorul b) descrie sancțiunea distinctă din art. 28^4 alin. (1), aplicabilă instituțiilor care înregistrează arierate, unde plățile permise sunt cele salariale, cele pentru stingerea arieratelor și cele aferente datoriei publice. Varianta „fără limitare în timp” elimină exact elementul esențial - caracterul temporar al măsurii, iar varianta cu 1/4 pentru 90 de zile schimbă atât fracția, cât și durata. Capcană conexă: regula celor 1/12 apare și la art. 37, dar acolo într-un cu totul alt context - neadoptarea legilor bugetare până la finele exercițiului bugetar.",
     "sursa": {
       "act": "Legea nr. 500/2002 privind finanțele publice",
       "articol": "art. 70 alin. (4)",

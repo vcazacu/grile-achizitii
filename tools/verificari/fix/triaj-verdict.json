@@ -1,0 +1,170 @@
+[
+ {
+  "id": "L500-001",
+  "semnal": "explicație, fraza 2 contrazisă de text (p=0.62): „Totuși, potrivit art. 2 alin. (1) pct. 38, «sistemul bugetar» cuprinde bugetele de la art.”",
+  "verdict": "fals",
+  "motiv": "Legea 500/2002, art. 2 alin. (1) pct. 38: „sistem bugetar - sistem unitar de bugete care cuprinde bugetele prevăzute la art. 1 alin. (2) și bugetele locale”. Fraza redă exact definiția; iar art. 1 alin. (2) lit. a)-i) nu menționează bugetele locale, deci cheia (A, B, D) e corectă. Observație nesemnalată: trimiterea la Legea nr. 273/2006 nu poate fi verificată din corpusul de surse (nu e inclusă), dar nu e contrazisă.",
+  "corectura": ""
+ },
+ {
+  "id": "L98A-025",
+  "semnal": "explicație, fraza 1 contrazisă de text (p=0.51): „Personalitatea juridică proprie NU este cerută — dimpotrivă, unitatea operațională separat”",
+  "verdict": "fals",
+  "motiv": "Legea 98/2016, art. 3 alin. (1) lit. ccc): „unitate operațională separată - structură din cadrul autorității contractante, separată din punct de vedere tehnic, geografic sau organizatoric de alte structuri ale autorității contractante”; art. 10 alin. (3) lit. a)-e) enumeră cele cinci condiții cumulative, niciuna nu privește personalitatea juridică. Fraza e fidelă textului.",
+  "corectura": ""
+ },
+ {
+  "id": "L98A-035",
+  "semnal": "explicație, fraza 3 contrazisă de text (p=0.54): „Multiplii 12 și 24 nu apar în aceste reguli.”",
+  "verdict": "fals",
+  "motiv": "Legea 98/2016, art. 21 lit. c) și art. 25 lit. b): „prin înmulțirea cu 48 a valorii lunare a contractului” — singurul multiplicator din art. 21 și 25 este 48; „12 luni” apare la art. 21 lit. a)-b) doar ca prag de durată, nu ca multiplicator, deci afirmația e corectă (modelul a confundat pragul cu multiplicatorul). Formulare opțională mai clară: „Înmulțirea cu 12 sau cu 24 nu apare în aceste reguli (12 luni este doar pragul de durată de la art. 21 lit. a) și b)).” DEFECT SEPARAT, nesemnalat: explicația spune „Valoarea reziduală (distractorul d))”, dar în ordinea afișată varianta cu valoarea reziduală este B → trebuie „(distractorul b))” sau, independent de ordine, „(varianta cu valoarea reziduală)”.",
+  "corectura": ""
+ },
+ {
+  "id": "L98A-044",
+  "semnal": "cheia A nu e susținută de text (p_sustine=0.05, alegere=nu_spune)",
+  "verdict": "fals",
+  "motiv": "Legea 98/2016, art. 24: „În cazul contractelor de achiziție publică de servicii având ca obiect servicii de proiectare, valoarea estimată a achiziției se calculează pe baza onorariilor, comisioanelor ce urmează a fi plătite și a oricăror altor forme de remunerare aferente serviciilor respective.” Varianta A reproduce textul literal. Modelul a văzut doar art. 22 (sursa citată); cheia A e susținută de art. 24. Opțional: câmpul sursa.articol ar putea fi „art. 22-24” în loc de „art. 22”.",
+  "corectura": ""
+ },
+ {
+  "id": "L98E-004",
+  "semnal": "explicație, fraza 2 contrazisă de text (p=0.67): „Varianta care lasă mijloacele de comunicare la alegerea unității de achiziții centralizate”",
+  "verdict": "fals",
+  "motiv": "Legea 98/2016, art. 42: „Toate procedurile de atribuire organizate de o unitate de achiziții centralizate se realizează prin mijloace electronice de comunicare, în conformitate cu prevederile art. 64-66 și ale normelor metodologice”; art. 64 alin. (1): „prin mijloace electronice de comunicare sau, ca excepție, prin alte mijloace decât cele electronice”; Norme H.G. 395, art. 52 alin. (1) lit. a)-e) (instrumente/formate nedisponibile cu caracter general, echipamente de birou specializate, mostre/machete, protecția informațiilor deosebit de sensibile) și alin. (3) (motivele se indică în raportul procedurii); Legea 98, art. 216 alin. (2) lit. h). Toate trimiterile din fraza semnalată sunt exacte.",
+  "corectura": ""
+ },
+ {
+  "id": "L500-012",
+  "semnal": "cheia B nu e susținută de text (p_sustine=0.00, alegere=nu_spune)",
+  "verdict": "fals",
+  "motiv": "Legea 500/2002, Secțiunea 1 „Principii și reguli bugetare”, titlul marginal înaintea art. 9: „Principiul publicității”, art. 9: „Sistemul bugetar este deschis și transparent...”. Cheia B e susținută; modelul a văzut doar art. 12 (sursa citată). Opțional: sursa.articol → „art. 8-13”.",
+  "corectura": ""
+ },
+ {
+  "id": "L500-015",
+  "semnal": "cheia B nu e susținută de text (p_sustine=0.45, alegere=contrazice)",
+  "verdict": "fals",
+  "motiv": "Legea 500/2002, titlul „Principiul specializării bugetare”, art. 12: „Veniturile și cheltuielile bugetare se înscriu și se aproba în buget pe surse de proveniență și, respectiv, pe categorii de cheltuieli, grupate după natura lor economică și destinația acestora, potrivit clasificației bugetare.” Enunțul întrebării reproduce literal art. 12; cheia B e corectă.",
+  "corectura": ""
+ },
+ {
+  "id": "L500-015",
+  "semnal": "distractorul C e apărabil ca răspuns corect (p_sustine=0.49)",
+  "verdict": "fals",
+  "motiv": "Legea 500/2002, art. 10 („Principiul unității”) alin. (1): „Veniturile și cheltuielile bugetare se înscriu într-un singur document...” — conținut diferit de regula din enunț (înscriere pe surse și categorii potrivit clasificației), care e textul art. 12 (specializare). Distractorul C nu e apărabil.",
+  "corectura": ""
+ },
+ {
+  "id": "L98-N211",
+  "semnal": "cheia C nu e susținută de text (p_sustine=0.03, alegere=nu_spune)",
+  "verdict": "fals",
+  "motiv": "Legea 98/2016, art. 77: „Licitația restrânsă se inițiază prin transmiterea spre publicare a unui anunț de participare, în conformitate cu prevederile art. 144 alin. (2) și (3), prin care autoritatea contractantă solicită operatorilor economici depunerea de solicitări de participare...”. Cheia C e susținută; modelul a văzut doar art. 96 (sursa citată). Art. 72 (licitația deschisă → „depunerea de oferte”) confirmă și distractorul B.",
+  "corectura": ""
+ },
+ {
+  "id": "OUGB-032",
+  "semnal": "distractorul A e apărabil ca răspuns corect (p_sustine=0.45)",
+  "verdict": "fals",
+  "motiv": "Norme H.G. 419/2018, art. 8 alin. (1) lit. b): „4 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. b) din ordonanța de urgență”; O.U.G. 98/2017, art. 12 alin. (1) lit. b): „concluziile comisiei de evaluare privind evaluarea propunerilor tehnice și a conformității acestora”. 3 zile lucrătoare sunt doar la lit. a) și d); distractorul A (3 zile) nu e apărabil. Cheia B corectă.",
+  "corectura": ""
+ },
+ {
+  "id": "OUGB-033",
+  "semnal": "cheia A nu e susținută de text (p_sustine=0.49, alegere=sustine)",
+  "verdict": "fals",
+  "motiv": "Norme H.G. 419/2018, art. 8 alin. (1) lit. d): „3 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. d), respectiv art. 12 alin. (2)”; O.U.G. 98/2017, art. 12 alin. (1) lit. d): „concluziile comisiei de evaluare privind analiza documentelor-suport pentru îndeplinirea criteriilor de calificare/selecție [...] concluziile incluse în raportul procedurii de atribuire”. Varianta A corespunde exact. Chiar modelul a ales „susține”.",
+  "corectura": ""
+ },
+ {
+  "id": "OUGB-033",
+  "semnal": "cheia B nu e susținută de text (p_sustine=0.51, alegere=sustine)",
+  "verdict": "fals",
+  "motiv": "Norme H.G. 419/2018, art. 8 alin. (1) lit. c): „2 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. c)”; O.U.G. 98/2017, art. 12 alin. (1) lit. c): „concluziile comisiei de evaluare privind evaluarea propunerilor financiare și a conformității acestora”. Varianta B corectă.",
+  "corectura": ""
+ },
+ {
+  "id": "OUGB-033",
+  "semnal": "cheia D nu e susținută de text (p_sustine=0.36, alegere=contrazice)",
+  "verdict": "fals",
+  "motiv": "Norme H.G. 419/2018, art. 8 alin. (1) lit. e): „2 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin (1) lit. e)”; O.U.G. 98/2017, art. 12 alin. (1) lit. e): „concluziile finale cuprinse în raportul procedurii privind analiza neconformităților constatate și neremediate din avizele conform condiționate, anterior emise de ANAP”. Varianta D corectă; modelul nu a avut textul O.U.G. care leagă lit. e) de conținut.",
+  "corectura": ""
+ },
+ {
+  "id": "N395B-030",
+  "semnal": "explicație, fraza 1 contrazisă de text (p=0.69): „Termenul de 35 de zile este perioada minimă pentru depunerea ofertelor la licitația deschi”",
+  "verdict": "fals",
+  "motiv": "Legea 98/2016, art. 74 alin. (1): „Perioada cuprinsă între data transmiterii anunțului de participare spre publicare în Jurnalul Oficial al Uniunii Europene și data-limită de depunere a ofertelor este de cel puțin 35 de zile.” Fraza e exactă. (Observație nesemnalată, minoră: fraza „cele 30 de zile sunt un minim absolut” e imprecisă, fiindcă art. 98 alin. (3) permite reducerea la 25; ar fi mai corect „un minim legal, nu un termen recomandat”.)",
+  "corectura": ""
+ },
+ {
+  "id": "OUGB-034",
+  "semnal": "explicație, fraza 3 contrazisă de text (p=0.77): „Varianta cu un singur aviz conform la finalul negocierii/dialogului contrazice art. 12 ali”",
+  "verdict": "fals",
+  "motiv": "O.U.G. 98/2017, art. 12 alin. (1): personalul ANAP „emite o singură dată, pe fiecare fază a acestui proces, un aviz conform”; Norme H.G. 419, art. 8 alin. (2): la termenele de la lit. b) și c) „se adaugă 3 zile lucrătoare”. Fraza e corectă. (Observație nesemnalată, minoră: în fraza anterioară, art. 11 alin. (4) din Norme nu e o „suplimentare cu 5 zile”, ci un termen propriu de 5 zile lucrătoare pentru analiza raportului negocierii fără publicare; art. 5 alin. (4) e într-adevăr prelungire cu 5 zile.)",
+  "corectura": ""
+ },
+ {
+  "id": "N395B-034",
+  "semnal": "explicație, fraza 1 contrazisă de text (p=0.57): „Termenul de 30 de zile este termenul GENERAL de transmitere spre publicare a anunțului de ”",
+  "verdict": "fals",
+  "motiv": "Legea 98/2016, art. 145 alin. (1): „obligația de a transmite spre publicare un anunț de atribuire în termen de 30 de zile de la data: a) încheierii contractului...”; Norme H.G. 395, art. 165 alin. (2): „în termen de 30 de zile, autoritatea contractantă are obligația publicării anunțului privind modificarea contractului”; art. 105 Norme: 15 zile pentru procedura simplificată. Fraza e exactă. (Observație: afirmația despre art. 56 din O.U.G. 34/2006 nu poate fi verificată în corpusul de surse.)",
+  "corectura": ""
+ },
+ {
+  "id": "N395B-041",
+  "semnal": "cheia D nu e susținută de text (p_sustine=0.06, alegere=nu_spune)",
+  "verdict": "fals",
+  "motiv": "Norme H.G. 395, art. 114: „Categoriile de contracte pentru a căror atribuire nu poate fi utilizată licitația electronică sunt prevăzute în anexa nr. 1.”; anexa nr. 1, ultimul rând: „de la 79100000-5 [Servicii juridice] la 79140000-7 [Servicii de consultanță și de informare juridică]. Servicii juridice”. Susținut suplimentar de Legea 98, art. 132 alin. (1)-(2). Modelul nu a văzut anexa; cheia D e corectă.",
+  "corectura": ""
+ },
+ {
+  "id": "ALOP-030",
+  "semnal": "explicație, fraza 1 contrazisă de text (p=0.75): „Varianta cu înscrierea în registrul distinct, cu număr de ordine unic, privește ordinele d”",
+  "verdict": "fals",
+  "motiv": "Norme ALOP, pct. 4 „Plata cheltuielilor”: „Ordinele de plată se înscriu într-un registru distinct, vor purta un număr de ordine unic, începând cu numărul 1 în ordine crescătoare pentru fiecare ordonator de credite și pentru fiecare exercițiu bugetar.” Fraza e exactă (registrul privește ordinele de plată, nu ordonanțările). Restul explicației verificat la pct. 2 și 3 (comisia de recepție la lichidare, contul 8066, viza CFPP înainte de semnarea de către ordonator).",
+  "corectura": ""
+ },
+ {
+  "id": "L98C-052",
+  "semnal": "cheia B nu e susținută de text (p_sustine=0.01, alegere=contrazice)",
+  "verdict": "fals",
+  "motiv": "Legea 98/2016, art. 184: „În cazul în care un operator economic demonstrează îndeplinirea criteriilor referitoare la situația economică și financiară invocând susținerea unui/unor terț/terți, autoritatea contractantă solicită ca operatorul economic și terțul/terții susținător/susținători să răspundă în mod solidar pentru executarea contractului”. Cheia B e susținută; modelul a văzut doar art. 182 (sursa citată). Opțional: sursa.articol → „art. 182-184”.",
+  "corectura": ""
+ },
+ {
+  "id": "N419-N108",
+  "semnal": "explicație, fraza 2 contrazisă de text (p=0.73): „Solicitarea de informații suplimentare ține de examinarea pe fond, pentru care art. 18 ali”",
+  "verdict": "fals",
+  "motiv": "O.U.G. 98/2017, art. 18 alin. (3): „În situația în care decizia de conciliere este adoptată ca urmare a examinării pe fond [...] b) 3-5 zile lucrătoare de la data primirii ultimelor informații suplimentare de la autoritatea contractantă, dacă ANAP are nevoie de informații suplimentare”; alin. (2): fără examinare pe fond, decizia se emite în 2 zile lucrătoare; Norme H.G. 419, art. 17 alin. (1) lit. b): cererea incompletă „este respinsă ca inadmisibilă, fără examinare pe fond”. Fraza e corectă (termenul de 3-5 zile e termenul de emitere a deciziei, calculat de la primirea ultimelor informații — formulare acceptabilă).",
+  "corectura": ""
+ },
+ {
+  "id": "N395C-002",
+  "semnal": "explicație, fraza 1 contrazisă de text (p=0.68): „Art. 164 alin. (1) din Lege privește excluderea pentru condamnări definitive (corupție, fr”",
+  "verdict": "fals",
+  "motiv": "Legea 98/2016, art. 164 alin. (1): operatorul economic care „a fost condamnat prin hotărâre definitivă a unei instanțe judecătorești, pentru comiterea uneia dintre următoarele infracțiuni”: lit. b) corupție, lit. e) spălarea banilor, lit. g) fraudă etc. Fraza e exactă. Verificat și: Norme art. 144 alin. (1) (asimilare cu art. 167 alin. (1) lit. g)) și art. 166 alin. (2) din Norme (document constatator în 14 zile).",
+  "corectura": ""
+ },
+ {
+  "id": "N395C-006",
+  "semnal": "explicație, fraza 1 contrazisă de text (p=0.58): „Pragul de 30% nu figurează printre condițiile art. 160 din Norme",
+  "verdict": "fals",
+  "motiv": "Norme H.G. 395, art. 160 lit. a)-d): condițiile cumulative sunt lipsa impactului asupra calificării/criteriului de atribuire, nemodificarea prețului, caracterul strict necesar, păstrarea caracterului general al obiectului — niciun prag procentual. Legea 98/2016, art. 55 alin. (1) lit. a): ofertantul precizează „procentul sau valoarea aferentă activităților indicate în ofertă ca fiind realizate de către subcontractanți” — fără plafon; „30%” nu apare în Lege/Norme în legătură cu subcontractarea. Art. 156, 159 din Norme și art. 186 din Lege citate corect.",
+  "corectura": ""
+ },
+ {
+  "id": "L98A-035",
+  "semnal": "SUPLIMENTAR (nesemnalat de poartă): referință de literă greșită în explicație — „Valoarea reziduală (distractorul d))”",
+  "verdict": "real",
+  "motiv": "În ordinea afișată, varianta „valoarea lunară a contractului plus valoarea reziduală estimată a produselor” este B (index 1), nu d). Legea 98/2016, art. 21 lit. b): valoarea reziduală se adaugă la contractele „pe durată determinată mai mare de 12 luni”. Conținutul e corect, doar litera e greșită (probabil ordinea variantelor a fost amestecată după redactare). Nu atinge cheia.",
+  "corectura": "Valoarea reziduală (varianta care o adaugă la valoarea lunară) se adaugă în alt caz: contractele pe durată determinată MAI MARE de 12 luni (art. 21 lit. b))."
+ },
+ {
+  "id": "N395C-002",
+  "semnal": "SUPLIMENTAR (nesemnalat de poartă): afirmație fără temei în corpus — „autoritatea contractantă poate continua cu ofertantul clasat pe locul următor”",
+  "verdict": "real",
+  "motiv": "În corpus, trecerea la oferta clasată pe locul următor e prevăzută doar pentru forță majoră/imposibilitate fortuită (Legea 98, art. 207 alin. (2)) și pentru nedemonstrarea criteriilor de calificare (Norme H.G. 395, art. 66 alin. (2), „atribuie contractul [...] ofertantului clasat pe locul următor”), nu pentru refuzul nemotivat de semnare. Consecința expresă a refuzului este reținerea garanției de participare (Norme, art. 37 alin. (1) lit. c)). Defect minor, în fraza care combate distractorul B; nu atinge cheia.",
+  "corectura": "Anularea nu operează de drept: cazurile de anulare sunt cele limitativ prevăzute la art. 212 și 213 din Lege, niciunul automat pentru refuzul de semnare; consecința expresă a refuzului este reținerea garanției de participare (art. 37 alin. (1) lit. c) din Norme)."
+ }
+]

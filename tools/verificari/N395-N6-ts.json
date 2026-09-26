@@ -1,0 +1,141 @@
+[
+ {
+  "id": "N395-N601",
+  "cheie": [
+   "A"
+  ],
+  "temei": [
+   "03_Norme_HG_395-2016_achizitii_publice.txt",
+   "35"
+  ],
+  "nota_abrogare": true,
+  "tip": "unic",
+  "variante": {
+   "A": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "B": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.98,
+     "nu_spune": 0.01,
+     "sustine": 0.01
+    },
+    "confidence": 0.97
+   },
+   "C": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "nu_spune": 0.0,
+     "sustine": 0.0
+    },
+    "confidence": 1.0
+   },
+   "D": {
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 1.0,
+     "nu_spune": 0.0,
+     "sustine": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "nouls": {
+   "sinonim": 0.07,
+   "absolut": 0.31,
+   "abrogat": 0.31,
+   "numeste_actul": 0.75,
+   "categorie_ambigua": 0.2,
+   "citat_acopera": 0.97
+  },
+  "afirmatii": {
+   "0": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "2": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "3": {
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "4": {
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "sustine": 0.35,
+     "contrazice": 0.28,
+     "nu_spune": 0.37
+    },
+    "confidence": 0.06
+   }
+  },
+  "fraze": [
+   "Art. 35 alin. (1) din Normele metodologice definește garanția de participare ca instrument aferent modului de prezentare a ofertei, al cărui scop este protejarea autorității contractante față de riscul unui comportament necorespunzător al ofertantului pe toată perioada implicării sale în procedura de atribuire.",
+   "Varianta despre îndeplinirea cantitativă, calitativă și în perioada convenită a contractului descrie garanția de bună execuție, potrivit art. 39 alin. (1) din Norme, nu garanția de participare.",
+   "Varianta care limitează protecția la intervalul dintre data-limită de depunere și deschiderea ofertelor contrazice sintagma „pe toată perioada implicării sale în procedura de atribuire” din art. 35 alin. (1); de altfel, art. 37 alin. (1) lit. b) și c) din Norme prevede reținerea garanției și după stabilirea ofertei câștigătoare.",
+   "Varianta cu instrumentul constituit după semnarea contractului descrie tot garanția de bună execuție, pe care contractantul o constituie în legătură cu executarea contractului (art. 39 alin. (1) din Norme).",
+   "Plafonul valoric în vigoare al garanției de participare este cel din art. 154 alin. (2) din Legea nr. 98/2016 (1% din valoarea estimată a contractului); în Norme, art. 35 alin. (3), sub care textul consolidat mai afișează literele a) și b), este abrogat."
+  ],
+  "pozitionale": [],
+  "care_varianta": {
+   "alegere": "A",
+   "probabilitati": {
+    "A": 1.0,
+    "C": 0.0,
+    "B": 0.0,
+    "niciuna": 0.0,
+    "D": 0.0
+   },
+   "confidence": 1.0
+  },
+  "trimiteri": [
+   "art. 35 alin. (1)",
+   "art. 35 alin. (3)",
+   "art. 37 alin. (1) lit. b)",
+   "art. 37 alin. (1) lit. c)",
+   "art. 39 alin. (1)"
+  ],
+  "nivel": {
+   "score": 1.49,
+   "confidence": 0.58
+  },
+  "usage": {
+   "a": 3529,
+   "b": 6405
+  }
+ }
+]
