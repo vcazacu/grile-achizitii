@@ -1,6 +1,6 @@
 /* Service worker — face aplicația disponibilă offline după prima deschidere.
    La fiecare modificare a întrebărilor, schimbă VERSIUNE ca să se reîmprospăteze cache-ul. */
-const VERSIUNE = "grile-achizitii-v4";
+const VERSIUNE = "grile-achizitii-v5";
 const FISIERE = [
   "./",
   "./index.html",
@@ -14,6 +14,17 @@ const FISIERE = [
   /* TEMATICA-START */
   /* TEMATICA-END */
   /* LEGISLATIE-START */
+  "./legislatie/index.html",
+  "./legislatie/01-legea-98-2016-achizitii-publice.html",
+  "./legislatie/02-hg-395-2016-act-de-aprobare.html",
+  "./legislatie/03-norme-hg-395-2016-achizitii-publice.html",
+  "./legislatie/04-oug-98-2017-control-ex-ante.html",
+  "./legislatie/05-hg-419-2018-act-de-aprobare.html",
+  "./legislatie/06-norme-hg-419-2018-control-ex-ante.html",
+  "./legislatie/07-legea-101-2016-remedii-si-cai-de-atac.html",
+  "./legislatie/08-ordinul-1792-2002-act-de-aprobare.html",
+  "./legislatie/09-norme-alop-1792-2002.html",
+  "./legislatie/10-legea-500-2002-finantele-publice.html",
   /* LEGISLATIE-END */
 ];
 

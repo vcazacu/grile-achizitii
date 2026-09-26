@@ -2,7 +2,7 @@
 """Construiește paginile de citit ale legislației (quiz-app/legislatie/*.html) din
 fișierele-sursă ../../legislatie/*.txt, în același stil ca tematica.
 
-Utilizare: python3 legislatie_build.py        (construiește toate cele 9 acte + index)
+Utilizare: python3 legislatie_build.py        (construiește toate actele din ACTE + index)
 
 Fișierele .txt NU se modifică: sunt sursa de adevăr pentru toate uneltele. Parsarea e
 deterministă, pe marcajele deja existente în text:
@@ -17,6 +17,7 @@ comutator descoperă toată legea. Scrie și lista fișierelor în sw.js între 
 """
 import html, os, re, sys
 from bibliografie import BIB, RESTRICTII, tematica as bib_tematica
+import bibliografie as b
 from trimiteri import marcheaza
 import unitati
 
@@ -25,23 +26,60 @@ OUT = os.path.join(DIR, "..", "legislatie")
 LEG = os.path.join(DIR, "..", "..", "legislatie")
 
 # (fișier-sursă, slug, denumire scurtă, anexe redate — None = toate)
-ACTE = []
+ACTE = [
+ (b.K98, "01-legea-98-2016-achizitii-publice", "Legea nr. 98/2016 privind achizițiile publice",
+  ["Anexa nr. 1", "Anexa nr. 2"]),                  # ambele anexe sunt referite din articole din tematică (art. 3, 7, 12, 35, 111, 144)
+ (b.K395C, "02-hg-395-2016-act-de-aprobare", "H.G. nr. 395/2016 (actul de aprobare a Normelor metodologice)", []),
+ (b.K395, "03-norme-hg-395-2016-achizitii-publice",
+  "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)", None),
+ (b.KOUG, "04-oug-98-2017-control-ex-ante", "O.U.G. nr. 98/2017 privind funcția de control ex ante", None),
+ (b.K419C, "05-hg-419-2018-act-de-aprobare", "H.G. nr. 419/2018 (actul de aprobare a Normelor controlului ex ante)", []),
+ (b.K419, "06-norme-hg-419-2018-control-ex-ante",
+  "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)", None),
+ (b.K101, "07-legea-101-2016-remedii-si-cai-de-atac", "Legea nr. 101/2016 privind remediile și căile de atac", None),
+ (b.KORD, "08-ordinul-1792-2002-act-de-aprobare", "Ordinul M.F.P. nr. 1.792/2002 (actul de aprobare a Normelor ALOP)", []),
+ (b.KALOP, "09-norme-alop-1792-2002", "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)", None),
+ (b.K500, "10-legea-500-2002-finantele-publice", "Legea nr. 500/2002 privind finanțele publice", None),
+]
 
 # Etapa 2: trimiteri către alt act din cele 9. Cum numește textul actul (regex la începutul
 # frazei de după „din/al/potrivit”) → (fișier-țintă, anexă). Se încearcă în ordine.
-SCURT = {}
-ALIASURI = []
+SCURT = {b.K98: "Legea 98/2016", b.K395C: "HG 395/2016", b.K395: "Normele HG 395/2016", b.KOUG: "OUG 98/2017",
+         b.K419C: "HG 419/2018", b.K419: "Normele HG 419/2018", b.K101: "Legea 101/2016", b.KORD: "Ordinul 1792/2002",
+         b.KALOP: "Normele ALOP", b.K500: "Legea 500/2002"}
+ALIASURI = [
+ (r"Legea nr\.\s*98/2016\b", b.K98, ""),
+ (r"Legea nr\.\s*101/2016\b", b.K101, ""),
+ (r"Legea nr\.\s*500/2002\b", b.K500, ""),
+ (r"Ordonanța de urgență a Guvernului nr\.\s*98/2017\b|O\.\s*U\.\s*G\.\s*nr\.\s*98/2017\b", b.KOUG, ""),
+ (r"Hotărârea Guvernului nr\.\s*395/2016\b|H\.\s*G\.\s*nr\.\s*395/2016\b", b.K395C, ""),
+ (r"Hotărârea Guvernului nr\.\s*419/2018\b|H\.\s*G\.\s*nr\.\s*419/2018\b", b.K419C, ""),
+]
 # denumiri prescurtate valabile doar într-un anumit act (Normele spun „ordonanța de urgență” pentru OUG 111/2010)
-ALIASURI_LOCALE = {}
+# „din Lege” (cu L mare) = Legea 98/2016 în Normele H.G. 395 și în actul de aprobare; „ordonanța de urgență” = O.U.G. 98/2017
+# în Normele H.G. 419. „Lege\b” se potrivește cu diferențiere de majuscule, ca „lege” (orice lege) să nu fie legată.
+ALIASURI_LOCALE = {
+ b.K395: [(r"Lege\b", b.K98, "")],
+ b.K395C: [(r"Lege\b", b.K98, "")],
+ b.K419: [(r"ordonan[țt](?:a|ei) de urgen[țt]ă\b(?!\s+a Guvernului nr\.)", b.KOUG, "")],
+}
+_SENSIBILE = {r"Lege\b"}
+
+def act_numit(fraza, fisier_curent):
+    """(fișierul-țintă, anexa) al actului numit la începutul frazei de după o trimitere, sau None."""
+    for rx, f, anexa in ALIASURI_LOCALE.get(fisier_curent, []) + ALIASURI:
+        if re.match(rx, fraza, 0 if rx in _SENSIBILE else re.I):
+            return (f, anexa)
+    return None
 INDEX = {}      # (fișier, anexă) → indexeaza(...), umplut de main() înainte de redare
 
 def fabrica_extern(fisier_curent):
     """rez_extern(fraza) pentru trimiteri.marcheaza: actul numit după trimitere → (rezolvator, pagina)."""
-    aliasuri = ALIASURI_LOCALE.get(fisier_curent, []) + ALIASURI
     slug_de = {f: s for f, s, _, _ in ACTE}
     def rez_extern(fraza):
-        for rx, f, anexa in aliasuri:
-            if not re.match(rx, fraza, re.I): continue
+        t = act_numit(fraza, fisier_curent)
+        if t:
+            f, anexa = t
             idx = INDEX.get((f, anexa))
             if not idx: return None
             baza, prefix = rezolvator(idx), SCURT[f] + (" " + anexa if anexa else "") + ", "
@@ -87,6 +125,7 @@ def parseaza(cale, anexe_redate=None):
         if l.startswith("§ANEXA§"):
             nume = l[len("§ANEXA§"):].strip()
             anexa_activa = anexe_redate is None or nume in anexe_redate
+            if not anexa_activa: doc.setdefault("anexe_omise", []).append(nume)
             art, in_preambul = None, False
             zona_puncte = unitati.ZONE_SPECIALE.get(fisier + "#" + nume)
             if anexa_activa:
@@ -452,24 +491,25 @@ def pagina(fisier, slug, denumire, anexe_redate, bib, doc=None):
     corp.append('<div class="leg-bar"><label><input type="checkbox" id="leg-tot"> Arată toată legea</label>'
                 '<form id="leg-sari"><span>Art.</span><input type="text" inputmode="numeric" placeholder="nr." aria-label="numărul articolului"><button type="submit">Sari</button></form></div>')
     if doc["titlu"] or doc["meta"]:
-        corp.append('<div class="card leg-preambul">%s%s</div>'
-                    % ("".join("<p>%s</p>" % html.escape(t) for t in doc["titlu"]),
+        corp.append('<div class="card leg-preambul" id="%s">%s%s</div>'
+                    % (unitati.ancora(unitati.PREAMBUL), "".join("<p>%s</p>" % html.escape(t) for t in doc["titlu"]),
                        "".join('<p><strong>%s:</strong> %s</p>' % (html.escape(k), html.escape(v)) for k, v in doc["meta"].items())))
     corp.append(cuprins_html(cuprins))
     corp.append(corp_html)
     corp.extend(anexe_html)
-    if anexe_redate is not None:
-        corp.append('<p class="leg-omis">Celelalte anexe ale actului (grile de salarizare) nu sunt în bibliografie și nu sunt redate aici.</p>')
+    if anexe_redate is not None and doc.get("anexe_omise"):
+        corp.append('<p class="leg-omis">Anexele actului care nu sunt în bibliografie (%s) nu sunt redate aici.</p>'
+                    % html.escape(", ".join(doc["anexe_omise"])))
     corp.append('<div class="actions"><a class="btn btn-outline" href="index.html">Toate actele</a><a class="btn btn-primary" href="../index.html">Înapoi la teste</a></div>')
     return sablon(denumire, "".join(corp), "Legislația din bibliografie — text integral, consolidat"), doc, n_art, n_bib, stat
 
 def index_html(rows):
     li = "".join('<li><span class="nr">%d.</span><a href="%s.html">%s<small>%s</small></a></li>'
                  % (i + 1, slug, html.escape(den), html.escape(sub)) for i, (slug, den, sub) in enumerate(rows))
-    corp = ('<div class="hero"><h2>Legislația din bibliografie</h2><p>Cele nouă acte normative, în text integral consolidat. '
-            'Implicit se văd doar articolele cerute în bibliografie (marcate <span class="badge bib">bibliografie</span>); '
-            'comutatorul „Arată toată legea” descoperă și restul.</p></div>'
-            '<div class="card"><ul class="tem-list">%s</ul></div>' % li)
+    corp = ('<div class="hero"><h2>Legislația din bibliografie</h2><p>Cele %d fișiere ale bibliografiei (legi, acte de aprobare '
+            'și normele lor), în text integral consolidat. Implicit se văd doar articolele cerute în bibliografie (marcate '
+            '<span class="badge bib">bibliografie</span>); comutatorul „Arată toată legea” descoperă și restul.</p></div>'
+            '<div class="card"><ul class="tem-list">%s</ul></div>' % (len(ACTE), li))
     return sablon("Legislația din bibliografie", corp, "Legislația din bibliografie — text integral, consolidat")
 
 def main():
@@ -491,8 +531,9 @@ def main():
                     erori += 1; print("  EROARE %s: art. %s%s cerut în bibliografie, fără ancoră în pagină" % (fisier, a, " " + anexa if anexa else ""))
             if not anexa:
                 n_corp = sum(1 for b in doc["corp"] if b["tip"] == "art")
-                if n_corp != len(arts):
-                    erori += 1; print("  EROARE %s: %d articole redate, %d în articole_din_text()" % (fisier, n_corp, len(arts)))
+                n_text = len([a for a in arts if a != unitati.PREAMBUL])     # preambulul e card separat, nu articol
+                if n_corp != n_text:
+                    erori += 1; print("  EROARE %s: %d articole redate, %d în articole_din_text()" % (fisier, n_corp, n_text))
         nume = slug + ".html"
         open(os.path.join(OUT, nume), "w", encoding="utf-8").write(pag)
         fisiere.append("./legislatie/" + nume)

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="ro"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark"><meta name="theme-color" content="#09090b">
+<link rel="icon" href="../icon-192.png"><link rel="stylesheet" href="../style.css"><style>
+.tem-nav { display:flex; gap:0.75rem; flex-wrap:wrap; font-size:0.85rem; margin:0.25rem 0 0.75rem; }
+.tem-nav a { color: var(--info); text-decoration:none; } .tem-nav a:hover { text-decoration:underline; }
+.tem-list { list-style:none; padding:0; margin:0; display:grid; gap:0.5rem; }
+.tem-list li { border:1px solid var(--border); border-radius:0.6rem; padding:0.7rem 0.9rem; display:flex; gap:0.6rem; align-items:baseline; }
+.tem-list .nr { font-weight:700; color: var(--muted-foreground); min-width:1.6rem; }
+.tem-list a { color: var(--foreground); text-decoration:none; font-weight:600; } .tem-list a:hover { text-decoration:underline; }
+.tem-list small { display:block; font-weight:400; color: var(--muted-foreground); font-size:0.8rem; margin-top:0.15rem; }
+.leg-meta { color: var(--muted-foreground); font-size:0.85rem; margin:0.3rem 0 0; }
+.leg-preambul p { color: var(--muted-foreground); font-size:0.9rem; margin:0.2rem 0; }
+.leg-bar { position:sticky; top:0; z-index:5; background: var(--background); border-bottom:1px solid var(--border);
+  padding:0.5rem 0; margin:0 0 0.5rem; display:flex; gap:0.9rem; align-items:center; flex-wrap:wrap; font-size:0.9rem; }
+.leg-bar label { display:flex; gap:0.4rem; align-items:center; cursor:pointer; }
+.leg-bar form { display:flex; gap:0.3rem; align-items:center; margin-left:auto; }
+.leg-bar input[type=text] { width:4.5rem; padding:0.25rem 0.4rem; border:1px solid var(--border); border-radius:0.4rem; background: var(--card); color: var(--foreground); }
+.leg-bar button { padding:0.25rem 0.6rem; border:1px solid var(--border); border-radius:0.4rem; background: var(--card); color: var(--foreground); cursor:pointer; }
+.leg-cuprins ul { list-style:none; padding:0; margin:0; } .leg-cuprins li { margin:0.2rem 0; line-height:1.4; font-size:0.9rem; }
+.leg-cuprins li.n1 { font-weight:700; margin-top:0.5rem; } .leg-cuprins li.n3, .leg-cuprins li.n4 { padding-left:1.2rem; font-size:0.85rem; }
+.leg-cuprins a { color: var(--foreground); text-decoration:none; } .leg-cuprins a:hover { text-decoration:underline; }
+.leg-cuprins .cnt { color: var(--muted-foreground); font-size:0.8rem; margin-left:0.3rem; }
+.leg-sect h3 { margin:1.4rem 0 0.4rem; font-size:1.05rem; letter-spacing:-0.01em; }
+.leg-sect h3 small { display:block; font-weight:500; color: var(--muted-foreground); font-size:0.82rem; }
+.leg-sect.n1 h3 { font-size:1.15rem; border-bottom:2px solid var(--border); padding-bottom:0.3rem; }
+.leg-sect.n3 h3, .leg-sect.n4 h3 { font-size:0.95rem; margin-top:1rem; }
+.leg-art { padding:0.7rem 0; border-top:1px solid var(--border); scroll-margin-top:3.2rem; }
+.leg-art h4 { margin:0 0 0.3rem; font-size:1rem; display:flex; gap:0.5rem; align-items:center; flex-wrap:wrap; }
+.leg-art h4 .restr { font-weight:500; color: var(--muted-foreground); font-size:0.8rem; }
+.leg-titlu { font-weight:600; color: var(--muted-foreground); font-size:0.9rem; margin:0 0 0.35rem; }
+.leg-art p { margin:0.3rem 0; line-height:1.55; }
+.leg-art p.alin .nr { font-weight:700; color: var(--muted-foreground); margin-right:0.35rem; }
+.leg-art p.lit { padding-left:1.5rem; } .leg-art p.lit .nr { font-weight:600; margin-right:0.3rem; }
+.leg-art p.liniuta { padding-left:2.6rem; } .leg-art p.liniuta::before { content:"– "; color: var(--muted-foreground); }
+.leg-art .grup { padding-left:0.7rem; font-weight:600; margin:0.4rem 0 0.1rem; }
+.leg-art.abrogat p, .leg-art.abrogat .leg-titlu { color: var(--muted-foreground); }
+.leg-tabel { font-family: ui-monospace, Menlo, Consolas, monospace; font-size:0.78rem; background: var(--muted); border-radius:0.5rem;
+  padding:0.5rem 0.7rem; margin:0.4rem 0; line-height:1.5; white-space:pre-wrap; overflow-wrap:anywhere; }
+.leg-tabel .t { font-weight:700; display:block; margin-bottom:0.2rem; }
+.leg-note { margin-top:0.4rem; } .leg-note summary { font-size:0.8rem; color: var(--muted-foreground); cursor:pointer; list-style:none; }
+.leg-note summary::before { content:"▸ "; } .leg-note[open] summary::before { content:"▾ "; }
+.leg-note p { font-size:0.82rem; color: var(--muted-foreground); line-height:1.45; margin:0.25rem 0 0.25rem 0.9rem; }
+.leg-nota-libera { font-size:0.82rem; color: var(--muted-foreground); margin:0.3rem 0; }
+.leg-anexa > h3 { margin:1.6rem 0 0.4rem; font-size:1.15rem; border-bottom:2px solid var(--border); padding-bottom:0.3rem; }
+.badge.bib { background: var(--success-bg); color: var(--success); border-color: var(--success-border); }
+.badge.abrogat { background: var(--muted); color: var(--muted-foreground); border-color: var(--border); }
+.doar-bib .leg-art:not(.bib), .doar-bib .leg-sect:not(.are-bib), .doar-bib .leg-anexa:not(.are-bib),
+.doar-bib .leg-cuprins li:not(.are-bib), .doar-bib .leg-text, .doar-bib .leg-nota-libera { display:none; }
+.leg-omis { color: var(--muted-foreground); font-size:0.85rem; font-style:italic; margin:1rem 0; }
+main { overflow-wrap: anywhere; }   /* nimic din text nu are voie să lățească pagina peste ecran */
+a.trm { color: var(--info); text-decoration:none; border-bottom:1px dotted var(--info-border); cursor:pointer; }
+a.trm:hover, a.trm.deschis { background: var(--info-bg); }
+.trm-box { border-left:3px solid var(--info-border); background: var(--info-bg); border-radius:0 0.5rem 0.5rem 0;
+  padding:0.45rem 0.7rem 0.5rem; margin:0.35rem 0 0.55rem; font-size:0.9rem; }
+.trm-box .trm-h { display:flex; gap:0.6rem; align-items:center; font-size:0.8rem; color: var(--muted-foreground); margin:0.35rem 0 0.15rem; }
+.trm-box .trm-h:first-child { margin-top:0; }
+.trm-box .trm-h b { color: var(--info); font-weight:700; }
+.trm-box .trm-h a { color: var(--info); margin-left:auto; text-decoration:none; white-space:nowrap; }
+.trm-box .trm-h button { background:none; border:0; color: var(--muted-foreground); font-size:1.1rem; line-height:1; cursor:pointer; padding:0 0.2rem; }
+.trm-box p { margin:0.2rem 0; } .trm-box p.lit { padding-left:1.2rem; } .trm-box .grup { padding-left:0.4rem; }
+.trm-box .trm-box { background: var(--card); }
+.leg-art p[id], .leg-art .grup[id] { scroll-margin-top:3.2rem; }
+</style>
+<title>H.G. nr. 395/2016 (actul de aprobare a Normelor metodologice) — Grile Achiziții Publice</title></head>
+<body><div class="container"><header><h1>⚖️ Grile — Achiziții Publice</h1><div class="subtitle">Legislația din bibliografie — text integral, consolidat</div>
+<nav class="tem-nav"><a href="../index.html">← Teste</a><a href="../tematica/index.html">Tematica</a><a href="index.html">Legislația</a></nav></header>
+<main><div class="hero"><h2>H.G. nr. 395/2016 (actul de aprobare a Normelor metodologice)</h2><p class="leg-meta">consolidarea din 25.02.2026 · 2 articole, 2 cerute în bibliografie</p><p class="leg-meta">Sursă: <a href="https://legislatie.just.ro/Public/DetaliiDocument/179009" style="color:var(--info)">legislatie.just.ro/Public/DetaliiDocument/179009</a></p></div><div class="leg-bar"><label><input type="checkbox" id="leg-tot"> Arată toată legea</label><form id="leg-sari"><span>Art.</span><input type="text" inputmode="numeric" placeholder="nr." aria-label="numărul articolului"><button type="submit">Sari</button></form></div><div class="card leg-preambul" id="preambul"><p>HOTĂRÂRE nr. 395 din 2 iunie 2016</p><p>pentru aprobarea Normelor metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice</p><p>În temeiul art. 108 din Constituția României, republicată, și al art. 233 din Legea nr. 98/2016 privind achizițiile publice,</p><p>Guvernul României adoptă prezenta hotărâre.</p><p><strong>EMITENT:</strong> GUVERNUL</p><p><strong>Publicat în:</strong> MONITORUL OFICIAL nr. 423 din 6 iunie 2016</p></div><details class="accordion leg-cuprins" open><summary><span>Cuprins</span></summary><div class="accordion-body"><ul></ul></div></details><article class="leg-art bib" id="art-1"><h4>Art. 1<span class="badge bib">bibliografie</span></h4><p class="text">Se aprobă Normele metodologice de aplicare a prevederilor referitoare la atribuirea contractului de achiziție publică/acordului-cadru din Legea nr. 98/2016 privind achizițiile publice, publicată în Monitorul Oficial al României, Partea I, nr. 390 din 23 mai 2016, prevăzute în anexa care face parte integrantă din prezenta hotărâre.</p></article><article class="leg-art bib" id="art-2"><h4>Art. 2<span class="badge bib">bibliografie</span></h4><p class="text">La data intrării în vigoare a prezentei hotărâri se abrogă:</p><p class="lit" id="art-2-lit-a"><span class="nr">a)</span>Hotărârea Guvernului nr. 925/2006 pentru aprobarea normelor de aplicare a prevederilor referitoare la atribuirea contractelor de achiziție publică din Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii, publicată în Monitorul Oficial al României, Partea I, nr. 625 din 20 iulie 2006, cu modificările și completările ulterioare;</p><p class="lit" id="art-2-lit-b"><span class="nr">b)</span>Hotărârea Guvernului nr. 1.660/2006 pentru aprobarea Normelor de aplicare a prevederilor referitoare la atribuirea contractelor de achiziție publică prin mijloace electronice din Ordonanța de urgență a Guvernului nr. 34/2006 privind atribuirea contractelor de achiziție publică, a contractelor de concesiune de lucrări publice și a contractelor de concesiune de servicii, publicată în Monitorul Oficial al României, Partea I, nr. 978 din 7 decembrie 2006, cu modificările și completările ulterioare.</p><p class="text">PRIM-MINISTRU</p><p class="text">DACIAN JULIEN CIOLOȘ</p><p class="text">Contrasemnează:</p><p class="text">Ministrul finanțelor publice,</p><p class="text">Anca Dana Dragu</p><p class="text">Președintele Agenției Naționale pentru Achiziții Publice,</p><p class="text">Bogdan Pușcaș</p><p class="text">Viceprim-ministru, ministrul dezvoltării</p><p class="text">regionale și administrației publice,</p><p class="text">Vasile Dîncu</p><p class="text">Viceprim-ministru, ministrul economiei,</p><p class="text">comerțului și relațiilor cu mediul de afaceri,</p><p class="text">Costin Grigore Borc</p><p class="text">Ministrul afacerilor externe,</p><p class="text">Lazăr Comănescu</p><p class="text">Ministrul fondurilor europene,</p><p class="text">Cristian Ghinea</p><p class="text">Ministrul comunicațiilor și pentru</p><p class="text">societatea informațională,</p><p class="text">Marius-Raul Bostan</p><p class="text">Ministrul transporturilor,</p><p class="text">Dan Marian Costescu</p><p class="text">Ministrul apărării naționale,</p><p class="text">Mihnea Ioan Motoc</p><p class="text">Ministrul muncii, familiei, protecției</p><p class="text">sociale și persoanelor vârstnice,</p><p class="text">Dragoș-Nicolae Pîslaru</p><p class="text">București, 2 iunie 2016.</p><p class="text">Nr. 395.</p></article><p class="leg-omis">Anexele actului care nu sunt în bibliografie (Anexă) nu sunt redate aici.</p><div class="actions"><a class="btn btn-outline" href="index.html">Toate actele</a><a class="btn btn-primary" href="../index.html">Înapoi la teste</a></div></main>
+<footer>Textele sunt formele consolidate la zi de pe legislatie.just.ro, redate fără modificări; notele portalului sunt strânse sub fiecare articol.</footer>
+<script>
+(function(){
+  var K='leg-toata', cb=document.getElementById('leg-tot'); if(!cb) return;
+  function aplica(){ document.body.classList.toggle('doar-bib', !cb.checked);
+    try{ localStorage.setItem(K, cb.checked?'1':'0'); }catch(e){} }
+  try{ cb.checked = localStorage.getItem(K)==='1'; }catch(e){}
+  cb.addEventListener('change', aplica); aplica();
+  function tinta(){ var h=location.hash; if(!h) return; var el=document.getElementById(h.slice(1)); if(!el) return;
+    var a=el.closest('.leg-art'); if(!cb.checked && ((a && !a.classList.contains('bib')) || el.closest('.leg-sect:not(.are-bib), .leg-anexa:not(.are-bib)'))){ cb.checked=true; aplica(); }
+    el.scrollIntoView(); }
+  window.addEventListener('hashchange', tinta); tinta();
+  var f=document.getElementById('leg-sari'); if(f) f.addEventListener('submit', function(e){ e.preventDefault();
+    var v=f.querySelector('input').value.trim().replace(/\s+/g,'').replace('^','-'); if(!v) return;
+    var id='art-'+v; if(!document.getElementById(id)){ f.querySelector('input').setCustomValidity('Nu există art. '+v); f.reportValidity();
+      setTimeout(function(){ f.querySelector('input').setCustomValidity(''); },1500); return; }
+    location.hash='#'+id; });
+
+  /* Trimiteri: la apăsare, sub paragraf se deschide un chenar cu textul țintei, copiat din pagină. */
+  function urmatoarele(el, oprire, accepta){ var out=[el], s=el.nextElementSibling;
+    while(s && !oprire(s)){ if(accepta(s)) out.push(s); s=s.nextElementSibling; } return out; }
+  function extrage(el){
+    if(el.classList.contains('leg-art')) return Array.prototype.filter.call(el.children, function(c){ return c.tagName!=='H4' && !c.classList.contains('leg-note'); });
+    if(el.classList.contains('alin')) return urmatoarele(el, function(s){ return s.classList.contains('alin') || s.tagName==='DETAILS'; }, function(s){ return s.tagName==='P' || s.classList.contains('grup'); });
+    if(el.classList.contains('grup')) return urmatoarele(el, function(s){ return s.classList.contains('alin') || s.classList.contains('grup') || s.tagName==='DETAILS'; }, function(s){ return s.tagName==='P'; });
+    return urmatoarele(el, function(s){ return !s.classList.contains('liniuta') && !s.classList.contains('trm-box'); }, function(s){ return s.classList.contains('liniuta'); });
+  }
+  function curata(n, pag){ var c=n.cloneNode(true); if(c.removeAttribute) c.removeAttribute('id');
+    c.querySelectorAll('[id]').forEach(function(x){ x.removeAttribute('id'); });
+    c.querySelectorAll('.trm-box').forEach(function(x){ x.remove(); });
+    if(pag) c.querySelectorAll('a.trm').forEach(function(x){   /* textul vine din altă pagină: trimiterile lui interne rămân ale acelei pagini */
+      x.dataset.t=x.dataset.t.split(' ').map(function(t){ return t.indexOf('#')<0 ? pag+'#'+t : t; }).join(' ');
+      if(x.getAttribute('href').charAt(0)==='#') x.setAttribute('href', pag+x.getAttribute('href')); });
+    return c; }
+  /* Ținta poate fi în altă pagină („07-….html#art-8”): pagina se ia cu fetch (e în cache-ul offline) și se parsează o singură dată. */
+  var docs={};
+  function iaDoc(pag, cb){ if(!pag) return cb(document); if(docs[pag]) return cb(docs[pag]);
+    fetch(pag).then(function(r){ return r.text(); }).then(function(t){ docs[pag]=new DOMParser().parseFromString(t,'text/html'); cb(docs[pag]); })
+      .catch(function(){ cb(null); }); }
+  document.addEventListener('click', function(ev){
+    var a=ev.target.closest('a.trm'); if(!a) return; ev.preventDefault();
+    var bloc=a.closest('p, .grup, .leg-titlu'); if(!bloc) return;
+    var existent=bloc.nextElementSibling;
+    if(existent && existent.classList.contains('trm-box') && existent.dataset.de===a.dataset.t){ existent.remove(); a.classList.remove('deschis'); return; }
+    var box=document.createElement('div'); box.className='trm-box'; box.dataset.de=a.dataset.t;
+    var ids=a.dataset.t.split(' '), et=a.dataset.e.split('|');
+    ids.forEach(function(ref, i){ var p=ref.split('#'), pag=p.length>1?p[0]:'', id=p[p.length-1];
+      var cont=document.createElement('div'); box.appendChild(cont);
+      var h=document.createElement('div'); h.className='trm-h';
+      h.innerHTML='<b></b><a href="'+pag+'#'+id+'">mergi la text ↗</a>'+(i===0?'<button type="button" aria-label="Închide">×</button>':'');
+      h.querySelector('b').textContent=et[i]||id; cont.appendChild(h);
+      iaDoc(pag, function(doc){ var el=doc && doc.getElementById(id);
+        if(!el){ var e=document.createElement('p'); e.textContent=doc?'Textul nu a fost găsit.':'Pagina actului nu a putut fi încărcată.'; cont.appendChild(e); return; }
+        extrage(el).forEach(function(n){ cont.appendChild(curata(n, pag)); }); }); });
+    box.addEventListener('click', function(e){ if(e.target.tagName==='BUTTON'){ box.remove(); a.classList.remove('deschis'); } });
+    bloc.insertAdjacentElement('afterend', box); a.classList.add('deschis');
+  });
+})();
+</script></div></body></html>

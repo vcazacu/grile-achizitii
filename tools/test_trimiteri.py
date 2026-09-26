@@ -78,5 +78,18 @@ else: print("EȘEC interval:", t)
 h = marcheaza("art. 21 din Legea nr. 80/1995", ("50", "1", None), rez, None, rez_extern)
 if 'data-t="01.html#art-21"' in h and 'data-e="L80, et"' in h: ok += 1
 else: print("EȘEC alt act:", h)
-print("%d/%d teste trec" % (ok, len(CAZURI) + 2))
-sys.exit(0 if ok == len(CAZURI) + 2 else 1)
+# „din Lege” (forma definită din Normele H.G. 395 = Legea 98/2016): trimiterea e EXTERNĂ, nu la articolul din Norme
+def rez_lege(fraza):
+    if not re.match(r"Lege\b", fraza): return None
+    def r(fel, art, alin, lit, grup):
+        t = rez(fel, art, alin, lit, grup); return (t[0], "L98, " + t[1]) if t else None
+    return r, "01.html"
+h = marcheaza("potrivit art. 7 alin. (5) din Lege, autoritatea", ("50", "1", None), rez, None, rez_lege)
+if linkuri(h) == [("01.html#art-7", "art. 7"), ("01.html#art-7-al-5", "alin. (5)")]: ok += 1
+else: print("EȘEC „din Lege”:", linkuri(h), h)
+# „din legea specială” (minusculă, act nenumit): nu se leagă nicăieri — nici la articolul din actul curent
+h = marcheaza("potrivit art. 7 din legea specială", ("50", "1", None), rez, None, rez_lege)
+if linkuri(h) == []: ok += 1
+else: print("EȘEC „din legea”:", linkuri(h), h)
+print("%d/%d teste trec" % (ok, len(CAZURI) + 4))
+sys.exit(0 if ok == len(CAZURI) + 4 else 1)

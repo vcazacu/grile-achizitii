@@ -29,7 +29,7 @@ _TOKEN = re.compile(
     r"|" + _G % "grupB" + r"?\s*\blit\.\s*(?P<lit2>" + _LLIST + r")", re.I)
 _ITEM_A = re.compile(r"(\(?" + NR + r"\)?)(?:" + _RNG + r"(\(?" + NR + r"\)?))?")
 _ITEM_L = re.compile(r"(" + LT + r")\)(?:" + _RNG + r"(" + LT + r")\))?")
-_EXTERN = re.compile(r"^\s*,?\s*(?:din|al|ale|a|la|potrivit)\s+(?P<act>(?:Legea|Legii|Ordonan|O\.\s*U\.\s*G|Hotărâr|H\.\s*G|"
+_EXTERN = re.compile(r"^\s*,?\s*(?:din|al|ale|a|la|potrivit)\s+(?P<act>(?:Legea|Legii|Lege\b|Ordonan|O\.\s*U\.\s*G|Hotărâr|H\.\s*G|"
                      r"Codul|Codului|Constituț|Regulament|Decret|Statut|Normel|anexa|anexei|Anexa|Tratat))", re.I)
 
 def _extern_dupa(text, poz):

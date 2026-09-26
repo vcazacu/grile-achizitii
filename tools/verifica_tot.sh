@@ -24,6 +24,7 @@ if [ ${#FISIERE[@]} -eq 1 ] && [ "${FISIERE[0]}" = "../intrebari.js" ]; then
 fi
 echo "== 6. acoperire ==";                 python3 acoperire.py "${FISIERE[@]}"      || ok=1
 echo "== 7. teme ↔ docx ==";               python3 test_teme.py                      || ok=1
+echo "== 9. cache offline ==";             python3 verifica_sw.py                    || ok=1
 if [ $SEMANTIC -eq 1 ]; then
   echo "== 8. poartă semantică (TypeSafe) =="
   "$PY_TS" check_semantic.py "${FISIERE[@]}" || ok=1
