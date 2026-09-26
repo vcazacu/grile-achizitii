@@ -1,0 +1,945 @@
+[
+ {
+  "loc": "Procedurile și regula generală (art. 68–69) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru achizițiile cu valoarea estimată egală sau mai mare decât valorile de la art. 7 alin. (5), procedurile sunt: licitația deschisă, licitația restrânsă, negocierea competitivă, dialogul competitiv, parteneriatul pentru inovare, negocierea fără publicare prealabilă, concursul de soluții, procedura pentru serviciile sociale și alte servicii specifice și procedura simplificată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.95,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.05
+    },
+    "confidence": 0.93
+   }
+  },
+  "usage": 2768
+ },
+ {
+  "loc": "Procedurile și regula generală (art. 68–69) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Peste pragurile de la art. 7 alin. (1), contractele se atribuie prin licitație deschisă sau licitație restrânsă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Celelalte proceduri sunt excepții, aplicabile numai în cazurile și condițiile prevăzute pentru fiecare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2985
+ },
+ {
+  "loc": "Când se pot folosi negocierea competitivă și dialogul compet / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Ajunge îndeplinirea unuia dintre criterii: necesitățile nu pot fi satisfăcute fără adaptarea soluțiilor disponibile pe piață; achiziția include soluții de proiectare sau inovatoare; contractul nu poate fi atribuit fără negocieri, din cauza naturii, complexității sau riscurilor; specificațiile tehnice nu pot fi definite suficient de precis prin trimitere la standarde.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2441
+ },
+ {
+  "loc": "Când se pot folosi negocierea competitivă și dialogul compet / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Aceste proceduri se pot folosi și după o procedură simplificată, o licitație deschisă sau restrânsă la care s-au depus numai oferte neconforme sau inacceptabile; dacă autoritatea îi invită doar pe ofertanții care s-au calificat și au respectat cerințele formale, nu mai publică anunț de participare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Normele cer ca autoritatea să justifice încadrarea înainte de inițiere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.01,
+     "contrazice": 0.0,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2822
+ },
+ {
+  "loc": "Licitația deschisă (art. 71–75) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Orice operator economic poate depune ofertă după publicarea anunțului de participare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.91,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.09
+    },
+    "confidence": 0.88
+   },
+   "1": {
+    "text": "Procedura are o singură etapă obligatorie, cu o eventuală etapă finală de licitație electronică, anunțată în anunț și în documentație.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3591
+ },
+ {
+  "loc": "Licitația deschisă (art. 71–75) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Între transmiterea anunțului spre publicare în JOUE și data-limită de depunere a ofertelor trebuie să treacă cel puțin 35 de zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "sustine": 0.98,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   },
+   "1": {
+    "text": "Termenul se poate reduce la cel puțin 15 zile dacă s-a publicat un anunț de intenție complet, transmis între 35 de zile și 12 luni înainte de anunțul de participare, ori în urgență demonstrată; se reduce cu 5 zile dacă se acceptă depunerea electronică.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.03,
+     "sustine": 0.97,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.96
+   }
+  },
+  "usage": 3645
+ },
+ {
+  "loc": "Licitația deschisă (art. 71–75) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Normele cer ca licitația deschisă să se desfășoare prin SEAP, unde pot oferta doar operatorii înregistrați.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.88,
+     "nu_spune": 0.0,
+     "contrazice": 0.12
+    },
+    "confidence": 0.83
+   },
+   "1": {
+    "text": "Dacă ofertantul clasat primul nu își dovedește calificarea, autoritatea îi cere documentele celui clasat pe locul următor și îi atribuie contractul dacă se califică.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3603
+ },
+ {
+  "loc": "Licitația restrânsă (art. 76–79) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Orice operator poate depune o solicitare de participare, dar ofertă depun doar candidații care îndeplinesc criteriile de calificare și selecție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.93,
+     "contrazice": 0.02,
+     "nu_spune": 0.05
+    },
+    "confidence": 0.9
+   },
+   "1": {
+    "text": "Procedura are două etape obligatorii: selecția candidaților și depunerea ofertelor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4248
+ },
+ {
+  "loc": "Licitația restrânsă (art. 76–79) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea poate limita numărul candidaților invitați, dar numărul minim indicat în anunț nu poate fi mai mic de 5.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă se califică mai puțini, poate continua cu cei calificați sau poate anula procedura.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Nu poate invita în etapa a doua un operator care n-a depus solicitare sau nu s-a calificat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4638
+ },
+ {
+  "loc": "Licitația restrânsă (art. 76–79) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Termenele sunt de cel puțin 30 de zile pentru solicitările de participare și de cel puțin 30 de zile pentru oferte; cu anunț de intenție, termenul pentru oferte scade la cel puțin 10 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "În urgență demonstrată, minimele sunt 15 zile pentru solicitări și 10 zile pentru oferte.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Normele interzic candidaților selectați să se asocieze pentru o ofertă comună.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4676
+ },
+ {
+  "loc": "Negocierea competitivă (art. 80–85) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Candidații selectați depun oferte inițiale, pe care autoritatea le negociază pentru a le îmbunătăți.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.98,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02
+    },
+    "confidence": 0.97
+   },
+   "1": {
+    "text": "Numărul minim de candidați este de 3.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Autoritatea poate atribui pe baza ofertelor inițiale, fără negociere, doar dacă și-a rezervat această posibilitate în anunț.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5243
+ },
+ {
+  "loc": "Negocierea competitivă (art. 80–85) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Se negociază ofertele inițiale și toate ofertele ulterioare, cu excepția ofertelor finale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Cerințele minime, criteriul de atribuire și factorii de evaluare nu se negociază.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4839
+ },
+ {
+  "loc": "Negocierea competitivă (art. 80–85) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Negocierile se pot face în runde succesive, anunțate în documentele achiziției; reducerea numărului de oferte se face numai pe baza factorilor de evaluare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Termenele sunt tot de cel puțin 30 de zile pentru solicitări și pentru ofertele inițiale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.91,
+     "nu_spune": 0.0,
+     "contrazice": 0.09
+    },
+    "confidence": 0.88
+   }
+  },
+  "usage": 4858
+ },
+ {
+  "loc": "Dialogul competitiv (art. 86–94) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Procedura are trei etape: selecția candidaților, dialogul cu fiecare candidat pentru identificarea soluțiilor și depunerea ofertelor finale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 0.82,
+     "contrazice": 0.18
+    },
+    "confidence": 0.75
+   },
+   "1": {
+    "text": "Numărul minim de candidați este de 3, iar termenul pentru solicitări este de cel puțin 30 de zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3370
+ },
+ {
+  "loc": "Dialogul competitiv (art. 86–94) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Criteriul de atribuire poate fi doar cel mai bun raport calitate-preț sau cel mai bun raport calitate-cost.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "nu_spune": 0.0,
+     "sustine": 0.98
+    },
+    "confidence": 0.97
+   },
+   "1": {
+    "text": "Autoritatea poate prevedea prime sau plăți pentru participanții la dialog.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3344
+ },
+ {
+  "loc": "Dialogul competitiv (art. 86–94) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "După evaluare, se pot purta negocieri cu ofertantul desemnat, doar pentru confirmarea angajamentelor financiare și a altor clauze, fără modificări substanțiale ale ofertei sau ale achiziției.",
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "absenta_corecta": 0.1,
+     "contrazice": 0.2,
+     "nu_spune": 0.69,
+     "sustine": 0.01
+    },
+    "confidence": 0.59
+   },
+   "1": {
+    "text": "Dacă dialogul nu duce la o soluție viabilă, Normele permit anularea procedurii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.03,
+     "nu_spune": 0.01,
+     "sustine": 0.96
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 3386
+ },
+ {
+  "loc": "Parteneriatul pentru inovare (art. 95–103) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Se aplică atunci când e nevoie de dezvoltarea și achiziția ulterioară a unui produs, serviciu sau lucrări inovatoare, pe care soluțiile de pe piață nu le pot satisface.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Procedura are trei etape, numărul minim de candidați e de trei, iar termenul pentru solicitări e de cel puțin 30 de zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3791
+ },
+ {
+  "loc": "Parteneriatul pentru inovare (art. 95–103) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Parteneriatul se desfășoară în faze succesive, cu obiective intermediare și plata prețului în tranșe; după fiecare fază, autoritatea poate înceta parteneriatul sau reduce numărul partenerilor, dacă a prevăzut aceste posibilități în documentație.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Criteriul de atribuire e tot raportul calitate-preț sau calitate-cost.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3793
+ },
+ {
+  "loc": "Negocierea fără publicare prealabilă (art. 104) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Se aplică numai în cazurile limitative ale art. 104, între care: nu s-a depus nicio ofertă sau s-au depus numai oferte neadecvate într-o licitație sau procedură simplificată, fără modificarea substanțială a condițiilor; achiziția poate fi furnizată de un singur operator (operă de artă unică, lipsa concurenței din motive tehnice, drepturi exclusive); extrema urgență determinată de evenimente imprevizibile, care nu se datorează autorității.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.95,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.05,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.92
+   }
+  },
+  "usage": 4203
+ },
+ {
+  "loc": "Negocierea fără publicare prealabilă (art. 104) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "La produse se adaugă cazuri precum cantitățile suplimentare de la contractantul inițial, pentru care durata contractelor nu poate depăși, de regulă, trei ani, produsele cotate pe o piață de mărfuri și achizițiile avantajoase de la un operator în faliment.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4137
+ },
+ {
+  "loc": "Negocierea fără publicare prealabilă (art. 104) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Lucrările sau serviciile noi, similare celor din contractul inițial, pot fi atribuite contractantului inițial dacă, cumulativ, valoarea lor a fost luată în calcul la estimarea inițială, opțiunea a fost anunțată în anunțul de participare, iar procedura se aplică în cel mult 3 ani de la încheierea contractului inițial.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Normele cer inițierea printr-o invitație la negocieri transmisă unuia sau, ori de câte ori e posibil, mai multor operatori.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4581
+ },
+ {
+  "loc": "Concursul de soluții (art. 105–110; Norme art. 97–99) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Concursul se organizează fie în cadrul unei proceduri de atribuire a unui contract de servicii, fie ca procedură distinctă, cu premii sau plăți.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3676
+ },
+ {
+  "loc": "Concursul de soluții (art. 105–110; Norme art. 97–99) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Juriul e format exclusiv din persoane fizice independente față de participanți; dacă se cere o calificare profesională, cel puțin o treime din membri trebuie să o dețină.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Juriul e autonom și evaluează proiectele anonim, numai pe baza criteriilor din anunțul de concurs.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4089
+ },
+ {
+  "loc": "Concursul de soluții (art. 105–110; Norme art. 97–99) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Normele cer un juriu de cel puțin 3 membri și un număr minim de participanți de cel puțin trei, iar anunțul de concurs se transmite cu cel puțin 30 de zile înainte de data-limită de depunere a proiectelor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3697
+ },
+ {
+  "loc": "Serviciile sociale și alte servicii specifice (art. 111–112) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru serviciile din anexa nr. 2 se aplică o procedură proprie, cu respectarea principiilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Peste pragul de la art. 7 alin. (1) lit. d), autoritatea își face cunoscută intenția prin anunț de participare sau anunț de intenție valabil în mod continuu și publică un anunț de atribuire; anunțurile de atribuire pot fi grupate trimestrial și transmise în 30 de zile de la încheierea trimestrului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4093
+ },
+ {
+  "loc": "Serviciile sociale și alte servicii specifice (art. 111–112) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Peste acest prag, criteriul de atribuire e raportul calitate-preț sau calitate-cost.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3605
+ },
+ {
+  "loc": "Serviciile sociale și alte servicii specifice (art. 111–112) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru anumite servicii de sănătate, sociale și culturale, participarea poate fi rezervată unor operatori care, cumulativ, urmăresc obiective de serviciu public, își reinvestesc profitul, au structuri participative și nu au primit un astfel de contract de la aceeași autoritate în ultimii 3 ani.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Durata maximă a acestor contracte e de 3 ani.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4062
+ },
+ {
+  "loc": "Procedura simplificată (art. 113–113^1; Norme art. 101–105) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Se aplică în condițiile art. 7 alin. (2), pentru achizițiile sub pragurile de publicare în JOUE, și se inițiază prin publicarea în SEAP a unui anunț de participare simplificat, însoțit de documentația de atribuire.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "sustine": 0.95,
+     "nu_spune": 0.03
+    },
+    "confidence": 0.93
+   },
+   "1": {
+    "text": "Se poate desfășura într-o etapă sau în mai multe etape, cu selecția candidaților, negociere și evaluare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3883
+ },
+ {
+  "loc": "Procedura simplificată (art. 113–113^1; Norme art. 101–105) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "În varianta cu o etapă, termenul minim pentru oferte e de 10 zile la servicii sau produse, 6 zile la produse de complexitate redusă și 15 zile la lucrări.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "În varianta cu mai multe etape, anunțul se transmite cu cel puțin 10 zile înainte de data-limită pentru solicitări, iar în etapa a doua termenul e de cel puțin 10 zile (6 zile la produse de complexitate redusă).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "În urgență demonstrată, minimele sunt 6 zile la servicii sau produse și 9 zile la lucrări.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4300
+ },
+ {
+  "loc": "Procedura simplificată (art. 113–113^1; Norme art. 101–105) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritățile aplică mecanismul informatic prin care accesează concomitent toate documentele depuse în SEAP.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "După finalizare, anunțul de atribuire se publică în SEAP în 15 zile de la încheierea contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3844
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Numărul minim de candidați: 5 la licitația restrânsă (art. 78 alin. (4)); 3 la negocierea competitivă, dialogul competitiv și parteneriatul pentru inovare (art. 82, 88, 97).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.25,
+     "sustine": 0.74,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.65
+   }
+  },
+  "usage": 23563
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Licitația deschisă: minimum 35 de zile de la transmiterea anunțului în JOUE; celelalte proceduri cu solicitări de participare: minimum 30 de zile pentru solicitări.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.05,
+     "absenta_corecta": 0.0,
+     "sustine": 0.95,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.93
+   }
+  },
+  "usage": 23465
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Reducerea cu anunț de intenție cere ca anunțul să fi fost transmis între 35 de zile și 12 luni înainte, nu oricând.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 23450
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "La negocierea competitivă nu se negociază ofertele finale, cerințele minime, criteriul de atribuire și factorii de evaluare (art. 85 alin. (1)–(2)).",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "contrazice": 0.58,
+     "sustine": 0.4,
+     "nu_spune": 0.01,
+     "absenta_corecta": 0.01
+    },
+    "confidence": 0.43
+   }
+  },
+  "usage": 23543
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Dialogul competitiv și parteneriatul pentru inovare nu pot folosi prețul cel mai scăzut ca criteriu; doar raportul calitate-preț sau calitate-cost.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.02,
+     "absenta_corecta": 0.13,
+     "sustine": 0.84,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.78
+   }
+  },
+  "usage": 23455
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Negocierea fără publicare pentru lucrări sau servicii similare: toate condițiile sunt cumulative, iar termenul e de cel mult 3 ani de la încheierea contractului inițial (art. 104 alin. (8)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.02,
+     "sustine": 0.98,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 23867
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Procedura simplificată: 10 zile la servicii și produse, 6 zile la produse de complexitate redusă, 15 zile la lucrări; în urgență, 6, respectiv 9 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 23466
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Juriul concursului de soluții: independent, cel puțin 3 membri, iar cel puțin o treime cu calificarea cerută participanților.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 23452
+ }
+]
