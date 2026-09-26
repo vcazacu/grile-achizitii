@@ -62,7 +62,7 @@ if (LEG / "05_HG_419-2018_norme_control_ex_ante.txt").is_file():
         esec += 1; print("EȘEC: normalizare.eticheta_articol nu trece prin unitati")
     import check_citat
     corpus = check_citat.corpus_zona("08_Norme_ALOP_1792-2002.txt", "", {})
-    if "3. ordonantarea cheltuielilor".replace("t", "ț", 0) not in corpus and "ordonanțarea cheltuielilor" not in corpus:
+    if "3. ordonanțarea cheltuielilor" not in corpus:
         esec += 1; print("EȘEC: titlul punctului 3 ALOP nu e citabil")
     print("regresie pe texte reale: rulată")
 print("OK: %d cazuri" % (len(CAZURI) + 4) if not esec else "%d eșecuri" % esec)
