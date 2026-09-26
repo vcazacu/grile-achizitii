@@ -1,0 +1,122 @@
+[
+ {
+  "id": "L98-proceduri-atribuire",
+  "tip": "multiplu",
+  "test": 13,
+  "intrebare": "Care dintre următoarele sunt proceduri de atribuire reglementate de Legea nr. 98/2016?",
+  "variante": [
+   "Parteneriatul pentru inovare",
+   "Achiziția directă",
+   "Negocierea competitivă",
+   "Cererea de oferte"
+  ],
+  "corecte": [
+   0,
+   2
+  ],
+  "explicatie": "Art. 68 alin. (1) din Legea nr. 98/2016 enumeră nouă proceduri de atribuire: licitația deschisă, licitația restrânsă, negocierea competitivă, dialogul competitiv, parteneriatul pentru inovare, negocierea fără publicare prealabilă, concursul de soluții, procedura pentru servicii sociale și alte servicii specifice și procedura simplificată. Achiziția directă NU este procedură de atribuire: este dreptul autorității contractante de a achiziționa direct sub valorile de la art. 7 alin. (5), iar art. 68 alin. (1) se aplică tocmai achizițiilor cu valoare estimată egală sau mai mare decât aceste valori. „Cererea de oferte” nu figurează printre cele nouă proceduri enumerate limitativ la art. 68 alin. (1) lit. a)-i); sub pragurile de la art. 7 alin. (1), contractele se atribuie prin procedura simplificată (art. 7 alin. (2)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 68 alin. (1)",
+   "citat": "Procedurile de atribuire reglementate de prezenta lege [...] sunt următoarele: a) licitația deschisă; b) licitația restrânsă; c) negocierea competitivă; d) dialogul competitiv; e) parteneriatul pentru inovare; f) negocierea fără publicare prealabilă; g) concursul de soluții; h) procedura de atribuire aplicabilă în cazul serviciilor sociale și al altor servicii specifice; i) procedura simplificată.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395B-001",
+  "tip": "unic",
+  "test": 14,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în aplicarea art. 7 alin. (7) lit. b) și c) din Legea nr. 98/2016 (achiziția directă), cum se poate realiza consultarea operatorilor economici în vederea obținerii ofertelor?",
+  "variante": [
+   "Exclusiv prin intermediul catalogului electronic pus la dispoziție de SEAP",
+   "Atât prin intermediul catalogului electronic pus la dispoziție de SEAP, cât și prin orice alte modalități identificate de autoritatea contractantă",
+   "Numai prin solicitare scrisă transmisă la cel puțin trei operatori economici",
+   "Exclusiv prin publicarea unui anunț de participare simplificat în SEAP"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 45 alin. (3) din Normele metodologice permite explicit ambele căi: consultarea se poate face atât prin intermediul catalogului electronic pus la dispoziție de SEAP, cât și prin orice alte modalități identificate de autoritatea contractantă. Varianta care impune exclusiv catalogul electronic SEAP contrazice această formulare. Anunțul de participare simplificat nu apare la art. 45 alin. (3); pentru achizițiile directe de peste 200.000 lei (produse și servicii), respectiv 560.000 lei (lucrări), art. 7 alin. (7) lit. a) din Legea nr. 98/2016 prevede utilizarea catalogului electronic SEAP sau publicarea unui anunț într-o secțiune dedicată a website-ului propriu sau al SEAP, nu un anunț de participare simplificat. Un număr minim de trei operatori consultați există, dar numai în lege și numai pentru ipoteza de la art. 7 alin. (7) lit. b) (peste 140.000 lei și cel mult 200.000 lei pentru produse și servicii, respectiv peste 300.000 lei și cel mult 560.000 lei pentru lucrări); pentru valori de cel mult 140.000 lei (produse și servicii), respectiv 300.000 lei (lucrări), art. 7 alin. (7) lit. c) permite achiziția pe baza unei singure oferte, iar solicitarea scrisă nu este singura modalitate de consultare. Din secțiunea Normelor privind achiziția directă, art. 43, 44 și 46 sunt abrogate, iar în vigoare a rămas art. 45, care la alin. (3) permite consultarea prin catalogul electronic SEAP sau prin orice alte modalități identificate de autoritatea contractantă.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 45 alin. (3)",
+   "citat": "consultarea operatorilor economici în vederea obținerii ofertelor/ofertei se poate face atât prin intermediul catalogului electronic pus la dispoziție de SEAP, cât și prin orice alte modalități identificate de către autoritatea contractantă.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L101C-003",
+  "tip": "multiplu",
+  "test": 14,
+  "intrebare": "Care dintre următoarele afirmații privind repartizarea contestațiilor și actele completelor de soluționare din cadrul Consiliului sunt corecte, potrivit Legii nr. 101/2016?",
+  "variante": [
+   "În exercitarea atribuțiilor sale Consiliul, prin completele de soluționare a contestațiilor, adoptă decizii și încheieri.",
+   "Contestațiile se distribuie spre soluționare completurilor în mod aleatoriu.",
+   "Completul de soluționare a contestației este independent, hotărârile pronunțate fiind bazate pe stricta aplicare și respectare a legii.",
+   "Contestațiile se repartizează de președintele Consiliului, în ordinea înregistrării lor, completului cu cea mai mică încărcătură de dosare."
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Art. 14 alin. (1)-(3) din Legea nr. 101/2016 stabilește trei reguli: distribuirea aleatorie a contestațiilor (cu aplicarea corespunzătoare a art. 13 alin. (3) privind informațiile clasificate și a art. 17 alin. (1) și (2) privind soluția unitară pe aceeași procedură), competența completelor de a adopta decizii și încheieri și independența completului. Varianta repartizării de către președintele Consiliului, în ordinea înregistrării, completului cu cea mai mică încărcătură contrazice art. 14 alin. (1), care impune distribuirea aleatorie. Capcană conexă de reținut: aleatoriu NU înseamnă complet diferit de fiecare dată — art. 17 alin. (1) impune ca, în aceeași etapă a aceleiași proceduri, contestațiile să fie soluționate de același complet, iar art. 17 alin. (2) cere conexarea lor. Distincția este detaliată de art. 27 alin. (1) și (2): decizia este hotărârea prin care contestația este soluționată sau prin care Consiliul se dezinvestește fără a o soluționa pe fond; celelalte hotărâri sunt încheieri, cu excepția celor de unificare a practicii administrativ-jurisdicționale.",
+  "sursa": {
+   "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+   "articol": "art. 14 alin. (1), (2) și (3)",
+   "citat": "(1) Contestațiile se distribuie spre soluționare completurilor în mod aleatoriu, cu aplicarea în mod corespunzător a prevederilor art. 13 alin. (3) și art. 17 alin. (1) și (2). [...] (2) În exercitarea atribuțiilor sale Consiliul, prin completele de soluționare a contestațiilor, adoptă decizii și încheieri. (3) Completul de soluționare a contestației este independent, hotărârile pronunțate fiind bazate pe stricta aplicare și respectare a legii.",
+   "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-019",
+  "tip": "multiplu",
+  "test": 17,
+  "intrebare": "Care dintre următoarele sunt condiții prevăzute expres de Normele metodologice ALOP pentru avizarea proiectelor de angajamente legale?",
+  "variante": [
+   "Respectarea de către proiectul de angajament legal a tuturor prevederilor legale care îi sunt aplicabile, în vigoare la data efectuării sale (controlul de legalitate)",
+   "Încadrarea proiectului de angajament legal în limitele angajamentului bugetar, stabilite potrivit legii",
+   "Existența creditelor bugetare disponibile la subdiviziunea corespunzătoare din bugetul aprobat",
+   "Obținerea prealabilă a avizului conform al Agenției Naționale pentru Achiziții Publice pentru orice proiect de angajament legal"
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Pct. 1 din Normele ALOP enumeră condițiile după îndeplinirea cărora se poate face avizarea proiectelor de angajamente legale: prezentarea proiectului în conformitate cu normele (lit. a)), existența creditelor bugetare disponibile la subdiviziunea corespunzătoare din bugetul aprobat (lit. b)), încadrarea în limitele angajamentului bugetar, stabilite potrivit legii (lit. c)), respectarea tuturor prevederilor legale aplicabile, în vigoare la data efectuării sale — controlul de legalitate (lit. d)) — și respectarea ansamblului principiilor și regulilor procedurale și metodologice aplicabile categoriei de cheltuieli — controlul de regularitate (lit. e)). Afirmația privind obținerea prealabilă a avizului conform al Agenției Naționale pentru Achiziții Publice pentru orice proiect de angajament legal este falsă: pct. 1 nu enumeră un asemenea aviz printre condițiile avizării. Avizarea constă în semnarea, de către persoana desemnată să exercite controlul financiar preventiv propriu sau de înlocuitorul de drept al acesteia, a propunerii de angajare a unei cheltuieli și a angajamentului bugetar (pct. 1). Potrivit aceluiași punct, persoana desemnată să exercite controlul financiar preventiv propriu poate să refuze acordarea vizei dacă consideră că nu sunt îndeplinite condițiile menționate.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea cheltuielilor)",
+   "citat": "Avizarea proiectelor de angajamente legale se poate face după îndeplinirea următoarelor condiții: a) proiectul de angajament legal a fost prezentat în conformitate cu prezentele norme metodologice; [...] b) existenta creditelor bugetare disponibile la subdiviziunea corespunzătoare din bugetul aprobat; c) proiectul de angajament legal se încadrează în limitele angajamentului bugetar, stabilite potrivit legii; d) proiectul de angajament legal respecta toate prevederile legale care îi sunt aplicabile, în vigoare la data efectuării sale (controlul de legalitate); e) proiectul de angajament legal respecta sub toate aspectele ansamblul principiilor și regulilor procedurale și metodologice care sunt aplicabile categoriei de cheltuieli din care fac parte (controlul de regularitate).",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395-N107",
+  "tip": "unic",
+  "test": 16,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, ce obligație are operatorul SEAP în cazul unui anunț de intenție valabil în mod continuu, transmis de autoritatea contractantă pentru serviciile sociale și alte servicii specifice (art. 111 alin. (2) lit. a) din Legea nr. 98/2016)?",
+  "variante": [
+   "Să asigure publicarea acestuia în mod continuu în SEAP, dispozițiile art. 54-56 din Norme aplicându-se în mod corespunzător",
+   "Să îl publice în SEAP în cel mult două zile lucrătoare de la primirea acceptului de publicare, ca anunț de participare simplificat",
+   "Să asigure publicarea acestuia în mod continuu în SEAP, fără a i se aplica regulile privind transmiterea exclusiv electronică și anunțul de tip erată",
+   "Să îl publice în SEAP o singură dată, în cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 57 alin. (1) din Norme obligă operatorul SEAP să asigure publicarea în mod continuu în SEAP a anunțului de intenție valabil în mod continuu, transmis potrivit art. 111 din Lege (art. 57 alin. (1) din Norme trimite la „art. 111 alin. (1) lit. a)”, iar anunțul de intenție valabil în mod continuu este prevăzut în Legea nr. 98/2016 la art. 111 alin. (2) lit. a)). Art. 57 alin. (2) extinde asupra acestuia, în mod corespunzător, dispozițiile art. 54-56. Prin urmare, i se aplică și transmiterea numai prin mijloace electronice (art. 54), și regulile privind anunțul de tip erată (art. 55), astfel că excluderea lor contrazice art. 57 alin. (2). Termenul de cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege este prevăzut la art. 24 alin. (5) pentru publicarea anunțului, iar o publicare unică nu corespunde caracterului continuu cerut de art. 57 alin. (1). Termenul de cel mult două zile lucrătoare de la primirea acceptului de publicare privește, tot la art. 24 alin. (5), anunțul de participare simplificat, nu anunțul de intenție. Art. 57 alin. (1) folosește expres formula publicării anunțului în mod continuu în SEAP.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 57",
+   "citat": "În cazul unui anunț de intenție valabil în mod continuu, transmis spre publicare de autoritatea contractantă în conformitate cu dispozițiile art. 111 alin. (1) lit. a) din Lege, operatorul SEAP are obligația de a asigura publicarea acestuia în mod continuu în SEAP. [...] Dispozițiile art. 54-56 se aplică în mod corespunzător anunțului prevăzut la alin. (1).",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ }
+]

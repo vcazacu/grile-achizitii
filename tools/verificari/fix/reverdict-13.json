@@ -1,0 +1,110 @@
+[
+ {
+  "id": "ALOP-015",
+  "verdict": "OK",
+  "motiv": "Cheia (varianta cu «orice act prin care o autoritate competentă... afectează fonduri publice unor anumite destinații») reproduce pct. 1 lit. b): «Angajamentul bugetar - orice act prin care o autoritate competentă, potrivit legii, afectează fonduri publice unor anumite destinații, în limita creditelor bugetare aprobate.» Distractorii sunt definițiile reale ale angajamentului legal (pct. 1 lit. a)), creditului de angajament (pct. 1: «Creditul de angajament reprezintă limita maximă a cheltuielilor ce pot fi angajate...») și ordonanțării de plată (pct. 3); niciunul nu e apărabil. Explicația descrie corect fiecare variantă numită; enumerarea formelor angajamentului legal omite «acte de control», dar folosește «etc.».",
+  "propunere": "Fără modificări."
+ },
+ {
+  "id": "ALOP-016",
+  "verdict": "OK",
+  "motiv": "Cheia corespunde pct. 1 lit. b): «angajamentul bugetar prin care au fost rezervate fonduri publice... preceda angajamentul legal» și «Este interzis ordonatorilor de credite aprobarea unor angajamente legale fără asigurarea ca au fost rezervate și fondurile publice necesare plății acestora în exercițiul bugetar, cu excepția acțiunilor multianuale.» Distractorul «simultan» ar putea fi atins de «Angajamentul bugetar individual se prezintă la viza... în același timp cu proiectul angajamentului legal individual», dar rămâne fals prin «întotdeauna» și «ordinea întocmirii lor nu produce efecte juridice». Explicația descrie corect toate cele trei variante greșite și citatul final există textual (pct. 1 lit. b)).",
+  "propunere": "Opțional: în explicație, o jumătate de frază că prezentarea la viză a angajamentului bugetar individual se face «în același timp cu proiectul angajamentului legal individual» (pct. 1 lit. b1)), ceea ce nu anulează ordinea de precedență — închide singura portiță a distractorului «simultan»."
+ },
+ {
+  "id": "ALOP-017",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce pct. 1 lit. b): «Valoarea angajamentelor legale nu poate depăși valoarea angajamentelor bugetare și, respectiv, a creditelor bugetare aprobate, cu excepția angajamentelor legale aferente acțiunilor multianuale care nu pot depăși creditele de angajament aprobate în buget.» Afirmațiile din explicație verificate: interdicția de angajare peste sume (pct. 1, «Ordonatorilor de credite li se interzice sa ia cu buna știința măsuri...»), «se face numai în limita creditelor bugetare aprobate» (pct. 1), corolarul «în limita disponibilului de credite bugetare și, respectiv... de credite de angajament» (pct. 1 lit. b)). Mapare variantă–verdict corectă. Observație minoră: pragul de 10% din distractor nu provine din Norme (SPEC §4.2 preferă valori reale).",
+  "propunere": "Fără modificări obligatorii; opțional, înlocuirea toleranței de 10% cu un distractor din același text (de ex. plafonarea tuturor angajamentelor legale la creditele bugetare, inclusiv pentru acțiunile multianuale)."
+ },
+ {
+  "id": "ALOP-020",
+  "verdict": "OK",
+  "motiv": "Cheia corespunde pct. 1 lit. b2): «Angajamentele legale individuale aprobate până la finele anului, acoperite de aceste angajamente legale provizorii, nu trebuie înaintate pentru viza de control financiar preventiv propriu. Angajamentele legale individuale care depășesc valoarea angajamentelor legale provizorii se supun vizei...» Explicația redă corect bugetele previzionale înaintate cu angajamentele bugetare globale, verificarea de către ordonator, analiza de la finele anului («avizează angajamentul bugetar global care devine definitiv») și posibilitatea includerii în categoria angajamentelor individuale. Toate cele trei variante greșite sunt descrise corect și sunt false.",
+  "propunere": "Fără modificări."
+ },
+ {
+  "id": "ALOP-021",
+  "verdict": "OK",
+  "motiv": "Cheia «Sunt anulate de drept» reproduce pct. 1: «Creditele bugetare neangajate, precum și creditele bugetare angajate și neutilizate până la finele exercițiului bugetar sunt anulate de drept.» Trimiterile la Legea 500/2002 verificate: art. 30 alin. (1)–(2) (fondul inclus în bugetul de stat, repartizat prin hotărâri ale Guvernului pentru cheltuieli urgente sau neprevăzute) și art. 54 alin. (1) și (3) (anularea la propunerea ordonatorilor principali pentru sarcini desființate sau amânate; «se majorează Fondul de rezerva bugetară»). Distractorul «reportare automată» nu e apărabil prin «se va plati în contul bugetului pe anul următor din creditele bugetare aprobate în acest scop» (plată din creditele noului an, nu reportare). Legătura explicită «în aplicarea principiului anualității» e o încadrare a redactorului (textul leagă anualitatea de rezervarea creditelor), nu o eroare.",
+  "propunere": "Fără modificări obligatorii; opțional, «sunt anulate de drept (pct. 1 lit. b))» fără atribuirea expresă a anulării principiului anualității."
+ },
+ {
+  "id": "ALOP-022",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce pct. 1: salariile, pensiile, ajutoarele sociale și dobânzile datoriei publice «se considera angajamente legale și bugetare de la data de 1 ianuarie a fiecărui an cu întreaga suma a creditelor bugetare aprobate.» Explicația verificată: plata = «faza finala a execuției bugetare» (pct. 4); bugetul «repartizat pe trimestre» prezentat trezoreriei (pct. 4); «Salariile și indemnizațiile vor fi lichidate în baza statelor de plată colective, întocmite de compartimentul de specialitate» (pct. 2); propunerile de modificare cu memorii justificative (pct. 1). Fiecare variantă greșită e descrisă corect.",
+  "propunere": "Fără modificări."
+ },
+ {
+  "id": "ALOP-023",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce definiția de la pct. 2: «se verifica existenta angajamentelor, se determina sau se verifica realitatea sumei datorate, se verifica condițiile de exigibilitate ale angajamentului legal pe baza documentelor justificative...». Maparea distractorilor e corectă: rezervarea creditelor = angajare (pct. 1 lit. b)), dispoziția către compartimentul financiar = ordonanțare (pct. 3), instrumentele de plată = plată (pct. 4). Afirmațiile finale verificate: «Primele trei faze... se realizează în cadrul instituției publice» (pct. 3), «denumirea generica de contabil» (pct. 4), termenele de plată din angajamentele legale (pct. 2). «Primele trei faze» e citat din lege, nu trimitere la poziția variantelor.",
+  "propunere": "Fără modificări."
+ },
+ {
+  "id": "ALOP-024",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce pct. 2: «Verificarea existenței obligației de plată se realizează prin verificarea documentelor justificative din care să rezulte pretenția creditorului, precum și realitatea \"serviciului efectuat\"...». Explicația verificată: suma se determină «pe baza datelor înscrise în factură și a documentelor întocmite de comisia de recepție» (pct. 2); CFPP «se asigura ca ordonantarile supuse vizei se referă la angajamente de cheltuieli deja vizate și ca sunt îndeplinite condițiile de lichidare» (pct. 3); documentul scris care «certifica existenta unor credite bugetare disponibile și se pun în rezerva» (pct. 1 lit. b)). Nuanță minoră: în text «deja» se referă la angajamentele vizate, nu la condițiile de lichidare — sensul rămâne corect.",
+  "propunere": "Fără modificări obligatorii; opțional, «se asigură că ordonanțările se referă la angajamente deja vizate și că sunt îndeplinite condițiile de lichidare» (formularea textului)."
+ },
+ {
+  "id": "ALOP-025",
+  "verdict": "OK",
+  "motiv": "Cheia corespunde pct. 2: documentele «se vizează pentru \"Bun de plată\" de ordonatorul de credite sau de persoana delegată cu aceste atribuții». Explicația descrie corect cele trei variante greșite: viza CFPP pe propunerea de angajare și pe angajamentul bugetar (pct. 1: «Avizarea consta în semnarea... a propunerii de angajare a unei cheltuieli și a angajamentului bugetar») și pe ordonanțare (pct. 3); interdicția de plată fără «Bun de plată» (pct. 4); documentele comisiei de recepție ca bază a determinării sumei (pct. 2).",
+  "propunere": "Fără modificări."
+ },
+ {
+  "id": "ALOP-027",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce pct. 2: «Persoana imputernicita să efectueze lichidarea cheltuielilor verifica personal documentele justificative și confirma pe propria răspundere ca aceasta verificare a fost realizată.» Explicația verificată: documentele justificative în original și înaintarea către conducătorul compartimentului financiar (pct. 3), copiile certificate «în cazuri excepționale» de ordonator sau de persoana delegată (pct. 3), statele de plată colective întocmite de compartimentul de specialitate (pct. 2), documentele fazei de lichidare stau la baza înregistrării în contabilitatea patrimonială (pct. 2). Toate variantele numite corespund variantelor din listă, cu verdictul corect.",
+  "propunere": "Fără modificări."
+ },
+ {
+  "id": "ALOP-028",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce pct. 3: «Ordonanțarea de plată este documentul intern prin care ordonatorul de credite da dispoziție conducătorului compartimentului financiar (financiar-contabil) sa întocmească instrumentele de plată a cheltuielilor.» Explicația verificată: anexa nr. 3; cecul de numerar și OPHT (pct. 4); documentul care certifică creditele disponibile și le pune în rezervă (pct. 1 lit. b)); documentele comisiei de recepție (pct. 2); «Ordonanțarea de plată este datată și semnată de ordonatorul de credite sau de persoana delegată» și «La emiterea ordonanțării de plată finale ordonatorul de credite confirma ca operațiunea s-a finalizat» (pct. 3).",
+  "propunere": "Fără modificări."
+ },
+ {
+  "id": "ALOP-030",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (pct. 3: «Nici o ordonantare de plată nu poate fi prezentată spre semnare ordonatorului de credite decât după ce persoana desemnată să exercite controlul financiar preventiv propriu a acordat viza.»), dar explicația afirmă inexact că «pct. 3 cere, înainte de semnarea ordonatorului, doar viza persoanei desemnate să exercite controlul financiar preventiv propriu». Același pct. 3 prevede: «Ordonanțarea de plată... va purta viza persoanelor autorizate din compartimentele de specialitate, care să confirme corectitudinea sumelor de plată, livrarea și receptionarea bunurilor...», iar pct. 1 adaugă, unde e cazul, «viza prealabilă a controlorului delegat». Restul explicației (registrul distinct al ordinelor de plată, pct. 4; scopul avizării «exista credite bugetare disponibile»; contul 8066, pct. 3) e corect.",
+  "propunere": "În explicație, înlocuiește «iar pct. 3 cere, înainte de semnarea ordonatorului, doar viza persoanei desemnate să exercite controlul financiar preventiv propriu» cu «iar pct. 3 nu prevede un aviz al comisiei de recepție sau al auditului public intern, ci viza persoanelor autorizate din compartimentele de specialitate și viza persoanei desemnate să exercite controlul financiar preventiv propriu». Cheia și variantele rămân neschimbate."
+ },
+ {
+  "id": "ALOP-031",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce pct. 3: «Ordonantarile de plată nevizate de persoana desemnată să exercite controlul financiar preventiv propriu sunt nule și fără valoare pentru conducătorul compartimentului financiar (financiar-contabil) care urmează să facă plata, dacă nu sunt autorizate în condițiile prevăzute de lege.» Explicația verificată: pct. 4 («când nu exista viza de control financiar preventiv propriu pe ordonanțarea de plată și nici autorizarea prevăzută de lege»), pct. 3 (nicio prezentare spre semnare fără viză), pct. 1 («Angajarea și ordonanțarea cheltuielilor se efectuează numai cu viza prealabilă...»). Distractorul «rămâne pe deplin valabilă» nu e apărabil nici prin autorizarea legală, fiind formulat necondiționat. Observație minoră: termenele de 3 zile lucrătoare și 30 de zile nu provin din Norme (SPEC §4.2), dar explicația le declară corect ca inexistente.",
+  "propunere": "Fără modificări obligatorii."
+ },
+ {
+  "id": "ALOP-032",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce pct. 4: plata se efectuează «prin unitățile de trezorerie și contabilitate publică la care își au conturile deschise, cu excepția plăților în valută, care se efectuează prin bănci, sau a altor plati prevăzute de lege să se efectueze prin bănci.» Explicația verificată: reducerea la maximum a plăților în numerar și casieria doar pentru «cheltuieli de volum redus care nu se justifica a fi efectuate prin virament» (pct. 4); plata asigurată de șeful compartimentului financiar sau, în lipsa acestuia, de persoana desemnată de ordonator (pct. 4). Variantele numite corespund listei, cu verdictul corect.",
+  "propunere": "Fără modificări."
+ },
+ {
+  "id": "ALOP-033",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce pct. 4: instrumentele de plată «se semnează de doua persoane autorizate în acest sens, dintre care prima semnătura este cea a conducătorului compartimentului financiar (financiar-contabil), iar a doua, a persoanei cu atribuții în efectuarea plății.» Explicația verificată: ordonanțarea datată și semnată de ordonator (pct. 3); principiul separării atribuțiilor ordonatorului de cele ale contabilului (preambul); «Ordinele de plată se emit pe numele fiecărui creditor» și «Un ordin de plată nu poate cuprinde plati referitoare la mai multe subdiviziuni» (pct. 4). Toate cele trei variante greșite sunt descrise corect.",
+  "propunere": "Fără modificări."
+ },
+ {
+  "id": "ALOP-034",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce una dintre situațiile de la pct. 4: «Nu se poate efectua plata: ... – când nu exista confirmarea serviciului efectuat și documentele nu sunt vizate pentru \"Bun de plată\"». Niciun distractor nu figurează în enumerare. Explicația verificată: suma de plată «exprimată în moneda naționala sau în moneda străină» (pct. 3), plățile în valută prin bănci (pct. 4), termenele de plată din angajamentele legale (pct. 2), ridicarea de numerar pentru salarii, premii, deplasări (pct. 4), condițiile de plată «angajate, lichidate și ordonanțate» (pct. 4). Nuanță: pct. 4 limitează și plățile prin casierie la «cheltuieli de volum redus», nu doar cere reducerea numerarului — nu afectează verdictul distractorului.",
+  "propunere": "Fără modificări obligatorii; opțional, «cerând reducerea la maximum a plăților în numerar și limitând casieria la cheltuielile de volum redus» în loc de «cerând doar reducerea la maximum a plăților în numerar»."
+ },
+ {
+  "id": "ALOP-035",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce pct. 4: «În cazul constatării unei erori în legătură cu plata ce urmează să fie efectuată, conducătorul compartimentului financiar (financiar-contabil) suspenda plata. Motivele deciziei de suspendare a plății se prezintă într-o declarație scrisă care se trimite ordonatorului de credite și, spre informare, persoanei desemnate...». Explicația descrie corect cele trei variante greșite, iar citatul final «Ordonatorul de credite poate solicita în scris și pe propria răspundere efectuarea plăților» există textual la pct. 4.",
+  "propunere": "Fără modificări."
+ },
+ {
+  "id": "ALOP-036",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce pct. 4: «Acțiunile și categoriile de cheltuieli pentru care se pot acorda plati în avans din fonduri publice sunt cele stabilite prin hotărâri ale Guvernului. Sumele reprezentând plati în avans nejustificate... se recuperează de către instituția publică care a acordat avansurile și se vor restitui bugetului din care au fost acordate, cu perceperea dobânzilor și penalităților de întârziere aferente». Explicația verificată: excepția de la regula ordinelor de plată emise pe baza documentelor justificative («Se exceptează de la aceasta regula ordinele de plată ce se emit pentru plata de avansuri», pct. 4) și anularea de drept a creditelor (pct. 1). Toate variantele numite corespund listei, cu verdictul corect.",
+  "propunere": "Fără modificări."
+ }
+]

@@ -1,0 +1,314 @@
+[
+ {
+  "id": "L98-N510",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 185 alin. (1)), iar distractorul cu excluderea terțului e combătut corect prin art. 185 alin. (2). Explicația afirmă însă „angajamentul ferm al terțului (art. 182 alin. (3))”, dar textul nu spune „ferm”. Art. 182 alin. (3) spune: „prezentând un angajament în acest sens din partea terțului/terților”. Cuvântul „ferm” nu apare nicăieri în forma la zi a Legii 98/2016.",
+  "propunere": "Ultima propoziție a explicației devine: „Condițiile susținerii de către terți sunt cele de la art. 182, inclusiv prezentarea unui angajament de susținere din partea terțului, însoțit de documentele din care rezultă modul efectiv de îndeplinire a acestuia (art. 182 alin. (3) și (4)).”",
+  "lot": "01",
+  "fisier": "L98-N5.json"
+ },
+ {
+  "id": "L98A-002",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 3 alin. (1) lit. c)). Explicația spune însă că distractorul „execuția de lucrări... în schimbul unui preț ferm” descrie contractul de achiziție publică de la art. 3 alin. (1) lit. l). Lit. l) nu vorbește de „preț ferm”, ci de „contractul cu titlu oneros... care are ca obiect execuția de lucrări, furnizarea de produse sau prestarea de servicii”. În plus, pentru contractele subsecvente explicația spune doar „reglementat separat”, fără articol (regula §4.4), deși regula există la art. 118 alin. (1).",
+  "propunere": "Distractorul devine: „contractul cu titlu oneros care are ca obiect execuția de lucrări, furnizarea de produse sau prestarea de servicii”, iar explicația: „...descrie contractul de achiziție publică (art. 3 alin. (1) lit. l)).” Ultima propoziție devine: „Modul de executare a acordului-cadru încheiat cu mai mulți operatori economici (fără reluarea competiției, cu reluarea competiției sau mixt) este reglementat separat, la art. 118 alin. (1), nu în definiție.”",
+  "lot": "01",
+  "fisier": "L98A-migrat.json"
+ },
+ {
+  "id": "L98A-006",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 3 alin. (1) lit. jj) pct. (i), (ii) și (iv). Distractorul „orice țară terță, indiferent de acorduri” e fals față de pct. (iii) și (v). Explicația conține însă un istoric al modificărilor, „(modificată prin O.U.G. nr. 25/2021)”, interzis de SPEC §4.6. Referința nu se poate verifica: „25/2021” nu apare nicăieri în fișierul Legii 98/2016.",
+  "propunere": "Se elimină paranteza „(modificată prin O.U.G. nr. 25/2021)”. Explicația începe: „Art. 3 alin. (1) lit. jj) enumeră limitativ statele de stabilire: ...”.",
+  "lot": "01",
+  "fisier": "L98A-migrat.json"
+ },
+ {
+  "id": "L98A-013",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 4 alin. (3) lit. a), b), c) (condiții normale de piață, profit, suportarea pierderilor). Explicația începe însă cu istoricul modificării, „Testul introdus prin O.U.G. nr. 107/2017”, interzis de SPEC §4.6. Referința nu se poate verifica: „107/2017” nu apare în fișierul Legii 98/2016. Restul se confirmă, inclusiv trimiterea la art. 31 (participarea privată la capital, art. 31 alin. (1) lit. c)).",
+  "propunere": "Prima propoziție devine: „Art. 4 alin. (3) cuprinde trei condiții cumulative: funcționarea în condiții normale de piață (lit. a)), urmărirea obținerii unui profit (lit. b)) și suportarea pierderilor care rezultă din exercitarea activității (lit. c)).” Ultima propoziție devine: „...relevantă în alt context, la excepția de la art. 31 alin. (1) lit. c).”",
+  "lot": "01",
+  "fisier": "L98A-migrat.json"
+ },
+ {
+  "id": "L98A-036",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 25 lit. b): „pe durată determinată mai mare de 48 de luni, valoarea estimată se calculează prin înmulțirea cu 48 a valorii lunare”). Afirmație secundară inexactă: „intuiția de a înmulți cu durata reală este corectă doar sub pragul de 48 de luni” — art. 25 lit. a) o aplică la durata „mai mică sau egală cu 48 de luni”. În plus, explicația nu tratează distractorii „×12” (a cărui sursă plauzibilă e pragul de 12 luni din art. 21 lit. a)-b), pentru produse în rate/leasing) și „nu poate fi atribuit” (SPEC §4 pct. 4).",
+  "propunere": "Înlocuiește fraza cu: „Capcana din varianta cu înmulțirea valorii lunare cu 60: înmulțirea cu durata reală se aplică doar la contractele de până la 48 de luni inclusiv (art. 25 lit. a)).” Adaugă: „Pragul de 12 luni apare la art. 21 lit. a)-b), pentru produsele achiziționate în rate, prin închiriere sau leasing, nu la servicii; iar lipsa unui preț total nu împiedică atribuirea, art. 25 fiind tocmai regula pentru această situație.”",
+  "lot": "02",
+  "fisier": "L98A-migrat.json"
+ },
+ {
+  "id": "L98A-046",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (a, b, c din art. 31 alin. (1)) și distractorul (20% = art. 31 alin. (6) lit. c)) sunt corecte, dar varianta corectă despre capitalul privat trunchiază condiția de la lit. c): legea admite doar formele de participare privată „care nu oferă controlul sau dreptul de veto, dar a căror existență este necesară potrivit dispozițiilor legale, în conformitate cu Tratatele, și care nu exercită o influență determinantă”. Varianta omite cerința ca participarea să fie impusă de lege, lărgind excepția — un candidat atent o poate respinge ca inexactă (explicația, în schimb, menționează corect „formelor impuse de lege”).",
+  "propunere": "Varianta devine: „Nu există participare privată directă la capitalul persoanei juridice controlate, cu excepția formelor de participare a capitalului privat care nu oferă controlul sau dreptul de veto, dar a căror existență este necesară potrivit dispozițiilor legale, în conformitate cu Tratatele, și care nu exercită o influență determinantă asupra acesteia.”",
+  "lot": "02",
+  "fisier": "L98A-migrat.json"
+ },
+ {
+  "id": "L98A-047",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 31 alin. (6) lit. c): „mai puțin de 20% din activitățile vizate de cooperare”); 10% din art. 60 alin. (2) și 80% din art. 31 alin. (1) lit. b) corect atribuite. Însă enunțul nu numește actul („pentru ca legea să nu se aplice”) — SPEC §4 pct. 3. Afirmație secundară incompletă: art. 31 alin. (7) permite și „un indicator alternativ corespunzător bazat pe activitatea desfășurată, cum ar fi costurile”, nu doar cifra medie de afaceri, iar referința e „ultimii 3 ani anteriori atribuirii contractului”.",
+  "propunere": "Enunț: „...Potrivit Legii nr. 98/2016, ce condiție privind activitatea pe piața liberă trebuie îndeplinită pentru ca legea să nu se aplice acestui contract?” Ultima frază a explicației: „Procentele de la alin. (1) lit. b), alin. (4) lit. b) și alin. (6) lit. c) se stabilesc potrivit art. 31 alin. (7), pe baza cifrei medii de afaceri totale sau a unui indicator alternativ (de ex. costurile) din ultimii 3 ani anteriori atribuirii contractului.”",
+  "lot": "02",
+  "fisier": "L98A-migrat.json"
+ },
+ {
+  "id": "L98A-050",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia reproduce regula generală de la art. 34 alin. (6), dar enunțul vorbește generic de „alte acte normative”, iar legea conține derogări pentru părți neseparabile: art. 38 alin. (7) — când celălalt act e O.U.G. nr. 114/2011 sau actele emise în temeiul art. 20 alin. (3) din aceasta, „iar diferitele părți [...] nu sunt în mod obiectiv separabile, contractul poate fi atribuit în conformitate cu dispozițiile actelor normative emise în temeiul art. 20 alin. (3) [...] dacă include elemente în legătură cu situațiile prevăzute la art. 346 din TFUE, sau în conformitate cu prevederile O.U.G. nr. 114/2011 [...] în caz contrar” (criteriu diferit de obiectul principal); iar art. 34 alin. (5) (achiziții sectoriale), pe care explicația însăși îl invocă, trimite la legea sectorială. Explicația nu semnalează art. 38 alin. (7).",
+  "propunere": "Enunț: „Potrivit art. 34 din Legea nr. 98/2016, un contract mixt are ca obiect atât achiziții supuse acestei legi, cât și achiziții supuse altor acte normative (care nu privesc apărarea și securitatea și nici activitățile sectoriale), iar diferitele părți NU sunt în mod obiectiv separabile. Care este regula de atribuire?” Adaugă în explicație: „Pentru contractele mixte cu părți neseparabile care implică apărare sau securitate, art. 38 alin. (7) stabilește un criteriu special (elementele legate de art. 346 TFUE), nu obiectul principal.”",
+  "lot": "02",
+  "fisier": "L98A-migrat.json"
+ },
+ {
+  "id": "L98E-004",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 42: „Toate procedurile de atribuire organizate de o unitate de achiziții centralizate se realizează prin mijloace electronice de comunicare”), dar paranteza din explicație redă incomplet art. 52 alin. (1) din Norme, deși îl declară „enumerat limitativ”: textul are 5 situații, lit. a)-e), inclusiv „mostre, machete sau modele la scară redusă care nu pot fi transmise prin mijloace electronice” (lit. d)) și securitatea/natura sensibilă a informațiilor (lit. e)). În plus, obligația de motivare în raport apare și la art. 52 alin. (3) din Norme, nu doar la art. 216 alin. (2) lit. h) din Lege. Formularea „ca regulă” de la începutul explicației slăbește caracterul absolut al textului („Toate”).",
+  "propunere": "Înlocuiește începutul explicației cu „Art. 42 prevede că TOATE procedurile de atribuire organizate de o unitate de achiziții centralizate se realizează prin mijloace electronice de comunicare, în conformitate cu art. 64-66 și cu normele metodologice.”, iar paranteza cu: „situațiile fiind enumerate limitativ la art. 52 alin. (1) lit. a)-e) din Normele metodologice aprobate prin H.G. nr. 395/2016 (de ex. instrumente sau formate de fișiere care nu sunt disponibile cu caracter general, echipamente de birou specializate, mostre ori machete care nu pot fi transmise electronic, protecția informațiilor deosebit de sensibile), iar motivele se indică în raportul procedurii potrivit art. 52 alin. (3) din Norme și art. 216 alin. (2) lit. h) din Lege”.",
+  "lot": "03",
+  "fisier": "L98E-migrat.json"
+ },
+ {
+  "id": "L98E-005",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 43 alin. (3): atribuirea serviciilor auxiliare „altfel decât de către o unitate de achiziții centralizate ... se realizează prin aplicarea procedurilor de atribuire reglementate de prezenta lege în cazul contractelor de achiziție publică de servicii”), dar enunțul nu numește actul (SPEC §4 pct. 3); explicația e exactă.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, o autoritate contractantă dorește să contracteze servicii constând în furnizarea de activități de achiziție AUXILIARE de la un operator economic care nu are calitatea de unitate de achiziții centralizate. Cum trebuie să procedeze?”",
+  "lot": "03",
+  "fisier": "L98E-migrat.json"
+ },
+ {
+  "id": "L98B-002",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 52 alin. (1) din Legea 98/2016 — operatorii „nu pot fi respinși numai pe motiv că, în temeiul legislației statului membru în care se atribuie contractul, sunt obligați să fie persoane fizice sau persoane juridice”. Enunțul nu numește actul (SPEC §4 pct. 3). Secundar: distractorul „cu excepția operatorilor economici din state terțe” are un sâmbure apărabil, pentru că entitățile din state terțe care nu se încadrează în art. 3 alin. (1) lit. jj) se exclud potrivit art. 53 alin. (1^1) — dar pentru alt motiv decât forma juridică; explicația ar trebui să citeze exact lit. jj) și art. 53 alin. (1^1).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, un operator economic care, potrivit legislației statului în care este stabilit, are dreptul să presteze o activitate inclusă în obiectul achiziției poate fi respins de autoritatea contractantă numai pe motiv că legislația statului membru în care se atribuie contractul i-ar impune să fie persoană fizică sau persoană juridică?”. În explicație: „(participarea operatorilor din state terțe depinde de încadrarea în definiția de la art. 3 alin. (1) lit. jj), iar cei care nu se încadrează sunt excluși potrivit art. 53 alin. (1^1), adică pentru alt motiv decât forma juridică)”.",
+  "lot": "03",
+  "fisier": "L98B-migrat.json"
+ },
+ {
+  "id": "L98B-004",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 54 alin. (1) și (2) din Legea 98/2016 — forma juridică poate fi cerută doar celor „a căror ofertă a fost desemnată câștigătoare ..., cu condiția ca acest lucru să fi fost prevăzut în anunțul de participare și documentația de atribuire și în măsura în care ... este necesară pentru executarea în mod corespunzător”. Doar enunțul nu numește actul (SPEC §4 pct. 3).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, în ce condiții poate autoritatea contractantă să solicite operatorilor economici care participă în comun la procedură să adopte o anumită formă juridică?”",
+  "lot": "03",
+  "fisier": "L98B-migrat.json"
+ },
+ {
+  "id": "L98B-006",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 56 alin. (1) — rezervare „doar unităților protejate autorizate conform Legii nr. 448/2006 ... și întreprinderilor sociale de inserție prevăzute de Legea nr. 219/2015”. Dar explicația afirmă că IMM-urile „beneficiază de alte facilități în legislația achizițiilor (de exemplu la garanții)” — nicio prevedere din Legea 98/2016 sau din Normele H.G. 395/2016 (forma la zi) nu prevede o facilitate pentru IMM la garanții; singura referire la IMM din Lege este la împărțirea pe loturi (art. 3 alin. (1) lit. dd) și art. 141 alin. (2)). Afirmație neverificabilă din corpus (SPEC §4 pct. 8).",
+  "propunere": "Înlocuiește fraza despre IMM cu: „IMM-urile nu sunt beneficiari ai contractelor rezervate; legea le are în vedere la împărțirea pe loturi, al căror obiect se adaptează capacității întreprinderilor mici și mijlocii (art. 141 alin. (2)).”",
+  "lot": "03",
+  "fisier": "L98B-migrat.json"
+ },
+ {
+  "id": "L98-proceduri-atribuire",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (parteneriatul pentru inovare, negocierea competitivă) e corectă conform art. 68 alin. (1) lit. a)-i), iar achiziția directă (art. 7 alin. (5)) și cererea de oferte nu sunt în enumerare. Problema e în explicație: ultima propoziție sprijină distractorul „Cererea de oferte” pe O.U.G. nr. 34/2006, act din afara corpusului, și pe afirmația neverificabilă că procedura „a fost înlocuită conceptual de procedura simplificată”. SPEC §4.8 cere ca ultima propoziție să trimită la text. Detaliu minor: în citat apare „[...]” între lit. f) și lit. g), deși în text nu se sare nimic între ele („f) negocierea fără publicare prealabilă; g) concursul de soluții;”).",
+  "propunere": "Ultima propoziție a explicației se înlocuiește cu: „«Cererea de oferte» nu figurează printre cele nouă proceduri enumerate limitativ la art. 68 alin. (1) lit. a)-i); sub pragurile de la art. 7 alin. (1), contractele se atribuie prin procedura simplificată (art. 7 alin. (2)).” În citat se elimină „[...]” dintre „negocierea fără publicare prealabilă;” și „g) concursul de soluții;”.",
+  "lot": "04",
+  "fisier": "L98-migrat.json"
+ },
+ {
+  "id": "L98B-032",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 90 alin. (3): „cel mai bun raport calitate-preț sau cel mai bun raport calitate-cost, prevăzute la art. 187 alin. (3) lit. a) și b)”). Dar enunțul nu numește actul (SPEC §4.3), iar explicația invocă istoricul modificărilor („în forma modificată prin Legea nr. 208/2022”) — informație care apare doar într-o §NOTA§ și e interzisă de SPEC §4.6.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, care sunt criteriile de atribuire care pot fi utilizate în cazul procedurii de dialog competitiv?” Explicație: începe cu „Art. 90 alin. (3) limitează criteriile de atribuire la dialogul competitiv la...” (se elimină „în forma modificată prin Legea nr. 208/2022”).",
+  "lot": "05",
+  "fisier": "L98B-migrat.json"
+ },
+ {
+  "id": "L98B-034",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 93 alin. (2): negocieri „la solicitarea autorității contractante ... având ca obiect confirmarea angajamentelor financiare sau a altor termeni sau condiții incluse în ofertă ... cu condiția ca aceste negocieri să nu conducă la modificări substanțiale ale aspectelor esențiale ... și să nu riște să denatureze concurența”). Enunțul nu numește actul (SPEC §4.3); distractorul cu „aprobarea prealabilă a Consiliului Concurenței” nu provine din Legea 98/2016 (SPEC §4.2), deci e ușor de eliminat.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, după desemnarea ofertei finale care prezintă cel mai bun raport calitate-preț în cadrul dialogului competitiv, se mai pot desfășura negocieri cu ofertantul respectiv?” Distractor nou în locul celui cu Consiliul Concurenței: „Nu; autoritatea contractantă poate doar să solicite clarificări, precizări și îmbunătățiri ale ofertelor finale, înainte de evaluare” (valoare reală din art. 92 alin. (7), cu alt rol).",
+  "lot": "05",
+  "fisier": "L98B-migrat.json"
+ },
+ {
+  "id": "L98B-035",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 94: „Autoritatea contractantă poate prevedea prime sau plăți pentru participanții la dialog în condițiile stabilite prin documentele achiziției”; v. și Norme art. 20 alin. (13)). Enunțul nu numește actul (SPEC §4.3); distractorul „avizul prealabil al Ministerului Finanțelor” nu are suport în lege (SPEC §4.2).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, poate autoritatea contractantă să acorde prime sau plăți participanților la etapa de dialog din cadrul dialogului competitiv?” Distractor nou: „Da, dar numai în cadrul unui concurs de soluții organizat ca procedură distinctă” (valoare reală din art. 105 lit. b), cu alt rol).",
+  "lot": "05",
+  "fisier": "L98B-migrat.json"
+ },
+ {
+  "id": "L98B-037",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 98 alin. (1)); distractorii trimit corect la art. 70(1) lit. d), art. 70(2), art. 104(5) lit. a). Singura problemă: enunțul nu numește actul (SPEC §4.3).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, în ce situație aplică autoritatea contractantă parteneriatul pentru inovare?”",
+  "lot": "05",
+  "fisier": "L98B-migrat.json"
+ },
+ {
+  "id": "L98B-039",
+  "verdict": "SUSPECT",
+  "motiv": "Cheile (lit. a)–c) ale art. 104 alin. (1)) și distractorul (art. 70 alin. (2): „au fost depuse numai oferte neconforme sau inacceptabile”) sunt corecte. Explicația însă se încheie cu istoric legislativ („fosta lit. d) a fost abrogată prin O.U.G. nr. 52/2024”) — informație din §NOTA§, interzisă de SPEC §4.6, iar ultima propoziție trebuie să fie o trimitere la textul în vigoare (SPEC §4.8). Fraza despre art. 70 alin. (3) e greu de urmărit (paranteză în paranteză).",
+  "propunere": "Înlocuiește ultima propoziție cu: „Distincția e dată de art. 215 alin. (5^1) și (6): oferta neadecvată este cea «lipsită de relevanță față de obiectul contractului», iar neconformitatea și inacceptabilitatea sunt definite separat la alin. (4) și (5).” Fraza cu art. 70: „Ofertele neconforme sau inacceptabile permit doar trecerea la negociere competitivă sau dialog competitiv (art. 70 alin. (2)), chiar fără anunț de participare în condițiile art. 70 alin. (3), dar nu la negocierea fără publicare prealabilă de la art. 104.”",
+  "lot": "05",
+  "fisier": "L98B-migrat.json"
+ },
+ {
+  "id": "L98B-040",
+  "verdict": "SUSPECT",
+  "motiv": "Cheile reproduc art. 104 alin. (2) lit. a)–c) (operă de artă/reprezentație artistică unică; „concurența lipsește din motive tehnice”; „protecția unor drepturi exclusive, inclusiv drepturi de proprietate intelectuală”). Enunțul citează „art. 104 alin. (2)” fără a numi actul (SPEC §4.3); explicația nu indică articolul de proveniență al distractorului cu prețul cel mai scăzut (SPEC §4.4) și se încheie cu o frază fără trimitere (SPEC §4.8).",
+  "propunere": "Enunț: „Potrivit art. 104 alin. (2) din Legea nr. 98/2016, care sunt motivele pentru care lucrările, produsele sau serviciile pot fi furnizate numai de către un anumit operator economic, justificând negocierea fără publicare prealabilă?” Explicație: „Prețul cel mai scăzut este un criteriu de atribuire (art. 187 alin. (3) lit. d)), nu un motiv de unicitate.” Ultima frază: „Motivele tehnice pot fi generate și de cerințe specifice de interoperabilitate (art. 104 alin. (3), teza finală).”",
+  "lot": "05",
+  "fisier": "L98B-migrat.json"
+ },
+ {
+  "id": "L98B-051",
+  "verdict": "SUSPECT",
+  "motiv": "Cheile reproduc art. 104 alin. (8) lit. a), c), d); distractorul 50% nu figurează acolo. Enunțul citează „art. 104 alin. (8)” fără a numi actul (SPEC §4.3), iar explicația nu indică articolul de unde vine valoarea de 50% (SPEC §4.4) — textul: art. 221 alin. (1) lit. b) („în limita a maximum 50% din valoarea contractului inițial”) și lit. c) pct. (iii), respectiv alin. (4).",
+  "propunere": "Enunț: „... Care dintre următoarele condiții trebuie îndeplinite în mod cumulativ, potrivit art. 104 alin. (8) din Legea nr. 98/2016?” Explicație: „Plafonul de 50% din valoarea contractului inițial nu figurează aici: el limitează lucrările/serviciile/produsele adiționale în regimul modificării contractului, la art. 221 alin. (1) lit. b) și lit. c) pct. (iii) și alin. (4).”",
+  "lot": "05",
+  "fisier": "L98B-migrat.json"
+ },
+ {
+  "id": "L98E-008",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 124 lit. a), b), c) L98. Explicația respinge însă distractorul („limitarea la maximum 20”) fără articolul care îl contrazice direct, art. 121 alin. (2): „autoritatea contractantă neavând dreptul de a limita numărul de candidați care vor fi admiși în cadrul sistemului”. Invocă doar art. 78 și 82 prin contrast, iar ultima frază e o concluzie, nu o trimitere (SPEC §4.4, §4.8). Cifra 20 nu provine din lege.",
+  "propunere": "Ultima frază a explicației: „Varianta cu limitarea la maximum 20 de operatori economici este greșită: potrivit art. 121 alin. (2), toți candidații care îndeplinesc criteriile de calificare și selecție sunt admiși în sistem, autoritatea contractantă neavând dreptul de a limita numărul acestora, spre deosebire de art. 78 alin. (2) și art. 82 alin. (2), care permit limitarea la licitația restrânsă și la negocierea competitivă.” Distractorul poate deveni: „De a limita numărul candidaților admiși în sistem, cu condiția asigurării unui număr minim de 5 candidați” (valoare reală din art. 78 alin. (4)).",
+  "lot": "06",
+  "fisier": "L98E-migrat.json"
+ },
+ {
+  "id": "L98E-009",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 127 alin. (1)-(2) Legea 98/2016), dar enunțul nu numește actul (SPEC §4 pct. 3: „Enunț autonom: numește actul”). În plus, explicația respinge varianta „convenit în scris cu toții participanții” printr-un „principiu al stabilirii unilaterale a regulilor procedurii” care nu apare în text; argumentul textual este art. 127 alin. (1): factorii sunt „stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului dinamic de achiziții”.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, pe baza căror elemente desemnează autoritatea contractantă oferta câștigătoare pentru o achiziție specifică realizată în cadrul unui sistem dinamic de achiziții?”. Explicație, fraza despre varianta cu acordul participanților: „Varianta cu criteriul convenit în scris cu toți participanții admiși contrazice art. 127 alin. (1), potrivit căruia criteriul și factorii sunt cei «stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului dinamic de achiziții», iar invitația de la art. 126 îi poate doar detalia (art. 127 alin. (2)).”",
+  "lot": "07",
+  "fisier": "L98E-migrat.json"
+ },
+ {
+  "id": "L98C-012",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4) e corectă conform art. 131 alin. (1) lit. a)-c) din Legea 98/2016, dar explicația: (1) conține istoric de modificare („în forma modificată prin O.U.G. nr. 107/2017”), interzis de SPEC §4 pct. 6; (2) respinge negocierea fără publicare cu o afirmație netextuală („procedură necompetitivă, incompatibilă cu licitarea electronică”) — textul doar nu o enumeră; (3) atribuie greșit condiția privind specificațiile tehnice alin. (2): ea e în alin. (1) („numai dacă conținutul documentelor achiziției, în special specificațiile tehnice, poate fi stabilit în mod precis”), alin. (2) privind doar anunțarea deciziei.",
+  "propunere": "Explicație: elimină „în forma modificată prin O.U.G. nr. 107/2017”; înlocuiește fraza despre negocierea fără publicare cu „Negocierea fără publicarea prealabilă a unui anunț de participare nu figurează în enumerarea limitativă din art. 131 alin. (1).”; ultima frază: „Condiție transversală: conținutul documentelor achiziției, în special specificațiile tehnice, trebuie să poată fi stabilit în mod precis (art. 131 alin. (1)), iar decizia de a organiza licitația electronică se anunță în anunțul de participare și în documentația de atribuire (art. 131 alin. (2)).”",
+  "lot": "07",
+  "fisier": "L98C-migrat.json"
+ },
+ {
+  "id": "L98C-015",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 136 alin. (3) Legea 98/2016: „nu poate dezvălui, în nicio situație, identitatea ofertanților”), dar enunțul nu numește actul (SPEC §4 pct. 3); restul explicației (art. 136 alin. (1) și alin. (2) lit. b)) este exact.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, pe parcursul desfășurării rundelor unei licitații electronice, în privința identității ofertanților, autoritatea contractantă:”",
+  "lot": "07",
+  "fisier": "L98C-migrat.json"
+ },
+ {
+  "id": "L98C-021",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4) e corectă: art. 142 numește „anunțurilor de intenție, anunțurilor de participare și a anunțurilor de atribuire”. Explicația e însă parțial inexactă: distractorul nu e inventat, ci provine din art. 18 alin. (1) din Normele H.G. 395/2016 (consultarea „se inițiază prin publicarea în SEAP, precum și prin orice alte mijloace, a unui anunț privind consultarea”), iar explicația nu dă această sursă (SPEC §4 pct. 4). Conține și afirmații fără temei textual: că regula de la art. 147 „nu i se aplică” și că anunțul de participare simplificat ar fi un „derivat” al categoriilor de la art. 142.",
+  "propunere": "Explicație, fraza despre distractor: „Anunțul privind consultarea pieței există, dar în Normele metodologice (art. 18 alin. (1) din H.G. nr. 395/2016), ca modalitate de inițiere a consultării reglementate de art. 139 din Lege; el nu figurează în enumerarea art. 142.” Elimină paranteza despre art. 147 și afirmația despre anunțul de participare simplificat; ultima frază: „Art. 146 prevede că anunțurile de la art. 142, «inclusiv anunțurile corespunzătoare tip erată», se transmit spre publicare prin mijloace electronice.”",
+  "lot": "07",
+  "fisier": "L98C-migrat.json"
+ },
+ {
+  "id": "L98C-026",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 147 alin. (1)-(2) din Legea 98/2016: publicarea națională e permisă dacă AC „nu a fost notificată... în termen de 48 de ore de la confirmarea primirii”); art. 150 alin. (4) și (6) (5 zile) și art. 148 sunt citate exact. Enunțul însă nu numește actul (SPEC §4 pct. 3), iar explicația adaugă o motivare netextuală („tocmai pentru a nu crea un avantaj informațional operatorilor naționali”).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, autoritatea contractantă a transmis spre publicare un anunț de participare către Oficiul pentru Publicații al Uniunii Europene. Când poate publica anunțul la nivel național?”. Explicație, prima frază: „Potrivit art. 147 alin. (1), anunțurile prevăzute la art. 142 nu pot fi publicate la nivel național înainte de data publicării acestora în JOUE.”",
+  "lot": "07",
+  "fisier": "L98C-migrat.json"
+ },
+ {
+  "id": "L98C-028",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (cele trei obligații de la art. 149 lit. a)-c)) e corectă. Probleme secundare: (1) enunțul nu numește actul (SPEC §4.3); (2) explicația conține o motivare speculativă, fără sprijin în text („risc reputațional și de influențare a presei”); (3) afirmația că „singurul aviz/punct de vedere obligatoriu în materie de excludere este cel al Consiliului Concurenței” e o digresiune neverificabilă ca „singurul” și amestecă avizul cu punctul de vedere de la art. 167 alin. (6) („solicită în scris Consiliului Concurenței punctul de vedere”) — legea mai cunoaște și „avizul conform” ANAP din controlul ex-ante (art. 196 alin. (2)); (4) distractorul CNA nu provine din Legea 98/2016 (SPEC §4.2).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, la atribuirea contractelor de publicitate media cu valoare estimată mai mare sau egală cu pragul de la art. 7 alin. (1) lit. b), care sunt obligațiile specifice de publicitate și transparență, suplimentare celor obișnuite, ale autorității contractante?” Explicație: se elimină fraza despre „risc reputațional” și fraza despre „singurul aviz”, înlocuite cu: „Art. 149 nu prevede niciun aviz prealabil asupra documentației de atribuire; legea nu atribuie Consiliului Național al Audiovizualului niciun rol în atribuirea acestor contracte.” Ultima frază: „Art. 149 precizează că aceste obligații sunt «suplimentare celor prevăzute de dispozițiile prezentei secțiuni» privind publicitatea contractelor de servicii.” Opțional, distractorul CNA se înlocuiește cu unul din lege: „Publicarea anunțului de participare numai pe pagina proprie de internet, fără publicare pe platforma electronică”.",
+  "lot": "08",
+  "fisier": "L98C-migrat.json"
+ },
+ {
+  "id": "L98C-033",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia („informațiile transmise ... sunt nesemnificative”) e corectă (art. 153 alin. (4)), dar distractorul „Când răspunsul la o solicitare de clarificări formulată în termen nu a fost transmis în termenele prevăzute la art. 161” e apărabil literal din aceeași normă: art. 153 alin. (4) – „În cazul în care informațiile suplimentare nu au fost transmise în timp util [...] autoritatea contractantă nu are obligația de a prelungi perioada” – contrazis de art. 153 alin. (1) lit. a). Explicația însăși spune că varianta „rămâne discutabilă” și că întrebarea e „de verificat” (interzis), iar argumentul se sprijină pe Directiva 2014/24/UE, act din afara corpusului. Enunțul nu numește actul.",
+  "propunere": "Distractorul contestat se înlocuiește cu: „Când răspunsul la clarificări, transmis în termenele prevăzute la art. 161, modifică semnificativ documentele achiziției” (prelungire obligatorie, art. 153 alin. (1) lit. b)); sau, pentru a nu dubla varianta cu modificarea semnificativă: „Când documentele achiziției nu pot fi accesate electronic din motive de protejare a naturii confidențiale a informațiilor, în afara situațiilor de urgență” (art. 150 alin. (5)-(6), prelungire cu 5 zile). Enunț: „Potrivit Legii nr. 98/2016, în care dintre următoarele situații autoritatea contractantă NU are obligația de a prelungi perioada pentru depunerea ofertelor?” Explicația se rescrie fără mențiunea „de verificat”, fără Directivă și fără „discutabilă”: „Art. 153 alin. (4) scutește autoritatea contractantă de prelungire când informațiile transmise sunt nesemnificative în ceea ce privește elaborarea ofertelor. Modificarea semnificativă a documentelor achiziției obligă la prelungire (art. 153 alin. (1) lit. b)), cu cel puțin 6 zile (art. 153 alin. (3)). Imposibilitatea accesului electronic la o parte din documente, indicată în anunț, obligă la prelungirea termenului cu 5 zile (art. 150 alin. (4)).”",
+  "lot": "08",
+  "fisier": "L98C-migrat.json"
+ },
+ {
+  "id": "L98C-034",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 154 alin. (2): „nu poate depăși 1% din valoarea estimată a contractului [...] sau, în cazul acordului-cadru, din valoarea estimată a celui mai mare contract subsecvent”). Explicația justifică distractorul de 2% prin „legislația anterioară (O.U.G. nr. 34/2006)” — act din afara corpusului și istoric legislativ (SPEC §4.6, §4.8); valoarea de 2% nu apare în Legea 98/2016. Enunțul nu numește actul.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, care este valoarea maximă a garanției de participare pe care o poate solicita autoritatea contractantă?” În explicație, fraza cu O.U.G. 34/2006 se înlocuiește cu: „Pragul de 2% apare în Normele aprobate prin H.G. nr. 395/2016, dar cu alt rol: plafonul valorii totale a primelor acordate participanților la dialogul competitiv (art. 20 alin. (14) din Norme), iar 10% este plafonul garanției de bună execuție, calculat asupra prețului contractului fără TVA (art. 154 alin. (3)).” Ultima frază: „Potrivit art. 154 alin. (2) și (3), solicitarea garanției de participare este un drept al autorității contractante, iar garanția de bună execuție este obligatorie, cu excepțiile expres prevăzute.”",
+  "lot": "08",
+  "fisier": "L98C-migrat.json"
+ },
+ {
+  "id": "L98C-037",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 154 alin. (4) lit. b) pct. (ii): „lucrări [...] mai mică sau egală cu 40.000.000 lei fără TVA și respectiv [...] produse sau servicii [...] mai mică sau egală cu 7.000.000 lei fără TVA”). Probleme secundare: enunțul nu numește actul (SPEC §4.3); explicația conține istoric legislativ („în forma dată de O.U.G. nr. 136/2022”, SPEC §4.6) și o motivare speculativă fără sprijin în text („limita există tocmai pentru că instituțiile financiare nebancare nu au aceeași soliditate”, „lucrărilor, care au în mod obișnuit valori mult mai ridicate”).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, scrisorile de garanție emise de instituții financiare nebancare pot fi utilizate pentru constituirea garanțiilor în limita următoarelor valori estimate:” Explicația: se elimină „în forma dată de O.U.G. nr. 136/2022” și fraza „Valorile sunt exprimate fără TVA, iar limita există tocmai pentru că...”, înlocuită cu: „Ambele praguri sunt exprimate fără TVA, ceea ce infirmă varianta cu 40.000.000 lei cu TVA, indiferent de obiect; scrisorile emise de instituții de credit bancare nu au o asemenea limită (art. 154 alin. (4) lit. b) pct. (i)).” Capcana se formulează fără justificarea „valori mult mai ridicate”: „Varianta cu 7.000.000 lei pentru lucrări și 40.000.000 lei pentru produse sau servicii inversează pragurile din pct. (ii).”",
+  "lot": "08",
+  "fisier": "L98C-migrat.json"
+ },
+ {
+  "id": "L98-N501",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 173 alin. (1): „în conformitate cu cerințele legale din țara în care este stabilit operatorul economic”). Trimitere inexactă în explicație: „Caietul de sarcini cuprinde specificațiile tehnice (art. 155 alin. (1))” — art. 155 alin. (1) din Lege spune doar că „Specificațiile tehnice sunt stabilite prin documentația de atribuire”, fără a menționa caietul de sarcini; regula e în art. 20 alin. (10) din Norme: „Caietul de sarcini conține, în mod obligatoriu, specificații tehnice ...”.",
+  "propunere": "Înlocuiește fraza cu: „Caietul de sarcini conține specificațiile tehnice ale obiectului achiziției (art. 20 alin. (10) din Normele aprobate prin H.G. nr. 395/2016), nu regulile după care se dovedește înregistrarea operatorului.”",
+  "lot": "09",
+  "fisier": "L98-N5.json"
+ },
+ {
+  "id": "L98-N507",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 181: „... sunt prevăzute în anunțul de participare”). Două afirmații secundare inexacte în explicație: (1) „Caietul de sarcini cuprinde specificațiile tehnice ... (art. 155 alin. (1))” — art. 155 alin. (1) spune doar că „Specificațiile tehnice sunt stabilite prin documentația de atribuire”; regula despre caietul de sarcini este art. 20 alin. (10) din Norme („Caietul de sarcini conține, în mod obligatoriu, specificații tehnice ...”); (2) ultima frază („Cerința de a include aceste elemente în anunț corespunde regulii de la art. 172 alin. (5)”) e o legătură neîntemeiată: art. 172 alin. (5) privește legătura cu obiectul contractului și proporționalitatea, nu locul în care se prevăd cerințele.",
+  "propunere": "Fraza (1): „Caietul de sarcini conține specificațiile tehnice ale obiectului achiziției (art. 20 alin. (10) din Normele aprobate prin H.G. nr. 395/2016), nu criteriile de capacitate ale ofertanților; criteriile de calificare care apar în caietul de sarcini dar nu și în anunț sunt considerate clauze nescrise (art. 30 alin. (6) din Norme).” Ultima frază înlocuită cu: „Potrivit art. 30 alin. (6) din Norme, criteriile de calificare și selecție care nu sunt prevăzute în anunțul de participare/simplificat/de concurs sunt considerate clauze nescrise.”",
+  "lot": "09",
+  "fisier": "L98-N5.json"
+ },
+ {
+  "id": "L98C-052",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 182 alin. (1), art. 183 alin. (2), art. 184; varianta falsă e contrazisă de art. 182 alin. (2): „doar atunci când acesta va desfășura efectiv lucrările sau serviciile”). Minor: explicația conține o referire la istoricul modificărilor („Art. 184, în forma dată de Legea nr. 208/2022”), preluată dintr-o linie §NOTA§, contrar SPEC §4 pct. 6 (se testează și se explică norma în vigoare, fără istoric).",
+  "propunere": "Înlocuiește „Art. 184, în forma dată de Legea nr. 208/2022, impune ...” cu „Art. 184 impune ...”.",
+  "lot": "09",
+  "fisier": "L98C-migrat.json"
+ },
+ {
+  "id": "L98D-008",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (art. 197 alin. (1) și (2)) e corectă. Explicația conține însă o afirmație neîntemeiată pe text pentru distractorul „sub pragul achiziției directe”: „Sub pragul achiziției directe nu se aplică deloc procedurile cu DUAE, deci distractorul e irelevant juridic” — nicio prevedere citată/din art. 193-197 nu spune asta, iar SPEC §4.4 cere articolul de unde vine valoarea distractorului. Art. 197 nu conține nicio excepție legată de valoare; singurele excepții sunt „autoritatea contractantă are posibilitatea de a obține certificatele sau informațiile relevante în mod direct, prin accesarea unei baze de date naționale” (alin. (1)) și „autoritatea contractantă care a atribuit contractul ... este deja în posesia documentelor respective” (alin. (2)).",
+  "propunere": "Înlocuiește fraza cu: „Art. 197 nu prevede nicio excepție legată de valoarea estimată; pragurile de la art. 7 alin. (5) privesc dreptul de a achiziționa direct, nu scutirea de documente justificative în sprijinul DUAE.”",
+  "lot": "10",
+  "fisier": "L98D-migrat.json"
+ },
+ {
+  "id": "L98E-013",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 216 alin. (4): „nu este obligată să redacteze raportul [...] în legătură cu contractele subsecvente [...] art. 117 sau art. 118 alin. (1) lit. a)”). Ultima frază a explicației („numai achiziția directă, care nu este procedură de atribuire, iese complet din sfera art. 216”) nu are suport în text: art. 216 alin. (1) vorbește de „fiecare contract de achiziție publică atribuit”, iar singura excepție expresă e alin. (4); în plus, încalcă SPEC §4 pct. 8 (ultima propoziție trebuie să fie o trimitere la text, nu o concluzie generală).",
+  "propunere": "Înlocuiește ultima frază cu: „Singura exceptare expresă de la obligația raportului este cea de la art. 216 alin. (4), pentru contractele subsecvente ale acordurilor-cadru încheiate potrivit art. 117 sau art. 118 alin. (1) lit. a).”",
+  "lot": "11",
+  "fisier": "L98E-migrat.json"
+ },
+ {
+  "id": "L98E-014",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 217 alin. (6): „într-un termen care nu poate depăși o zi lucrătoare de la data primirii cererii”), dar: (1) enunțul nu numește actul (SPEC §4 pct. 3); (2) explicația invocă istoricul modificărilor („în forma dată de O.U.G. nr. 114/2020”), interzis de SPEC §4 pct. 6 și neverificabil din textul normativ (doar din §NOTA§); (3) motivarea „tocmai pentru a face efectivă exercitarea căilor de atac în termenele scurte din Legea nr. 101/2016” nu apare în text.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, după comunicarea rezultatului procedurii, un ofertant solicită în scris accesul la raportul procedurii de atribuire. În ce termen trebuie să îi permită autoritatea contractantă acest acces?”. Explicație: se elimină „în forma dată de O.U.G. nr. 114/2020” și fragmentul „tocmai pentru a face efectivă exercitarea căilor de atac în termenele scurte din Legea nr. 101/2016”; fraza devine „...descrie regula generală de la art. 217 alin. (5), față de care alin. (6) instituie o excepție («Prin excepție de la prevederile alin. (5)»).”",
+  "lot": "11",
+  "fisier": "L98E-migrat.json"
+ },
+ {
+  "id": "L98E-016",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (lit. a), b), c) din art. 221 alin. (7)) și distractorul de 6 luni sunt corecte. Afirmația secundară din explicație este însă inexactă: „Consecința calificării ca substanțială este că modificarea nu mai poate fi făcută în temeiul art. 221 alin. (1) lit. e), fiind necesară o nouă procedură de atribuire (art. 222 alin. (1))”. Art. 221 alin. (7) începe cu „Fără a aduce atingere prevederilor alin. (1)”, iar alin. (1) lit. f) permite modificarea „fără a exista nevoia de a verifica dacă sunt îndeplinite condițiile prevăzute la alin. (7) lit. a)-d)”. O modificare substanțială poate fi deci făcută fără procedură nouă în temeiul lit. a)-d) sau f). Art. 222 alin. (1) cere procedură nouă doar pentru modificările făcute „altfel decât în cazurile și condițiile prevăzute la art. 221”.",
+  "propunere": "Înlocuiește fraza cu: „Consecința calificării ca substanțială este că modificarea nu mai poate fi făcută în temeiul art. 221 alin. (1) lit. e); dacă nu se încadrează nici în celelalte cazuri de la art. 221 alin. (1) (lit. a)-d) sau f)), ea se realizează numai prin organizarea unei noi proceduri de atribuire, potrivit art. 222 alin. (1).”",
+  "lot": "12",
+  "fisier": "L98E-migrat.json"
+ },
+ {
+  "id": "L98-N613",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia este corectă (art. 222^2 alin. (5)), iar distractorii sunt atribuiți corect: 50% la art. 221, 10% la lit. f) pct. (ii), indicele general contrar alin. (1) și (3). Ultima frază a explicației redă însă inexact alin. (6): „art. 222^2 alin. (6) interzice ca modul de ajustare să schimbe rezultatul procedurii...”. Textul complet este: „Modul de ajustare nu trebuie să conducă în niciun caz la schimbarea rezultatului procedurii de atribuire, prin anularea sau diminuarea avantajului competitiv pe baza căruia contractantul respectiv a fost declarat câștigător în urma finalizării respectivei proceduri, cu excepția cazului prevăzut la alin. (5).” Explicația omite tocmai excepția care trimite la alin. (5), adică la regula din cheie. Și citatul din `sursa` e trunchiat înaintea acestei excepții.",
+  "propunere": "Ultima frază devine: „În plus, art. 222^2 alin. (6) interzice ca modul de ajustare să schimbe rezultatul procedurii prin anularea sau diminuarea avantajului competitiv al contractantului, cu excepția cazului prevăzut la alin. (5).” Completează citatul din `sursa` cu „... declarat câștigător în urma finalizării respectivei proceduri, cu excepția cazului prevăzut la alin. (5).”",
+  "lot": "12",
+  "fisier": "L98-N6.json"
+ }
+]

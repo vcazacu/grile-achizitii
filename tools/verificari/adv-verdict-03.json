@@ -1,0 +1,182 @@
+[
+ {
+  "id": "L98-N108",
+  "verdict": "OK",
+  "motiv": "Art. 38 alin. (7) din Legea 98/2016: pentru părți neseparabile fără elemente art. 346 TFUE se aplică O.U.G. 114/2011 („în caz contrar”). Distractorii (alin. (1), (6), prima ipoteză a alin. (7)) nu sunt apărabili; explicația e exactă.",
+  "propunere": ""
+ },
+ {
+  "id": "L98E-002",
+  "verdict": "OK",
+  "motiv": "Art. 39 alin. (5): „părțile convin asupra procedurilor de atribuire aplicabile” la cofinanțare în cea mai mare parte; alin. (4) cere finanțare integrală; alin. (2)-(3) confirmă rolul ANAP descris în explicație.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N109",
+  "verdict": "OK",
+  "motiv": "Art. 41 alin. (1) lit. a), b), d) redate corect; reluarea competiției la acord-cadru al UAC e activitate proprie pentru care art. 41 alin. (2) lit. b) impune aplicarea legii. 3/4 corecte.",
+  "propunere": ""
+ },
+ {
+  "id": "L500-N105",
+  "verdict": "OK",
+  "motiv": "Art. 11 alin. (2) redat literal; trimiterile la art. 2 alin. (1) pct. 16, 33 și 35^1 verificate.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N102",
+  "verdict": "OK",
+  "motiv": "Art. 22 alin. (2) Norme trimite la art. 20 alin. (1) lit. b)-d) și art. 21 alin. (3) (declarația + strategia de contractare); DUAE și instrucțiunile sunt lit. a), excluse. Art. 20 alin. (5) (atașarea DUAE) citat corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L98E-004",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 42: „Toate procedurile de atribuire organizate de o unitate de achiziții centralizate se realizează prin mijloace electronice de comunicare”), dar paranteza din explicație redă incomplet art. 52 alin. (1) din Norme, deși îl declară „enumerat limitativ”: textul are 5 situații, lit. a)-e), inclusiv „mostre, machete sau modele la scară redusă care nu pot fi transmise prin mijloace electronice” (lit. d)) și securitatea/natura sensibilă a informațiilor (lit. e)). În plus, obligația de motivare în raport apare și la art. 52 alin. (3) din Norme, nu doar la art. 216 alin. (2) lit. h) din Lege. Formularea „ca regulă” de la începutul explicației slăbește caracterul absolut al textului („Toate”).",
+  "propunere": "Înlocuiește începutul explicației cu „Art. 42 prevede că TOATE procedurile de atribuire organizate de o unitate de achiziții centralizate se realizează prin mijloace electronice de comunicare, în conformitate cu art. 64-66 și cu normele metodologice.”, iar paranteza cu: „situațiile fiind enumerate limitativ la art. 52 alin. (1) lit. a)-e) din Normele metodologice aprobate prin H.G. nr. 395/2016 (de ex. instrumente sau formate de fișiere care nu sunt disponibile cu caracter general, echipamente de birou specializate, mostre ori machete care nu pot fi transmise electronic, protecția informațiilor deosebit de sensibile), iar motivele se indică în raportul procedurii potrivit art. 52 alin. (3) din Norme și art. 216 alin. (2) lit. h) din Lege”."
+ },
+ {
+  "id": "L98E-005",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 43 alin. (3): atribuirea serviciilor auxiliare „altfel decât de către o unitate de achiziții centralizate ... se realizează prin aplicarea procedurilor de atribuire reglementate de prezenta lege în cazul contractelor de achiziție publică de servicii”), dar enunțul nu numește actul (SPEC §4 pct. 3); explicația e exactă.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, o autoritate contractantă dorește să contracteze servicii constând în furnizarea de activități de achiziție AUXILIARE de la un operator economic care nu are calitatea de unitate de achiziții centralizate. Cum trebuie să procedeze?”"
+ },
+ {
+  "id": "N395A-047",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 24 alin. (5) din Norme (singurul alineat în vigoare al art. 24) prevede „în cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege și, în cazul anunțului de participare simplificat, în cel mult două zile lucrătoare de la primirea acceptului de publicare”. Probleme: (1) enunțul nu numește actul (Normele H.G. 395/2016), SPEC §4 pct. 3; (2) explicația afirmă că „art. 26 arată chiar că termenele controlului ex ante trebuie mai întâi să expire” — art. 26 privește doar înștiințarea AC când operatorul SEAP nu poate transmite anunțul la JOUE, nu condiționează publicarea în SEAP; condiția de publicare este art. 147 din Lege (anunțurile nu pot fi publicate la nivel național înainte de publicarea în JOUE, cu excepția celor 48 de ore de la alin. (2)).",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în ce termene are obligația operatorul SEAP de a publica anunțurile în SEAP?”. În explicație, înlocuiește fraza despre art. 26 cu: „Nici emiterea avizului conform nu declanșează publicarea în aceeași zi: termenul de o zi lucrătoare curge de la îndeplinirea condițiilor art. 147 din Lege, potrivit căruia anunțurile nu pot fi publicate la nivel național înainte de publicarea în JOUE, cu excepția situației în care OPUE nu a notificat publicarea în 48 de ore de la confirmarea primirii (art. 147 alin. (2)).”"
+ },
+ {
+  "id": "L500-012",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (titlurile de la art. 8-13: universalitate, publicitate, unitate, anualitate, specializare bugetară, unitate monetară; „echilibrul bugetar” apare doar ca obiectiv, la art. 18 alin. (2) lit. c) și art. 49 alin. (4)). Ultima propoziție a explicației invocă Legea nr. 273/2006, act din afara corpusului, cu o afirmație neverificabilă („unde enumerările diferă”) și încheie cu o concluzie generală, nu cu o trimitere la text (SPEC §4 pct. 8). Sursa indică doar art. 12, deși întrebarea acoperă art. 8-13.",
+  "propunere": "Înlocuiește ultima propoziție cu: „Echilibrul bugetar apare în lege doar ca obiectiv al Guvernului (art. 18 alin. (2) lit. c)) și al limitelor lunare de cheltuieli (art. 49 alin. (4)), nu ca principiu bugetar în secțiunea art. 8-13.” și sursa.articol: „art. 8-13”."
+ },
+ {
+  "id": "N395-N103",
+  "verdict": "OK",
+  "motiv": "Art. 26 din Norme redat corect; distractorii provin din art. 7 (3 zile lucrătoare, modificarea datelor de înregistrare), art. 56 (o zi lucrătoare de la confirmarea OPUE) și art. 24 alin. (5) (două zile lucrătoare, anunț simplificat) — toate verificate.",
+  "propunere": ""
+ },
+ {
+  "id": "ALOP-012",
+  "verdict": "OK",
+  "motiv": "Pct. 1 lit. a) din Normele ALOP: „Angajamentul legal ia forma unui contract de achiziție publică, comanda, convenție, contract de muncă, acte de control, acord de împrumut etc.”; OPHT este instrument de plată (pct. 4). Plata e făcută de persoanele numite generic „contabil” — afirmația din explicație e susținută.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N110",
+  "verdict": "OK",
+  "motiv": "Art. 47 alin. (2): pot conveni „asupra aplicării legislației naționale interne a oricăruia dintre statele membre unde sunt situate autoritățile contractante participante”. Distractorii vin corect din art. 46 alin. (2)-(3) și art. 48 alin. (1); art. 47 alin. (3) citat corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L101A-015",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 9 alin. (6) din Legea 101/2016 — „măsurile de remediere adoptate potrivit alin. (1) privesc numai loturile pentru care s-a depus contestație”; art. 9 alin. (1) („în cel mult 3 zile de la primirea contestației”) confirmă explicația. Dar enunțul nu numește actul (SPEC §4 pct. 3).",
+  "propunere": "Enunț: „Potrivit Legii nr. 101/2016, o procedură de atribuire este împărțită pe 5 loturi, iar un ofertant depune contestație doar pentru lotul 2. Măsurile de remediere adoptate de autoritatea contractantă ca urmare a contestației:”"
+ },
+ {
+  "id": "L98E-006",
+  "verdict": "OK",
+  "motiv": "Art. 48 alin. (1) lit. a)-b) și alin. (2) redate corect; art. 48 nu prevede limită de 4 ani (valoare din art. 115 alin. (1)). 3/4 corecte.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N111",
+  "verdict": "OK",
+  "motiv": "Art. 49 alin. (2): „un tratament egal cu cel acordat lucrărilor, produselor, serviciilor și operatorilor economici din Uniunea Europeană”; art. 53 alin. (1) enumeră calitățile de ofertant asociat/terț susținător/subcontractant, cum spune explicația.",
+  "propunere": ""
+ },
+ {
+  "id": "OUGA-010",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 7 alin. (1) lit. a)-b) din O.U.G. 98/2017 („rezultatul selecției să nu fie predictibil”; „să fie flexibilă, și anume parțial bazată pe alegerea aleatorie ..., parțial pe indicatori de risc”). Enunțul însă nu numește actul (SPEC §4 pct. 3), iar explicația nu indică articolul pentru afirmația despre accentul pe categoriile cu riscul cel mai mare (art. 7 alin. (3)).",
+  "propunere": "Enunț: „Potrivit O.U.G. nr. 98/2017, ce principii urmărește metodologia de selecție a procedurilor de atribuire supuse controlului ex ante?”. În explicație: „...selecția pune accent pe contractele din categoriile cu riscul cel mai mare (art. 7 alin. (3)).”"
+ },
+ {
+  "id": "L98B-002",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 52 alin. (1) din Legea 98/2016 — operatorii „nu pot fi respinși numai pe motiv că, în temeiul legislației statului membru în care se atribuie contractul, sunt obligați să fie persoane fizice sau persoane juridice”. Enunțul nu numește actul (SPEC §4 pct. 3). Secundar: distractorul „cu excepția operatorilor economici din state terțe” are un sâmbure apărabil, pentru că entitățile din state terțe care nu se încadrează în art. 3 alin. (1) lit. jj) se exclud potrivit art. 53 alin. (1^1) — dar pentru alt motiv decât forma juridică; explicația ar trebui să citeze exact lit. jj) și art. 53 alin. (1^1).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, un operator economic care, potrivit legislației statului în care este stabilit, are dreptul să presteze o activitate inclusă în obiectul achiziției poate fi respins de autoritatea contractantă numai pe motiv că legislația statului membru în care se atribuie contractul i-ar impune să fie persoană fizică sau persoană juridică?”. În explicație: „(participarea operatorilor din state terțe depinde de încadrarea în definiția de la art. 3 alin. (1) lit. jj), iar cei care nu se încadrează sunt excluși potrivit art. 53 alin. (1^1), adică pentru alt motiv decât forma juridică)”."
+ },
+ {
+  "id": "L98B-004",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 54 alin. (1) și (2) din Legea 98/2016 — forma juridică poate fi cerută doar celor „a căror ofertă a fost desemnată câștigătoare ..., cu condiția ca acest lucru să fi fost prevăzut în anunțul de participare și documentația de atribuire și în măsura în care ... este necesară pentru executarea în mod corespunzător”. Doar enunțul nu numește actul (SPEC §4 pct. 3).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, în ce condiții poate autoritatea contractantă să solicite operatorilor economici care participă în comun la procedură să adopte o anumită formă juridică?”"
+ },
+ {
+  "id": "OUGB-020",
+  "verdict": "OK",
+  "motiv": "Art. 4 alin. (7) lit. a), c), d) din Normele H.G. 419/2018 redate corect; alegerea tipului de procedură e aspect de calitate (art. 4 alin. (1) lit. a)); trimiterea la alin. (2) e corectă.",
+  "propunere": ""
+ },
+ {
+  "id": "N395A-055",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 32 alin. (8) lit. a)-b) din Normele H.G. 395/2016; distractorii provin corect din art. 32 alin. (3) și alin. (9) lit. a). Dar enunțul spune doar „din Norme”, deși corpusul are două seturi de norme (H.G. 395/2016 și H.G. 419/2018) — SPEC §4 pct. 3 cere numirea actului.",
+  "propunere": "Enunț: „Ce categorii de factori de evaluare nu are dreptul să utilizeze autoritatea contractantă, potrivit art. 32 alin. (8) din Normele metodologice aprobate prin H.G. nr. 395/2016?”"
+ },
+ {
+  "id": "L98B-006",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 56 alin. (1) — rezervare „doar unităților protejate autorizate conform Legii nr. 448/2006 ... și întreprinderilor sociale de inserție prevăzute de Legea nr. 219/2015”. Dar explicația afirmă că IMM-urile „beneficiază de alte facilități în legislația achizițiilor (de exemplu la garanții)” — nicio prevedere din Legea 98/2016 sau din Normele H.G. 395/2016 (forma la zi) nu prevede o facilitate pentru IMM la garanții; singura referire la IMM din Lege este la împărțirea pe loturi (art. 3 alin. (1) lit. dd) și art. 141 alin. (2)). Afirmație neverificabilă din corpus (SPEC §4 pct. 8).",
+  "propunere": "Înlocuiește fraza despre IMM cu: „IMM-urile nu sunt beneficiari ai contractelor rezervate; legea le are în vedere la împărțirea pe loturi, al căror obiect se adaptează capacității întreprinderilor mici și mijlocii (art. 141 alin. (2)).”"
+ },
+ {
+  "id": "OUGA-011",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 7 alin. (6) din O.U.G. 98/2017 — ANAP verifică „măsurile de remediere adoptate de către autoritatea contractantă ... până la semnarea contractului ... indiferent dacă procedurile ... au fost incluse sau nu în programul de verificare”; art. 14 alin. (9^1) (fără aviz conform, constatări comunicate ANI) citat corect. Enunțul însă nu numește actul (SPEC §4 pct. 3).",
+  "propunere": "Enunț: „Potrivit O.U.G. nr. 98/2017, ce verifică ANAP în cadrul controlului ex ante după comunicarea unui avertisment de integritate emis de Agenția Națională de Integritate?”"
+ },
+ {
+  "id": "L500-N106",
+  "verdict": "OK",
+  "motiv": "Art. 14^1 redat literal; trimiterile la art. 1 alin. (2) lit. i), art. 30 alin. (2) și art. 16 alin. (1) lit. f) verificate.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-007",
+  "verdict": "OK",
+  "motiv": "Art. 57 alin. (1) și (4): confidențiale doar datele „indicate și dovedite” ca date cu caracter personal, secrete tehnice sau comerciale ori protejate de un drept de proprietate intelectuală; art. 57 alin. (2) (art. 145 și 215) citat corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-008",
+  "verdict": "OK",
+  "motiv": "Art. 59 redat corect; ofertanții/candidații apar doar în situațiile exemplificative de la art. 60 alin. (1) lit. d)-f).",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-045",
+  "verdict": "OK",
+  "motiv": "Art. 60 alin. (1) lit. a), d), e) redate corect; distractorul (contract atribuit în ultimii 3 ani) provine din art. 112 alin. (2) lit. d); pragul de 10% de la art. 60 alin. (2) e corect.",
+  "propunere": ""
+ },
+ {
+  "id": "N395A-061",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă ca regulă (art. 37 alin. (1) lit. a), b), c) din Normele H.G. 395/2016), dar: (1) enunțul nu numește actul (SPEC §4 pct. 3); (2) explicația semnalează doar excepția de la alin. (2) (acord-cadru, lit. b)), nu și pe cea de la alin. (3), care privește chiar varianta-cheie cu refuzul semnării: „Autoritatea contractantă nu reține garanția de participare în cazul în care ofertantul desemnat câștigător refuză să semneze ... [procedură] care a făcut obiectul controlului ex ante și în care ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a derulat și finalizat procedura ... fără a remedia abaterile”; (3) mențiunea „introdusă în 2023” e istoric al modificărilor (SPEC §4 pct. 6).",
+  "propunere": "Enunț: „Potrivit art. 37 alin. (1) din Normele metodologice aprobate prin H.G. nr. 395/2016, în care dintre următoarele situații are autoritatea contractantă obligația de a reține garanția de participare?”. În explicație: șterge „, introdusă în 2023” și adaugă la final: „Excepții: la acordul-cadru nu se aplică lit. b) (alin. (2)), iar refuzul semnării nu atrage reținerea când ANAP a emis aviz conform condiționat și autoritatea a finalizat procedura fără a remedia abaterile (alin. (3)).”"
+ },
+ {
+  "id": "L98B-014",
+  "verdict": "OK",
+  "motiv": "Art. 64 alin. (4): „elementele esențiale ale procedurii de atribuire includ documentele achiziției, solicitările de participare și ofertele”; solicitările de clarificări ale operatorilor nu sunt documente emise de AC (art. 3 alin. (1) lit. y)). Alin. (1), (3), (5) citate corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N112",
+  "verdict": "OK",
+  "motiv": "Art. 66 alin. (2) lit. a) redat corect; distractorii provin corect din art. 65 alin. (3), art. 66 alin. (2) lit. b) și art. 63 alin. (2) (5 zile).",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N113",
+  "verdict": "OK",
+  "motiv": "Art. 67 lit. a) redat corect (prin normele metodologice, „cu luarea în considerare a progresului tehnologic”); trimiterile la art. 67 lit. b)-c), art. 40 și art. 46 alin. (5) verificate.",
+  "propunere": ""
+ }
+]

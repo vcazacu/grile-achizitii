@@ -57,3 +57,10 @@ Niciuna: intervalele temelor din `bibliografie.TEME` (luate din `00_Ghid_tematic
 exact unitățile din `BIB` pe textul la zi — `test_teme.py`: „OK: trasabilitate completă”. Unități abrogate în forma la zi
 (rămân în BIB, fără întrebări despre conținut): Normele H.G. 395 art. 2, 23–25, 28, 36, 38, 40, 42–44, 46, 93, 101, 164,
 165^1; O.U.G. 98/2017 art. 8; Legea 101/2016 art. 6, 7, 36.
+
+## Unități formale scoase din bibliografie (27.09.2026, după verificarea adversarială)
+
+Verificatorii au respins ca triviale (SPEC §4.6) întrebările pe unități fără conținut normativ de examen; în loc să
+păstrăm întrebări slabe doar pentru acoperire, unitățile ies din `BIB`:
+- Normele H.G. 419/2018, art. 21 — „anexele nr. 1.1–1.3 fac parte integrantă din prezentele norme”;
+- Ordinul M.F.P. nr. 1.792/2002, preambulul (lista actelor în temeiul cărora se emite) și art. 3 (publicarea în Monitorul Oficial).

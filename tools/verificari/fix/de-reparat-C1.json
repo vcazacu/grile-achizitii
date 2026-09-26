@@ -1,0 +1,232 @@
+[
+ {
+  "id": "ALOP-002",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă, dar enunțul e ambiguu și de nivel scăzut (SPEC §4.6-4.7: testează numere de acte din preambul). Formal, preambulul numește ca „temei” doar H.G. nr. 18/2001: „În temeiul art. 14 alin. (1) din Hotărârea Guvernului nr. 18/2001”. Legea 500/2002 și O.G. 119/1999 sunt „avute în vedere”, iar Legea 82/1991 apare „în baza prevederilor”. Astfel, un candidat riguros poate contesta faptul că toate cele trei variante-cheie sunt „invocate ca temei”.",
+  "propunere": "Enunțul nou: „Care dintre următoarele acte normative sunt menționate în preambulul Ordinului M.F.P. nr. 1.792/2002 privind aprobarea Normelor metodologice ALOP?” O variantă preferabilă: întrebarea se înlocuiește cu una de fond din Normele ALOP (fazele execuției bugetare, delegarea atribuțiilor).",
+  "lot": "01",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-009",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (Norme ALOP pct. 1: „Creditul de angajament reprezintă limita maximă a cheltuielilor ce pot fi angajate, în timpul exercițiului bugetar, în limitele aprobate”). Dar: (1) ultima propoziție a explicației („Ambele definiții au fost introduse în norme prin Ordinul nr. 547/2009”) e istoric preluat din §NOTA§ — interzis de SPEC §4 pct. 6 și pct. 8 (ultima frază trebuie să fie trimitere la text); (2) dihotomia „creditul bugetar privește ordonanțarea și plata” e inexactă: definiția include „respectiv se pot angaja, ordonanța și efectua plăți din buget pentru celelalte acțiuni”, iar pct. 1 prevede „Angajarea cheltuielilor bugetare, altele decât cele care privesc acțiuni multianuale, se face numai în limita creditelor bugetare aprobate”; (3) pentru distractorul cu rezervarea/blocarea nu se indică locul (pct. 1 lit. b), paragraful despre angajamentele bugetare: „se pun în rezervă (se blochează) creditele aferente unei cheltuieli, potrivit destinației prevăzute în buget”).",
+  "propunere": "În explicație: „capcana clasică între cele două noțiuni: creditul de angajament limitează angajarea, iar creditul bugetar limitează ordonanțarea și plata (și, pentru acțiunile care nu sunt multianuale, și angajarea).” Varianta blocată: „...descrie angajamentul bugetar — documentul prin care «se pun în rezervă (se blochează) creditele aferente unei cheltuieli» (pct. 1 lit. b) din Norme).” Ultima frază (Ordinul 547/2009) se înlocuiește cu: „Definiția creditului de angajament se află la pct. 1 «Angajarea cheltuielilor» din Normele ALOP.”",
+  "lot": "02",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "L500-012",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (titlurile de la art. 8-13: universalitate, publicitate, unitate, anualitate, specializare bugetară, unitate monetară; „echilibrul bugetar” apare doar ca obiectiv, la art. 18 alin. (2) lit. c) și art. 49 alin. (4)). Ultima propoziție a explicației invocă Legea nr. 273/2006, act din afara corpusului, cu o afirmație neverificabilă („unde enumerările diferă”) și încheie cu o concluzie generală, nu cu o trimitere la text (SPEC §4 pct. 8). Sursa indică doar art. 12, deși întrebarea acoperă art. 8-13.",
+  "propunere": "Înlocuiește ultima propoziție cu: „Echilibrul bugetar apare în lege doar ca obiectiv al Guvernului (art. 18 alin. (2) lit. c)) și al limitelor lunare de cheltuieli (art. 49 alin. (4)), nu ca principiu bugetar în secțiunea art. 8-13.” și sursa.articol: „art. 8-13”.",
+  "lot": "03",
+  "fisier": "L500-migrat.json"
+ },
+ {
+  "id": "ALOP-019",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (0, 1, 2) e corectă: variantele reproduc lit. d), c) și b) din enumerarea de la pct. 1 al Normelor ALOP („Avizarea proiectelor de angajamente legale se poate face după îndeplinirea următoarelor condiții: [...]”). Explicația spune însă „Varianta de la indicele 1 este falsă: avizul ANAP...”. Aceasta încalcă SPEC §4.5 (referire la poziția variantei) și e factual greșită: în ordinea din fișier, varianta de la indicele 1 este încadrarea în limitele angajamentului bugetar, adică o variantă corectă, iar varianta ANAP e la indicele 3. Cititorul primește astfel o explicație care declară falsă o variantă-cheie. | În plus, referiri poziționale: ['indicele 1']",
+  "propunere": "Fraza se înlocuiește cu: „Afirmația privind obținerea prealabilă a avizului conform al ANAP pentru orice proiect de angajament legal este falsă: pct. 1 din Normele ALOP nu enumeră un asemenea aviz printre condițiile avizării, iar controlul ex ante al ANAP privește procedurile de atribuire reglementate de O.U.G. nr. 98/2017.”",
+  "lot": "04",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-018",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (pct. 1 lit. b2) din Normele ALOP enumeră deplasări, protocol, întreținere și gospodărie, asigurări, chirii și abonamente), iar distractorul e contrazis de „Cheltuielile de investiții se angajează individual în cadrul angajamentelor multianuale”. Explicația conține însă o eroare: scrie „Varianta de la indicele 2 este greșită”, deși în ordinea din fișier varianta greșită (cheltuielile de capital) are indicele 3. Indicele 2 e o variantă corectă (întreținere și gospodărie), deci explicația își contrazice cheia. În plus, trimiterea la poziția variantei e interzisă de SPEC §4.5. Enunțul nu numește actul de aprobare (Ordinul MFP nr. 1.792/2002). | În plus, referiri poziționale: ['indicele 2']",
+  "propunere": "Explicația: „Varianta cu cheltuielile de capital și cele din programele de investiții publice este greșită și constituie capcana: potrivit Normelor, «cheltuielile de investiții se angajează individual în cadrul angajamentelor multianuale care reprezintă limita superioară de angajare», deci nu pot face obiectul unui angajament bugetar global.” Enunț: „…sunt enumerate expres de Normele metodologice aprobate prin Ordinul MFP nr. 1.792/2002 (pct. 1 lit. b2)) ca fiind de acest tip?”",
+  "lot": "06",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "L500B-004",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 26 lit. a), c), d) L500. Explicația conține însă o afirmație fără sursă, care slăbește cheia: „anexele fac parte din lege”. Dacă anexele fac parte din lege, se poate susține că „legile bugetare cuprind” și conținutul anexelor, deci distractorul. Art. 26 și 27 nu conțin o asemenea afirmație; art. 27 enumeră separat „Anexele legilor bugetare cuprind: …”. În plus, distractorul parafrazează inexact art. 27 lit. a): textul spune „sintezele bugetelor prevăzute la art. 16 alin. (1) lit. a)”, nu „sintezele bugetelor ordonatorilor principali de credite”.",
+  "propunere": "Se elimină fraza „Capcană conexă: anexele fac parte din lege, dar enumerarea lor este separată, iar art. 17 alin. (2^1) leagă amendamentele parlamentare de structura prevăzută la art. 36 alin. (1), nu de art. 26.” În locul ei: „Conținutul anexelor este enumerat distinct la art. 27 lit. a)–d), sub formula «Anexele legilor bugetare cuprind».” Distractorul devine: „Sintezele bugetelor prevăzute la art. 16 alin. (1) lit. a) și sumele defalcate din unele venituri ale bugetului de stat, cu criteriile de repartizare a acestora”.",
+  "lot": "06",
+  "fisier": "L500B-migrat.json"
+ },
+ {
+  "id": "L500-038",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4) e corectă: art. 28^4 alin. (1) din Legea 500/2002 exceptează „plăților pentru achitarea drepturilor salariale și a contribuțiilor aferente acestora, respectiv pentru stingerea arieratelor, precum și pentru plata ratelor de capital, dobânzilor, comisioanelor și altor costuri aferente datoriei publice”; utilitățile vin corect din art. 28^3. Enunțul însă nu numește actul (SPEC §4 pct. 3).",
+  "propunere": "Enunț: „Potrivit Legii nr. 500/2002 privind finanțele publice, când o instituție publică finanțată de la bugetul de stat înregistrează arierate la sfârșitul lunii anterioare lunii pentru care solicită efectuarea de plăți, unitățile teritoriale ale Trezoreriei Statului nu operează plăți din conturile acesteia. Care sunt plățile exceptate de la această măsură?”",
+  "lot": "07",
+  "fisier": "L500-migrat.json"
+ },
+ {
+  "id": "ALOP-026",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4) e corectă față de pct. 2 din Normele ALOP (viza „Bun de plată” confirmă că „bunurile furnizate au fost recepționate...”, „...înregistrate în gestiune și în contabilitate...”, „condițiile cu privire la legalitatea efectuării rambursarilor de rate...”). Explicația însă se referă la poziția variantei („Varianta de la indicele 0”), interzis de SPEC §4 pct. 5, iar ultima frază e o concluzie generală („cea mai frecventă greșeală”), nu o trimitere la text (SPEC §4 pct. 8). În plus, contul 8066 provine din pct. 5 (contabilitatea angajamentelor), care nu e în tematică (SPEC §5); pct. 1 spune doar că prin angajamentul bugetar „se pun în rezervă (se blochează) creditele aferente”. | În plus, referiri poziționale: ['indicele 0']",
+  "propunere": "Explicație: înlocuiește „Varianta de la indicele 0 este falsă și reprezintă capcana” cu „Varianta privind rezervarea și blocarea creditelor bugetare este falsă”; ultima frază: „Potrivit pct. 1 (angajarea cheltuielilor), prin angajamentul bugetar «se pun în rezervă (se blochează) creditele aferente unei cheltuieli», deci confirmarea de la acest distractor aparține fazei de angajare, nu vizei «Bun de plată» din faza de lichidare (pct. 2).” Opțional, distractorul: „creditele bugetare aferente au fost puse în rezervă (blocate) prin angajamentul bugetar”.",
+  "lot": "07",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-029",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (trei variante corecte) e confirmată de pct. 3 din Normele ALOP („Ordonanțarea de plată trebuie să conțină date cu privire la: – exercițiul bugetar ...; – subdiviziunea bugetară ...; – suma de plată (în cifre și litere) ...; – datele de identificare a beneficiarului plății; – natura cheltuielilor; – modalitatea de plată”). Dar explicația conține o referire pozițională interzisă (SPEC §4 pct. 5) și greșită: „Varianta de la indicele 2 este falsă” — în ordinea din fișier, indicele 2 este varianta corectă „Datele de identificare a beneficiarului plății, natura cheltuielilor și modalitatea de plată”; varianta falsă este cea cu procesul-verbal de recepție finală. Explicația nu numește nici punctul din Norme (pct. 3 „Ordonanțarea cheltuielilor”). Procesul-verbal de recepție apare la pct. 2 (lichidare), ceea ce e corect. | În plus, referiri poziționale: ['indicele 2']",
+  "propunere": "Înlocuiește în explicație fraza „Varianta de la indicele 2 este falsă ca element obligatoriu de conținut al ordonanțării — ...” cu: „Numărul și data procesului-verbal de recepție finală nu figurează printre elementele obligatorii de la pct. 3: procesul-verbal de recepție este un document întocmit de comisia de recepție, folosit la lichidare (pct. 2), iar formularul din anexa nr. 3 cere lista documentelor justificative și nr./data angajamentului legal, nu identificarea unui anumit proces-verbal.” și prima frază să înceapă „Pct. 3 «Ordonanțarea cheltuielilor» din Normele ALOP enumeră șase elemente ...”.",
+  "lot": "09",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "L500-046",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (30 septembrie / 1 noiembrie / 15 noiembrie, art. 35 alin. (1), (3^1), (4)) e corectă ca regulă generală, dar variantele afirmă termenele „a fiecărui an”, iar art. 35^1 derogă expres: „În cazul în care alegerile generale parlamentare sunt organizate în ultimele 3 luni ale anului, calendarul este următorul: a) ... le depune la Guvern în termen de 15 zile de la învestirea noului Guvern ... b) ... le supune spre adoptare Parlamentului cel mai târziu în 20 de zile de la învestire, fără a depăși data de 31 decembrie a anului în curs.” Enunțul și explicația nu delimitează ipoteza, deci un candidat poate contesta varianta cu „15 noiembrie a fiecărui an” (și celelalte două). Restul explicației (art. 6 alin. (1), art. 17 alin. (2), art. 37 alin. (1)) e corect.",
+  "propunere": "Enunț: „Care dintre următoarele afirmații privind etapele finale ale calendarului bugetar sunt corecte, potrivit art. 35 din Legea nr. 500/2002 (regula generală, în afara anilor în care alegerile generale parlamentare sunt organizate în ultimele 3 luni ale anului)?” Și în explicație, după prima frază: „În anii în care alegerile generale parlamentare au loc în ultimele 3 luni ale anului, art. 35^1 înlocuiește aceste termene: depunerea la Guvern în 15 zile de la învestirea noului Guvern și transmiterea la Parlament în cel mult 20 de zile de la învestire, fără a depăși 31 decembrie.”",
+  "lot": "10",
+  "fisier": "L500-migrat.json"
+ },
+ {
+  "id": "ORD1792-N101",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 3: „Prezentul ordin va fi publicat în Monitorul Oficial al României, Partea I.”; art. 1, 1^1, 2 corect atribuite). Întrebarea încalcă însă SPEC §4.6–4.7: testează numerotarea articolelor unui act de aprobare și clauza de publicare în Monitorul Oficial, adică o chestiune formală, fără normă aplicabilă de nivel de examen.",
+  "propunere": "Reformulare pe conținut normativ, de ex.: „Potrivit Ordinului M.F.P. nr. 1.792/2002, prin ce act se pot desemna instituții publice pilot pentru aplicarea altor norme metodologice privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor bugetare decât cele aprobate prin ordin?” — cheie: „prin ordin al ministrului finanțelor (art. 1^1)”; distractori: hotărâre a Guvernului; decizie a Direcției contabilității publice (rolul ei, art. 2, e doar ducerea la îndeplinire a ordinului); ordin al ordonatorului principal de credite.",
+  "lot": "10",
+  "fisier": "ORD1792-N1.json"
+ },
+ {
+  "id": "L500-069",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 63 alin. (2): „se vărsa direct la bugetul din care se finanțează acestea. Cu aceste sume se majorează creditele bugetare [...] și cu respectarea destinațiilor stabilite de transmițător”), dar enunțul nu numește actul normativ (SPEC §4 pct. 3), iar explicația nu dă articolul-sursă pentru distractorul cu Fondul de rezervă bugetară (SPEC §4 pct. 4).",
+  "propunere": "Enunț: „Potrivit Legii nr. 500/2002 privind finanțele publice, ce regim au fondurile bănești primite de la persoane juridice și fizice sub formă de donații și sponsorizări, în cazul instituțiilor publice finanțate integral de la buget?”. În explicație se adaugă: „Fondul de rezervă bugetară la dispoziția Guvernului este inclus în bugetul de stat și se repartizează prin hotărâri ale Guvernului pentru cheltuieli urgente sau neprevăzute (art. 30 alin. (1)–(2)); nu este destinația donațiilor și sponsorizărilor.”",
+  "lot": "11",
+  "fisier": "L500-migrat.json"
+ },
+ {
+  "id": "L500-070",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 66 alin. (1) și (2)), dar enunțul nu numește actul (SPEC §4 pct. 3). În plus, explicația afirmă că Fondul de rezervă bugetară se alimentează „din creditele bugetare anulate la ordonatorii principali finanțați din bugetul de stat (art. 54 alin. (3))”, ca și cum aceasta ar fi sursa lui; textul spune doar că „Cu creditele bugetare anulate [...] se majorează Fondul de rezerva bugetară la dispoziția Guvernului prevăzut în bugetul de stat”, fondul fiind inclus în bugetul de stat (art. 30 alin. (1)).",
+  "propunere": "Enunț: „Potrivit Legii nr. 500/2002 privind finanțele publice, care este regimul excedentelor rezultate din execuția bugetelor instituțiilor publice, în funcție de forma lor de finanțare?”. În explicație: „Fondul de rezervă bugetară la dispoziția Guvernului este inclus în bugetul de stat (art. 30 alin. (1)) și se majorează cu creditele bugetare anulate la ordonatorii principali finanțați din bugetul de stat (art. 54 alin. (3)); art. 66 nu prevede virarea excedentelor către acest fond.”",
+  "lot": "11",
+  "fisier": "L500-migrat.json"
+ },
+ {
+  "id": "ALOP-015",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 1', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-016",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 1', 'indicele 2', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-017",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 1', 'indicele 2'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-033",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 1', 'indicele 2'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-020",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 2', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-021",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 1', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-022",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 1', 'indicele 2'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-023",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 1', 'indicele 2', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-024",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 2', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-025",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 1', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-027",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 1', 'indicele 2'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-028",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 2', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-030",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 1', 'indicele 2', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-031",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 1', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-032",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 2', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-034",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 1', 'indicele 2', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-035",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 2', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ },
+ {
+  "id": "ALOP-036",
+  "verdict": "SUSPECT",
+  "motiv": "Referiri la poziția variantelor (detector): ['indicele 0', 'indicele 1', 'indicele 3'] — variantele se amestecă la asamblare.",
+  "propunere": "Rescrie fiecare referire ca descriere a conținutului variantei (ordinea din fișierul din nou/ este cea la care se referă explicația).",
+  "fisier": "ALOP-migrat.json"
+ }
+]

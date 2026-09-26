@@ -1,0 +1,68 @@
+[
+ {
+  "id": "N395B-012",
+  "verdict": "OK",
+  "motiv": "Enunțul numește acum Normele H.G. nr. 395/2016; explicația descrie corect art. 208 din Lege ca normă de delegare. Cheia reproduce art. 58 alin. (2); distractorii sunt infirmați prin art. 58 alin. (1)–(2). Nicio problemă nouă.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-032",
+  "verdict": "OK",
+  "motiv": "Enunțul numește legea, iar trimiterea la Legea 208/2022 a fost eliminată. Afirmația nouă e corectă: art. 187 alin. (7) spune „costul cel mai scăzut se determină ... utilizând factori precum calcularea costurilor pe ciclul de viață”. „Primele două criterii” se referă la art. 187 alin. (3) lit. a) și b), nu la poziția variantelor.",
+  "propunere": ""
+ },
+ {
+  "id": "OUGB-026",
+  "verdict": "OK",
+  "motiv": "Enunțul numește actul. Distractorul nou (aviz conform condiționat) este o valoare reală cu alt rol: art. 6 alin. (1) lit. b), atribuție a ANAP. Termenul de 2 zile lucrătoare al ANAP e citat corect din art. 6 alin. (1). Ultima frază este acum o trimitere la text.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-034",
+  "verdict": "OK",
+  "motiv": "Enunțul numește legea. Distractorul nou (numai clarificări, precizări și îmbunătățiri) vine din art. 92 alin. (7) și nu e apărabil, fiindcă art. 93 alin. (2) permite și negocieri cu ofertantul desemnat. Explicația citează corect limitele din art. 93 alin. (2).",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-035",
+  "verdict": "OK",
+  "motiv": "Enunțul numește legea. Distractorul nou („numai în cadrul unui concurs de soluții”) vine din art. 105 lit. b) și e infirmat de art. 94. Trimiterea la art. 20 alin. (13) din Norme e corectă: „documentele achiziției conțin, dacă este cazul, posibilitatea acordării de prime ... în condițiile art. 94 din Lege”.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-037",
+  "verdict": "OK",
+  "motiv": "Enunțul numește legea; restul întrebării e neschimbat și corect (art. 98 alin. (1), art. 70 alin. (1) lit. d) și alin. (2), art. 104 alin. (5) lit. a), art. 100).",
+  "propunere": ""
+ },
+ {
+  "id": "OUGA-017",
+  "verdict": "OK",
+  "motiv": "Enunțul numește O.U.G. nr. 98/2017. Explicația redă acum corect lit. d) (inclusiv candidații din procedurile cu preselecție) și lit. e) din art. 12 alin. (1). Excepția studiului de fundamentare e legată corect de art. 6 alin. (2) lit. a). Explicația are 5 propoziții.",
+  "propunere": ""
+ },
+ {
+  "id": "L101C-004",
+  "verdict": "OK",
+  "motiv": "Enunțul numește Legea nr. 101/2016, iar lungimea variantelor e echilibrată. Cheia scurtată rămâne fidelă art. 18 alin. (2). Termenul de 5 zile (art. 18 alin. (1)) și cel de 3 zile (art. 20 alin. (4)) sunt citate corect. Distractorul cu cele 3 zile rămâne fals: termenul privește răspunsul la solicitările Consiliului, nu transmiterea dosarului.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-039",
+  "verdict": "OK",
+  "motiv": "Istoricul (O.U.G. 52/2024) a fost eliminat. Ultima frază trimite la art. 215 alin. (4), (5) și (5^1), redate corect („lipsită de relevanță față de obiectul contractului”). Fraza despre art. 70 alin. (2)–(3) e acum clară.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-040",
+  "verdict": "OK",
+  "motiv": "Enunțul numește legea. Distractorul are acum sursa indicată (art. 187 alin. (3) lit. d)). Teza finală a art. 104 alin. (3) („Motivele tehnice pot fi generate, de asemenea, de cerințe specifice privind interoperabilitatea”) e citată corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-051",
+  "verdict": "SUSPECT",
+  "motiv": "Problemele inițiale sunt rezolvate: enunțul numește legea, iar sursa plafonului de 50% e indicată. Fraza nouă e însă ușor inexactă: spune că plafonul „limitează lucrările/serviciile/produsele adiționale ... la art. 221 alin. (1) lit. b) și lit. c) pct. (iii) și alin. (4)”. Doar lit. b) privește lucrările/serviciile/produsele adiționale („în limita a maximum 50% din valoarea contractului inițial”). Lit. c) pct. (iii) privește modificările cauzate de circumstanțe imprevizibile („creșterea prețului nu depășește 50% ...”), iar alin. (4) plafonul cumulat al modificărilor succesive.",
+  "propunere": "Înlocuiește fraza cu: „Plafonul de 50% din valoarea contractului inițial nu figurează aici: el apare în regimul modificării contractului — la lucrările/serviciile/produsele adiționale (art. 221 alin. (1) lit. b)), la modificările cauzate de circumstanțe imprevizibile (art. 221 alin. (1) lit. c) pct. (iii)) și ca plafon cumulat al modificărilor succesive (art. 221 alin. (4)).”"
+ }
+]

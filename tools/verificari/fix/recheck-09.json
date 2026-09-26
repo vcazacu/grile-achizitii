@@ -1,0 +1,147 @@
+[
+ {
+  "id": "ALOP-029",
+  "tip": "multiplu",
+  "test": 29,
+  "intrebare": "Care dintre următoarele date trebuie să fie cuprinse în „Ordonanțarea de plată”, potrivit Normelor metodologice ALOP?",
+  "variante": [
+   "Numărul și data procesului-verbal de recepție finală a lucrărilor de investiții",
+   "Suma de plată, în cifre și litere, exprimată în moneda națională sau în moneda străină, după caz",
+   "Datele de identificare a beneficiarului plății, natura cheltuielilor și modalitatea de plată",
+   "Exercițiul bugetar în care se înregistrează plata și subdiviziunea bugetară la care se înregistrează plata"
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Pct. 3 «Ordonanțarea cheltuielilor» din Normele ALOP enumeră șase elemente pe care trebuie să le conțină ordonanțarea de plată: exercițiul bugetar în care se înregistrează plata, subdiviziunea bugetară la care se înregistrează plata, suma de plată (în cifre și litere) exprimată în moneda națională sau în moneda străină, după caz, datele de identificare a beneficiarului plății, natura cheltuielilor și modalitatea de plată. Numărul și data procesului-verbal de recepție finală nu figurează printre elementele obligatorii de la pct. 3: procesul-verbal de recepție este un document întocmit de comisia de recepție, folosit la lichidare pentru determinarea sau verificarea sumei datorate (pct. 2), iar formularul din anexa nr. 3 cere lista documentelor justificative și numărul/data angajamentului legal, nu identificarea unui anumit proces-verbal. Tot pct. 3 prevede că ordonanțarea de plată se însoțește de documentele justificative în original. La completarea coloanei «Disponibil înaintea efectuării plății» se ține cont, potrivit pct. 3, de angajamentele bugetare din contul 8066, de plățile efectuate din contul 770 «Finanțarea de la buget» sau din alte conturi de disponibilități, precum și de cheltuielile angajate, lichidate și ordonanțate anterior care nu au apărut decontate în extrasul de cont.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 3 (ordonanțarea cheltuielilor)",
+   "citat": "Ordonanțarea de plată trebuie să conțină date cu privire la: – exercițiul bugetar în care se înregistrează plata; – subdiviziunea bugetară la care se înregistrează plata; – suma de plată (în cifre și litere) exprimată în moneda naționala sau în moneda străină, după caz; – datele de identificare a beneficiarului plății; – natura cheltuielilor; – modalitatea de plată.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N501",
+  "tip": "unic",
+  "test": 30,
+  "intrebare": "Potrivit Legii nr. 98/2016, autoritatea contractantă are dreptul de a solicita oricărui operator economic documente relevante care să dovedească forma de înregistrare și, după caz, de atestare ori apartenență din punct de vedere profesional. În conformitate cu ce cerințe legale se face această dovadă?",
+  "variante": [
+   "Cerințele legale din România, ca stat al autorității contractante",
+   "Cerințele legale din țara în care este stabilit operatorul economic",
+   "Cerințele stabilite de autoritatea contractantă prin caietul de sarcini",
+   "Cerințele legale din statul în care urmează să fie executat contractul"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 173 alin. (1) din Legea nr. 98/2016 prevede că documentele privind forma de înregistrare și, după caz, de atestare ori apartenență profesională se prezintă în conformitate cu cerințele legale din țara în care este stabilit operatorul economic. Legea nu raportează această dovadă la legislația română, deci varianta cu România ca stat al autorității contractante este greșită. Nici statul în care se execută contractul nu este criteriul de raportare: art. 173 alin. (2) se referă, pentru servicii, tot la autorizația sau apartenența cerută în statul de origine al operatorului. Caietul de sarcini conține specificațiile tehnice ale obiectului achiziției (art. 20 alin. (10) din Normele aprobate prin H.G. nr. 395/2016), nu regulile după care se dovedește înregistrarea operatorului. Capacitatea de exercitare a activității profesionale este unul dintre cele trei criterii de capacitate permise de art. 172 alin. (1) lit. a).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 173 alin. (1)",
+   "citat": "Autoritatea contractantă are dreptul de a solicita oricărui operator economic să prezinte documente relevante care să dovedească forma de înregistrare și, după caz, de atestare ori apartenență din punct de vedere profesional, în conformitate cu cerințele legale din țara în care este stabilit operatorul economic.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGA-028",
+  "tip": "multiplu",
+  "test": 30,
+  "intrebare": "Potrivit O.U.G. nr. 98/2017, care dintre următoarele afirmații privind termenele de emitere a deciziei de conciliere adoptate ca urmare a examinării pe fond sunt adevărate?",
+  "variante": [
+   "Decizia se emite întotdeauna în termen de 2 zile lucrătoare de la primirea cererii, chiar și în cazul examinării pe fond",
+   "Dacă ANAP nu are nevoie de informații suplimentare de la autoritatea contractantă, decizia se emite în 5-10 zile lucrătoare de la data primirii solicitării de conciliere",
+   "Dacă ANAP are nevoie de informații suplimentare, decizia se emite în 3-5 zile lucrătoare de la data primirii ultimelor informații suplimentare de la autoritatea contractantă",
+   "Termenul de emitere este de 10-15 zile calendaristice în toate cazurile"
+  ],
+  "corecte": [
+   1,
+   2
+  ],
+  "explicatie": "Art. 18 alin. (3) din O.U.G. nr. 98/2017 prevede două termene pentru decizia adoptată în urma examinării pe fond, după cum ANAP are sau nu nevoie de informații suplimentare: 5-10 zile lucrătoare de la data primirii solicitării de conciliere (lit. a)) sau 3-5 zile lucrătoare de la data primirii ultimelor informații suplimentare de la autoritatea contractantă (lit. b)) — atenție la momentul diferit de la care curge termenul. Termenul de 2 zile lucrătoare de la primirea cererii se aplică numai când cererea este soluționată fără examinare pe fond (art. 18 alin. (2) din O.U.G. nr. 98/2017). Un termen de 10-15 zile calendaristice nu apare în ordonanță: termenele de la art. 18 alin. (2) și (3) sunt exprimate în zile lucrătoare. Nu trebuie confundat nici termenul de o zi lucrătoare în care se emite avizul conform final după adoptarea deciziei de conciliere, prevăzut de art. 18 alin. (5) din Normele metodologice aprobate prin H.G. nr. 419/2018. Cererea se soluționează de un comitet decizional format la nivelul ANAP (art. 18 alin. (1) din O.U.G. nr. 98/2017).",
+  "sursa": {
+   "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+   "articol": "art. 18 alin. (3) lit. a)-b)",
+   "citat": "5-10 zile lucrătoare de la data primirii solicitării de conciliere, dacă ANAP nu are nevoie de informații suplimentare de la autoritatea contractantă; [...] 3-5 zile lucrătoare de la data primirii ultimelor informații suplimentare de la autoritatea contractantă, dacă ANAP are nevoie de informații suplimentare.",
+   "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N507",
+  "tip": "unic",
+  "test": 31,
+  "intrebare": "Potrivit Legii nr. 98/2016, criteriile privind capacitatea și cerințele minime solicitate pentru îndeplinirea acestora, împreună cu mijloacele de probă corespunzătoare, sunt prevăzute în:",
+  "variante": [
+   "anunțul de atribuire",
+   "caietul de sarcini",
+   "anunțul de participare",
+   "referatul de necesitate"
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Art. 181 din Legea nr. 98/2016 prevede expres că criteriile privind capacitatea, cerințele minime și mijloacele de probă corespunzătoare sunt prevăzute în anunțul de participare. Anunțul de atribuire se transmite spre publicare în termen de 30 de zile de la încheierea contractului (art. 145 alin. (1) lit. a)), deci nu poate fi documentul care stabilește cerințele de calificare. Caietul de sarcini conține specificațiile tehnice ale obiectului achiziției (art. 20 alin. (10) din Normele aprobate prin H.G. nr. 395/2016), nu criteriile de capacitate ale ofertanților. Referatul de necesitate ține de etapa de planificare/pregătire, care potrivit art. 9 alin. (1) din Norme se inițiază prin identificarea necesităților și elaborarea referatelor de necesitate. Potrivit art. 30 alin. (6) din Norme, criteriile de calificare și selecție care se regăsesc în caietul de sarcini ori în documentația descriptivă, dar nu sunt prevăzute în anunțul de participare/simplificat/de concurs, sunt considerate clauze nescrise.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 181",
+   "citat": "Criteriile privind capacitatea și cerințele minime solicitate pentru îndeplinirea acestora, împreună cu mijloacele de probă corespunzătoare, sunt prevăzute în anunțul de participare.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98C-052",
+  "tip": "multiplu",
+  "test": 31,
+  "intrebare": "Care dintre următoarele afirmații privind terțul susținător sunt corecte, potrivit Legii nr. 98/2016?",
+  "variante": [
+   "Dacă terțul susținător nu îndeplinește criteriile relevante privind capacitatea sau se află într-un motiv de excludere, autoritatea contractantă solicită, o singură dată, înlocuirea acestuia",
+   "Când susținerea vizează situația economică și financiară, autoritatea contractantă solicită ca operatorul economic și terțul susținător să răspundă în mod solidar pentru executarea contractului",
+   "Operatorul economic poate invoca susținerea unui terț indiferent de natura relațiilor juridice existente între el și terțul respectiv",
+   "Susținerea privind calificările educaționale și profesionale poate fi invocată chiar dacă terțul nu va desfășura efectiv lucrările sau serviciile pentru care sunt necesare acele calificări"
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Art. 182 alin. (1) consacră dreptul de a invoca susținerea unui terț indiferent de natura relațiilor juridice dintre părți, pentru criteriile privind situația economică și financiară și/sau capacitatea tehnică și profesională. Art. 183 alin. (2) obligă autoritatea contractantă să solicite o singură dată înlocuirea terțului care nu îndeplinește criteriile de capacitate ori se încadrează într-un motiv de excludere de la art. 164, 165 și 167. Art. 184 impune răspunderea solidară a operatorului economic și a terțului susținător pentru executarea contractului, atunci când susținerea privește situația economică și financiară. Afirmația că susținerea privind calificările educaționale și profesionale poate fi invocată chiar dacă terțul nu desfășoară efectiv lucrările sau serviciile este falsă: art. 182 alin. (2) permite invocarea susținerii pentru calificările educaționale și profesionale sau pentru experiența profesională relevantă DOAR dacă terțul va desfășura efectiv lucrările sau serviciile în cauză. Regula răspunderii solidare este aceeași și pentru asocierea de operatori economici (art. 185 alin. (1)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 182 alin. (1) și (2)",
+   "citat": "Operatorul economic are dreptul, dacă este cazul și în legătură cu un anumit contract de achiziție publică/acord-cadru, să invoce susținerea unui/unor terț/terți în ceea ce privește îndeplinirea criteriilor referitoare la situația economică și financiară și/sau a criteriilor privind capacitatea tehnică și profesională, indiferent de natura relațiilor juridice existente între operatorul economic și terțul/terții respectiv/respectivi. (2) În ceea ce privește îndeplinirea criteriilor referitoare la calificările educaționale și profesionale prevăzute la art. 179 lit. g) sau la experiența profesională relevantă, operatorul economic poate să se bazeze pe capacitatea terțului susținător doar atunci când acesta va desfășura efectiv lucrările sau serviciile în legătură cu care sunt necesare respectivele calificări.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395B-044",
+  "tip": "multiplu",
+  "test": 31,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele afirmații privind componența și funcționarea comisiei de evaluare sunt corecte?",
+  "variante": [
+   "Președintele comisiei de evaluare poate fi limitat numai la aspectele de organizare și reprezentare, caz în care nu are drept de vot.",
+   "Persoanele care constituie comisia de evaluare nu trebuie să fie în relații de subordonare ierarhică unele față de altele, în măsura în care structura organizatorică permite acest lucru.",
+   "Autoritatea contractantă are dreptul de a nominaliza membri de rezervă, însă poate înlocui un membru titular cu un membru de rezervă numai dacă persoana înlocuită nu are posibilitatea de a-și îndeplini atribuțiile.",
+   "Comisia de evaluare trebuie să aibă în mod obligatoriu un număr impar de membri, dar nu mai puțin de 3 persoane."
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Art. 126 alin. (7) din Normele metodologice permite limitarea rolului președintelui comisiei de evaluare la organizare și reprezentare, ipoteză în care acesta nu are drept de vot - element relevant pentru majoritatea de cel puțin 2/3 de la art. 131 alin. (3), care se raportează la membrii cu drept de vot. Art. 126 alin. (8) cere ca membrii comisiei să nu fie în relații de subordonare ierarhică unii față de alții, în măsura în care structura organizatorică permite acest lucru. Art. 126 alin. (9) și (10) permit nominalizarea de membri de rezervă, iar înlocuirea unui membru cu un membru de rezervă este condiționată de imposibilitatea titularului de a-și îndeplini atribuțiile; membrul de rezervă preia apoi calitatea până la finalizarea procedurii (alin. (11)). Art. 126 din Norme nu stabilește un număr minim ori impar de membri ai comisiei de evaluare; pragul de „cel puțin 3 membri” apare doar la juriul concursului de soluții (art. 99 alin. (2) din Norme).",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 126 alin. (7)-(10)",
+   "citat": "(7) Președintele comisiei de evaluare poate fi limitat numai la aspectele de organizare și reprezentare, în acest din urmă caz neavând drept de vot. (8) Persoanele care constituie comisia de evaluare nu trebuie să fie în relații de subordonare ierarhică unele față de altele, în măsura în care structura organizatorică permite acest lucru. (9) Autoritatea contractantă are dreptul de a nominaliza membri de rezervă pentru membrii comisiei de evaluare. (10) Autoritatea contractantă are dreptul de a înlocui un membru al comisiei de evaluare cu un membru de rezervă numai dacă persoana care urmează să fie înlocuită nu are posibilitatea de a-și îndeplini atribuțiile care rezultă din calitatea de membru al comisiei de evaluare.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ }
+]

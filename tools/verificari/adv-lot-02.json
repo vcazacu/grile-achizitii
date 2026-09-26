@@ -1,0 +1,713 @@
+[
+ {
+  "id": "L98A-026",
+  "tip": "unic",
+  "test": 4,
+  "intrebare": "Ce interzice art. 11 alin. (2) din Legea nr. 98/2016 autorității contractante în legătură cu valoarea estimată a contractului?",
+  "variante": [
+   "să împartă obiectul contractului pe loturi, indiferent de justificare",
+   "să estimeze valoarea contractului peste valoarea fondurilor bugetare aprobate",
+   "să divizeze contractul în mai multe contracte distincte de valoare mai mică ori să subevalueze valoarea estimată, cu scopul de a evita aplicarea procedurilor de atribuire",
+   "să atribuie mai multe contracte aceluiași operator economic în cursul unui an bugetar"
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Interdicția vizează divizarea artificială și subevaluarea făcute „cu scopul de a evita aplicarea procedurilor de atribuire\" — elementul de scop este esențial: împărțirea pe loturi este nu doar permisă, ci încurajată de lege (art. 141), atâta timp cât valoarea estimată se calculează global (art. 17-18) și procedura se alege în raport cu acest total. Variantele privind atribuirea mai multor contracte aceluiași operator economic într-un an bugetar și estimarea valorii peste fondurile bugetare aprobate descriu interdicții inexistente în acest articol. Capcana clasică: confuzia dintre lotizarea legitimă și divizarea în scopul coborârii sub praguri.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 11 alin. (2)",
+   "citat": "Autoritatea contractantă nu are dreptul de a diviza contractul de achiziție publică în mai multe contracte distincte de valoare mai mică și nici de a utiliza metode de calcul care să conducă la o subevaluare a valorii estimate a contractului de achiziție publică, cu scopul de a evita aplicarea procedurilor de atribuire reglementate de prezenta lege.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L500-N101",
+  "tip": "unic",
+  "test": 5,
+  "intrebare": "Potrivit art. 3 din Legea nr. 500/2002 privind finanțele publice, creditele bugetare aprobate vor fi angajate și folosite în strictă corelare cu:",
+  "variante": [
+   "nivelul realizărilor veniturilor proprii din anul precedent anului curent",
+   "gradul previzionat de încasare a veniturilor bugetare",
+   "estimările pentru următorii 3 ani prezentate Parlamentului odată cu bugetul",
+   "limitele de cheltuieli comunicate ordonatorilor principali de credite prin scrisoarea-cadru"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 3 alin. (2) prevede că creditele bugetare aprobate se utilizează potrivit scopurilor din legi și vor fi angajate și folosite în strictă corelare cu gradul previzionat de încasare a veniturilor bugetare. Nivelul realizărilor din anul precedent anului curent apare la art. 28^2, ca plafon pentru fundamentarea veniturilor proprii ale instituțiilor cu grad de realizare sub 97%, nu ca reper pentru angajarea creditelor. Estimările pentru următorii 3 ani au, potrivit art. 36 alin. (2) și (3), valoare orientativă și nu fac obiectul autorizării. Limitele de cheltuieli din scrisoarea-cadru (art. 33 alin. (1)) servesc la întocmirea proiectelor de buget, nu la execuția creditelor aprobate. Corelarea cu încasările previzionate este formulată expres în art. 3 alin. (2).",
+  "sursa": {
+   "act": "Legea nr. 500/2002 privind finanțele publice",
+   "articol": "art. 3 alin. (2)",
+   "citat": "Creditele bugetare aprobate se utilizează pentru finanțarea funcțiilor administrației publice, programelor, acțiunilor, obiectivelor și sarcinilor prioritare, potrivit scopurilor prevăzute în legi și alte reglementări, și vor fi angajate și folosite în stricta corelare cu gradul previzionat de încasare a veniturilor bugetare.",
+   "fisier": "10_Legea_500-2002_finantele_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-027",
+  "tip": "multiplu",
+  "test": 5,
+  "intrebare": "Prin care dintre următoarele modalități se poate realiza inițierea procedurii de atribuire, potrivit art. 12 din Legea nr. 98/2016? (selectați toate variantele corecte)",
+  "variante": [
+   "în cazul serviciilor sociale ori al altor servicii specifice din anexa nr. 2, transmiterea spre publicare a anunțului de intenție valabil în mod continuu",
+   "transmiterea spre publicare a anunțului de participare",
+   "publicarea unui anunț de intenție, pentru orice tip de achiziție, indiferent de obiect",
+   "transmiterea invitației de participare la procedura de negociere fără publicarea prealabilă a unui anunț de participare"
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Art. 12 enumeră limitativ trei modalități de inițiere: anunțul de participare (regula), anunțul de intenție valabil în mod continuu — dar numai pentru serviciile sociale și alte servicii specifice din anexa nr. 2 — și invitația de participare la negocierea fără publicare prealabilă. Varianta cu publicarea unui anunț de intenție pentru orice tip de achiziție este falsă: anunțul de intenție obișnuit are doar rol de informare prealabilă (și de reducere a termenelor), nu de inițiere; doar varianta „valabil în mod continuu\", limitată la anexa nr. 2, inițiază procedura. Momentul inițierii contează: valoarea estimată se determină înainte de inițiere și trebuie să fie valabilă la acel moment.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 12",
+   "citat": "Inițierea procedurii de atribuire se realizează prin una dintre următoarele modalități: a) transmiterea spre publicare a anunțului de participare; b) în cazul achiziției de servicii sociale ori alte servicii specifice, prevăzute în anexa nr. 2, transmiterea spre publicare a anunțului de participare ori a anunțului de intenție care este valabil în mod continuu; c) transmiterea invitației de participare la procedura de negociere fără publicarea prealabilă a unui anunț de participare.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N602",
+  "tip": "multiplu",
+  "test": 5,
+  "intrebare": "Potrivit Legii nr. 98/2016, metoda utilizată de autoritatea contractantă pentru evaluarea costurilor determinate de efectele externe asupra mediului, în cadrul calculării costurilor pe parcursul ciclului de viață, trebuie să îndeplinească în mod cumulativ anumite condiții. Care dintre următoarele se numără printre aceste condiții?",
+  "variante": [
+   "Metoda se bazează pe criterii nediscriminatorii și verificabile în mod obiectiv.",
+   "Datele solicitate pot fi furnizate numai de operatori economici stabiliți în statele membre ale Uniunii Europene.",
+   "Metoda a fost stabilită în vederea aplicării repetate sau continue.",
+   "Metoda este accesibilă tuturor părților interesate."
+  ],
+  "corecte": [
+   0,
+   3
+  ],
+  "explicatie": "Art. 192 alin. (2) enumeră trei condiții cumulative: criterii nediscriminatorii și verificabile în mod obiectiv (lit. a), accesibilitatea metodei pentru toate părțile interesate (lit. b) și posibilitatea furnizării datelor printr-un efort rezonabil de operatori economici cu diligență obișnuită (lit. c). Aplicarea repetată sau continuă nu este o condiție: lit. a) are în vedere tocmai metoda care nu a fost stabilită în acest scop, cerând ca ea să nu favorizeze sau să dezavantajeze nejustificat anumiți operatori economici. Limitarea la operatori din statele membre contrazice lit. c), care include expres operatorii din țări terțe parte la Acordul privind achizițiile publice al Organizației Mondiale a Comerțului sau la alte acorduri internaționale asumate de Uniunea Europeană. Costurile vizate sunt cele definite la art. 191 lit. b), cu condiția ca valoarea lor pecuniară să poată fi determinată și verificată. Dacă o metodă comună de calcul a devenit obligatorie printr-un act adoptat la nivelul Uniunii Europene, art. 192 alin. (3) impune aplicarea acelei metode.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 192 alin. (2)",
+   "citat": "Metoda utilizată de autoritatea contractantă pentru evaluarea costurilor determinate de efectele externe asupra mediului prevăzute la art. 191 lit. b) trebuie să îndeplinească în mod cumulativ următoarele condiții: a) se bazează pe criterii nediscriminatorii și verificabile în mod obiectiv; în special, în cazul în care nu a fost stabilită în vederea aplicării repetate sau continue, nu favorizează sau dezavantajează în mod nejustificat anumiți operatori economici; b) este accesibilă tuturor părților interesate; c) datele solicitate pot fi furnizate printr-un efort rezonabil de către operatori economici care dau dovadă de o diligență obișnuită, inclusiv de operatori economici din țări terțe [...]",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGB-014",
+  "tip": "multiplu",
+  "test": 5,
+  "intrebare": "La ce se referă filtrele utilizate pentru repartizarea procedurilor de atribuire și a modificărilor contractuale care urmează să fie introduse în programul de verificare, potrivit art. 3 alin. (4) din Normele metodologice de aplicare a O.U.G. nr. 98/2017?",
+  "variante": [
+   "Valoarea estimată",
+   "Sursa de finanțare a contractului",
+   "Codul CPV utilizat pentru descrierea achiziției",
+   "Tipul contractului (produse, servicii sau lucrări)"
+  ],
+  "corecte": [
+   0,
+   2,
+   3
+  ],
+  "explicatie": "Cele trei filtre prevăzute de art. 3 alin. (4) sunt: a) tipul contractului (produse, servicii sau lucrări), b) valoarea estimată și c) codul CPV utilizat pentru descrierea achiziției. Sursa de finanțare NU este filtru — ea apare cu alt rol în aceleași norme: este unul dintre criteriile de evaluare a indicatorului de risc privind complexitatea obiectului contractului (art. 3 alin. (7) lit. d)). Capcana constă în distincția filtre (repartizare) vs. indicatori de risc (evaluarea riscului) vs. criterii (elementele concrete în funcție de care se evaluează fiecare indicator).",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+   "articol": "art. 3 alin. (4)",
+   "citat": "Filtrele sunt utilizate pentru a repartiza procedurile de atribuire a contractelor și modificările contractuale, care urmează să fie introduse în programul de verificare, și se referă la: a) tipul contractului, respectiv contract de produse, contract de servicii sau contract de lucrări; b) valoarea estimată; c) codul CPV utilizat pentru descrierea achiziției în cauză.",
+   "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-030",
+  "tip": "unic",
+  "test": 5,
+  "intrebare": "O achiziție de servicii este împărțită pe loturi, iar valoarea cumulată a loturilor este mai mare decât pragul JOUE. Ce regulă se aplică atribuirii fiecărui lot, potrivit art. 17 alin. (2) din Legea nr. 98/2016?",
+  "variante": [
+   "fiecare lot se atribuie prin procedura corespunzătoare valorii sale individuale",
+   "loturile sub pragul achiziției directe se atribuie întotdeauna direct, fără nicio condiție",
+   "procedurile de atribuire reglementate de lege se aplică pentru atribuirea fiecărui lot, indiferent de valoarea estimată a acestuia",
+   "se aplică procedura simplificată pentru toate loturile, dacă niciun lot nu depășește individual pragul JOUE"
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Regula de la art. 17: valoarea estimată se determină global, pentru toate loturile, iar dacă acest total atinge pragurile de la art. 7 alin. (1), procedura corespunzătoare totalului se aplică FIECĂRUI lot, indiferent de valoarea lui individuală. Variantele care leagă procedura de valoarea individuală a fiecărui lot, permit atribuirea directă a loturilor sub pragul achiziției directe ori aplică procedura simplificată când niciun lot nu depășește pragul JOUE descriu exact comportamentul interzis (raportarea la valoarea individuală a lotului). Singura derogare este excepția strictă de la art. 19 — loturi mici sub 399.120 lei (produse/servicii) respectiv 4.989.000 lei (lucrări), în limita a 20% din valoarea globală — care permite procedura simplificată sau achiziția directă pentru acele loturi.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 17 alin. (2)",
+   "citat": "În cazul în care valoarea cumulată a loturilor este egală sau mai mare decât pragurile valorice corespunzătoare prevăzute la art. 7 alin. (1), procedurile de atribuire reglementate de prezenta lege se aplică pentru atribuirea fiecărui lot, indiferent de valoarea estimată a acestuia.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L101A-011",
+  "tip": "unic",
+  "test": 6,
+  "intrebare": "Potrivit Legii nr. 101/2016, în forma în vigoare, ce obligație are un operator economic care se consideră vătămat în legătură cu notificarea prealabilă a autorității contractante, înainte de a sesiza CNSC sau instanța?",
+  "variante": [
+   "Trebuie să notifice autoritatea contractantă doar când contestă conținutul documentației de atribuire",
+   "Nu are nicio obligație de notificare prealabilă — art. 6 și 7 din lege, care o reglementau, sunt abrogate, iar persoana vătămată se adresează direct Consiliului sau instanței",
+   "Trebuie să notifice autoritatea contractantă doar dacă procedura depășește pragurile de publicare în JOUE",
+   "Trebuie să notifice autoritatea contractantă în termen de 5, respectiv 10 zile, în funcție de valoarea estimată a procedurii"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Potrivit art. 4 alin. (1) din Legea nr. 101/2016, pentru soluționarea contestației persoana care se consideră vătămată se poate adresa fie Consiliului Național de Soluționare a Contestațiilor, pe cale administrativ-jurisdicțională, fie instanței de judecată, fără vreo condiție prealabilă de notificare a autorității contractante. Capitolul II (art. 6 și 7), care reglementa notificarea prealabilă, apare în forma la zi cu mențiunea „Abrogat.” (potrivit notei portalului, abrogarea s-a făcut prin O.U.G. nr. 45/2018, de la 4 iunie 2018). Sesizarea Consiliului se face direct, în termenele de 10, respectiv 7 zile de la art. 8 alin. (1), stabilite după cum valoarea estimată este egală/mai mare sau mai mică decât pragurile de publicare în JOUE. Variantele care condiționează sesizarea de o notificare prealabilă — în termene de 5 sau 10 zile, doar peste pragurile JOUE ori doar pentru contestarea documentației de atribuire — descriu un regim abrogat, capcană clasică pentru cine învață după materiale vechi.",
+  "sursa": {
+   "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+   "articol": "art. 4 alin. (1)",
+   "citat": "Pentru soluționarea contestației, persoana care se consideră vătămată se poate adresa: a) fie pe cale administrativ-jurisdicțională Consiliului Național de Soluționare a Contestațiilor; b) fie pe cale judiciară instanței de judecată.",
+   "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGB-015",
+  "tip": "multiplu",
+  "test": 6,
+  "intrebare": "Care dintre următoarele sunt indicatori de risc pe baza cărora se realizează selecția procedurilor de atribuire pentru controlul ex ante, potrivit art. 3 alin. (5) din Normele metodologice de aplicare a O.U.G. nr. 98/2017?",
+  "variante": [
+   "Istoricul și experiența autorității contractante în aplicarea legislației achizițiilor",
+   "Gradul de încărcare al echipelor de verificatori ex ante",
+   "Complexitatea obiectului contractului, respectiv a modificării contractuale",
+   "Impactul financiar al achiziției, respectiv al modificării contractuale"
+  ],
+  "corecte": [
+   0,
+   2,
+   3
+  ],
+  "explicatie": "Cei trei indicatori de risc din art. 3 alin. (5) sunt: a) impactul financiar, b) complexitatea obiectului contractului/modificării contractuale și c) istoricul și experiența autorității contractante în aplicarea legislației. Gradul de încărcare al echipelor de verificatori ex ante NU este indicator de risc — el este doar o condiție de care se ține cont la selecția ALEATORIE, atunci când mai multe proceduri înregistrează același grad de risc (art. 3 alin. (10) lit. b)). Fiecare indicator se evaluează apoi pe baza unor criterii detaliate la alin. (6)-(8): de exemplu, istoricul se raportează la ultimii 3 ani calendaristici.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+   "articol": "art. 3 alin. (5)",
+   "citat": "Indicatorii de risc prevăzuți la alin. (2) și (3) sunt: a) impactul financiar al achiziției, respectiv al modificării contractuale; b) complexitatea obiectului contractului, respectiv a modificării contractuale; c) istoricul și experiența autorității contractante în aplicarea legislației menționate la art. 2 alin. (1) lit. g) din ordonanța de urgență.",
+   "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-044",
+  "tip": "multiplu",
+  "test": 6,
+  "intrebare": "Care dintre următoarele reguli speciale de calcul al valorii estimate sunt enunțate corect, potrivit art. 22-24 din Legea nr. 98/2016?",
+  "variante": [
+   "În cazul serviciilor de proiectare, valoarea estimată se calculează pe baza onorariilor, comisioanelor ce urmează a fi plătite și a oricăror altor forme de remunerare aferente serviciilor respective.",
+   "În cazul serviciilor de asigurare, valoarea estimată se calculează pe baza primelor de asigurare ce urmează a fi plătite și a oricăror altor forme de remunerare aferente serviciilor respective.",
+   "În cazul serviciilor bancare sau al altor servicii financiare, valoarea estimată se calculează exclusiv pe baza dobânzilor, onorariile și comisioanele fiind excluse din calcul.",
+   "În cazul serviciilor de asigurare, valoarea estimată se calculează prin înmulțirea cu 48 a valorii primei lunare, indiferent de durata contractului."
+  ],
+  "corecte": [
+   0,
+   1
+  ],
+  "explicatie": "Art. 22 (asigurări) trimite la primele de asigurare plătibile plus orice alte forme de remunerare, iar art. 24 (proiectare) la onorarii, comisioane și orice alte forme de remunerare — ambele afirmații sunt reproduse fidel. Afirmația despre serviciile bancare este falsă prin restrângere: art. 23 include onorariile, comisioanele, dobânzile ȘI orice alte forme de remunerare, deci dobânzile sunt doar una dintre componente. Înmulțirea cu 48 a valorii lunare este regula de la art. 25 lit. b) pentru contractele de servicii care nu prevăd un preț total, încheiate pe durată nedeterminată sau pe durată determinată mai mare de 48 de luni (respectiv art. 21 lit. c) la produse în rate/leasing), nu o regulă pentru asigurări. Capcana tipică: confundarea bazei de calcul specifice fiecărui tip de serviciu financiar.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 22",
+   "citat": "În cazul contractelor de achiziție publică de servicii având ca obiect servicii de asigurare, valoarea estimată a achiziției se calculează pe baza primelor de asigurare ce urmează a fi plătite și a oricăror altor forme de remunerare aferente serviciilor respective.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N103",
+  "tip": "unic",
+  "test": 6,
+  "intrebare": "Potrivit Legii nr. 98/2016, în cazul contractelor de achiziție publică de servicii având ca obiect servicii bancare sau alte servicii financiare, valoarea estimată a achiziției se calculează pe baza:",
+  "variante": [
+   "onorariilor, comisioanelor ce urmează a fi plătite, dobânzilor și a oricăror altor forme de remunerare aferente serviciilor respective",
+   "onorariilor și comisioanelor ce urmează a fi plătite, dobânzile fiind excluse din calcul",
+   "valorii lunare a contractului înmulțite cu 48, indiferent de durata contractului",
+   "sumei împrumutate, la care se adaugă dobânzile aferente întregii perioade de rambursare"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 23 din Legea nr. 98/2016 stabilește că, pentru serviciile bancare sau alte servicii financiare, valoarea estimată se calculează pe baza onorariilor, comisioanelor ce urmează a fi plătite, dobânzilor și a oricăror altor forme de remunerare. Excluderea dobânzilor este greșită: ele sunt menționate expres în art. 23, spre deosebire de formula pentru serviciile de proiectare din art. 24, care nu le cuprinde. Calculul pe baza sumei împrumutate confundă serviciul financiar cu împrumutul, iar împrumuturile sunt exceptate de la aplicarea legii prin art. 29 alin. (1) lit. f). Înmulțirea cu 48 a valorii lunare este regula de la art. 25 lit. b), aplicabilă doar serviciilor care nu prevăd un preț total, încheiate pe durată nedeterminată sau mai mare de 48 de luni.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 23",
+   "citat": "În cazul contractelor de achiziție publică de servicii având ca obiect servicii bancare sau alte servicii financiare, valoarea estimată a achiziției se calculează pe baza onorariilor, comisioanelor ce urmează a fi plătite, dobânzilor și a oricăror altor forme de remunerare aferente serviciilor respective.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N104",
+  "tip": "unic",
+  "test": 6,
+  "intrebare": "Potrivit Legii nr. 98/2016, în cazul contractelor de achiziție publică de servicii având ca obiect servicii de proiectare, valoarea estimată a achiziției se calculează pe baza:",
+  "variante": [
+   "valorii maxime estimate, fără TVA, a activităților de cercetare și dezvoltare care urmează să se realizeze pe durata tuturor etapelor",
+   "onorariilor, comisioanelor ce urmează a fi plătite și a oricăror altor forme de remunerare aferente serviciilor respective",
+   "costului lucrărilor, la care se adaugă valoarea totală estimată a produselor și serviciilor puse la dispoziția contractantului de către autoritatea contractantă",
+   "primelor ce urmează a fi plătite și a oricăror altor forme de remunerare aferente serviciilor respective"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 24 din Legea nr. 98/2016 prevede că, pentru serviciile de proiectare, valoarea estimată se calculează pe baza onorariilor, comisioanelor ce urmează a fi plătite și a oricăror altor forme de remunerare aferente serviciilor. Luarea în calcul a costului lucrărilor plus produsele și serviciile puse la dispoziția contractantului este regula de la art. 16, specifică contractelor de achiziție publică de lucrări. Valoarea maximă estimată a activităților de cercetare și dezvoltare pe durata tuturor etapelor este regula de la art. 15, pentru parteneriatul pentru inovare. Calculul pe baza primelor ce urmează a fi plătite aparține serviciilor de asigurare, potrivit art. 22.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 24",
+   "citat": "În cazul contractelor de achiziție publică de servicii având ca obiect servicii de proiectare, valoarea estimată a achiziției se calculează pe baza onorariilor, comisioanelor ce urmează a fi plătite și a oricăror altor forme de remunerare aferente serviciilor respective.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395A-033",
+  "tip": "multiplu",
+  "test": 6,
+  "intrebare": "În funcție de care aspecte alege autoritatea contractantă procedura de atribuire, potrivit art. 17 alin. (1) din Norme?",
+  "variante": [
+   "Sursa de finanțare a contractului, respectiv fonduri publice naționale sau fonduri europene",
+   "Valoarea estimată a achiziției",
+   "Complexitatea contractului/acordului-cadru ce urmează a fi atribuit",
+   "Îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire"
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 17 alin. (1) enumeră trei aspecte: valoarea estimată, complexitatea contractului și îndeplinirea condițiilor specifice de aplicare a anumitor proceduri (de exemplu condițiile de la negocierea fără publicare prealabilă sau de la dialogul competitiv). Sursa de finanțare nu este un criteriu de alegere a procedurii — regulile legii se aplică identic indiferent dacă banii sunt naționali sau europeni. Finanțarea nerambursabilă produce însă un alt efect, prevăzut la art. 17 alin. (3): raportarea se face la durata contractului de finanțare/proiect, nu la anul bugetar. Capcană frecventă: sursa de finanțare este într-adevăr o informație obligatorie a programului anual (art. 12 alin. (5) lit. d)), ceea ce o face să pară, greșit, și un criteriu de alegere a procedurii.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 17 alin. (1) lit. a)-c)",
+   "citat": "Autoritatea contractantă alege procedura de atribuire în funcție de următoarele aspecte: a) valoarea estimată a achiziției; b) complexitatea contractului/acordului-cadru ce urmează a fi atribuit; c) îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-009",
+  "tip": "unic",
+  "test": 6,
+  "intrebare": "Ce reprezintă creditul de angajament, potrivit Normelor ALOP?",
+  "variante": [
+   "limita minimă a cheltuielilor care trebuie angajate obligatoriu în cursul exercițiului bugetar",
+   "suma aprobată prin buget, reprezentând limita maximă până la care se pot ordonanța și efectua plăți în cursul anului bugetar",
+   "suma pusă în rezervă (blocată) în vederea efectuării unei cheltuieli, potrivit destinației prevăzute în buget",
+   "limita maximă a cheltuielilor ce pot fi angajate, în timpul exercițiului bugetar, în limitele aprobate"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Creditul de angajament este limita maximă a cheltuielilor ce pot fi ANGAJATE în timpul exercițiului bugetar. Varianta cu suma aprobată prin buget pentru ordonanțare și plăți este definiția creditului BUGETAR — limita până la care se pot ordonanța și efectua plăți — capcana clasică între cele două noțiuni: creditul de angajament privește angajarea, creditul bugetar privește ordonanțarea și plata. Varianta cu suma pusă în rezervă (blocată) descrie efectul angajamentului bugetar (rezervarea/blocarea creditelor), nu creditul de angajament. Nu există nicio limită minimă obligatorie de angajare. Ambele definiții au fost introduse în norme prin Ordinul nr. 547/2009.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea)",
+   "citat": "Creditul de angajament reprezintă limita maximă a cheltuielilor ce pot fi angajate, în timpul exercițiului bugetar, în limitele aprobate.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-036",
+  "tip": "unic",
+  "test": 6,
+  "intrebare": "Un contract de servicii care nu prevede un preț total este încheiat pe o durată determinată de 60 de luni. Cum se calculează valoarea estimată, potrivit art. 25 din Legea nr. 98/2016?",
+  "variante": [
+   "valoarea totală a contractului nu poate fi estimată, deci contractul nu poate fi atribuit",
+   "valoarea lunară înmulțită cu 12",
+   "valoarea lunară înmulțită cu 60, adică pentru întreaga durată a contractului",
+   "prin înmulțirea cu 48 a valorii lunare a contractului"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Pentru serviciile fără preț total, linia de demarcație este durata de 48 de luni: până la 48 de luni inclusiv, valoarea estimată este valoarea totală pentru întreaga durată; peste 48 de luni sau pe durată nedeterminată, valoarea estimată = valoarea lunară × 48. La 60 de luni se aplică deci plafonul convențional de 48. Capcana din varianta cu înmulțirea valorii lunare cu 60: intuiția de a înmulți cu durata reală este corectă doar sub pragul de 48 de luni. Aceeași formulă ×48 se aplică și produselor închiriate pe durată nedeterminată (art. 21 lit. c)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 25 lit. b)",
+   "citat": "în cazul contractelor de achiziție publică încheiate pe durată nedeterminată sau pe durată determinată mai mare de 48 de luni, valoarea estimată se calculează prin înmulțirea cu 48 a valorii lunare a contractului.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N105",
+  "tip": "unic",
+  "test": 7,
+  "intrebare": "Potrivit Legii nr. 98/2016, legea NU se aplică contractelor de achiziție publică, acordurilor-cadru și concursurilor de soluții care au ca scop principal:",
+  "variante": [
+   "să permită autorităților contractante să furnizeze sau să exploateze rețele publice de comunicații electronice ori să furnizeze către public servicii de comunicații electronice",
+   "achiziționarea de servicii de telefonie și internet pentru uzul propriu al personalului autorității contractante",
+   "achiziționarea de servicii de transport public rutier de călători",
+   "achiziționarea de echipamente și programe informatice destinate digitalizării serviciilor publice oferite de autoritatea contractantă"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 27 alin. (1) din Legea nr. 98/2016 exceptează contractele, acordurile-cadru și concursurile de soluții care au ca scop principal să permită autorităților contractante să furnizeze sau să exploateze rețele publice de comunicații electronice ori să furnizeze către public servicii de comunicații electronice. Excepția privește autoritatea contractantă în calitate de furnizor sau operator de rețea, nu în calitate de beneficiar: cumpărarea de telefonie și internet pentru propriul personal rămâne o achiziție publică obișnuită, supusă legii potrivit art. 5. La fel, echipamentele și programele informatice pentru digitalizarea serviciilor publice nu se încadrează în niciuna dintre excepțiile de la art. 26-33. Pentru transportul public de călători, art. 29 alin. (1) lit. i) exceptează numai serviciile feroviare sau cu metroul, nu și transportul rutier.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 27 alin. (1)",
+   "citat": "Prezenta lege nu se aplică contractelor de achiziție publică, acordurilor-cadru și concursurilor de soluții care au ca scop principal să permită autorităților contractante să furnizeze sau să exploateze rețele publice de comunicații electronice ori să furnizeze către public unul sau mai multe servicii de comunicații electronice.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L500-N102",
+  "tip": "unic",
+  "test": 7,
+  "intrebare": "Potrivit Legii nr. 500/2002 privind finanțele publice, prin ce act se aprobă rezultatele exercițiului bugetar al bugetului de stat?",
+  "variante": [
+   "prin memorandum aprobat de Guvern",
+   "prin legea privind contul general anual de execuție a bugetului de stat",
+   "prin legea de rectificare a bugetului de stat",
+   "prin hotărâre a Guvernului, la propunerea Ministerului Finanțelor Publice"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 7 lit. a) prevede că rezultatele fiecărui exercițiu bugetar se aprobă prin legea privind contul general anual de execuție a bugetului de stat (iar lit. b), pentru bugetul asigurărilor sociale de stat, prin legea contului general al acestuia); art. 17 alin. (4) confirmă că Parlamentul adoptă legile contului general anual de execuție. Legea de rectificare (art. 5 lit. a) și art. 6 alin. (1)) modifică legea bugetară anuală în cursul exercițiului, nu aprobă rezultatele lui. Hotărârea Guvernului este forma de aprobare a bugetului trezoreriei statului (art. 16 alin. (1) lit. f)); Guvernul doar supune Parlamentului proiectul contului general (art. 18 alin. (2) lit. d)). Memorandumul este actul prin care Guvernul aprobă cadrul analizei cheltuielilor publice (art. 31^1 alin. (1)). Forma de lege pentru ambele conturi generale este cerută de art. 7 lit. a) și b).",
+  "sursa": {
+   "act": "Legea nr. 500/2002 privind finanțele publice",
+   "articol": "art. 7",
+   "citat": "Rezultatele fiecărui exercițiu bugetar se aproba prin: a) legea privind contul general anual de execuție a bugetului de stat; b) legea privind contul general anual de execuție a bugetului asigurărilor sociale de stat.",
+   "fisier": "10_Legea_500-2002_finantele_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395A-036",
+  "tip": "multiplu",
+  "test": 7,
+  "intrebare": "Care dintre următoarele elemente trebuie să fie cuprinse în anunțul privind consultarea pieței?",
+  "variante": [
+   "Denumirea autorității contractante și datele de contact",
+   "Valoarea estimată a contractului care urmează să fie atribuit ca urmare a consultării",
+   "Adresa de internet unde sunt publicate informațiile cu privire la procesul de consultare a pieței",
+   "Aspectele supuse consultării"
+  ],
+  "corecte": [
+   0,
+   2,
+   3
+  ],
+  "explicatie": "Art. 18 alin. (2) stabilește conținutul minim al anunțului: denumirea și datele de contact ale autorității contractante, adresa de internet unde sunt publicate informațiile despre consultare, descrierea necesităților obiective și a constrângerilor, aspectele supuse consultării, termenul până la care se transmit propunerile, termenul până la care se desfășoară consultarea și descrierea modalității de desfășurare. Valoarea estimată nu figurează în această listă — este firesc, întrucât unul dintre scopurile consultării este tocmai fundamentarea valorii estimate; comunicarea ei prealabilă ar putea distorsiona ofertele viitoare. Capcană: valoarea estimată este obligatorie în alte documente (programul anual — art. 12 alin. (5) lit. c), anunțul de participare), ceea ce o face să pară plauzibilă și aici.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 18 alin. (2) lit. a)-d)",
+   "citat": "Anunțul prevăzut la alin. (1) trebuie să conțină cel puțin următoarele elemente: a) denumirea autorității contractante și datele de contact; b) adresa de internet unde sunt publicate informațiile cu privire la procesul de consultare a pieței; c) descrierea necesităților obiective și constrângerilor de natură tehnică, financiară și/sau contractuală ce caracterizează nevoia autorității contractante în raport cu care se organizează respectiva consultare; d) aspectele supuse consultării;",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-038",
+  "tip": "multiplu",
+  "test": 7,
+  "intrebare": "Care dintre următoarele contracte de servicii sunt EXCEPTATE de la aplicarea Legii nr. 98/2016, potrivit art. 29 alin. (1)? (selectați toate variantele corecte)",
+  "variante": [
+   "cumpărarea sau închirierea, prin orice mijloace financiare, de terenuri ori clădiri existente",
+   "contractele de muncă",
+   "serviciile de ambulanță pentru transportul pacienților",
+   "serviciile de arbitraj, mediere și alte forme de soluționare alternativă a disputelor"
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Art. 29 alin. (1) exceptează, printre altele, cumpărarea/închirierea de terenuri, clădiri existente și alte bunuri imobile (lit. a)), serviciile de arbitraj și mediere (lit. c)), anumite servicii juridice, serviciile financiare privind instrumente financiare, împrumuturile și contractele de muncă (lit. g)). Capcana din varianta privind serviciile de ambulanță pentru transportul pacienților: serviciile de apărare civilă, protecție civilă și prevenirea pericolelor prestate de persoane fără scop patrimonial sunt exceptate, DAR „cu excepția serviciilor de ambulanță pentru transportul pacienților\" — acestea rămân deci supuse legii (excepție la excepție).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 29 alin. (1)",
+   "citat": "de servicii care au ca obiect: a) cumpărarea sau închirierea, prin orice mijloace financiare, de terenuri, clădiri existente, alte bunuri imobile ori a drepturilor asupra acestora; [...] c) servicii de arbitraj, mediere și alte forme de soluționare alternativă a disputelor; [...] g) contracte de muncă; h) servicii de apărare civilă, protecție civilă și prevenirea pericolelor, prestate de persoane fără scop patrimonial [...] cu excepția serviciilor de ambulanță pentru transportul pacienților;",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-039",
+  "tip": "unic",
+  "test": 7,
+  "intrebare": "Serviciile de certificare și autentificare a documentelor prestate de notari publici intră sub incidența Legii nr. 98/2016?",
+  "variante": [
+   "da, se atribuie prin procedura simplificată, indiferent de valoare",
+   "nu, sunt servicii juridice exceptate potrivit art. 29 alin. (1) lit. d) coroborat cu alin. (3) lit. d)",
+   "nu, dar exclusiv atunci când valoarea lor este sub pragul achiziției directe",
+   "da, dar numai peste pragul JOUE pentru servicii"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 29 alin. (3) enumeră serviciile juridice exceptate: asistența/reprezentarea de către avocat în arbitraj, mediere ori proceduri judiciare, consultanța în pregătirea acestora, serviciile de certificare și autentificare a documentelor prestate de notari publici (lit. d)), serviciile fiduciarilor și administratorilor-sechestru și serviciile executorilor judecătorești. Exceptarea nu este condiționată de valoare — variantele care invocă procedura simplificată, pragul JOUE sau pragul achiziției directe introduc condiții valorice inexistente. Atenție: alte servicii juridice (de exemplu consultanța generală neconectată la un litigiu probabil) nu sunt acoperite de excepție.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 29 alin. (3) lit. d)",
+   "citat": "servicii de certificare și autentificare a documentelor care sunt prestate de notari publici potrivit dispozițiilor legale;",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L500-N103",
+  "tip": "unic",
+  "test": 7,
+  "intrebare": "Ce prevede art. 7^1 din Legea nr. 500/2002 privind finanțele publice cu privire la deficitul bugetar calculat conform Sistemului european de conturi?",
+  "variante": [
+   "este raportat de Comisia Națională de Prognoză, până la data de 1 iunie a anului curent",
+   "este raportat de Consiliul Fiscal, prin publicarea rezultatelor evaluărilor pe site-ul propriu",
+   "este motivat de Ministerul Finanțelor Publice în anexă separată la raportul la legea bugetară anuală",
+   "se raportează potrivit metodologiei europene, de către instituțiile abilitate în acest scop"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 7^1 prevede că deficitul bugetar calculat conform Sistemului european de conturi se raportează potrivit metodologiei europene de către instituțiile abilitate în acest scop. Termenul de 1 iunie și Comisia Națională de Prognoză țin de elaborarea prognozelor indicatorilor macroeconomici și sociali (art. 31), nu de raportarea deficitului. Consiliul Fiscal publică pe site rezultatele evaluărilor previziunilor macroeconomice și bugetare (art. 30^4 alin. (2)). Anexa separată la raportul la legea bugetară anuală cuprinde motivarea abaterilor față de cadrul bugetar pe termen mediu (art. 30^5 alin. (2)). Legea nu desemnează nominal o instituție, ci trimite, în art. 7^1, la metodologia europeană și la instituțiile abilitate.",
+  "sursa": {
+   "act": "Legea nr. 500/2002 privind finanțele publice",
+   "articol": "art. 7^1",
+   "citat": "Deficitul bugetar calculat conform Sistemului european de conturi se raportează potrivit metodologiei europene de către instituțiile abilitate în acest scop.",
+   "fisier": "10_Legea_500-2002_finantele_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-046",
+  "tip": "multiplu",
+  "test": 7,
+  "intrebare": "Care dintre următoarele condiții trebuie îndeplinite în mod CUMULATIV pentru ca atribuirea unui contract de către o autoritate contractantă unei persoane juridice controlate („in-house”) să fie exceptată de la aplicarea Legii nr. 98/2016, potrivit art. 31 alin. (1)?",
+  "variante": [
+   "Nu există participare privată directă la capitalul persoanei juridice controlate, cu excepția formelor de participare a capitalului privat care nu oferă controlul sau dreptul de veto și care nu exercită o influență determinantă asupra acesteia.",
+   "Autoritatea contractantă exercită asupra persoanei juridice în cauză un control similar celui pe care îl exercită asupra propriilor departamente sau servicii.",
+   "Autoritățile contractante participante desfășoară pe piața liberă mai puțin de 20% din activitățile vizate de cooperare.",
+   "Mai mult de 80% din activitățile persoanei juridice controlate sunt efectuate în vederea îndeplinirii sarcinilor care îi sunt încredințate de către autoritatea contractantă care o controlează sau de alte persoane juridice controlate de aceasta."
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Excepția in-house de la art. 31 alin. (1) presupune trei condiții cumulative: controlul similar (definit la alin. (2) ca influență determinantă asupra obiectivelor strategice și a deciziilor importante), pragul de activitate de peste 80% desfășurat pentru autoritatea care controlează și absența participării private directe la capital, cu excepția formelor impuse de lege care nu conferă control, drept de veto sau influență determinantă. Condiția privind desfășurarea pe piața liberă a mai puțin de 20% din activitățile vizate aparține unei alte excepții — cooperarea orizontală dintre autorități contractante, reglementată la art. 31 alin. (6) lit. c) — și este cea mai frecventă capcană de examen, pentru că cele două praguri (80% și 20%) se referă la ipoteze juridice diferite. Reține și art. 31 alin. (3): excepția funcționează și „invers”, când persoana juridică controlată atribuie un contract autorității care o controlează.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 31 alin. (1)",
+   "citat": "(1) Prezenta lege nu se aplică contractelor de achiziție publică/acordurilor-cadru atribuite de o autoritate contractantă unei persoane juridice de drept privat sau de drept public în cazul în care sunt îndeplinite cumulativ următoarele condiții: a) autoritatea contractantă exercită asupra persoanei juridice în cauză un control similar celui pe care îl exercită asupra propriilor departamente sau servicii; b) mai mult de 80% din activitățile persoanei juridice controlate sunt efectuate în vederea îndeplinirii sarcinilor care îi sunt încredințate de către autoritatea contractantă [...] c) nu există participare privată directă la capitalul persoanei juridice controlate, cu excepția formelor de participare a capitalului privat care nu oferă controlul sau dreptul de veto",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-047",
+  "tip": "unic",
+  "test": 8,
+  "intrebare": "Două autorități contractante încheie între ele un contract prin care instituie o cooperare, cu scopul de a asigura prestarea unor servicii publice în vederea îndeplinirii unor obiective comune (cooperare orizontală). Ce condiție privind activitatea pe piața liberă trebuie îndeplinită pentru ca legea să nu se aplice?",
+  "variante": [
+   "Autoritățile contractante participante desfășoară pe piața liberă mai puțin de 20% din activitățile vizate de cooperare.",
+   "Autoritățile contractante participante desfășoară pe piața liberă mai puțin de 50% din activitățile vizate de cooperare.",
+   "Mai mult de 80% din activitățile fiecărei autorități contractante participante sunt efectuate în vederea îndeplinirii sarcinilor încredințate de celelalte autorități participante.",
+   "Autoritățile contractante participante desfășoară pe piața liberă mai puțin de 10% din activitățile vizate de cooperare."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 31 alin. (6) lit. c) stabilește pragul de sub 20% din activitățile vizate de cooperare desfășurate pe piața liberă, alături de celelalte două condiții cumulative: contractul instituie sau pune în aplicare o cooperare în vederea unor obiective comune (lit. a) și punerea ei în aplicare are la bază exclusiv considerații de interes public (lit. b). Pragurile de 10% și 50% nu există în acest text: 10% apare la art. 60 alin. (2), ca definiție a acționarului sau asociatului semnificativ. Varianta cu peste 80% din activitățile fiecărei autorități contractante participante transpune greșit condiția de la art. 31 alin. (1) lit. b) (excepția in-house verticală), care privește activitatea persoanei juridice controlate, nu a autorităților care cooperează. Procentele de la alin. (1) lit. b), alin. (4) lit. b) și alin. (6) lit. c) se stabilesc potrivit art. 31 alin. (7), pe baza cifrei medii de afaceri din ultimii 3 ani.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 31 alin. (6) lit. c)",
+   "citat": "a) contractul instituie sau pune în aplicare o cooperare între autoritățile contractante participante, cu scopul de a asigura că serviciile publice a căror realizare trebuie să o asigure sunt prestate în vederea îndeplinirii unor obiective comune; b) punerea în aplicare a cooperării are la bază exclusiv considerații de interes public; c) autoritățile contractante participante desfășoară pe piața liberă mai puțin de 20% din activitățile vizate de cooperare.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N106",
+  "tip": "unic",
+  "test": 8,
+  "intrebare": "Potrivit Legii nr. 98/2016, o autoritate contractantă încheie un act juridic denumit „protocol de colaborare” care, prin conținutul său, reprezintă un contract de achiziție publică. Ce regim juridic se aplică atribuirii acestuia?",
+  "variante": [
+   "Se aplică dispozițiile Legii nr. 98/2016, indiferent de denumirea sau forma utilizată",
+   "Legea nu se aplică, protocolul fiind un act juridic altul decât contractul de achiziție publică, asemenea acordării de finanțări nerambursabile",
+   "Legea se aplică numai dacă valoarea estimată a protocolului este egală sau mai mare decât pragurile valorice prevăzute la art. 7 alin. (1)",
+   "Autoritatea contractantă elaborează norme proprii care să asigure aplicarea principiilor prevăzute la art. 2 alin. (2)"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 32 alin. (2) din Legea nr. 98/2016 prevede că, indiferent de denumirea sau forma utilizată, actele juridice încheiate de autoritățile contractante care reprezintă contracte de achiziție publică/acorduri-cadru intră sub incidența legii. Excluderea de la art. 32 alin. (1) (finanțări rambursabile sau nerambursabile, constituirea de societăți ori asocieri) privește numai actele juridice care nu sunt, în fond, contracte de achiziție publică, deci nu poate fi invocată pe baza simplei denumiri de „protocol”. Pragurile de la art. 7 alin. (1) nu condiționează aplicarea legii: sub ele se aplică procedura simplificată (art. 7 alin. (2)) sau achiziția directă (art. 7 alin. (5)). Normele proprii care asigură aplicarea principiilor de la art. 2 alin. (2) sunt prevăzute de art. 33 alin. (2), numai pentru contractele structurilor autorităților contractante care funcționează pe teritoriul altor state, sub pragurile de la art. 7 alin. (1).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 32 alin. (2)",
+   "citat": "În cazul în care, indiferent de denumirea sau forma utilizată, actele juridice încheiate de persoane care au calitatea de autoritate contractantă potrivit prezentei legi reprezintă contracte de achiziție publică/acorduri-cadru, se aplică dispozițiile prezentei legi.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGA-008",
+  "tip": "multiplu",
+  "test": 8,
+  "intrebare": "Ce presupune controlul de calitate și regularitate ex ante al procesului de atribuire, potrivit art. 6 alin. (2) din O.U.G. nr. 98/2017?",
+  "variante": [
+   "Verificarea studiului de fundamentare prevăzut la art. 229 din Legea nr. 98/2016",
+   "Verificarea conformității cu dispozițiile legale a documentației de atribuire, împreună cu strategia de contractare și celelalte documente ce o însoțesc, a anunțului de tip erată și a propunerilor de răspuns la solicitările de clarificări",
+   "Verificarea deciziilor luate în procesul de evaluare a ofertelor și de atribuire a contractului",
+   "Verificarea modului de execuție a contractului după semnarea acestuia"
+  ],
+  "corecte": [
+   1,
+   2
+  ],
+  "explicatie": "Art. 6 alin. (2) structurează controlul procesului de atribuire pe două componente: lit. a) — verificarea documentației de atribuire cu strategia de contractare, erata și răspunsurile la clarificări; lit. b) — verificarea deciziilor din evaluare și atribuire. Varianta cu verificarea studiului de fundamentare este capcana textuală: studiul de fundamentare prevăzut la art. 229 din Legea nr. 98/2016 este EXCEPTAT expres de la verificare. Execuția contractului nu face obiectul controlului ex ante, care se oprește la momentul în care comunicările privind rezultatul au rămas definitive (art. 6 alin. (1) lit. a)).",
+  "sursa": {
+   "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+   "articol": "art. 6 alin. (2) lit. a)-b)",
+   "citat": "verificarea conformității cu dispozițiile legale în domeniul achizițiilor publice/sectoriale, respectiv concesiunilor de servicii sau lucrări a documentației de atribuire, împreună cu strategia de contractare [...] cu excepția studiului de fundamentare prevăzut la art. 229 din Legea nr. 98/2016 [...] verificarea deciziilor luate în procesul de evaluare a ofertelor și de atribuire a contractului.",
+   "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-050",
+  "tip": "unic",
+  "test": 8,
+  "intrebare": "Un contract mixt are ca obiect atât achiziții supuse Legii nr. 98/2016, cât și achiziții supuse altor acte normative, iar diferitele părți ale contractului NU sunt în mod obiectiv separabile. Care este regula de atribuire?",
+  "variante": [
+   "Autoritatea contractantă are obligația de a atribui contracte distincte pentru fiecare parte, potrivit actului normativ corespunzător.",
+   "Contractul se atribuie obligatoriu potrivit Legii nr. 98/2016, indiferent de valoarea părților componente.",
+   "Contractul este atribuit potrivit actului normativ aplicabil în funcție de obiectul său principal.",
+   "Se aplică actul normativ care conține regulile cele mai restrictive dintre cele incidente."
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Art. 34 alin. (6) tranșează situația părților neseparabile în mod obiectiv prin criteriul obiectului principal al contractului: actul normativ aplicabil este cel corespunzător acestui obiect principal. Varianta potrivit căreia contractul se atribuie obligatoriu potrivit Legii nr. 98/2016 descrie regula de la art. 34 alin. (3), aplicabilă numai când părțile SUNT separabile, iar autoritatea contractantă alege totuși să atribuie un singur contract (cu excepția situațiilor de la art. 38, privind aspectele de apărare/securitate). Obligația de a atribui contracte distincte nu există: art. 34 alin. (1) conferă doar un drept de a alege, și doar în cazul părților separabile. Criteriul „actului normativ cel mai restrictiv” nu figurează în lege. Reține și art. 34 alin. (5): la contractele mixte care includ activități din sectoarele reglementate de legea privind achizițiile sectoriale, atribuirea se realizează potrivit acelei legi.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 34 alin. (6)",
+   "citat": "(6) În cazul contractelor mixte care au ca obiect atât achiziții pentru care se aplică dispozițiile prezentei legi, cât și achiziții pentru care se aplică dispozițiile altor acte normative, iar diferitele părți ale unui anumit contract nu sunt în mod obiectiv separabile, contractul este atribuit potrivit actului normativ aplicabil în funcție de obiectul său principal.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L500-N104",
+  "tip": "multiplu",
+  "test": 8,
+  "intrebare": "Potrivit principiului publicității consacrat de Legea nr. 500/2002 privind finanțele publice, prin care dintre următoarele se realizează deschiderea și transparența sistemului bugetar?",
+  "variante": [
+   "difuzarea prin mijloacele de informare în masă a tuturor informațiilor și documentelor privind conținutul bugetului, inclusiv a celor nepublicabile prevăzute de lege",
+   "publicarea în Monitorul Oficial al României, Partea I, a actelor normative de aprobare a bugetelor și a conturilor anuale de execuție a acestora",
+   "dezbaterea publică a conturilor generale anuale de execuție a bugetelor, cu prilejul aprobării acestora",
+   "dezbaterea publică a proiectelor de buget, cu prilejul aprobării acestora"
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 9 enumeră patru mijloace ale transparenței: dezbaterea publică a proiectelor de buget (lit. a)), dezbaterea publică a conturilor generale anuale de execuție (lit. b)), publicarea în Monitorul Oficial, Partea I, a actelor de aprobare a bugetelor și a conturilor de execuție (lit. c)) și mijloacele de informare în masă (lit. d)). Varianta despre difuzarea tuturor informațiilor, inclusiv a celor nepublicabile, este greșită: lit. d) exceptează expres informațiile și documentele nepublicabile prevăzute de lege. Capcana de examen constă tocmai în omiterea acestei excepții. Dezbaterea publică are loc, atât la proiectele de buget, cât și la conturile de execuție, cu prilejul aprobării lor, potrivit art. 9 lit. a) și b).",
+  "sursa": {
+   "act": "Legea nr. 500/2002 privind finanțele publice",
+   "articol": "art. 9",
+   "citat": "Sistemul bugetar este deschis și transparent, acestea realizându-se prin: a) dezbaterea publică a proiectelor de buget, cu prilejul aprobării acestora; b) dezbaterea publică a conturilor generale anuale de execuție a bugetelor, cu prilejul aprobării acestora; c) publicarea în Monitorul Oficial al României, Partea I, a actelor normative de aprobare a bugetelor și conturilor anuale de execuție a acestora; d) mijloacele de informare în masa, pentru difuzarea informațiilor asupra conținutului bugetului, exceptând informațiile și documentele nepublicabile, prevăzute de lege.",
+   "fisier": "10_Legea_500-2002_finantele_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395A-042",
+  "tip": "multiplu",
+  "test": 8,
+  "intrebare": "În cazul acordului-cadru, care dintre următoarele informații specifice trebuie să se regăsească în anunțul de participare/simplificat?",
+  "variante": [
+   "Frecvența de atribuire a contractelor subsecvente",
+   "Opțiunea de a atribui contractele subsecvente cu sau fără reluarea competiției, în cazul acordului-cadru încheiat cu mai mulți operatori economici",
+   "Numele persoanelor desemnate în comisia de evaluare a ofertelor",
+   "Numărul sau intervalul în care se va încadra numărul de operatori economici care vor fi parte a acordului-cadru"
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Art. 20 alin. (8) impune un set minim de informații specifice acordului-cadru: numărul sau intervalul de operatori economici, opțiunea privind reluarea competiției, opțiunea privind licitația electronică la reluarea competiției, frecvența de atribuire a contractelor subsecvente, criteriul de atribuire și factorii de evaluare aplicabili contractelor subsecvente, estimările cantităților minime și maxime pe acord-cadru și pe un singur contract subsecvent, estimarea valorii celui mai mare contract subsecvent și, din 2023, estimarea valorii maxime a acordului-cadru. Componența comisiei de evaluare nu se publică în anunț; în anunț se precizează, potrivit art. 21 alin. (6), numele, prenumele și funcția persoanelor care dețin funcții de decizie, pentru a permite verificarea conflictului de interese — de aici plauzibilitatea distractorului. Reține că estimarea valorii celui mai mare contract subsecvent este relevantă și pentru garanția de participare, al cărei plafon de 1% se raportează, în cazul acordului-cadru, la această valoare.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 20 alin. (8) lit. a), b) și d)",
+   "citat": "În cazul acordului-cadru, anunțul de participare/ simplificat trebuie să conțină și un set minim de informații specifice referitoare la: [...] a) numărul sau intervalul în care se va încadra numărul de operatori economici care vor fi parte a acordului-cadru ce urmează să fie încheiat; b) opțiunea de a atribui contractele subsecvente încheierii acordului-cadru cu/fără reluarea competiției, în cazul în care acordul-cadru urmează să fie încheiat cu mai mulți operatori economici; [...] d) frecvența de atribuire a contractelor subsecvente;",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98E-001",
+  "tip": "unic",
+  "test": 8,
+  "intrebare": "În care dintre următoarele situații NU se aplică Legea nr. 98/2016 unui contract de achiziție publică din domeniile apărării și securității naționale, chiar dacă acel contract nu este exceptat în temeiul art. 37 alin. (1)?",
+  "variante": [
+   "Atunci când atribuirea și executarea contractului reprezintă informații secrete de stat, în conformitate cu dispozițiile legale privind protecția informațiilor clasificate.",
+   "Atunci când autoritatea contractantă impune participanților cerințe de protejare a caracterului confidențial al informațiilor puse la dispoziție în procedură.",
+   "Atunci când contractul este finanțat integral din fonduri externe nerambursabile acordate României.",
+   "Atunci când valoarea estimată a contractului depășește pragul prevăzut la art. 7 alin. (1) lit. a) din lege."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 37 alin. (4) lit. a) prevede expres că legea nu se aplică atunci când atribuirea și executarea contractului reprezintă informații secrete de stat, potrivit legislației privind protecția informațiilor clasificate; lit. b) adaugă cazul măsurilor speciale de securitate care nu pot fi garantate prin măsuri mai puțin invazive. Varianta cu pragul valoric este falsă: depășirea pragurilor de la art. 7 alin. (1) atrage aplicarea legii și publicarea în JOUE, nu exceptarea. Finanțarea din fonduri externe nerambursabile nu exceptează, prin ea însăși, un contract de la aplicarea legii — regula specială privește doar contractele finanțate integral de o organizație internațională ori de o instituție financiară internațională (art. 39 alin. (4)). Varianta privind cerințele de protejare a caracterului confidențial al informațiilor este capcana centrală a articolului: impunerea unor cerințe de confidențialitate este tocmai exemplul de „măsură mai puțin invazivă” dat de art. 37 alin. (2), iar existența ei conduce la APLICAREA legii, nu la exceptare.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 37 alin. (4) lit. a)",
+   "citat": "Prezenta lege nu se aplică contractelor de achiziție publică/acordurilor-cadru sau concursurilor de soluții în legătură cu care este îndeplinită cel puțin una dintre următoarele condiții: a) atribuirea și executarea contractului de achiziție publică/acordului-cadru sau a concursului de soluții reprezintă informații secrete de stat, în conformitate cu dispozițiile legale privind protecția informațiilor clasificate;",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N107",
+  "tip": "unic",
+  "test": 9,
+  "intrebare": "Potrivit Legii nr. 98/2016, o autoritate contractantă alege să atribuie un singur contract mixt, cu părți obiectiv separabile, atribuirea unui singur contract fiind justificată de motive obiective. Contractul cuprinde achiziții supuse Legii nr. 98/2016, o parte care face obiectul actelor normative emise în temeiul art. 20 alin. (3) din O.U.G. nr. 114/2011, în legătură cu situațiile prevăzute la art. 346 din TFUE, și o parte care face obiectul O.U.G. nr. 114/2011. Ce regim juridic se aplică atribuirii?",
+  "variante": [
+   "Regimul juridic se stabilește în funcție de obiectul principal al contractului, determinat după cea mai mare dintre valorile estimate ale părților",
+   "Criteriul aplicabil părții supuse actelor normative emise în temeiul art. 20 alin. (3) din O.U.G. nr. 114/2011: contractul poate fi atribuit fără aplicarea dispozițiilor Legii nr. 98/2016",
+   "Contractul se atribuie potrivit Legii nr. 98/2016, indiferent de valoarea părților care, dacă ar fi cuprinse în contracte separate, ar fi supuse unui alt act normativ",
+   "Criteriul aplicabil părții supuse O.U.G. nr. 114/2011: contractul poate fi atribuit în conformitate cu dispozițiile O.U.G. nr. 114/2011"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 38 alin. (3) din Legea nr. 98/2016 stabilește două criterii pentru contractul unic: lit. a) (parte supusă actelor emise în temeiul art. 20 alin. (3) din O.U.G. nr. 114/2011, art. 346 TFUE) permite atribuirea fără aplicarea Legii nr. 98/2016, iar lit. b) (parte supusă O.U.G. nr. 114/2011) permite atribuirea potrivit O.U.G. nr. 114/2011. Când ambele sunt incidente, art. 38 alin. (5) dă prioritate lit. a), de aceea criteriul O.U.G. nr. 114/2011 este eliminat. Atribuirea potrivit Legii nr. 98/2016 indiferent de valoarea părților este regula generală de la art. 34 alin. (3), care exceptează expres situația în care se aplică art. 38. Determinarea obiectului principal după cea mai mare valoare estimată este regula de la art. 35 alin. (2), pentru contractele mixte servicii/produse supuse aceleiași legi.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 38",
+   "citat": "a) atunci când o parte a contractului face obiectul actelor normative emise în temeiul art. 20 alin. (3) din Ordonanța de urgență a Guvernului nr. 114/2011, aprobată cu modificări și completări prin Legea nr. 195/2012, în legătură cu situațiile prevăzute la art. 346 din TFUE, contractul poate fi atribuit fără aplicarea dispozițiilor prezentei legi, cu condiția ca atribuirea unui singur contract să fie justificată de motive obiective; [...] (5) În cazul în care, în legătură cu un anumit contract, sunt aplicabile atât dispozițiile alin. (3) lit. a), cât și ale alin. (3) lit. b), se aplică dispozițiile alin. (3) lit. a).",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-011",
+  "tip": "unic",
+  "test": 9,
+  "intrebare": "Ce este angajamentul legal și ce condiții de formă trebuie să îndeplinească, potrivit Normelor ALOP?",
+  "variante": [
+   "documentul intern prin care se dă dispoziție compartimentului financiar să întocmească instrumentele de plată",
+   "orice act prin care o autoritate competentă afectează fonduri publice unor anumite destinații, în limita creditelor bugetare aprobate",
+   "orice act juridic din care rezultă sau ar putea rezulta o obligație pe seama fondurilor publice; trebuie să aibă formă scrisă și să fie semnat de ordonatorul de credite",
+   "orice act juridic generator de obligații pe seama fondurilor publice, care poate fi încheiat și verbal pentru cheltuieli de valoare redusă"
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Angajamentul legal este faza execuției bugetare reprezentând orice act juridic din care rezultă sau ar putea rezulta o obligație pe seama fondurilor publice; forma scrisă și semnătura ordonatorului de credite sunt obligatorii, fără excepție de valoare — deci varianta cu forma verbală este falsă. Varianta privind afectarea de fonduri publice unor anumite destinații este definiția angajamentului BUGETAR, iar cea cu documentul intern care dispune întocmirea instrumentelor de plată definește ordonanțarea de plată — cele două capcane clasice între fazele ALOP. Angajamentul legal ia forma unui contract de achiziție publică, a unei comenzi, convenții, a unui contract de muncă etc.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea)",
+   "citat": "Angajamentul legal - faza în procesul execuției bugetare reprezentând orice act juridic din care rezultă sau ar putea rezultă o obligație pe seama fondurilor publice. Angajamentul legal trebuie să se prezinte sub forma scrisă și să fie semnat de ordonatorul de credite.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ }
+]

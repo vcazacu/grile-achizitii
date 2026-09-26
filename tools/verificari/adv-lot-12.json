@@ -1,0 +1,234 @@
+[
+ {
+  "id": "L98-N609",
+  "tip": "unic",
+  "test": 39,
+  "intrebare": "Potrivit Legii nr. 98/2016, cu privire la cine are dreptul autoritatea contractantă să extindă, în scopul unei informări complete, aplicarea obligațiilor privind subcontractanții prevăzute la art. 219?",
+  "variante": [
+   "Numai cu privire la subcontractanții direcți ai contractantului, nominalizați ulterior atribuirii contractului.",
+   "Cu privire la furnizorii implicați în contracte de achiziții publice de lucrări sau de servicii și la subcontractanții subcontractanților contractantului ori subcontractanții aflați pe niveluri subsecvente ale lanțului de subcontractare.",
+   "Cu privire la terții susținători pe a căror capacitate tehnică și profesională s-a bazat ofertantul pentru îndeplinirea criteriilor de selecție.",
+   "Cu privire la furnizorii implicați în contracte de achiziții publice de furnizare de produse și la subcontractanții propuși în ofertă."
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 220 permite autorității contractante să extindă obligațiile de la art. 219 cu privire la furnizorii implicați în contracte de lucrări sau de servicii (lit. a) și cu privire la subcontractanții subcontractanților sau cei aflați pe niveluri subsecvente ale lanțului de subcontractare (lit. b). Varianta cu terții susținători preia un actor din procedura de atribuire: terțul susținător completează DUAE separat, împreună cu angajamentul de susținere, potrivit art. 193 alin. (2), dar nu este vizat de art. 220. Varianta cu furnizorii din contractele de furnizare schimbă tipul contractului: art. 220 lit. a) vizează doar contractele de lucrări sau de servicii, iar subcontractanții propuși în ofertă sunt deja acoperiți direct de art. 219 alin. (1). Subcontractanții direcți nominalizați ulterior sunt reglementați chiar de art. 219 alin. (3)-(5), deci nu reprezintă o extindere. Textul art. 220 este formulat ca drept al autorității contractante („are dreptul”), nu ca obligație.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 220",
+   "citat": "În scopul unei informări complete, autoritatea contractantă are dreptul de a extinde aplicarea obligațiilor prevăzute la art. 219: a) cu privire la furnizorii implicați în contracte de achiziții publice de lucrări sau de servicii; b) cu privire la subcontractanții subcontractanților contractantului sau subcontractanții aflați pe niveluri subsecvente ale lanțului de subcontractare.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98E-015",
+  "tip": "unic",
+  "test": 39,
+  "intrebare": "Care sunt condițiile valorice cumulative care permit modificarea unui contract de achiziție publică în temeiul art. 221 alin. (1) lit. f) din Legea nr. 98/2016, fără a mai verifica dacă modificarea este substanțială?",
+  "variante": [
+   "Valoarea modificării să fie sub 15% din prețul contractului inițial, indiferent de tipul contractului.",
+   "Valoarea modificării să fie sub pragurile prevăzute la art. 7 alin. (1) și, totodată, sub 10% din prețul contractului inițial la servicii sau produse, respectiv sub 15% la lucrări.",
+   "Valoarea modificării să fie sub 10% din prețul contractului inițial la lucrări și sub 15% la produse și servicii.",
+   "Valoarea modificării să fie sub 50% din valoarea contractului inițial la servicii și produse și sub 15% la lucrări."
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 221 alin. (1) lit. f) cere îndeplinirea cumulativă a trei condiții: valoarea modificării sub pragurile de la art. 7 alin. (1), sub 10% din prețul contractului inițial la servicii sau produse, respectiv sub 15% la lucrări, și neafectarea caracterului general al contractului. Varianta cu 10% la lucrări și 15% la produse și servicii inversează procentele între lucrări și produse/servicii — cea mai frecventă capcană a articolului. Varianta cu 15% indiferent de tipul contractului elimină diferențierea pe tipuri de contracte și condiția pragurilor. Varianta cu 50% la servicii și produse și 15% la lucrări importă procentul de 50%, care este real, dar are alt rol: el reprezintă limita majorării prin lucrări, servicii sau produse adiționale ori prin circumstanțe imprevizibile (art. 221 alin. (1) lit. b) și c)), iar art. 221 alin. (4) precizează că prin modificări succesive în temeiul acestor litere valoarea cumulată nu poate depăși cu mai mult de 50% valoarea contractului inițial. Pentru lit. f), art. 221 alin. (9) impune calculul pe baza valorii nete cumulate a modificărilor succesive realizate numai în temeiul acestei litere, iar alin. (10) impune raportarea la prețul actualizat al contractului.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 221 alin. (1) lit. f)",
+   "citat": "(i) valoarea modificării este mai mică decât pragurile valorice corespunzătoare prevăzute la art. 7 alin. (1); (ii) valoarea modificării este mai mică decât 10% din prețul contractului de achiziție publică inițial, în cazul contractelor de achiziție publică de servicii sau de produse, sau mai mică decât 15% din prețul contractului de achiziție publică inițial, în cazul contractelor de achiziție publică de lucrări;",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395C-007",
+  "tip": "unic",
+  "test": 39,
+  "intrebare": "În ce condiții înlocuirea personalului de specialitate nominalizat pentru îndeplinirea contractului reprezintă o modificare substanțială, potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016?",
+  "variante": [
+   "Orice înlocuire a personalului de specialitate nominalizat în ofertă reprezintă o modificare substanțială a contractului.",
+   "Numai atunci când înlocuirea intervine în ultimele 6 luni de executare a contractului.",
+   "Numai atunci când noul personal nu îndeplinește cel puțin criteriile de calificare/selecție prevăzute în documentația de atribuire sau nu obține cel puțin același punctaj ca personalul propus la momentul aplicării factorilor de evaluare.",
+   "Nicio înlocuire a personalului de specialitate nu poate reprezenta o modificare substanțială, întrucât personalul nu face parte din obiectul contractului."
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Art. 162 alin. (1) din Norme stabilește regula și excepția: înlocuirea personalului de specialitate se face numai cu acceptul autorității contractante și, ca principiu, nu constituie modificare substanțială în sensul art. 221 din Legea nr. 98/2016, devenind însă modificare substanțială în două situații — dacă noul personal nu îndeplinește cel puțin criteriile de calificare/selecție din documentația de atribuire [lit. a)] sau dacă nu obține cel puțin același punctaj ca personalul propus inițial la aplicarea factorilor de evaluare [lit. b)]. Varianta potrivit căreia orice înlocuire este modificare substanțială inversează regula cu excepția, iar cea potrivit căreia nicio înlocuire nu poate fi modificare substanțială o elimină complet, deși organizarea, calificarea și experiența personalului POT constitui factori de evaluare, potrivit art. 32 alin. (3) din Norme — art. 32 alin. (4) interzicând, în schimb, folosirea lor ca parte a procesului de calificare și selecție —, iar art. 162 alin. (1) lit. a) trimite la criteriile de calificare/selecție din documentația de atribuire, pe care noul personal trebuie oricum să le respecte. Momentul înlocuirii în cadrul duratei contractului este indiferent — nu există un prag temporal de 6 luni. Capcana conexă: art. 162 alin. (2) obligă contractantul să transmită pentru noul personal documentele solicitate prin documentația de atribuire, fie pentru demonstrarea criteriilor de calificare/selecție, fie pentru recalcularea punctajului.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 162 alin. (1) lit. a) și b)",
+   "citat": "Înlocuirea personalului de specialitate nominalizat pentru îndeplinirea contractului se realizează numai cu acceptul autorității contractante, și nu reprezintă o modificare substanțială, așa cum este aceasta definită în art. 221 din Lege, decât în următoarele situații: a) noul personal de specialitate nominalizat pentru îndeplinirea contractului nu îndeplinește cel puțin criteriile de calificare/selecție prevăzute în cadrul documentației de atribuire; b) noul personal de specialitate nominalizat pentru îndeplinirea contractului nu obține cel puțin același punctaj ca personalul propus la momentul aplicării factorilor de evaluare.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98E-016",
+  "tip": "multiplu",
+  "test": 39,
+  "intrebare": "Care dintre următoarele împrejurări fac ca o modificare a contractului de achiziție publică/acordului-cadru, pe durata sa, să fie considerată SUBSTANȚIALĂ, potrivit art. 221 alin. (7) din Legea nr. 98/2016?",
+  "variante": [
+   "Modificarea are ca efect prelungirea duratei de execuție a contractului cu mai mult de 6 luni.",
+   "Modificarea schimbă echilibrul economic al contractului în favoarea contractantului într-un mod care nu a fost prevăzut în contractul inițial.",
+   "Modificarea extinde în mod considerabil obiectul contractului de achiziție publică/acordului-cadru.",
+   "Modificarea introduce condiții care, dacă ar fi fost incluse în procedura de atribuire inițială, ar fi permis selecția altor candidați, acceptarea unei alte oferte sau ar fi atras și alți participanți."
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 221 alin. (7) enumeră patru împrejurări, oricare dintre ele fiind suficientă pentru a califica modificarea drept substanțială: schimbarea condițiilor de competiție (lit. a)), schimbarea echilibrului economic în favoarea contractantului (lit. b)), extinderea considerabilă a obiectului (lit. c)) și înlocuirea contractantului inițial în alte cazuri decât cele permise de alin. (1) lit. d). Consecința calificării ca substanțială este că modificarea nu mai poate fi făcută în temeiul art. 221 alin. (1) lit. e), fiind necesară o nouă procedură de atribuire (art. 222 alin. (1)). Varianta greșită inventează un prag temporal de 6 luni: legea nu leagă caracterul substanțial de o durată fixă a prelungirii, ci de efectele modificării asupra competiției și asupra echilibrului contractual. Reține și definiția de la art. 221 alin. (11): caracterul general al contractului înseamnă obiectivele principale urmărite la realizarea achiziției inițiale, obiectul principal și drepturile și obligațiile principale, inclusiv cerințele de calitate și performanță.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 221 alin. (7)",
+   "citat": "Fără a aduce atingere prevederilor alin. (1), o modificare a unui contract de achiziție publică/acord-cadru, pe durata sa, este considerată modificare substanțială atunci când este îndeplinită cel puțin una dintre următoarele condiții: a) modificarea introduce condiții care, dacă ar fi fost incluse în procedura de atribuire inițială, ar fi permis selecția altor candidați decât cei selectați inițial sau acceptarea unei alte oferte decât cea acceptată inițial sau ar fi atras și alți participanți la procedura de atribuire; b) modificarea schimbă echilibrul economic al contractului de achiziție publică [...] în favoarea contractantului într-un mod care nu a fost prevăzut în contractul de achiziție publică/acordul-cadru inițial; c) modificarea extinde în mod considerabil obiectul contractului de achiziție publică/acordului-cadru;",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N419-N108",
+  "tip": "unic",
+  "test": 39,
+  "intrebare": "Potrivit Normelor metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018), ce regim au anexele nr. 1.1–1.3 (care cuprind informațiile obligatorii din notificările către ANAP și modelul cererii de conciliere)?",
+  "variante": [
+   "Sunt anexe la O.U.G. nr. 98/2017, normele metodologice limitându-se să trimită la ele",
+   "Se aprobă prin ordin al președintelui ANAP, asemenea listelor de verificare",
+   "Au caracter orientativ, autoritatea contractantă putând folosi orice alt format pentru notificări și pentru cererea de conciliere",
+   "Fac parte integrantă din normele metodologice"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 21 din Norme prevede că anexele nr. 1.1–1.3 fac parte integrantă din normele metodologice. Aprobarea prin ordin al președintelui ANAP privește listele de verificare pentru aspectele de regularitate și de calitate, conform art. 4 alin. (8) din Norme, nu aceste anexe. Caracterul orientativ este exclus: art. 10 alin. (2) cere ca notificarea să conțină informațiile din anexele nr. 1.1 și 1.2, iar art. 14 alin. (2) cere elaborarea cererii de conciliere conform modelului din anexa nr. 1.3. Cererea care nu conține toate informațiile din modelul din anexa nr. 1.3 este respinsă ca inadmisibilă, potrivit art. 17 alin. (1) lit. b) din Norme. Anexele nu aparțin O.U.G. nr. 98/2017, care la art. 17 lasă normelor metodologice reglementarea condițiilor de inițiere și a mecanismului concilierii.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+   "articol": "art. 21",
+   "citat": "Anexele nr. 1.1-1.3 fac parte integrantă din prezentele norme metodologice.",
+   "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N610",
+  "tip": "unic",
+  "test": 39,
+  "intrebare": "Potrivit Legii nr. 98/2016, ce drept are autoritatea contractantă atunci când un contract de achiziție publică a fost modificat în cursul perioadei sale de valabilitate altfel decât în cazurile și condițiile prevăzute la art. 221, fără organizarea unei noi proceduri de atribuire?",
+  "variante": [
+   "Are dreptul de a menține modificarea, dacă creșterea prețului nu depășește 50% din valoarea contractului inițial.",
+   "Are dreptul de a anula procedura de atribuire inițială și de a relua evaluarea ofertelor.",
+   "Are dreptul de a menține modificarea, dacă o publică în secțiunea dedicată din SEAP, astfel încât să rezulte durata și prețul final.",
+   "Are dreptul de a denunța unilateral contractul de achiziție publică inițial, drept introdus în condițiile contractuale cuprinse în documentația de atribuire."
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 222 alin. (1) cere organizarea unei noi proceduri pentru orice modificare făcută altfel decât în cazurile și condițiile art. 221, iar alin. (2) dă autorității contractante, în caz de nerespectare, dreptul de a denunța unilateral contractul inițial; alin. (3) cere introducerea acestui drept în condițiile contractuale din documentația de atribuire. Limita de 50% provine din art. 221 alin. (1) lit. b) și c) și alin. (4) și funcționează numai în cazurile și condițiile acelui articol, pe care enunțul le exclude. Publicarea în secțiunea dedicată din SEAP este o obligație de transparență de la art. 222^1 alin. (1), aplicabilă tuturor modificărilor, și nu validează o modificare nelegală. Anularea procedurii de atribuire, reglementată la art. 212 alin. (1), privește procedura de atribuire (de exemplu, lipsa ofertelor admisibile sau imposibilitatea încheierii contractului), nu executarea unui contract deja încheiat. Un temei distinct de denunțare unilaterală, pentru situațiile de la art. 223 alin. (1), se introduce tot în documentația de atribuire, potrivit art. 223 alin. (2).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 222 alin. (1)-(3)",
+   "citat": "Orice modificare a unui contract de achiziție publică ori acord-cadru în cursul perioadei sale de valabilitate altfel decât în cazurile și condițiile prevăzute la art. 221 se realizează prin organizarea unei noi proceduri de atribuire, în conformitate cu dispozițiile prezentei legi. [...] În situația nerespectării dispozițiilor alin. (1), autoritatea contractantă are dreptul de a denunța unilateral contractul de achiziție publică inițial. [...] Autoritatea contractantă introduce dreptul de denunțare unilaterală prevăzut la alin. (2) în condițiile contractuale cuprinse în documentația de atribuire.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGC-003",
+  "tip": "unic",
+  "test": 39,
+  "intrebare": "Consiliul Național de Soluționare a Contestațiilor s-a pronunțat în mod definitiv asupra unor acte ale autorității contractante care făcuseră obiectul unui aviz conform condiționat al ANAP, iar din decizie rezultă doar o invalidare parțială a constatărilor ANAP. Contractul a fost deja semnat. Cum procedează ANAP?",
+  "variante": [
+   "Are obligația de a ataca în instanță contractul, acesta fiind lovit de nulitate absolută cu privire la constatările din avizul conform care nu au fost invalidate sau nu au făcut obiectul deciziei definitive.",
+   "Solicită Consiliului revizuirea deciziei, în termen de 3 luni de la data luării la cunoștință a semnării contractului.",
+   "Nu atacă în instanță contractul, întrucât pronunțarea definitivă a Consiliului înlătură integral efectele avizului conform condiționat.",
+   "Emite un nou aviz conform necondiționat care îl înlocuiește pe cel inițial, iar contractul rămâne pe deplin valabil."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 25 alin. (3) din O.U.G. nr. 98/2017 tratează expres ipoteza invalidării parțiale: obligația ANAP de a ataca în instanță subzistă, dar nulitatea absolută vizează numai constatările rămase neinvalidate ori care nu au făcut obiectul deciziei definitive. Varianta potrivit căreia ANAP nu atacă contractul descrie situația de la alin. (2) - invalidarea în tot a constatărilor - când într-adevăr ANAP nu atacă, iar contractul nu este lovit de nulitate pe motivul de la art. 14 alin. (8); este un distractor construit pe o regulă reală, dar aplicabilă altei ipoteze. Emiterea unui nou aviz conform care îl înlocuiește pe cel inițial este efectul admiterii cererii de conciliere (art. 19 alin. (2) lit. b)), nu al unei decizii a Consiliului. Revizuirea deciziei Consiliului nu este un remediu pus la dispoziția ANAP de această ordonanță; termenul de 3 luni de la luarea la cunoștință a semnării contractului este cel în care ANAP sesizează instanța cu acțiunea în constatarea nulității absolute (art. 25 alin. (1)). Potrivit art. 25 alin. (4), ANAP este cea care analizează considerentele deciziei și stabilește dacă invalidarea este totală sau parțială.",
+  "sursa": {
+   "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+   "articol": "art. 25 alin. (3)",
+   "citat": "În cazul în care Consiliul sau instanța de judecată competentă s-a pronunțat în mod definitiv în legătură cu acte ale autorității contractante care au făcut obiectul unui aviz conform condiționat al ANAP, iar din deciziile pronunțate rezultă doar o invalidare parțială a constatărilor din avizul conform condiționat respectiv, ANAP are obligația de a ataca în instanță contractul încheiat în cadrul procedurii de atribuire ce a făcut obiectul deciziei definitive a Consiliului sau instanței de judecată, acesta fiind lovit de nulitate absolută cu privire la constatările din avizul conform ce nu au fost invalidate sau nu au făcut obiectul deciziei definitive a Consiliului sau instanței de judecată.",
+   "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N611",
+  "tip": "unic",
+  "test": 39,
+  "intrebare": "Potrivit Legii nr. 98/2016, ce obligație de publicare au autoritățile contractante, în temeiul art. 222^1, cu privire la modificările contractelor de achiziție publică/acordurilor-cadru?",
+  "variante": [
+   "Publică în secțiunea dedicată din SEAP toate modificările, astfel încât să rezulte durata și prețul final la finalizarea sau încetarea contractelor/acordurilor-cadru.",
+   "Publică în Jurnalul Oficial al Uniunii Europene numai modificările efectuate în situațiile prevăzute la art. 221 alin. (1) lit. b) și c), cu respectarea formularului standard al Comisiei Europene.",
+   "Includ modificările în raportul procedurii de atribuire, care se comunică Comisiei Europene la solicitarea acesteia.",
+   "Publică în SEAP numai modificările a căror valoare depășește 10% din prețul contractului inițial."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 222^1 alin. (1) obligă autoritățile contractante să publice în secțiunea dedicată din SEAP toate modificările contractelor/acordurilor-cadru, astfel încât să rezulte durata și prețul final la finalizarea sau încetarea acestora; alin. (2) trimite la normele metodologice pentru condițiile de publicare. Anunțul în Jurnalul Oficial al Uniunii Europene este o obligație distinctă, de la art. 221 alin. (6), limitată la modificările de la art. 221 alin. (1) lit. b) și c); ea nu restrânge publicarea în SEAP, care privește toate modificările. Procentul de 10% provine din art. 221 alin. (1) lit. f) pct. (ii), unde este o condiție a modificării fără procedură nouă pentru serviciile și produsele, nu un prag al publicării. Raportul procedurii de atribuire, reglementat la art. 216, documentează procedura de atribuire, iar comunicarea lui la solicitarea Comisiei Europene este prevăzută la art. 216 alin. (6). Capcana constă în confundarea publicării în SEAP a tuturor modificărilor, de la art. 222^1 alin. (1), cu anunțul în Jurnalul Oficial al Uniunii Europene de la art. 221 alin. (6).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 222^1 alin. (1) și (2)",
+   "citat": "Autoritățile contractante publică în secțiunea dedicată din SEAP toate modificările contractelor de achiziție publică/acordurilor-cadru, astfel încât să rezulte durata și prețul final la finalizarea sau încetarea acestora. [...] Prin normele metodologice de aplicare a prezentei legi se stabilesc condițiile de publicare a modificărilor contractuale prevăzute la alin. (1).",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N612",
+  "tip": "unic",
+  "test": 39,
+  "intrebare": "Potrivit Legii nr. 98/2016, în cazul unui contract de achiziție publică de lucrări care se derulează pe o perioadă de 12 luni, care este regimul clauzelor de ajustare/revizuire a prețului?",
+  "variante": [
+   "Autoritatea contractantă nu poate include astfel de clauze, plățile făcându-se exclusiv pe baza prețurilor fixe din oferta inițială.",
+   "Autoritatea contractantă este obligată să includă astfel de clauze.",
+   "Autoritatea contractantă are dreptul, dar nu și obligația, să includă astfel de clauze.",
+   "Autoritatea contractantă poate include astfel de clauze numai dacă ajustarea rămâne sub 15% din prețul contractului inițial."
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 222^2 alin. (9) obligă autoritatea contractantă să includă clauze de ajustare/revizuire a prețului pentru contractele de lucrări care se derulează pe o perioadă ce depășește 6 luni, deci și pentru un contract de lucrări de 12 luni. Dreptul, fără obligație, de la art. 222^2 alin. (8) privește contractele de lucrări de cel mult 6 luni, respectiv contractele de servicii sau furnizare de până la 24 de luni; capcana este aplicarea pragului de 24 de luni, propriu serviciilor și furnizării, unui contract de lucrări. Interdicția ajustării contrazice art. 222^2 alin. (10), care prevede plăți pe baza prețurilor din oferta inițială, „fixe sau ajustate”, după cum s-a prevăzut în documentele achiziției și în contract. Procentul de 15% provine din art. 221 alin. (1) lit. f) pct. (ii), unde limitează valoarea unei modificări a contractului de lucrări fără procedură nouă, nu includerea clauzelor de ajustare. Potrivit art. 222^2 alin. (3), clauzele trebuie să precizeze modul concret de ajustare, indicii utilizați și sursa informațiilor privind evoluția acestora.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 222^2 alin. (8) și (9)",
+   "citat": "Autoritatea contractantă are dreptul să includă clauze de ajustare/revizuire a prețului, în conformitate cu prevederile alin. (3), pentru contractele de servicii sau furnizare care se derulează pe o perioadă de până la 24 de luni și pentru contractele de lucrări care se derulează pe o perioadă de cel mult 6 luni. [...] Autoritatea contractantă este obligată să includă clauze de ajustare/revizuire a prețului, în conformitate cu prevederile alin. (3), pentru contractele de servicii sau furnizare care se derulează pe o perioadă ce depășește 24 de luni și pentru contractele de lucrări care se derulează pe o perioadă ce depășește 6 luni.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N613",
+  "tip": "unic",
+  "test": 39,
+  "intrebare": "Potrivit Legii nr. 98/2016, în ce măsură poate fi ajustat prin actualizare prețul unui acord-cadru/contract de achiziție publică pe parcursul îndeplinirii acestuia, atunci când documentația de atribuire și contractul prevăd această posibilitate?",
+  "variante": [
+   "Doar în măsura strict necesară pentru acoperirea costurilor pe baza cărora s-a fundamentat prețul acordului-cadru/contractului.",
+   "În funcție de indicele general al prețurilor de consum, chiar dacă acesta nu reflectă evoluția costurilor elementelor constitutive ale ofertei.",
+   "Numai dacă valoarea ajustării este mai mică decât 10% din prețul contractului inițial, în cazul contractelor de servicii sau de produse.",
+   "În limita a maximum 50% din valoarea contractului inițial."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 222^2 alin. (5) prevede că, în orice situație, prețul poate fi ajustat doar în măsura strict necesară pentru acoperirea costurilor pe baza cărora s-a fundamentat prețul acordului-cadru/contractului. Limita de 50% provine din art. 221 alin. (1) lit. b) și c) și alin. (4), unde privește lucrările, serviciile sau produsele adiționale și modificările determinate de circumstanțe imprevizibile, nu ajustarea prețului. Procentul de 10% este condiția de la art. 221 alin. (1) lit. f) pct. (ii) pentru modificările de valoare redusă ale contractelor de servicii sau de produse. Indicele general, desprins de costuri, contrazice art. 222^2 alin. (1), care leagă ajustarea de indicii de preț pentru elemente constitutive ale ofertei, cu efect asupra costurilor care au fundamentat prețul, precum și alin. (3), care cere precizarea indicilor și a sursei informațiilor. În plus, art. 222^2 alin. (6) interzice ca modul de ajustare să schimbe rezultatul procedurii prin anularea sau diminuarea avantajului competitiv al contractantului.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 222^2 alin. (1), (5) și (6)",
+   "citat": "Pe parcursul îndeplinirii acordului-cadru/ contractului, prețul poate fi ajustat prin actualizare în cazul în care pe piață au apărut anumite condiții, în urma cărora s-a constatat creșterea/diminuarea indicilor de preț pentru elemente constitutive ale ofertei [...] În orice situație, prețul acordului-cadru/contractului poate fi ajustat doar în măsura strict necesară pentru acoperirea costurilor pe baza cărora s-a fundamentat prețul acordului-cadru/contractului. [...] Modul de ajustare nu trebuie să conducă în niciun caz la schimbarea rezultatului procedurii de atribuire, prin anularea sau diminuarea avantajului competitiv pe baza căruia contractantul respectiv a fost declarat câștigător",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ }
+]

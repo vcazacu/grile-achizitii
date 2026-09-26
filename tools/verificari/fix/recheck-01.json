@@ -1,0 +1,171 @@
+[
+ {
+  "id": "L98-N510",
+  "tip": "unic",
+  "test": 31,
+  "intrebare": "Potrivit Legii nr. 98/2016, în cazul în care mai mulți operatori economici participă în comun la procedura de atribuire, îndeplinirea criteriilor privind capacitatea tehnică și profesională și a celor privind situația economică și financiară se demonstrează:",
+  "variante": [
+   "prin luarea în considerare a resurselor tuturor membrilor grupului, fără posibilitatea ca grupul să beneficieze și de susținerea unui terț",
+   "prin cumularea resurselor membrilor numai pentru capacitatea tehnică și profesională, situația economică și financiară trebuind îndeplinită de fiecare membru",
+   "separat pentru fiecare membru al grupului, fiecare trebuind să îndeplinească integral criteriile",
+   "prin luarea în considerare a resurselor tuturor membrilor grupului, iar aceștia răspund în mod solidar pentru executarea contractului"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 185 alin. (1) din Legea nr. 98/2016: la participarea în comun, atât capacitatea tehnică și profesională, cât și situația economică și financiară se demonstrează prin luarea în considerare a resurselor tuturor membrilor grupului, iar autoritatea contractantă solicită ca aceștia să răspundă în mod solidar. Îndeplinirea separată și integrală de fiecare membru contrazice regula cumulării resurselor din același alineat. Excluderea susținerii unui terț este greșită, deoarece art. 185 alin. (2) permite expres grupului să beneficieze de susținerea unui/unor terț/terți pentru ambele categorii de criterii. Cumularea doar pentru capacitatea tehnică este contrazisă de art. 185 alin. (1), care include expres și situația economică și financiară. Condițiile susținerii de către terți sunt cele de la art. 182, inclusiv prezentarea unui angajament de susținere din partea terțului, însoțit de documentele din care rezultă modul efectiv de îndeplinire a acestuia (art. 182 alin. (3) și (4)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 185 alin. (1)",
+   "citat": "În cazul în care mai mulți operatori economici participă în comun la procedura de atribuire, îndeplinirea criteriilor privind capacitatea tehnică și profesională, precum și cea privind situația economică și financiară, se demonstrează prin luarea în considerare a resurselor tuturor membrilor grupului, iar autoritatea contractantă solicită ca aceștia să răspundă în mod solidar pentru executarea contractului de achiziție publică/acordului-cadru.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-002",
+  "tip": "unic",
+  "test": 1,
+  "intrebare": "Care este obiectul acordului-cadru, potrivit definiției din art. 3 alin. (1) lit. c) din Legea nr. 98/2016?",
+  "variante": [
+   "execuția de lucrări, furnizarea de produse sau prestarea de servicii, cu titlu oneros",
+   "stabilirea exclusivă a cantităților maxime care pot fi achiziționate de autoritatea contractantă",
+   "atribuirea directă a contractelor subsecvente, fără reluarea competiției",
+   "stabilirea termenilor și condițiilor care guvernează contractele de achiziție publică ce urmează a fi atribuite într-o anumită perioadă, în special prețul și, după caz, cantitățile"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Potrivit art. 3 alin. (1) lit. c), acordul-cadru nu este el însuși un contract de execuție: el stabilește termenii și condițiile care guvernează contractele de achiziție publică ce urmează a fi atribuite într-o anumită perioadă, în special prețul și, după caz, cantitățile. Varianta cu execuția de lucrări, furnizarea de produse sau prestarea de servicii, cu titlu oneros, descrie obiectul contractului de achiziție publică (art. 3 alin. (1) lit. l)). Varianta cu stabilirea exclusivă a cantităților maxime e greșită, deoarece art. 3 alin. (1) lit. c) pune accentul pe preț și menționează cantitățile doar „după caz”. Atribuirea contractelor subsecvente fără reluarea competiției nu face parte din definiție: modul de executare a acordului-cadru încheiat cu mai mulți operatori economici (fără reluarea competiției, cu reluarea competiției sau mixt) este reglementat separat, la art. 118 alin. (1).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 3 alin. (1) lit. c)",
+   "citat": "acord-cadru - acordul încheiat în formă scrisă între una sau mai multe autorități contractante și unul ori mai mulți operatori economici care are ca obiect stabilirea termenilor și condițiilor care guvernează contractele de achiziție publică ce urmează a fi atribuite într-o anumită perioadă, în special în ceea ce privește prețul și, după caz, cantitățile avute în vedere;",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-006",
+  "tip": "multiplu",
+  "test": 1,
+  "intrebare": "Potrivit definiției operatorului economic din art. 3 alin. (1) lit. jj) din Legea nr. 98/2016, acesta poate fi o persoană stabilită în: (selectați toate variantele corecte)",
+  "variante": [
+   "o țară terță care se află în proces de aderare la Uniunea Europeană",
+   "un stat membru al Spațiului Economic European (SEE)",
+   "orice țară terță, indiferent de acordurile internaționale la care aceasta este parte",
+   "un stat membru al Uniunii Europene"
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Art. 3 alin. (1) lit. jj) enumeră limitativ statele de stabilire ale operatorului economic: state membre ale UE (pct. (i)), state membre ale SEE (pct. (ii)), țări terțe care au ratificat Acordul privind Achizițiile Publice al OMC (AAP), în măsura în care contractul intră sub incidența anexelor la Apendicele I al UE (pct. (iii)), țări terțe aflate în proces de aderare la UE (pct. (iv)) și țări terțe semnatare ale altor acorduri internaționale prin care UE este obligată să acorde accesul liber la piața achizițiilor publice (pct. (v)). Afirmația că operatorul poate fi stabilit în orice țară terță, indiferent de acordurile internaționale, este falsă, pentru că pct. (iii) și (v) condiționează accesul țărilor terțe de existența acestor acorduri. Țările terțe fără astfel de acorduri și care nu sunt în proces de aderare nu apar în enumerarea de la art. 3 alin. (1) lit. jj).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 3 alin. (1) lit. jj)",
+   "citat": "operator economic - orice persoană fizică sau juridică, de drept public ori de drept privat, sau grup ori asociere de astfel de persoane [...] care oferă în mod licit pe piață executarea de lucrări, furnizarea de produse ori prestarea de servicii, și care este/sunt stabilită/stabilite în: (i) un stat membru al Uniunii Europene; (ii) un stat membru al Spațiului Economic European (SEE); [...] (iv) țări terțe care se află în proces de aderare la Uniunea Europeană;",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-013",
+  "tip": "multiplu",
+  "test": 2,
+  "intrebare": "Potrivit art. 4 alin. (3) din Legea nr. 98/2016, nevoile de interes general se consideră a avea caracter industrial sau comercial dacă entitatea înființată de o autoritate contractantă îndeplinește cumulativ care dintre următoarele condiții? (selectați toate variantele corecte)",
+  "variante": [
+   "capitalul său social este deținut în proporție de cel puțin 50% de investitori privați",
+   "suportă pierderile care rezultă din exercitarea activității sale",
+   "funcționează în condiții normale de piață",
+   "urmărește obținerea unui profit"
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 4 alin. (3) cuprinde trei condiții cumulative: funcționarea în condiții normale de piață (lit. a)), urmărirea obținerii unui profit (lit. b)) și suportarea pierderilor care rezultă din exercitarea activității (lit. c)). Dacă toate trei sunt îndeplinite, nevoile de interes general au caracter industrial sau comercial, astfel că nu mai este îndeplinită condiția de la art. 4 alin. (2) lit. a), iar entitatea nu este organism de drept public. Structura capitalului nu face parte din testul de la art. 4 alin. (3); participarea privată la capital este relevantă în alt context, la excepția in-house de la art. 31 alin. (1) lit. c).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 4 alin. (3)",
+   "citat": "Se consideră că nevoile de interes general, prevăzute la alin. (2) lit. a), au caracter industrial sau comercial, dacă entitatea înființată, în condițiile legii, de către o autoritate contractantă îndeplinește în mod cumulativ următoarele condiții: a) funcționează în condiții normale de piață; b) urmărește obținerea unui profit; c) suportă pierderile care rezultă din exercitarea activității sale.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395A-017",
+  "tip": "multiplu",
+  "test": 3,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele decizii din etapa de planificare/pregătire se documentează prin intermediul strategiei de contractare?",
+  "variante": [
+   "Mecanismele de plată în cadrul contractului și alocarea riscurilor în cadrul acestuia",
+   "Procedura de atribuire aleasă și modalitățile speciale de atribuire asociate, dacă este cazul",
+   "Tipul de contract propus și modalitatea de implementare a acestuia",
+   "Componența nominală a comisiei de evaluare a ofertelor"
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Art. 9 alin. (3) din Normele metodologice enumeră deciziile documentate prin strategia de contractare, printre care procedura de atribuire aleasă și modalitățile speciale de atribuire asociate (lit. b)), tipul de contract propus și modalitatea de implementare a acestuia (lit. c)) și mecanismele de plată, alocarea riscurilor, măsurile de gestionare a acestora și stabilirea penalităților (lit. d)). Aceeași enumerare mai cuprinde justificările privind valoarea estimată (lit. e)) și justificările privind alegerea procedurii, criteriile de calificare, criteriul de atribuire și factorii de evaluare (lit. f)). Componența nominală a comisiei de evaluare nu figurează printre elementele enumerate la art. 9 alin. (3). Desemnarea membrilor comisiei de evaluare este reglementată separat, la art. 126 alin. (1) și (4) din Normele metodologice, iar decizia/dispoziția/ordinul de numire a comisiei este un document distinct al dosarului achiziției (art. 148 lit. g)), separat de strategia de contractare (art. 148 lit. a)).",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 9 alin. (3) lit. b), c) și d)",
+   "citat": "Prin intermediul strategiei de contractare se documentează deciziile din etapa de planificare/pregătire a achiziției în legătură cu: [...] b) procedura de atribuire aleasă, precum și modalitățile speciale de atribuire a contractului de achiziție publică asociate, dacă este cazul; c) tipul de contract propus și modalitatea de implementare a acestuia; d) mecanismele de plată în cadrul contractului, alocarea riscurilor în cadrul acestuia, măsuri de gestionare a acestora",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGB-007",
+  "tip": "unic",
+  "test": 4,
+  "intrebare": "Potrivit Legii nr. 98/2016 și Normelor metodologice aprobate prin H.G. nr. 395/2016, în forma în vigoare, cum este reglementată obligația autorității contractante de a transmite în SEAP o notificare privind achizițiile directe realizate?",
+  "variante": [
+   "Notificarea se transmite semestrial, odată cu publicarea în SEAP a extraselor din programul anual al achizițiilor publice",
+   "Este prevăzută de art. 7 alin. (8) din Legea nr. 98/2016: notificare trimestrială, grupată pe necesitate, cu excepția achizițiilor realizate prin catalogul electronic SEAP",
+   "Nu există o asemenea obligație — art. 46 din Normele metodologice este abrogat, iar notificarea achizițiilor directe nu este obligatorie",
+   "Notificarea privește numai achizițiile directe realizate prin utilizarea catalogului electronic SEAP"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 7 alin. (8) din Legea nr. 98/2016 obligă autoritatea contractantă să transmită trimestrial în SEAP o notificare cu privire la achizițiile directe, grupate pe necesitate, cuprinzând cel puțin obiectul, cantitatea achiziționată, valoarea și codul CPV. Art. 46 din Normele metodologice aprobate prin H.G. nr. 395/2016 este abrogat, dar obligația este prevăzută de art. 7 alin. (8) din Legea nr. 98/2016 — capcana este concluzia că abrogarea articolului din norme ar fi stins obligația. Periodicitatea semestrială vine din art. 12 alin. (6) din Normele metodologice, care privește altceva: publicarea în SEAP a extraselor din programul anual al achizițiilor publice. Achizițiile realizate prin utilizarea catalogului electronic SEAP, în baza art. 7 alin. (7) lit. a) din Legea nr. 98/2016, sunt tocmai cele exceptate de la notificare, potrivit finalului art. 7 alin. (8).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 7 alin. (8)",
+   "citat": "Autoritatea contractantă are obligația trimestrial de a transmite în SEAP o notificare cu privire la achizițiile directe, grupate pe necesitate, care să cuprindă cel puțin obiectul, cantitatea achiziționată, valoarea și codul CPV, cu excepția achizițiilor realizate prin utilizarea catalogului electronic SEAP, în baza prevederilor alin. (7) lit. a).",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-002",
+  "tip": "multiplu",
+  "test": 1,
+  "intrebare": "Potrivit Normelor metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002), cui trebuie comunicate actele de delegare a atribuțiilor ordonatorilor de credite, însoțite de specimenele de semnături ale persoanelor împuternicite?",
+  "variante": [
+   "Persoanelor împuternicite să semneze pentru și în numele ordonatorilor de credite",
+   "Conducătorului compartimentului financiar (financiar-contabil)",
+   "Compartimentelor de specialitate care elaborează proiectele angajamentelor legale",
+   "Persoanei desemnate să exercite controlul financiar preventiv propriu"
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Preambulul Normelor metodologice ALOP prevede că actele de delegare, însoțite de specimenele de semnături ale persoanelor împuternicite, trebuie comunicate persoanelor împuternicite, conducătorului compartimentului financiar (financiar-contabil) și persoanei desemnate să exercite controlul financiar preventiv propriu. Comunicarea către conducătorul compartimentului financiar are o rațiune expresă: acesta nu poate efectua nicio plată ordonanțată de o persoană care nu a fost împuternicită în acest sens. Compartimentele de specialitate nu figurează în această enumerare: potrivit preambulului, pe baza propunerilor lor ordonatorii de credite efectuează operațiunile de angajare, lichidare și ordonanțare, iar potrivit pct. 1 ele înscriu în proiectele angajamentelor legale instituția și subdiviziunea bugetară de la care urmează să se facă plata. Tot preambulul Normelor prevede că actele de încetare a delegării se comunică acelorași persoane.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "preambul",
+   "citat": "Actele de delegare, însoțite de specimenele de semnături ale persoanelor care au fost împuternicite, trebuie comunicate: – persoanelor împuternicite; – conducătorului compartimentului financiar (financiar-contabil) care nu poate efectua nici o plata ordonanțată de o persoană care nu a fost imputernicita în acest sens; – persoanei desemnate să exercite controlul financiar preventiv propriu.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ }
+]

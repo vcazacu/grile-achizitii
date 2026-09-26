@@ -1,0 +1,192 @@
+[
+ {
+  "id": "L98C-028",
+  "tip": "multiplu",
+  "test": 26,
+  "intrebare": "Potrivit Legii nr. 98/2016, la atribuirea contractelor de publicitate media cu valoare estimată mai mare sau egală cu pragul de la art. 7 alin. (1) lit. b), care sunt obligațiile specifice de publicitate și transparență, suplimentare celor obișnuite, ale autorității contractante?",
+  "variante": [
+   "Publicarea anunțului de participare numai pe pagina proprie de internet, fără publicare pe platforma electronică utilizată pentru realizarea achiziției",
+   "Publicarea unui anunț de participare pe platforma electronică utilizată, la o adresă dedicată, precum și pe pagina proprie de internet, însoțit de justificarea oportunității achiziției",
+   "Publicarea, la încetarea contractului, a unui raport de evaluare a impactului achiziției serviciilor de publicitate",
+   "Publicarea unui anunț de atribuire pe platforma electronică utilizată, la o adresă dedicată, precum și pe pagina proprie de internet"
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 149 lit. a)-c) instituie trei obligații specifice contractelor de publicitate media: anunț de participare însoțit de justificarea oportunității achiziției (lit. a)), anunț de atribuire (lit. b)), ambele publicate atât pe platforma electronică utilizată pentru realizarea achiziției, la o adresă dedicată, cât și pe pagina proprie de internet, și, la încetarea contractului, publicarea pe platforma electronică a unui raport de evaluare a impactului achiziției (lit. c)). Varianta cu publicarea anunțului de participare numai pe pagina proprie de internet contrazice art. 149 lit. a), care cere publicarea cumulativă, pe platforma electronică și pe pagina proprie. Art. 149 precizează că aceste obligații sunt „suplimentare celor prevăzute de dispozițiile prezentei secțiuni” privind publicitatea și transparența contractelor de achiziție publică de servicii.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 149 lit. a)-c)",
+   "citat": "În cazul atribuirii contractelor de publicitate media cu o valoare estimată mai mare sau egală cu pragurile valorice prevăzute la art. 7 alin. (1) lit. b), autoritatea contractantă are următoarele obligații specifice de publicitate și transparență [...] a) obligația de a publica un anunț de participare pe platforma electronică utilizată pentru realizarea achiziției, la o adresă dedicată, precum și pe pagina proprie de internet, însoțit de justificarea oportunității achiziției; b) obligația de a publica un anunț de atribuire pe platforma electronică utilizată pentru realizarea achiziției, la o adresă dedicată, precum și pe pagina proprie de internet; c) la încetarea contractului de publicitate media, obligația de a publica pe platforma electronică utilizată pentru realizarea achiziției un raport de evaluare a impactului achiziției serviciilor de publicitate respective.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L101A-037",
+  "tip": "multiplu",
+  "test": 26,
+  "intrebare": "Examinând legalitatea și temeinicia actului atacat, ce poate dispune CNSC potrivit art. 26 alin. (2) din Legea nr. 101/2016? (selectați toate variantele corecte)",
+  "variante": [
+   "Să oblige autoritatea contractantă să emită un act ori să adopte măsurile necesare restabilirii legalității, cu indicarea clară și precisă a operațiunilor de realizat",
+   "Să modifice el însuși specificațiile tehnice din caietul de sarcini, în locul autorității contractante",
+   "Să pronunțe o decizie prin care anulează actul atacat în tot sau în parte",
+   "Să anuleze procedura de atribuire, în situația în care nu este posibilă remedierea actului atacat"
+  ],
+  "corecte": [
+   0,
+   2,
+   3
+  ],
+  "explicatie": "Art. 26 alin. (2) din Legea nr. 101/2016 enumeră soluțiile pe care Consiliul le poate dispune după examinarea legalității și temeiniciei actului atacat: anularea actului în tot sau în parte (lit. a)), obligarea autorității contractante să emită un act sau să adopte măsurile necesare restabilirii legalității, cu indicarea clară și precisă a operațiunilor (lit. b)), și anularea procedurii de atribuire când remedierea actului atacat nu este posibilă (lit. c)). Consiliul nu modifică el însuși documentația: potrivit art. 26 alin. (3), el dispune modificarea sau eliminarea specificațiilor tehnice, iar autoritatea contractantă aplică măsura și anulează procedura doar dacă nu poate lua nicio altă măsură de remediere sau măsura ar afecta principiile achizițiilor publice. Și la lit. b), operațiunile indicate de Consiliu urmează a fi realizate de autoritatea contractantă. Când dispune reevaluarea, Consiliul indică limitele acesteia și măsurile concrete pe care le va adopta autoritatea contractantă (art. 26 alin. (10^1)).",
+  "sursa": {
+   "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+   "articol": "art. 26 alin. (2)",
+   "citat": "Consiliul examinează din punctul de vedere al legalității și temeiniciei actul atacat și poate: a) pronunța o decizie prin care îl anulează în tot sau în parte; b) obliga autoritatea contractantă să emită un act/să adopte măsurile necesare restabilirii legalității, cu indicarea clară și precisă a operațiunilor care urmează a fi realizate de autoritatea contractantă; c) anula procedura de atribuire, în situația în care nu este posibilă remedierea actului atacat.",
+   "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98C-033",
+  "tip": "unic",
+  "test": 27,
+  "intrebare": "Potrivit Legii nr. 98/2016, în care dintre următoarele situații autoritatea contractantă NU are obligația de a prelungi perioada pentru depunerea ofertelor?",
+  "variante": [
+   "Când, din motive legate de protejarea naturii confidențiale a informațiilor, nu poate fi asigurat accesul electronic la anumite documente ale achiziției, în afara situațiilor de urgență",
+   "Când informațiile transmise de autoritatea contractantă sunt nesemnificative în ceea ce privește elaborarea ofertelor",
+   "Când documentele achiziției au fost modificate semnificativ",
+   "Când accesul electronic la o parte din documentele achiziției nu a putut fi asigurat, iar acest lucru a fost indicat în anunțul de participare, în afara situațiilor de urgență"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 153 alin. (4) scutește autoritatea contractantă de prelungire atunci când informațiile transmise sunt nesemnificative în ceea ce privește elaborarea ofertelor. Modificarea semnificativă a documentelor achiziției obligă la prelungire (art. 153 alin. (1) lit. b)), cu cel puțin 6 zile în regula generală (art. 153 alin. (3)). Imposibilitatea accesului electronic la o parte din documente, indicată în anunțul de participare, obligă la prelungirea termenului cu 5 zile, cu excepția situațiilor de urgență (art. 150 alin. (3)-(4)). Tot cu 5 zile se prelungește termenul când accesul electronic la anumite documente nu poate fi asigurat din motive de protejare a naturii confidențiale a informațiilor, în afara situațiilor de urgență (art. 150 alin. (5)-(6)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 153 alin. (4)",
+   "citat": "În cazul în care informațiile suplimentare nu au fost transmise în timp util sau informațiile transmise de autoritatea contractantă sunt nesemnificative în ceea ce privește elaborarea ofertelor, autoritatea contractantă nu are obligația de a prelungi perioada pentru depunerea ofertelor.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395B-036",
+  "tip": "multiplu",
+  "test": 27,
+  "intrebare": "Care dintre următoarele afirmații privind utilizarea acordului-cadru sunt corecte, potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016?",
+  "variante": [
+   "Autoritatea contractantă poate atribui contracte subsecvente în numele unei alte autorități contractante care nu este parte în acordul-cadru, cu condiția ca aceasta din urmă să își exprime acordul în scris.",
+   "Autoritatea contractantă nu are dreptul de a încheia acorduri-cadru pe baza cărora se pot atribui contracte subsecvente de tipuri sau natură diferite unele față de altele.",
+   "Autoritatea contractantă nu are dreptul de a atribui contracte subsecvente care au ca obiect prestații de altă natură decât cele stabilite prin acordul-cadru.",
+   "Autoritatea contractantă are obligația de a impune criterii minime de calificare care să se raporteze cel mult la valoarea estimată a celui mai mare contract subsecvent anticipat a fi atribuit pe durata acordului-cadru sau, după caz, la valoarea maximă anticipată a contractelor subsecvente ce urmează să se execute în același timp."
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 107 alin. (2) din Normele metodologice enumeră regulile care previn utilizarea abuzivă sau improprie a acordului-cadru: lit. b) interzice contractele subsecvente cu prestații de altă natură decât cele stabilite prin acord; lit. c) interzice acordurile-cadru pe baza cărora se pot atribui contracte subsecvente de tipuri sau natură diferite; lit. f) obligă autoritatea să impună criterii minime de calificare raportate cel mult la valoarea estimată a celui mai mare contract subsecvent anticipat sau, după caz, la valoarea maximă anticipată a contractelor subsecvente ce urmează să se execute în același timp. Varianta cu acordul scris al altei autorități contractante este falsă: lit. e) interzice atribuirea de contracte subsecvente în numele și pentru o autoritate care nu este parte în acord, cu o singură excepție - calitatea de unitate de achiziție centralizată, iar acordul scris al terțului nu este prevăzut ca excepție. A se reține și lit. g) a art. 107 alin. (2): nu se poate depăși cantitatea/valoarea maximă estimată indicată în anunțul de participare, cu excepția modificărilor contractuale realizate în condițiile art. 221 din Lege.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 107 alin. (2) lit. b), c), e) și f)",
+   "citat": "b) nu are dreptul de a atribui contracte subsecvente care au ca obiect prestații de altă natură decât cele stabilite prin acordul-cadru; c) nu are dreptul de a încheia acorduri-cadru pe baza cărora se pot atribui contracte subsecvente de tipuri sau natură diferite unele față de altele; [...] e) nu are dreptul de a atribui contracte subsecvente în numele și pentru o altă autoritate contractantă care nu este parte în acordul-cadru respectiv decât în cazul în care are calitatea de unitate de achiziție centralizată; f) are obligația de a impune criterii minime de calificare care să se raporteze cel mult la valoarea estimată a celui mai mare contract subsecvent care se anticipează a fi atribuit pe durata acordului-cadru sau, după caz, la valoarea maximă anticipată a contractelor subsecvente ce urmează să se execute în același timp;",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98C-034",
+  "tip": "unic",
+  "test": 27,
+  "intrebare": "Potrivit Legii nr. 98/2016, care este valoarea maximă a garanției de participare pe care o poate solicita autoritatea contractantă?",
+  "variante": [
+   "2% din valoarea estimată a contractului de achiziție publică",
+   "1% din valoarea totală estimată a acordului-cadru, în cazul acordurilor-cadru",
+   "10% din valoarea estimată a contractului de achiziție publică",
+   "1% din valoarea estimată a contractului de achiziție publică sau, în cazul acordului-cadru, din valoarea estimată a celui mai mare contract subsecvent"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 154 alin. (2) plafonează garanția de participare la 1% din valoarea estimată a contractului, iar pentru acordul-cadru baza de calcul este valoarea estimată a CELUI MAI MARE CONTRACT SUBSECVENT, nu valoarea totală a acordului-cadru; de aceea varianta cu 1% din valoarea totală estimată a acordului-cadru este falsă. Pragul de 2% apare în Normele metodologice aprobate prin H.G. nr. 395/2016, dar cu alt rol: plafonul valorii totale a primelor acordate participanților la dialogul competitiv (art. 20 alin. (14) din Norme). 10% este plafonul garanției de bună execuție, calculat asupra prețului contractului fără TVA (art. 154 alin. (3)). Reține și regula de valabilitate: perioada de valabilitate a garanției de participare trebuie să fie cel puțin egală cu perioada de valabilitate a ofertei (art. 154 alin. (2)). Potrivit art. 154 alin. (2) și (3), solicitarea garanției de participare este un drept al autorității contractante, iar garanția de bună execuție este obligatorie, cu excepțiile expres prevăzute.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 154 alin. (2)",
+   "citat": "Autoritatea contractantă are dreptul de a solicita ofertanților constituirea garanției de participare a cărei perioadă de valabilitate este cel puțin egală cu perioada de valabilitate a ofertei. Valoarea garanției de participare nu poate depăși 1% din valoarea estimată a contractului de achiziție publică sau, în cazul acordului-cadru, din valoarea estimată a celui mai mare contract subsecvent.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98C-037",
+  "tip": "unic",
+  "test": 27,
+  "intrebare": "Potrivit Legii nr. 98/2016, scrisorile de garanție emise de instituții financiare nebancare pot fi utilizate pentru constituirea garanțiilor în limita următoarelor valori estimate:",
+  "variante": [
+   "Fără limită de valoare, cu condiția ca instituția financiară nebancară să fie înscrisă în registrele Autorității de Supraveghere Financiară",
+   "40.000.000 lei fără TVA pentru lucrări și 7.000.000 lei fără TVA pentru produse sau servicii",
+   "7.000.000 lei fără TVA pentru lucrări și 40.000.000 lei fără TVA pentru produse sau servicii",
+   "40.000.000 lei cu TVA, indiferent de obiectul contractului"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 154 alin. (4) lit. b) pct. (ii) permite scrisorile de garanție emise de instituții financiare nebancare pentru achizițiile de LUCRĂRI cu valoare estimată mai mică sau egală cu 40.000.000 lei fără TVA și pentru achizițiile de PRODUSE SAU SERVICII cu valoare estimată mai mică sau egală cu 7.000.000 lei fără TVA. Varianta cu 7.000.000 lei pentru lucrări și 40.000.000 lei pentru produse sau servicii inversează pragurile din pct. (ii). Ambele praguri sunt exprimate fără TVA, ceea ce infirmă varianta cu 40.000.000 lei cu TVA, indiferent de obiect; scrisorile emise de instituții de credit bancare nu au o asemenea limită (art. 154 alin. (4) lit. b) pct. (i)). Înscrierea în registrele Autorității de Supraveghere Financiară privește societățile de asigurare care emit asigurări de garanții, potrivit art. 154 alin. (4) lit. b) pct. (iii), nu instituțiile financiare nebancare.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 154 alin. (4) lit. b) pct. (ii)",
+   "citat": "scrisori de garanție emise de instituții financiare nebancare din România sau din alt stat pentru achizițiile de lucrări a căror valoare estimată este mai mică sau egală cu 40.000.000 lei fără TVA și respectiv pentru achizițiile de produse sau servicii a căror valoare estimată este mai mică sau egală cu 7.000.000 lei fără TVA;",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L101A-042",
+  "tip": "unic",
+  "test": 28,
+  "intrebare": "Potrivit Legii nr. 101/2016, cum procedează Consiliul Național de Soluționare a Contestațiilor dacă, în cursul soluționării contestației, constată că, în afara actelor atacate de contestator, există alte acte care încalcă legislația în materia achizițiilor publice și la care contestația nu s-a referit?",
+  "variante": [
+   "Suspendă procedura de atribuire până la formularea unei noi contestații de către o persoană interesată",
+   "Sesizează exclusiv organele de urmărire penală, fără a informa autoritatea contractantă",
+   "Le anulează din oficiu, prin aceeași decizie, în temeiul rolului activ",
+   "Sesizează atât Agenția Națională pentru Achiziții Publice și Curtea de Conturi, transmițând datele și documentele relevante, cât și autoritatea contractantă"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 26 alin. (4) din Legea nr. 101/2016 reglementează o obligație de sesizare cu destinatari expres determinați: ANAP, Curtea de Conturi și autoritatea contractantă, însoțită de transmiterea tuturor datelor și/sau documentelor relevante în susținerea sesizării. Soluția se explică prin principiul disponibilității, consacrat la art. 26 alin. (2): Consiliul examinează legalitatea și temeinicia actului atacat, astfel încât nu poate anula din oficiu acte care nu au făcut obiectul contestației — de aceea varianta anulării din oficiu este greșită. Suspendarea procedurii de atribuire se dispune la cererea persoanei interesate, în cazuri bine justificate și pentru prevenirea unei pagube iminente (art. 22 alin. (1)), nu ca reacție la constatarea unor nereguli suplimentare. Varianta sesizării exclusive a organelor de urmărire penală, fără informarea autorității contractante, contrazice art. 26 alin. (4), care numește expres ca destinatari ANAP, Curtea de Conturi și autoritatea contractantă.",
+  "sursa": {
+   "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+   "articol": "art. 26 alin. (4)",
+   "citat": "În situația în care, în cursul soluționării contestației, Consiliul apreciază că, în afară de actele atacate de contestator, există alte acte care încalcă prevederile legislației în materia achizițiilor publice, achizițiilor sectoriale sau concesiunilor, după caz, și la care nu s-a făcut referire în contestație, sesizează atât Agenția Națională pentru Achiziții Publice, denumită în continuare ANAP, și Curtea de Conturi și transmite în acest sens toate datele și/sau documentele relevante în susținerea sesizării, cât și autoritatea contractantă.",
+   "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUG98-N102",
+  "tip": "unic",
+  "test": 29,
+  "intrebare": "Potrivit O.U.G. nr. 98/2017, prin ce act se reglementează condițiile de inițiere și mecanismul derulării procedurii de conciliere între autoritatea contractantă și ANAP?",
+  "variante": [
+   "Prin decizie a comitetului decizional format la nivelul ANAP",
+   "Prin normele metodologice de aplicare a ordonanței de urgență",
+   "Prin ordin al președintelui ANAP",
+   "Prin dispozițiile Legii nr. 101/2016 privind remediile și căile de atac, aplicate în mod corespunzător"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 17 din O.U.G. nr. 98/2017 prevede că condițiile de inițiere și mecanismul derulării procedurii de conciliere între autoritatea contractantă și ANAP se reglementează prin normele metodologice de aplicare a ordonanței de urgență, norme care, potrivit art. 28, se aprobă prin hotărâre a Guvernului. Ordinul președintelui ANAP este actul prevăzut de ordonanță pentru alte aspecte, de exemplu modelele de formulare pentru formalizarea evaluării ofertelor (art. 13 alin. (2)) sau modul de aplicare a metodologiei de selecție (art. 7 alin. (3^1)). Comitetul decizional format la nivelul ANAP soluționează cererea de conciliere, potrivit art. 18 alin. (1), dar nu stabilește regulile procedurii. Trimiterile ordonanței la Legea nr. 101/2016 privesc alte aspecte decât concilierea: constatarea nulității absolute a contractului (art. 14 alin. (8), care declară aplicabil în mod corespunzător cap. VI secțiunea a 3-a din lege), termenele de așteptare (art. 14 alin. (9)) și atacarea avizelor conforme, numai împreună cu actele autorității contractante (art. 22). Termenele de emitere a deciziei de conciliere sunt stabilite direct de ordonanță, la art. 18 alin. (2) și (3).",
+  "sursa": {
+   "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+   "articol": "art. 17",
+   "citat": "Condițiile de inițiere și mecanismul derulării procedurii de conciliere între autoritatea contractantă și ANAP vor fi reglementate prin normele metodologice de aplicare a prezentei ordonanțe de urgență.",
+   "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+  },
+  "status": "ok"
+ }
+]

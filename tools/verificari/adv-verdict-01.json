@@ -1,0 +1,182 @@
+[
+ {
+  "id": "L98-N510",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 185 alin. (1)), iar distractorul cu excluderea terțului e combătut corect prin art. 185 alin. (2). Explicația afirmă însă „angajamentul ferm al terțului (art. 182 alin. (3))”, dar textul nu spune „ferm”. Art. 182 alin. (3) spune: „prezentând un angajament în acest sens din partea terțului/terților”. Cuvântul „ferm” nu apare nicăieri în forma la zi a Legii 98/2016.",
+  "propunere": "Ultima propoziție a explicației devine: „Condițiile susținerii de către terți sunt cele de la art. 182, inclusiv prezentarea unui angajament de susținere din partea terțului, însoțit de documentele din care rezultă modul efectiv de îndeplinire a acestuia (art. 182 alin. (3) și (4)).”"
+ },
+ {
+  "id": "L98-principii",
+  "verdict": "OK",
+  "motiv": "Art. 2 alin. (2) enumeră literal cele 6 principii. Proporționalitatea (lit. e), asumarea răspunderii (lit. f) și transparența (lit. d) sunt corecte. Sintagma „eficiența utilizării fondurilor publice” nu apare în lege, iar art. 2 alin. (1) vorbește doar de „eficiență economică și socială”. Observație minoră: afirmația că eficiența era principiu sub O.U.G. 34/2006 nu se poate verifica în corpus (O.U.G. 34/2006 e doar menționată ca abrogată).",
+  "propunere": "Opțional: se elimină afirmația despre principiile din O.U.G. nr. 34/2006, care nu poate fi verificată în corpus; se păstrează doar trimiterea la art. 2 alin. (1) și (2)."
+ },
+ {
+  "id": "L500-001",
+  "verdict": "OK",
+  "motiv": "Art. 1 alin. (2) lit. a)-i) conține 9 categorii. Lit. c) (fondurile speciale), lit. d) (trezoreria statului) și lit. i) (fondurile externe nerambursabile) sunt corecte, iar bugetele locale lipsesc din listă. Art. 2 alin. (1) pct. 38 confirmă distincția privind „sistemul bugetar”. Observație minoră: trimiterea la Legea nr. 273/2006 nu se poate verifica în corpus.",
+  "propunere": "Opțional: „ele sunt reglementate de Legea nr. 273/2006 privind finanțele publice locale” se înlocuiește cu „ele nu figurează în art. 1 alin. (2)”, iar explicația se încheie cu trimiterea la art. 2 alin. (1) pct. 38."
+ },
+ {
+  "id": "L101A-001",
+  "verdict": "OK",
+  "motiv": "Art. 1 alin. (2) redă exact cheia. Art. 3 alin. (1) lit. a) exclude achiziția directă din noțiunea de act al autorității contractante, așa cum spune explicația. Niciun distractor nu poate fi apărat.",
+  "propunere": ""
+ },
+ {
+  "id": "L98A-002",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 3 alin. (1) lit. c)). Explicația spune însă că distractorul „execuția de lucrări... în schimbul unui preț ferm” descrie contractul de achiziție publică de la art. 3 alin. (1) lit. l). Lit. l) nu vorbește de „preț ferm”, ci de „contractul cu titlu oneros... care are ca obiect execuția de lucrări, furnizarea de produse sau prestarea de servicii”. În plus, pentru contractele subsecvente explicația spune doar „reglementat separat”, fără articol (regula §4.4), deși regula există la art. 118 alin. (1).",
+  "propunere": "Distractorul devine: „contractul cu titlu oneros care are ca obiect execuția de lucrări, furnizarea de produse sau prestarea de servicii”, iar explicația: „...descrie contractul de achiziție publică (art. 3 alin. (1) lit. l)).” Ultima propoziție devine: „Modul de executare a acordului-cadru încheiat cu mai mulți operatori economici (fără reluarea competiției, cu reluarea competiției sau mixt) este reglementat separat, la art. 118 alin. (1), nu în definiție.”"
+ },
+ {
+  "id": "N395A-007",
+  "verdict": "OK",
+  "motiv": "Art. 2 alin. (3) lit. d), f), g) redau exact cele trei variante corecte. Lit. b) prevede doar că compartimentul „elaborează și, după caz, actualizează” programul anual, nu că îl aprobă. Observație minoră: afirmația despre aprobarea de către conducător nu citează articolul. Aceasta rezultă din art. 11 alin. (3) pentru strategia anuală și din art. 9 alin. (1) pentru documentația de atribuire.",
+  "propunere": "Opțional: se adaugă trimiterile: „strategia anuală se aprobă de conducătorul autorității contractante (art. 11 alin. (3)), iar etapa de planificare se încheie cu aprobarea de către acesta a documentației de atribuire și a strategiei de contractare (art. 9 alin. (1))”."
+ },
+ {
+  "id": "L500-002",
+  "verdict": "OK",
+  "motiv": "Art. 2 alin. (1) pct. 1 redă exact cheia. Trimiterile din explicație sunt corecte: art. 37 (regula 1/12, deci legea bugetară poate fi adoptată după 1 ianuarie) și art. 61 alin. (1) și (3) (execuția se încheie la 31 decembrie, creditele neutilizate sunt anulate de drept).",
+  "propunere": ""
+ },
+ {
+  "id": "L98A-004",
+  "verdict": "OK",
+  "motiv": "Art. 3 alin. (1) lit. s) redă exact cheia. Afirmațiile din explicație se confirmă: formatul standard e stabilit de Comisia Europeană (lit. s)), iar DUAE e o dovadă preliminară în locul certificatelor (art. 193 alin. (1)). Documentele justificative se cer ofertantului clasat pe primul loc (art. 196 alin. (2)). Observație minoră: aceste articole nu sunt citate în explicație.",
+  "propunere": "Opțional: se adaugă în explicație trimiterile „(art. 193 alin. (1))” și „(art. 196 alin. (2))” la frazele despre înlocuirea documentelor justificative și prezentarea lor de către ofertantul clasat pe primul loc."
+ },
+ {
+  "id": "L98A-006",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 3 alin. (1) lit. jj) pct. (i), (ii) și (iv). Distractorul „orice țară terță, indiferent de acorduri” e fals față de pct. (iii) și (v). Explicația conține însă un istoric al modificărilor, „(modificată prin O.U.G. nr. 25/2021)”, interzis de SPEC §4.6. Referința nu se poate verifica: „25/2021” nu apare nicăieri în fișierul Legii 98/2016.",
+  "propunere": "Se elimină paranteza „(modificată prin O.U.G. nr. 25/2021)”. Explicația începe: „Art. 3 alin. (1) lit. jj) enumeră limitativ statele de stabilire: ...”."
+ },
+ {
+  "id": "N395A-010",
+  "verdict": "OK",
+  "motiv": "Art. 3 alin. (3) lit. a) și b) redau exact cele două condiții. Termenul de 5 zile lucrătoare e corect atribuit art. 12 alin. (6) (publicarea semestrială a extraselor din program). Caracterul de document intern reiese din art. 3 alin. (1). Niciun distractor nu poate fi apărat.",
+  "propunere": ""
+ },
+ {
+  "id": "L98A-008",
+  "verdict": "OK",
+  "motiv": "Art. 3 alin. (1) lit. ddd) redă exact cheia: „zile calendaristice, cu excepția cazurilor în care se prevede expres că sunt zile lucrătoare”. Trimiterea la art. 3 alin. (2) lit. d) e corectă (sărbătoare legală, duminică sau sâmbătă → următoarea zi lucrătoare).",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N101",
+  "verdict": "OK",
+  "motiv": "Art. 4 din Norme redă exact cheia (ordin al președintelui ANAP). Toate trimiterile de la distractori se confirmă: art. 2 alin. (2) (act administrativ al conducătorului), art. 6 alin. (1) (procedura electronică a operatorului SEAP cu avizul ANAP) și art. 2 alin. (3) lit. b) (strategia anuală).",
+  "propunere": ""
+ },
+ {
+  "id": "OUGA-002",
+  "verdict": "OK",
+  "motiv": "Art. 2 alin. (1) lit. a) din O.U.G. 98/2017 redă cheia, iar art. 2 alin. (1) lit. b) definește aspectele de regularitate (interpretare literală). Distractorul spune „identic tuturor procedurilor”, textul „de regulă, se aplică, ca atare”; diferența nu face distractorul corect. Art. 14 alin. (5) (doar recomandări pentru aspectele de calitate la entitățile de la art. 4 alin. (1) lit. c) din Legea 99/2016) e citat corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L98A-010",
+  "verdict": "OK",
+  "motiv": "Art. 3 alin. (2) lit. d) redă exact cheia: termenul se încheie la expirarea ultimei ore a următoarei zile lucrătoare dacă ultima zi e sărbătoare legală, duminică sau sâmbătă. Niciun distractor nu poate fi apărat.",
+  "propunere": ""
+ },
+ {
+  "id": "L500-004",
+  "verdict": "OK",
+  "motiv": "Art. 2 alin. (1) pct. 15 redă exact cheia. Toți distractorii vin din definiții reale, corect atribuite: pct. 16 (credit bugetar), pct. 21 (deschidere de credite bugetare) și pct. 2 (angajament bugetar). Trimiterea la art. 4 alin. (5) e corectă.",
+  "propunere": ""
+ },
+ {
+  "id": "L98A-012",
+  "verdict": "OK",
+  "motiv": "Art. 4 alin. (2) lit. a), b), c) redau cele trei condiții cumulative. „Indiferent de forma de constituire sau organizare” (art. 4 alin. (2)) exclude cerința înregistrării ca instituție publică. Observație minoră: explicația nu citează literele (a)-(c) și nici sintagma din alin. (2).",
+  "propunere": "Opțional: se adaugă în explicație trimiterile „(art. 4 alin. (2) lit. a), b), c))” și „art. 4 alin. (2) precizează «indiferent de forma de constituire sau organizare»”."
+ },
+ {
+  "id": "L98A-013",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 4 alin. (3) lit. a), b), c) (condiții normale de piață, profit, suportarea pierderilor). Explicația începe însă cu istoricul modificării, „Testul introdus prin O.U.G. nr. 107/2017”, interzis de SPEC §4.6. Referința nu se poate verifica: „107/2017” nu apare în fișierul Legii 98/2016. Restul se confirmă, inclusiv trimiterea la art. 31 (participarea privată la capital, art. 31 alin. (1) lit. c)).",
+  "propunere": "Prima propoziție devine: „Art. 4 alin. (3) cuprinde trei condiții cumulative: funcționarea în condiții normale de piață (lit. a)), urmărirea obținerii unui profit (lit. b)) și suportarea pierderilor care rezultă din exercitarea activității (lit. c)).” Ultima propoziție devine: „...relevantă în alt context, la excepția de la art. 31 alin. (1) lit. c).”"
+ },
+ {
+  "id": "L98-N102",
+  "verdict": "OK",
+  "motiv": "Art. 5 redă exact cheia. Toate trimiterile se confirmă: art. 68 alin. (1) lit. g) (concursul de soluții), art. 7 alin. (1) (publicarea în JOUE), art. 7 alin. (2) (procedura simplificată sub praguri), art. 7 alin. (5) (achiziția directă) și art. 34 alin. (4) (contractele mixte cu concesiuni). Niciun distractor nu poate fi apărat.",
+  "propunere": ""
+ },
+ {
+  "id": "L500-005",
+  "verdict": "OK",
+  "motiv": "Art. 2 alin. (1) pct. 9 conține precizarea expresă din cheie. Aprobarea clasificațiilor de către MFP e corect citată la art. 19 lit. f), iar baza legală a cheltuielilor la art. 14. Clasificația grupează atât veniturile, cât și cheltuielile (pct. 9).",
+  "propunere": ""
+ },
+ {
+  "id": "N395A-014",
+  "verdict": "OK",
+  "motiv": "Art. 8 alin. (2) lit. a)-c) din Norme redă exact cele trei etape. Trimiterea la art. 10 e corectă: textul spune „încheierea” contractului, explicația „semnarea”, fără diferență de drept. Contestarea nu figurează printre etape.",
+  "propunere": ""
+ },
+ {
+  "id": "OUGA-003",
+  "verdict": "OK",
+  "motiv": "Art. 2 alin. (1) lit. b) din O.U.G. 98/2017 redă cheia, iar adaptarea la particularitățile sectorului e definiția aspectelor de calitate (lit. a)). Listele de verificare stabilite prin proceduri operaționale ale ANAP sunt corect descrise după lit. f). Niciun distractor nu poate fi apărat.",
+  "propunere": ""
+ },
+ {
+  "id": "L500-006",
+  "verdict": "OK",
+  "motiv": "Art. 2 alin. (1) pct. 43 definește virarea „în cadrul bugetului aceluiași ordonator principal de credite”. Pct. 37^1 definește redistribuirea ca realocare „între ordonatorii principali de credite”; ambele privesc atât creditele de angajament, cât și pe cele bugetare. Competența pentru virări e corect atribuită art. 47 alin. (8)-(9) (ordonatorul principal, respectiv acordul MFP).",
+  "propunere": ""
+ },
+ {
+  "id": "L101A-005",
+  "verdict": "OK",
+  "motiv": "Art. 3 alin. (1) lit. f) pct. (i) și (ii) din Legea 101/2016 redau cele două condiții cumulative din cheie. Art. 6 și 7 sunt abrogate, iar nota portalului confirmă abrogarea prin O.U.G. 45/2018. Depunerea ofertei nu e cerută: art. 3 alin. (3) leagă interesul doar de neexcluderea definitivă.",
+  "propunere": "Opțional: în loc de istoricul abrogării se citează art. 3 alin. (3): interesul există cât timp persoana „nu a fost încă exclusă definitiv de la respectiva procedură”; acesta e argumentul textual împotriva cerinței de a fi depus ofertă."
+ },
+ {
+  "id": "N395A-017",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 9 alin. (3) lit. b), c), d) din Norme. Explicația afirmă însă că „comisia se numește prin act administrativ al conducătorului autorității contractante, ulterior, în etapa de organizare a procedurii”, fără sprijin în text. Art. 126 alin. (1) spune doar: „Autoritatea contractantă are obligația de a desemna ... persoane responsabile pentru evaluarea ofertelor ... care se constituie într-o comisie de evaluare”. Nici „act administrativ al conducătorului”, nici momentul nu apar. În plus, lit. h) („orice alte elemente relevante”) e o clauză deschisă; explicația ar trebui să arate că distractorul nu figurează în enumerare.",
+  "propunere": "Ultima propoziție devine: „Componența nominală a comisiei de evaluare nu figurează printre elementele enumerate la art. 9 alin. (3); desemnarea membrilor comisiei de evaluare este reglementată separat, la art. 126 alin. (1) și (4) din Normele metodologice.”"
+ },
+ {
+  "id": "ALOP-007",
+  "verdict": "OK",
+  "motiv": "Preambulul Normelor ALOP redă exact cele trei elemente: „limitele și condițiile delegării, respectiv atribuțiile persoanelor delegate să semneze...”, „subdiviziunile clasificației bugetului aprobat” și „termenul de valabilitate a împuternicirii”. Și circuitul de comunicare a actelor de delegare și de încetare a delegării e redat corect.",
+  "propunere": ""
+ },
+ {
+  "id": "OUGB-007",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 7 alin. (8) din Legea 98/2016, citat exact. Enunțul se sprijină însă pe istoricul modificărilor, contrar SPEC §4.6 („Se testează norma în vigoare”), și afirmă conținutul fostului art. 46 din Norme („în forma dată de H.G. nr. 419/2018 obliga ... TRIMESTRIAL”). Acest conținut nu se poate verifica în corpus: fișierul Normelor conține doar „Articolul 46 / Abrogat.” și nota abrogării prin H.G. 336/2023. Explicația folosește tot istoricul (H.G. 336/2023, Legea 208/2022).",
+  "propunere": "Enunțul nou: „Potrivit legislației în vigoare, cum este reglementată obligația autorității contractante de a transmite în SEAP o notificare privind achizițiile directe?” Cele patru variante se păstrează. Din explicație se elimină parantezele cu actele modificatoare. Pentru distractorul cu abrogarea se păstrează doar: „Art. 46 din Normele metodologice este abrogat, dar obligația este prevăzută de art. 7 alin. (8) din Legea nr. 98/2016.”"
+ },
+ {
+  "id": "L98A-025",
+  "verdict": "OK",
+  "motiv": "Art. 10 alin. (3) lit. a), b), c) redau cele trei variante corecte, iar lit. d) și e) completează cele cinci condiții descrise în explicație. Personalitatea juridică nu e cerută. Art. 3 alin. (1) lit. ccc) definește unitatea ca „structură din cadrul autorității contractante”. Excepția e la art. 10 alin. (2), regula generală la alin. (1).",
+  "propunere": ""
+ },
+ {
+  "id": "N395A-023",
+  "verdict": "OK",
+  "motiv": "Art. 12 alin. (3) lit. a)-c) din Norme redau exact cele trei variante corecte. Trimiterile se confirmă: art. 12 alin. (4) (actualizarea după aprobarea bugetului), art. 14 alin. (2) (condiția identificării surselor de finanțare la modificări) și art. 18-19 (consultarea pieței). Observație minoră: afirmația că numărul de operatori din SEAP „poate fi cel mult un element analizat” în consultarea pieței sau în strategia anuală nu are sprijin textual, dar e formulată prudent.",
+  "propunere": "Opțional: fraza despre operatorii înscriși în SEAP devine: „Numărul de operatori economici înscriși în SEAP nu figurează printre elementele enumerate la art. 12 alin. (3).”"
+ },
+ {
+  "id": "OUGA-004",
+  "verdict": "OK",
+  "motiv": "Art. 3 alin. (1) lit. a) și b) și alin. (2) din O.U.G. 98/2017 redau exact cele trei variante corecte. Alin. (3) fixează împlinirea la ora 24,00, nu la 12,00. Capcana conexă corespunde art. 3 alin. (1) lit. c). Observație minoră: ultima propoziție nu citează articolul (SPEC §4.8).",
+  "propunere": "Opțional: ultima propoziție devine: „Capcană conexă: la termenele pe luni, dacă ultima lună nu are zi corespunzătoare, termenul se împlinește în ultima zi a acelei luni (art. 3 alin. (1) lit. c)).”"
+ },
+ {
+  "id": "ALOP-002",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă, dar enunțul e ambiguu și de nivel scăzut (SPEC §4.6-4.7: testează numere de acte din preambul). Formal, preambulul numește ca „temei” doar H.G. nr. 18/2001: „În temeiul art. 14 alin. (1) din Hotărârea Guvernului nr. 18/2001”. Legea 500/2002 și O.G. 119/1999 sunt „avute în vedere”, iar Legea 82/1991 apare „în baza prevederilor”. Astfel, un candidat riguros poate contesta faptul că toate cele trei variante-cheie sunt „invocate ca temei”.",
+  "propunere": "Enunțul nou: „Care dintre următoarele acte normative sunt menționate în preambulul Ordinului M.F.P. nr. 1.792/2002 privind aprobarea Normelor metodologice ALOP?” O variantă preferabilă: întrebarea se înlocuiește cu una de fond din Normele ALOP (fazele execuției bugetare, delegarea atribuțiilor)."
+ }
+]

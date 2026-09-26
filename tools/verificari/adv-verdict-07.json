@@ -1,0 +1,182 @@
+[
+ {
+  "id": "N395-N210",
+  "verdict": "OK",
+  "motiv": "Art. 86 din Norme confirmă cheia („are obligația de a comunica ofertanților rezultatul etapei a doua”); distractorii provin corect din art. 76 alin. (3), art. 71 (prin art. 85 alin. (2)) și art. 82; trimiterile din explicație sunt exacte.",
+  "propunere": ""
+ },
+ {
+  "id": "L98E-009",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 127 alin. (1)-(2) Legea 98/2016), dar enunțul nu numește actul (SPEC §4 pct. 3: „Enunț autonom: numește actul”). În plus, explicația respinge varianta „convenit în scris cu toții participanții” printr-un „principiu al stabilirii unilaterale a regulilor procedurii” care nu apare în text; argumentul textual este art. 127 alin. (1): factorii sunt „stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului dinamic de achiziții”.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, pe baza căror elemente desemnează autoritatea contractantă oferta câștigătoare pentru o achiziție specifică realizată în cadrul unui sistem dinamic de achiziții?”. Explicație, fraza despre varianta cu acordul participanților: „Varianta cu criteriul convenit în scris cu toți participanții admiși contrazice art. 127 alin. (1), potrivit căruia criteriul și factorii sunt cei «stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului dinamic de achiziții», iar invitația de la art. 126 îi poate doar detalia (art. 127 alin. (2)).”"
+ },
+ {
+  "id": "N395-N211",
+  "verdict": "OK",
+  "motiv": "Art. 87 lit. c) și d) din Norme confirmă cheia; art. 97 alin. (9) din Lege privește invitația la etapa a treia (negocieri); termenul de depunere a ofertelor apare în art. 74 alin. (3) lit. b), adresa pentru indisponibilitatea SEAP în art. 72 alin. (1) lit. c) — atribuiri corecte; 2/4 corecte.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N315",
+  "verdict": "OK",
+  "motiv": "Art. 129 alin. (2) lit. b) confirmă cheia; lit. a) justifică excluderea formularului de participare; art. 74 alin. (2) (anunț de intenție 35 zile–12 luni) și art. 146 (anunțuri tip erată) sunt citate exact.",
+  "propunere": ""
+ },
+ {
+  "id": "L101A-033",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 23 alin. (2) Legea 101/2016: „poate fi atacată cu plângere la instanța competentă prevăzută la art. 32 alin. (1), în mod separat, în termen de 5 zile de la comunicare”), dar enunțul nu numește actul (SPEC §4 pct. 3). Explicația nu arată de unde vin valorile distractorilor (SPEC §4 pct. 4) și respinge două variante prin afirmații generale nefundamentate textual („Nu există recurs la ICCJ în acest sistem”, „CNSC nu își judecă propriile încheieri”). Termenul de 3 zile provine din art. 22 alin. (1) (soluționarea cererii de suspendare), iar 10 zile din art. 29 (plângerea contra deciziei, de la comunicare).",
+  "propunere": "Enunț: „Potrivit Legii nr. 101/2016, cum poate fi atacată încheierea Consiliului Național de Soluționare a Contestațiilor privind soluționarea cererii de suspendare a procedurii de atribuire?”. Explicație, înlocuiește fraza despre ICCJ/CNSC cu: „Termenul de 3 zile este cel în care Consiliul se pronunță asupra cererii de suspendare (art. 22 alin. (1)), nu un termen de atac; instanța competentă este curtea de apel, secția de contencios administrativ și fiscal (art. 32 alin. (1)), nu ICCJ, iar termenul de 10 zile este cel pentru plângerea împotriva deciziei de soluționare a contestației (art. 29).”"
+ },
+ {
+  "id": "L98C-012",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4) e corectă conform art. 131 alin. (1) lit. a)-c) din Legea 98/2016, dar explicația: (1) conține istoric de modificare („în forma modificată prin O.U.G. nr. 107/2017”), interzis de SPEC §4 pct. 6; (2) respinge negocierea fără publicare cu o afirmație netextuală („procedură necompetitivă, incompatibilă cu licitarea electronică”) — textul doar nu o enumeră; (3) atribuie greșit condiția privind specificațiile tehnice alin. (2): ea e în alin. (1) („numai dacă conținutul documentelor achiziției, în special specificațiile tehnice, poate fi stabilit în mod precis”), alin. (2) privind doar anunțarea deciziei.",
+  "propunere": "Explicație: elimină „în forma modificată prin O.U.G. nr. 107/2017”; înlocuiește fraza despre negocierea fără publicare cu „Negocierea fără publicarea prealabilă a unui anunț de participare nu figurează în enumerarea limitativă din art. 131 alin. (1).”; ultima frază: „Condiție transversală: conținutul documentelor achiziției, în special specificațiile tehnice, trebuie să poată fi stabilit în mod precis (art. 131 alin. (1)), iar decizia de a organiza licitația electronică se anunță în anunțul de participare și în documentația de atribuire (art. 131 alin. (2)).”"
+ },
+ {
+  "id": "N395-N212",
+  "verdict": "OK",
+  "motiv": "Art. 89 din Norme: „accesibilă doar ofertanților rămași în competiție în urma derulării etapei a doua”; distractorii și trimiterile (art. 70/85 alin. (2), art. 85 alin. (4), art. 86, art. 81) sunt corecte.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N213",
+  "verdict": "OK",
+  "motiv": "Art. 90 din Norme condiționează rundele succesive de prevederea în anunțul de participare; art. 75 alin. (5) și (7), art. 87, art. 88 alin. (3) sunt citate exact; niciun distractor apărabil.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N401",
+  "verdict": "OK",
+  "motiv": "Art. 133 lit. b) acoperă „costul cel mai scăzut”; lit. a) (exclusiv prețuri) doar pentru prețul cel mai scăzut; art. 132 alin. (1) (prestații intelectuale) și art. 187 alin. (3) lit. c)-d) citate corect.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N214",
+  "verdict": "OK",
+  "motiv": "Art. 91 din Norme cere declarația „fiecărui participant”, consemnată explicit în procesul-verbal; distractorii provin corect din art. 75 alin. (7) și art. 90.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N402",
+  "verdict": "OK",
+  "motiv": "Art. 135 alin. (1) lit. a) și alin. (4) confirmă cele două variante corecte; alin. (3) (intervalele valorice se reduc în prealabil la valori determinate) și art. 136 alin. (3) (identitatea nu se dezvăluie) infirmă distractorii.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N301",
+  "verdict": "OK",
+  "motiv": "Art. 92 din Norme trimite exact la art. 66 alin. (3)-(5); art. 66 alin. (1)-(2), art. 70 alin. (3)-(4) și art. 110 alin. (7) au conținutul descris în distractori și explicație.",
+  "propunere": ""
+ },
+ {
+  "id": "L98C-015",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 136 alin. (3) Legea 98/2016: „nu poate dezvălui, în nicio situație, identitatea ofertanților”), dar enunțul nu numește actul (SPEC §4 pct. 3); restul explicației (art. 136 alin. (1) și alin. (2) lit. b)) este exact.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, pe parcursul desfășurării rundelor unei licitații electronice, în privința identității ofertanților, autoritatea contractantă:”"
+ },
+ {
+  "id": "L500-N110",
+  "verdict": "OK",
+  "motiv": "Art. 28^3 din Legea 500/2002 numește exact utilitățile și drepturile salariale; distractorii provin corect din art. 28^4 alin. (1), art. 28^1 și art. 29 alin. (5).",
+  "propunere": ""
+ },
+ {
+  "id": "OUGB-033",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4) e corectă față de art. 8 alin. (1) lit. c), d), e) din Normele aprobate prin H.G. nr. 419/2018, dar enunțul spune doar „din Normele metodologice”, fără a numi actul — ambiguu în corpus, unde există și Normele H.G. nr. 395/2016, al căror art. 8 are alt conținut (SPEC §4 pct. 3). Nuanță neobligatorie: art. 8 alin. (2) adaugă 3 zile lucrătoare la termenul de la lit. c) când procedura implică runde de negociere/dialog; varianta „propunerile financiare — 2 zile lucrătoare” rămâne corectă doar pentru că enunțul se limitează la alin. (1).",
+  "propunere": "Enunț: „Potrivit art. 8 alin. (1) din Normele metodologice aprobate prin H.G. nr. 419/2018 (controlul ex ante), care dintre următoarele corespondențe între faza controlului ex ante al procesului de evaluare și termenul aplicabil sunt corecte?”. Opțional, în explicație: „Dacă procedura implică runde de negociere/dialog, la termenul de la lit. c) se adaugă 3 zile lucrătoare (art. 8 alin. (2)).”"
+ },
+ {
+  "id": "L98-N403",
+  "verdict": "OK",
+  "motiv": "Art. 138 din Legea 98/2016 confirmă cheia literal; trimiterile la art. 133 lit. a)-b), art. 134 alin. (1) și (5), art. 137 alin. (1) sunt exacte; niciun distractor apărabil.",
+  "propunere": ""
+ },
+ {
+  "id": "L98C-017",
+  "verdict": "OK",
+  "motiv": "Art. 139 alin. (1) (drept, înainte de inițierea procedurii, SEAP + orice alte mijloace), alin. (2) (pot fi invitați și operatori economici) și alin. (3) confirmă cheia și explicația; enunțul numește actul.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N302",
+  "verdict": "OK",
+  "motiv": "Art. 95 din Norme confirmă cheia; art. 94 (negociere fără publicare), art. 101 alin. (3) (procedura simplificată) și art. 97 alin. (2) (minim trei participanți) sunt corect atribuite.",
+  "propunere": ""
+ },
+ {
+  "id": "N395B-028",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4: art. 96 alin. (2) lit. c), e), g)) e corectă, dar: (1) enunțul spune doar „potrivit Normelor metodologice”, fără a numi H.G. nr. 395/2016 (SPEC §4 pct. 3; corpusul are și Normele H.G. 419/2018); (2) explicația invocă greșit „art. 148 lit. g)” — în Norme, art. 148 lit. g) privește „decizia/dispoziția/ordinul de numire a comisiei de evaluare și, după caz, a experților cooptați”, nu a juriului; (3) motivarea „publicarea numelor ar submina independența evaluării” nu are temei în text — distractorul e greșit doar pentru că nu figurează în enumerarea art. 96 alin. (2).",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele informații trebuie să fie cuprinse în documentația de concurs a unui concurs de soluții?”. Explicație, fraza despre juriu: „Datele de identificare ale membrilor juriului nu figurează în conținutul minim al documentației de concurs de la art. 96 alin. (2); art. 99 alin. (2) reglementează separat numirea juriului, format din cel puțin 3 membri, persoane fizice independente față de concurenți.”"
+ },
+ {
+  "id": "L500-038",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4) e corectă: art. 28^4 alin. (1) din Legea 500/2002 exceptează „plăților pentru achitarea drepturilor salariale și a contribuțiilor aferente acestora, respectiv pentru stingerea arieratelor, precum și pentru plata ratelor de capital, dobânzilor, comisioanelor și altor costuri aferente datoriei publice”; utilitățile vin corect din art. 28^3. Enunțul însă nu numește actul (SPEC §4 pct. 3).",
+  "propunere": "Enunț: „Potrivit Legii nr. 500/2002 privind finanțele publice, când o instituție publică finanțată de la bugetul de stat înregistrează arierate la sfârșitul lunii anterioare lunii pentru care solicită efectuarea de plăți, unitățile teritoriale ale Trezoreriei Statului nu operează plăți din conturile acesteia. Care sunt plățile exceptate de la această măsură?”"
+ },
+ {
+  "id": "L98C-021",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4) e corectă: art. 142 numește „anunțurilor de intenție, anunțurilor de participare și a anunțurilor de atribuire”. Explicația e însă parțial inexactă: distractorul nu e inventat, ci provine din art. 18 alin. (1) din Normele H.G. 395/2016 (consultarea „se inițiază prin publicarea în SEAP, precum și prin orice alte mijloace, a unui anunț privind consultarea”), iar explicația nu dă această sursă (SPEC §4 pct. 4). Conține și afirmații fără temei textual: că regula de la art. 147 „nu i se aplică” și că anunțul de participare simplificat ar fi un „derivat” al categoriilor de la art. 142.",
+  "propunere": "Explicație, fraza despre distractor: „Anunțul privind consultarea pieței există, dar în Normele metodologice (art. 18 alin. (1) din H.G. nr. 395/2016), ca modalitate de inițiere a consultării reglementate de art. 139 din Lege; el nu figurează în enumerarea art. 142.” Elimină paranteza despre art. 147 și afirmația despre anunțul de participare simplificat; ultima frază: „Art. 146 prevede că anunțurile de la art. 142, «inclusiv anunțurile corespunzătoare tip erată», se transmit spre publicare prin mijloace electronice.”"
+ },
+ {
+  "id": "L98C-022",
+  "verdict": "OK",
+  "motiv": "Art. 143 alin. (1) („își poate face cunoscute”) și alin. (2) (JOUE și nivel național) confirmă cheia; art. 144 alin. (1) lit. d) și alin. (2) citate corect; în Lege nu există vreo ipoteză de anunț de intenție obligatoriu.",
+  "propunere": ""
+ },
+ {
+  "id": "L101A-035",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (2/4) e corectă conform art. 25 alin. (1) lit. a)-b) din Legea 101/2016; art. 18 alin. (3), art. 25 alin. (3) și (5) sunt citate exact. Enunțul însă nu numește actul (doar „CNSC”; SPEC §4 pct. 3), iar respingerea variantei cu avocatul se face printr-un argument general („ar contrazice celeritatea”), nu prin text.",
+  "propunere": "Enunț: „Potrivit Legii nr. 101/2016, în care dintre următoarele situații poate Consiliul Național de Soluționare a Contestațiilor să suspende, prin încheiere, procedura de soluționare a contestației?”. Explicație: „Solicitarea unui termen pentru angajarea unui avocat nu figurează printre cele două cazuri enumerate de art. 25 alin. (1).”"
+ },
+ {
+  "id": "ALOP-026",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4) e corectă față de pct. 2 din Normele ALOP (viza „Bun de plată” confirmă că „bunurile furnizate au fost recepționate...”, „...înregistrate în gestiune și în contabilitate...”, „condițiile cu privire la legalitatea efectuării rambursarilor de rate...”). Explicația însă se referă la poziția variantei („Varianta de la indicele 0”), interzis de SPEC §4 pct. 5, iar ultima frază e o concluzie generală („cea mai frecventă greșeală”), nu o trimitere la text (SPEC §4 pct. 8). În plus, contul 8066 provine din pct. 5 (contabilitatea angajamentelor), care nu e în tematică (SPEC §5); pct. 1 spune doar că prin angajamentul bugetar „se pun în rezervă (se blochează) creditele aferente”.",
+  "propunere": "Explicație: înlocuiește „Varianta de la indicele 0 este falsă și reprezintă capcana” cu „Varianta privind rezervarea și blocarea creditelor bugetare este falsă”; ultima frază: „Potrivit pct. 1 (angajarea cheltuielilor), prin angajamentul bugetar «se pun în rezervă (se blochează) creditele aferente unei cheltuieli», deci confirmarea de la acest distractor aparține fazei de angajare, nu vizei «Bun de plată» din faza de lichidare (pct. 2).” Opțional, distractorul: „creditele bugetare aferente au fost puse în rezervă (blocate) prin angajamentul bugetar”."
+ },
+ {
+  "id": "L500-N111",
+  "verdict": "OK",
+  "motiv": "Art. 28^5 alin. (1)-(2) din Legea 500/2002 confirmă cheia și capcana cu H.G.; art. 16 alin. (1) lit. d) și alin. (2) (15 zile) și art. 31^1 alin. (1) (memorandum până la 15 iulie) sunt citate exact.",
+  "propunere": ""
+ },
+ {
+  "id": "OUGB-034",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 8 alin. (2) din Normele H.G. 419/2018 — „la termenele prevăzute conform alin. (1) lit. b) și c) se adaugă 3 zile lucrătoare”; trimiterile la art. 5 alin. (4) și art. 11 alin. (4) (5 zile lucrătoare) și la art. 12 alin. (1) din O.U.G. 98/2017 („o singură dată, pe fiecare fază”) sunt exacte. Enunțul însă nu numește actul (nici O.U.G. 98/2017, nici Normele H.G. 419/2018; SPEC §4 pct. 3), iar varianta de răspuns trimite la „art. 8 alin. (1)” fără ca enunțul să spună din ce act.",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 419/2018 (controlul ex ante), în cazul în care procedura de atribuire supusă controlului ex ante implică și derularea unor runde de negociere/dialog, cum se modifică termenele de control ex ante ale fazelor de evaluare prevăzute la art. 8 alin. (1)?”"
+ },
+ {
+  "id": "N395-N303",
+  "verdict": "OK",
+  "motiv": "Art. 100 din Norme confirmă cheia; art. 105 (anunț de atribuire în 15 zile la procedura simplificată), art. 101 alin. (3) și art. 99 alin. (4)-(5) sunt citate exact.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N404",
+  "verdict": "OK",
+  "motiv": "Art. 146 din Legea 98/2016 confirmă cheia literal (inclusiv erata, formatele-standard ale Comisiei Europene); art. 147 alin. (1)-(2) (48 de ore de la confirmarea primirii) infirmă corect distractorul privind ordinea publicării.",
+  "propunere": ""
+ },
+ {
+  "id": "L98C-026",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 147 alin. (1)-(2) din Legea 98/2016: publicarea națională e permisă dacă AC „nu a fost notificată... în termen de 48 de ore de la confirmarea primirii”); art. 150 alin. (4) și (6) (5 zile) și art. 148 sunt citate exact. Enunțul însă nu numește actul (SPEC §4 pct. 3), iar explicația adaugă o motivare netextuală („tocmai pentru a nu crea un avantaj informațional operatorilor naționali”).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, autoritatea contractantă a transmis spre publicare un anunț de participare către Oficiul pentru Publicații al Uniunii Europene. Când poate publica anunțul la nivel național?”. Explicație, prima frază: „Potrivit art. 147 alin. (1), anunțurile prevăzute la art. 142 nu pot fi publicate la nivel național înainte de data publicării acestora în JOUE.”"
+ },
+ {
+  "id": "N395-N304",
+  "verdict": "OK",
+  "motiv": "Art. 102 din Norme confirmă cheia; art. 98 alin. (2)-(3) (30 zile, reducere cu 5 zile la concursul de soluții), art. 110 alin. (4) (consultare facultativă, „poate să consulte”) și art. 103 alin. (4) (prelungire prin erată) sunt citate exact.",
+  "propunere": ""
+ }
+]

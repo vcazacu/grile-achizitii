@@ -78,6 +78,7 @@ _POZITIE = re.compile(
 # „varianta a fost” să nu fie o alarmă.
 _POZITIE_LITERA = re.compile(
     r"\b(?:[Vv]ariant(?:a|ele)|[Rr][ăa]spuns(?:ul|urile))\s+(?:[A-D](?![\w])\)?|[a-d]\))"
+    r"|\b(?:indicel(?:e|ui)|indexul(?:ui)?)\s+\d\b"                    # „varianta de la indicele 2”
     r"|\b(?:iar|și|apoi)\s+(?:prima|a\s+doua|a\s+treia|a\s+patra|ultima)\s+"
     r"(?!zi\b|zile|etap|rund|faz|lun|dat|oar|parte|teză|tez|liter|alin|pct|punct"
     r"|(?:de|la|din|în|pe|cu|prin|pentru|după|până)\b)[a-zăâîșț]+")   # „iar a doua de la...” = alt substantiv subînțeles

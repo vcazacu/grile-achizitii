@@ -1,0 +1,96 @@
+[
+ {
+  "id": "L98E-016",
+  "tip": "multiplu",
+  "test": 39,
+  "intrebare": "Care dintre următoarele împrejurări fac ca o modificare a contractului de achiziție publică/acordului-cadru, pe durata sa, să fie considerată SUBSTANȚIALĂ, potrivit art. 221 alin. (7) din Legea nr. 98/2016?",
+  "variante": [
+   "Modificarea are ca efect prelungirea duratei de execuție a contractului cu mai mult de 6 luni.",
+   "Modificarea schimbă echilibrul economic al contractului în favoarea contractantului într-un mod care nu a fost prevăzut în contractul inițial.",
+   "Modificarea extinde în mod considerabil obiectul contractului de achiziție publică/acordului-cadru.",
+   "Modificarea introduce condiții care, dacă ar fi fost incluse în procedura de atribuire inițială, ar fi permis selecția altor candidați, acceptarea unei alte oferte sau ar fi atras și alți participanți."
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 221 alin. (7) enumeră patru împrejurări, oricare dintre ele fiind suficientă pentru a califica modificarea drept substanțială: schimbarea condițiilor de competiție (lit. a)), schimbarea echilibrului economic în favoarea contractantului (lit. b)), extinderea considerabilă a obiectului (lit. c)) și înlocuirea contractantului inițial în alte cazuri decât cele permise de alin. (1) lit. d) (lit. d)). Consecința calificării ca substanțială este că modificarea nu mai poate fi făcută în temeiul art. 221 alin. (1) lit. e); dacă nu se încadrează nici în celelalte cazuri de la art. 221 alin. (1) (lit. a)-d) sau f), ultima aplicându-se fără verificarea condițiilor de la alin. (7) lit. a)-d)), ea se realizează numai prin organizarea unei noi proceduri de atribuire, potrivit art. 222 alin. (1). Varianta cu prelungirea duratei de execuție cu mai mult de 6 luni introduce un prag temporal pe care art. 221 alin. (7) nu îl conține: caracterul substanțial ține de efectele modificării asupra competiției, echilibrului economic, obiectului sau persoanei contractantului. Reține și definiția de la art. 221 alin. (11): caracterul general al contractului înseamnă obiectivele principale urmărite la realizarea achiziției inițiale, obiectul principal și drepturile și obligațiile principale, inclusiv principalele cerințe de calitate și performanță.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 221 alin. (7)",
+   "citat": "Fără a aduce atingere prevederilor alin. (1), o modificare a unui contract de achiziție publică/acord-cadru, pe durata sa, este considerată modificare substanțială atunci când este îndeplinită cel puțin una dintre următoarele condiții: a) modificarea introduce condiții care, dacă ar fi fost incluse în procedura de atribuire inițială, ar fi permis selecția altor candidați decât cei selectați inițial sau acceptarea unei alte oferte decât cea acceptată inițial sau ar fi atras și alți participanți la procedura de atribuire; b) modificarea schimbă echilibrul economic al contractului de achiziție publică [...] în favoarea contractantului într-un mod care nu a fost prevăzut în contractul de achiziție publică/acordul-cadru inițial; c) modificarea extinde în mod considerabil obiectul contractului de achiziție publică/acordului-cadru;",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N419-N108",
+  "tip": "unic",
+  "test": 35,
+  "intrebare": "Potrivit Normelor metodologice de aplicare a O.U.G. nr. 98/2017, aprobate prin H.G. nr. 419/2018, ce se întâmplă cu o cerere de conciliere care nu conține toate informațiile prevăzute de modelul din anexa nr. 1.3?",
+  "variante": [
+   "Rămâne fără obiect, ca în cazul renunțării autorității contractante la cele sesizate",
+   "Se examinează pe fond, ANAP putând solicita autorității contractante informații suplimentare",
+   "Autoritatea contractantă este chemată la ședința de clarificare, unde o completează cu documente noi",
+   "Este respinsă ca inadmisibilă, fără examinare pe fond"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 17 alin. (1) lit. b) din Normele metodologice de aplicare a O.U.G. nr. 98/2017 prevede că cererea de conciliere care nu conține toate informațiile prevăzute de modelul din anexa nr. 1.3 este respinsă ca inadmisibilă, fără examinare pe fond. Modelul este obligatoriu: art. 14 alin. (2) cere elaborarea cererii conform anexei nr. 1.3, iar art. 21 prevede că anexele nr. 1.1-1.3 fac parte integrantă din normele metodologice. Solicitarea de informații suplimentare ține de examinarea pe fond, pentru care art. 18 alin. (3) lit. b) din O.U.G. nr. 98/2017 fixează termenul de 3-5 zile lucrătoare, iar cererea inadmisibilă nu ajunge la această examinare. Completarea cu documente noi în ședința de clarificare este interzisă de art. 16 alin. (2), iar art. 17 alin. (4) nu permite prezentarea de documente noi în susținerea cererii. Cererea rămâne fără obiect numai când autoritatea contractantă renunță la cele sesizate, informând ANAP (art. 14 alin. (3)).",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+   "articol": "art. 17 alin. (1) lit. b)",
+   "citat": "Cererea de conciliere este respinsă ca inadmisibilă, fără examinare pe fond, în cazul în care: [...] b) nu conține toate informațiile prevăzute de modelul de cerere de conciliere din anexa nr. 1.3.",
+   "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGC-003",
+  "tip": "unic",
+  "test": 39,
+  "intrebare": "Potrivit O.U.G. nr. 98/2017, Consiliul Național de Soluționare a Contestațiilor s-a pronunțat în mod definitiv asupra unor acte ale autorității contractante care făcuseră obiectul unui aviz conform condiționat al ANAP, iar din decizie rezultă doar o invalidare parțială a constatărilor ANAP. Contractul a fost deja semnat. Cum procedează ANAP?",
+  "variante": [
+   "Are obligația de a ataca în instanță contractul, acesta fiind lovit de nulitate absolută cu privire la constatările din avizul conform care nu au fost invalidate sau nu au făcut obiectul deciziei definitive.",
+   "Solicită Consiliului revizuirea deciziei, în termen de 3 luni de la data luării la cunoștință a semnării contractului.",
+   "Nu atacă în instanță contractul, întrucât pronunțarea definitivă a Consiliului înlătură integral efectele avizului conform condiționat.",
+   "Emite un nou aviz conform necondiționat care îl înlocuiește pe cel inițial, iar contractul rămâne pe deplin valabil."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 25 alin. (3) din O.U.G. nr. 98/2017 tratează expres ipoteza invalidării parțiale: obligația ANAP de a ataca în instanță subzistă, dar nulitatea absolută vizează numai constatările rămase neinvalidate ori care nu au făcut obiectul deciziei definitive. Varianta potrivit căreia ANAP nu atacă contractul descrie situația de la alin. (2) - invalidarea în tot a constatărilor - când într-adevăr ANAP nu atacă, iar contractul nu este lovit de nulitate pe motivul de la art. 14 alin. (8); este un distractor construit pe o regulă reală, dar aplicabilă altei ipoteze. Emiterea unui nou aviz conform care îl înlocuiește pe cel inițial este efectul admiterii cererii de conciliere (art. 19 alin. (2) lit. b)), nu al unei decizii a Consiliului. Revizuirea deciziei Consiliului nu este un remediu pus la dispoziția ANAP de această ordonanță; termenul de 3 luni de la luarea la cunoștință a semnării contractului este cel în care ANAP sesizează instanța cu acțiunea în constatarea nulității absolute (art. 25 alin. (1)). Potrivit art. 25 alin. (4), ANAP este cea care analizează considerentele deciziei și stabilește dacă invalidarea este totală sau parțială.",
+  "sursa": {
+   "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+   "articol": "art. 25 alin. (3)",
+   "citat": "În cazul în care Consiliul sau instanța de judecată competentă s-a pronunțat în mod definitiv în legătură cu acte ale autorității contractante care au făcut obiectul unui aviz conform condiționat al ANAP, iar din deciziile pronunțate rezultă doar o invalidare parțială a constatărilor din avizul conform condiționat respectiv, ANAP are obligația de a ataca în instanță contractul încheiat în cadrul procedurii de atribuire ce a făcut obiectul deciziei definitive a Consiliului sau instanței de judecată, acesta fiind lovit de nulitate absolută cu privire la constatările din avizul conform ce nu au fost invalidate sau nu au făcut obiectul deciziei definitive a Consiliului sau instanței de judecată.",
+   "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N613",
+  "tip": "unic",
+  "test": 39,
+  "intrebare": "Potrivit Legii nr. 98/2016, în ce măsură poate fi ajustat prin actualizare prețul unui acord-cadru/contract de achiziție publică pe parcursul îndeplinirii acestuia, atunci când documentația de atribuire și contractul prevăd această posibilitate?",
+  "variante": [
+   "Doar în măsura strict necesară pentru acoperirea costurilor pe baza cărora s-a fundamentat prețul acordului-cadru/contractului.",
+   "În funcție de indicele general al prețurilor de consum, chiar dacă acesta nu reflectă evoluția costurilor elementelor constitutive ale ofertei.",
+   "Numai dacă valoarea ajustării este mai mică decât 10% din prețul contractului inițial, în cazul contractelor de servicii sau de produse.",
+   "În limita a maximum 50% din valoarea contractului inițial."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 222^2 alin. (5) prevede că, în orice situație, prețul poate fi ajustat doar în măsura strict necesară pentru acoperirea costurilor pe baza cărora s-a fundamentat prețul acordului-cadru/contractului. Limita de 50% provine din art. 221 alin. (1) lit. b) și c) și alin. (4), unde privește lucrările, serviciile sau produsele adiționale și modificările determinate de circumstanțe imprevizibile, nu ajustarea prețului. Procentul de 10% este condiția de la art. 221 alin. (1) lit. f) pct. (ii) pentru modificările de valoare redusă ale contractelor de servicii sau de produse. Indicele general, desprins de costuri, contrazice art. 222^2 alin. (1), care leagă ajustarea de indicii de preț pentru elemente constitutive ale ofertei, cu efect asupra costurilor care au fundamentat prețul, precum și alin. (3), care cere precizarea indicilor și a sursei informațiilor. În plus, art. 222^2 alin. (6) interzice ca modul de ajustare să schimbe rezultatul procedurii prin anularea sau diminuarea avantajului competitiv al contractantului, cu excepția cazului prevăzut la alin. (5).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 222^2 alin. (1), (5) și (6)",
+   "citat": "Pe parcursul îndeplinirii acordului-cadru/ contractului, prețul poate fi ajustat prin actualizare în cazul în care pe piață au apărut anumite condiții, în urma cărora s-a constatat creșterea/diminuarea indicilor de preț pentru elemente constitutive ale ofertei [...] În orice situație, prețul acordului-cadru/contractului poate fi ajustat doar în măsura strict necesară pentru acoperirea costurilor pe baza cărora s-a fundamentat prețul acordului-cadru/contractului. [...] Modul de ajustare nu trebuie să conducă în niciun caz la schimbarea rezultatului procedurii de atribuire, prin anularea sau diminuarea avantajului competitiv pe baza căruia contractantul respectiv a fost declarat câștigător în urma finalizării respectivei proceduri, cu excepția cazului prevăzut la alin. (5).",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ }
+]

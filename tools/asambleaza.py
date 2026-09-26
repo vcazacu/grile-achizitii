@@ -21,7 +21,7 @@ from valideaza import incarca, valideaza, grup, nr_teste_din_app
 # Cote-țintă pe grup (fisier[#anexa]); suma trebuie să fie teste × marime.
 COTE = {   # 39 de teste × 20 = 780 = toate întrebările verificate (decizia din 27.09.2026: fiecare unitate din tematică are cel puțin o întrebare)
  b.K98: 302, b.K395C: 3, b.K395: 195, b.KOUG: 45, b.K419C: 3, b.K419: 39,
- b.K101: 68, b.KORD: 5, b.KALOP: 36, b.K500: 84,
+ b.K101: 68, b.KORD: 4, b.KALOP: 37, b.K500: 84,
 }
 ETICHETE = {
  b.K98: "L98", b.K395C: "HG395", b.K395: "N395", b.KOUG: "OUG98", b.K419C: "HG419", b.K419: "N419",

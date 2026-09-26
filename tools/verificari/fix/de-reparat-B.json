@@ -1,0 +1,146 @@
+[
+ {
+  "id": "N395A-017",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 9 alin. (3) lit. b), c), d) din Norme. Explicația afirmă însă că „comisia se numește prin act administrativ al conducătorului autorității contractante, ulterior, în etapa de organizare a procedurii”, fără sprijin în text. Art. 126 alin. (1) spune doar: „Autoritatea contractantă are obligația de a desemna ... persoane responsabile pentru evaluarea ofertelor ... care se constituie într-o comisie de evaluare”. Nici „act administrativ al conducătorului”, nici momentul nu apar. În plus, lit. h) („orice alte elemente relevante”) e o clauză deschisă; explicația ar trebui să arate că distractorul nu figurează în enumerare.",
+  "propunere": "Ultima propoziție devine: „Componența nominală a comisiei de evaluare nu figurează printre elementele enumerate la art. 9 alin. (3); desemnarea membrilor comisiei de evaluare este reglementată separat, la art. 126 alin. (1) și (4) din Normele metodologice.”",
+  "lot": "01",
+  "fisier": "N395A-migrat.json"
+ },
+ {
+  "id": "N395A-033",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (Norme H.G. 395/2016 art. 17 alin. (1) lit. a)-c)), dar: (1) enunțul spune doar „din Norme”, fără a numi actul — în corpus există și Normele H.G. 419/2018 și Normele ALOP (SPEC §4 pct. 3); (2) explicația afirmă absolut că „regulile legii se aplică identic indiferent dacă banii sunt naționali sau europeni”, afirmație fără suport în text și contrazisă chiar de art. 17 alin. (3) din Norme („În cazul în care autoritatea contractantă implementează proiecte finanțate din fonduri nerambursabile [...] prevederile prezentului articol se aplică prin raportare la durata contractului de finanțare/proiect”) și, pentru finanțări integrale ale organizațiilor internaționale, de art. 28 alin. (4) din Legea 98/2016.",
+  "propunere": "Enunț: „Potrivit art. 17 alin. (1) din Normele metodologice aprobate prin H.G. nr. 395/2016, în funcție de care aspecte alege autoritatea contractantă procedura de atribuire?” În explicație, fraza „Sursa de finanțare nu este un criteriu de alegere a procedurii — regulile legii se aplică identic indiferent dacă banii sunt naționali sau europeni.” se înlocuiește cu: „Sursa de finanțare nu figurează printre aspectele enumerate la art. 17 alin. (1).”",
+  "lot": "02",
+  "fisier": "N395A-migrat.json"
+ },
+ {
+  "id": "N395A-036",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (Norme H.G. 395/2016 art. 18 alin. (2) lit. a), b), d); valoarea estimată nu figurează). Dar: (1) enunțul nu numește actul — nu spune nici „Normele”, nici H.G. 395/2016 (SPEC §4 pct. 3); (2) justificarea din explicație („unul dintre scopurile consultării este tocmai fundamentarea valorii estimate; comunicarea ei prealabilă ar putea distorsiona ofertele viitoare”) nu are suport în text: art. 139 alin. (1) din Lege definește scopul drept „pregătirea achiziției [...] și pentru a informa operatorii economici cu privire la planurile de achiziție și cerințele avute în vedere”, iar art. 18 alin. (3) din Norme enumeră aspectele consultării (soluții tehnice, financiare, contractuale, strategia de contractare) fără a menționa valoarea estimată; (3) afirmația că valoarea estimată e obligatorie în anunțul de participare nu e verificabilă într-un articol din corpus și nu e citată.",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele elemente trebuie să fie cuprinse în anunțul privind consultarea pieței?” În explicație, fraza „Valoarea estimată nu figurează în această listă — este firesc, întrucât unul dintre scopurile consultării este tocmai fundamentarea valorii estimate; comunicarea ei prealabilă ar putea distorsiona ofertele viitoare.” se înlocuiește cu: „Valoarea estimată nu figurează în lista de la art. 18 alin. (2); art. 18 alin. (3) arată că aspectele supuse consultării privesc soluțiile tehnice, financiare sau contractuale și strategia de contractare.” Capcana se limitează la: „valoarea estimată este obligatorie în programul anual al achizițiilor publice (art. 12 alin. (5) lit. c)).”",
+  "lot": "02",
+  "fisier": "N395A-migrat.json"
+ },
+ {
+  "id": "N395A-042",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (Norme H.G. 395/2016 art. 20 alin. (8) lit. a), b), d)); componența comisiei nu e în listă, iar art. 21 alin. (6) (persoane cu funcții de decizie în anunț) e corect citat. Dar: (1) enunțul nu numește actul (SPEC §4 pct. 3); (2) explicația conține istoric („din 2023, estimarea valorii maxime a acordului-cadru”) preluat din §NOTA§ — SPEC §4 pct. 6; (3) plafonul de 1% al garanției de participare raportat la cel mai mare contract subsecvent nu are articol citat (este art. 35 alin. (1) lit. a) din Norme: „valoarea, ce nu poate depăși 1% din valoarea estimată a contractului de achiziție publică sau în cazul acordului-cadru din valoarea estimată a celui mai mare contract subsecvent”).",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în cazul acordului-cadru, care dintre următoarele informații specifice trebuie să se regăsească în anunțul de participare/simplificat?” În explicație: „...estimarea valorii celui mai mare contract subsecvent și estimarea valorii maxime a acordului-cadru (lit. h)).” Ultima frază: „...al cărei plafon de 1% se raportează, în cazul acordului-cadru, la această valoare (art. 35 alin. (1) lit. a) din Norme).”",
+  "lot": "02",
+  "fisier": "N395A-migrat.json"
+ },
+ {
+  "id": "N395A-047",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 24 alin. (5) din Norme (singurul alineat în vigoare al art. 24) prevede „în cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege și, în cazul anunțului de participare simplificat, în cel mult două zile lucrătoare de la primirea acceptului de publicare”. Probleme: (1) enunțul nu numește actul (Normele H.G. 395/2016), SPEC §4 pct. 3; (2) explicația afirmă că „art. 26 arată chiar că termenele controlului ex ante trebuie mai întâi să expire” — art. 26 privește doar înștiințarea AC când operatorul SEAP nu poate transmite anunțul la JOUE, nu condiționează publicarea în SEAP; condiția de publicare este art. 147 din Lege (anunțurile nu pot fi publicate la nivel național înainte de publicarea în JOUE, cu excepția celor 48 de ore de la alin. (2)).",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în ce termene are obligația operatorul SEAP de a publica anunțurile în SEAP?”. În explicație, înlocuiește fraza despre art. 26 cu: „Nici emiterea avizului conform nu declanșează publicarea în aceeași zi: termenul de o zi lucrătoare curge de la îndeplinirea condițiilor art. 147 din Lege, potrivit căruia anunțurile nu pot fi publicate la nivel național înainte de publicarea în JOUE, cu excepția situației în care OPUE nu a notificat publicarea în 48 de ore de la confirmarea primirii (art. 147 alin. (2)).”",
+  "lot": "03",
+  "fisier": "N395A-migrat.json"
+ },
+ {
+  "id": "N395A-055",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 32 alin. (8) lit. a)-b) din Normele H.G. 395/2016; distractorii provin corect din art. 32 alin. (3) și alin. (9) lit. a). Dar enunțul spune doar „din Norme”, deși corpusul are două seturi de norme (H.G. 395/2016 și H.G. 419/2018) — SPEC §4 pct. 3 cere numirea actului.",
+  "propunere": "Enunț: „Ce categorii de factori de evaluare nu are dreptul să utilizeze autoritatea contractantă, potrivit art. 32 alin. (8) din Normele metodologice aprobate prin H.G. nr. 395/2016?”",
+  "lot": "03",
+  "fisier": "N395A-migrat.json"
+ },
+ {
+  "id": "N395A-061",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă ca regulă (art. 37 alin. (1) lit. a), b), c) din Normele H.G. 395/2016), dar: (1) enunțul nu numește actul (SPEC §4 pct. 3); (2) explicația semnalează doar excepția de la alin. (2) (acord-cadru, lit. b)), nu și pe cea de la alin. (3), care privește chiar varianta-cheie cu refuzul semnării: „Autoritatea contractantă nu reține garanția de participare în cazul în care ofertantul desemnat câștigător refuză să semneze ... [procedură] care a făcut obiectul controlului ex ante și în care ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a derulat și finalizat procedura ... fără a remedia abaterile”; (3) mențiunea „introdusă în 2023” e istoric al modificărilor (SPEC §4 pct. 6).",
+  "propunere": "Enunț: „Potrivit art. 37 alin. (1) din Normele metodologice aprobate prin H.G. nr. 395/2016, în care dintre următoarele situații are autoritatea contractantă obligația de a reține garanția de participare?”. În explicație: șterge „, introdusă în 2023” și adaugă la final: „Excepții: la acordul-cadru nu se aplică lit. b) (alin. (2)), iar refuzul semnării nu atrage reținerea când ANAP a emis aviz conform condiționat și autoritatea a finalizat procedura fără a remedia abaterile (alin. (3)).”",
+  "lot": "03",
+  "fisier": "N395A-migrat.json"
+ },
+ {
+  "id": "N395B-001",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă și reproduce verbatim art. 45 alin. (3) din Norme. Cifrele de la art. 7 alin. (7) lit. b) din Lege sunt exacte: peste 140.000 lei și cel mult 200.000 lei pentru produse/servicii, respectiv peste 300.000 lei și cel mult 560.000 lei pentru lucrări. Explicația încalcă însă SPEC §4.6 („fără istoricul modificărilor”) și §4.8 (ultima propoziție trebuie să fie o trimitere la text): se încheie cu datele abrogărilor („art. 44 în 2018, art. 43 și 46 în 2023”), informație provenită din §NOTA§.",
+  "propunere": "Ultima propoziție a explicației se înlocuiește cu: „Din secțiunea Normelor privind achiziția directă, art. 43, 44 și 46 sunt abrogate, iar în vigoare a rămas art. 45, care la alin. (3) permite consultarea prin catalogul electronic SEAP sau prin orice alte modalități identificate de autoritatea contractantă.” (fără anii abrogării).",
+  "lot": "04",
+  "fisier": "N395B-migrat.json"
+ },
+ {
+  "id": "N395-N107",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 57 alin. (1) și (2) din Norme), la fel trimiterile la art. 24 alin. (5), singurul alineat în vigoare al art. 24, și la art. 54-56. Enunțul și explicația atribuie însă Legii nr. 98/2016 o trimitere care nu mai există în forma la zi: „art. 111 alin. (1) lit. a) din Legea nr. 98/2016”. Art. 111 alin. (1) din Lege nu mai are litere. Anunțul de intenție valabil în mod continuu e acum la art. 111 alin. (2) lit. a): „de a-și face cunoscută intenția de a achiziționa respectivele servicii fie prin publicarea unui anunț de participare, fie prin intermediul unui anunț de intenție valabil în mod continuu”. Art. 57 alin. (1) din Norme păstrează numerotarea veche, deci citatul e verbatim, dar enunțul prezintă o trimitere greșită la Lege.",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, ce obligație are operatorul SEAP în cazul unui anunț de intenție valabil în mod continuu, transmis de autoritatea contractantă pentru serviciile sociale și alte servicii specifice (art. 111 alin. (2) lit. a) din Legea nr. 98/2016)?”. În explicație, prima frază se încheie cu „... transmis potrivit art. 111 din Lege (art. 57 alin. (1) din Norme trimite la «alin. (1) lit. a)», dispoziție aflată în prezent la art. 111 alin. (2) lit. a))”. Citatul rămâne neschimbat.",
+  "lot": "04",
+  "fisier": "N395-N1.json"
+ },
+ {
+  "id": "N395B-012",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (Norme art. 58 alin. (2): „evaluarea conformității ofertelor cu specificațiile tehnice ... și aplicarea criteriului de atribuire se realizează anterior verificării îndeplinirii criteriilor de calificare și selecție”). Enunțul însă nu numește actul (SPEC §4.3), deși regula e în Norme, iar Legea (art. 208) doar deleagă stabilirea cazurilor prin norme. Explicația spune „mecanism preluat din art. 208 din Lege” — art. 208 nu conține mecanismul, ci trimite la norme („Prin normele metodologice ... se stabilesc cazurile și condițiile specifice”).",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în licitația deschisă, dacă după publicarea anunțului de participare autoritatea contractantă nu utilizează mijloacele electronice din motive tehnice imputabile operatorului SEAP, cum se realizează evaluarea?” Explicație: înlocuiește „mecanism preluat din art. 208 din Lege” cu „caz stabilit în aplicarea art. 208 din Lege, care deleagă normelor stabilirea acestor situații”.",
+  "lot": "05",
+  "fisier": "N395B-migrat.json"
+ },
+ {
+  "id": "N395B-019",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (art. 72 alin. (2) și (3) din Norme) e corectă, iar distractorii sunt contrazişi de art. 72 alin. (3) și de art. 78 alin. (9) L98. Însă enunțul spune doar „potrivit Normelor metodologice”, fără a numi H.G. nr. 395/2016 (SPEC §4.3), iar variantele cu operatori neselectați nu sunt respinse cu articolul lor: art. 78 alin. (9) L98 – „nu are dreptul de a invita în etapa a doua un operator economic care nu a depus o solicitare de participare în prima etapă sau nu a îndeplinit criteriile de calificare și selecție”.",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele afirmații privind etapa a doua a licitației restrânse sunt corecte?” În explicație, în locul frazei „accesul unor operatori neselectați ar goli de conținut prima etapă” se scrie: „Varianta cu operatorii care nu au participat la etapa de selecție este contrazisă de art. 78 alin. (9) din Lege, care interzice invitarea în etapa a doua a unui operator economic ce nu a depus solicitare de participare în prima etapă.”",
+  "lot": "06",
+  "fisier": "N395B-migrat.json"
+ },
+ {
+  "id": "N395B-022",
+  "verdict": "SUSPECT",
+  "motiv": "Conținutul e corect, iar cheia e susținută de art. 75 alin. (4), (5) și (6) din Norme. Enunțul nu numește însă niciun act („Care dintre următoarele reguli se aplică…”), contrar SPEC §4.3. Asta contează aici, pentru că regula rundelor succesive apare și în Lege în alte contexte, iar procesul-verbal semnat de toți participanții apare și la parteneriatul pentru inovare (art. 88 alin. (3) din Norme).",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele reguli se aplică desfășurării negocierilor în etapa a doua a procedurii de negociere competitivă?”",
+  "lot": "06",
+  "fisier": "N395B-migrat.json"
+ },
+ {
+  "id": "N395B-028",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4: art. 96 alin. (2) lit. c), e), g)) e corectă, dar: (1) enunțul spune doar „potrivit Normelor metodologice”, fără a numi H.G. nr. 395/2016 (SPEC §4 pct. 3; corpusul are și Normele H.G. 419/2018); (2) explicația invocă greșit „art. 148 lit. g)” — în Norme, art. 148 lit. g) privește „decizia/dispoziția/ordinul de numire a comisiei de evaluare și, după caz, a experților cooptați”, nu a juriului; (3) motivarea „publicarea numelor ar submina independența evaluării” nu are temei în text — distractorul e greșit doar pentru că nu figurează în enumerarea art. 96 alin. (2).",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele informații trebuie să fie cuprinse în documentația de concurs a unui concurs de soluții?”. Explicație, fraza despre juriu: „Datele de identificare ale membrilor juriului nu figurează în conținutul minim al documentației de concurs de la art. 96 alin. (2); art. 99 alin. (2) reglementează separat numirea juriului, format din cel puțin 3 membri, persoane fizice independente față de concurenți.”",
+  "lot": "07",
+  "fisier": "N395B-migrat.json"
+ },
+ {
+  "id": "N395B-036",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (lit. b), c), f)) e corectă și varianta cu acordul scris cade pe lit. e). Probleme secundare: (1) varianta corectă despre criteriile de calificare redă doar jumătate din lit. f), care spune „cel mult la valoarea estimată a celui mai mare contract subsecvent [...] sau, după caz, la valoarea maximă anticipată a contractelor subsecvente ce urmează să se execute în același timp” — formulată absolut, varianta e inexactă în ipoteza contractelor executate simultan; (2) explicația conține o motivare speculativă („tocmai pentru a nu bloca accesul întreprinderilor mici”) și istoric de modificare („introdusă în 2023”, SPEC §4.6); (3) enunțul spune „Normelor metodologice” fără H.G. nr. 395/2016.",
+  "propunere": "Varianta corectă devine: „Autoritatea contractantă are obligația de a impune criterii minime de calificare care să se raporteze cel mult la valoarea estimată a celui mai mare contract subsecvent anticipat sau, după caz, la valoarea maximă anticipată a contractelor subsecvente ce urmează să se execute în același timp.” Enunț: „... potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016?” În explicație se elimină „tocmai pentru a nu bloca accesul întreprinderilor mici” și „introdusă în 2023”: „A se reține și lit. g): nu se poate depăși cantitatea/valoarea maximă estimată indicată în anunțul de participare, cu excepția modificărilor realizate în condițiile art. 221 din Lege.”",
+  "lot": "08",
+  "fisier": "N395B-migrat.json"
+ },
+ {
+  "id": "N395B-044",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 126 alin. (7), (8), (9)–(10) din Normele H.G. 395/2016; nici Normele, nici Legea nr. 98/2016 nu impun număr minim sau impar de membri ai comisiei de evaluare — „cel puțin 3 membri” apare doar pentru juriul concursului de soluții, art. 99 alin. (2) din Norme). Probleme: (1) enunțul spune doar „potrivit Normelor metodologice”, fără a preciza H.G. nr. 395/2016 (banca include și Normele H.G. 419/2018 și Normele ALOP) — SPEC §4 pct. 3; (2) explicația afirmă că numărul impar/minim „aparține reglementărilor anterioare”, afirmație istorică neverificabilă în corpus (SPEC §4 pct. 6 și 8); (3) calificarea „obligație de rezultat atenuată” pentru art. 126 alin. (8) nu are temei în text; (4) ultima propoziție e o concluzie generală, nu o trimitere la text.",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele afirmații privind componența și funcționarea comisiei de evaluare sunt corecte?”. În explicație: elimină „- o obligație de rezultat atenuată” și înlocuiește ultima frază cu: „Art. 126 din Norme nu stabilește un număr minim ori impar de membri ai comisiei de evaluare; pragul de «cel puțin 3 membri» apare doar la juriul concursului de soluții (art. 99 alin. (2) din Norme).”",
+  "lot": "09",
+  "fisier": "N395B-migrat.json"
+ },
+ {
+  "id": "N395B-049",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 134 alin. (9) lit. a), c), d) din Norme; sesizarea unui alt ofertant nu apare), iar explicația e exactă. Problema: enunțul nu numește actul (SPEC §4.3 „Enunț autonom: numește actul”) — regula abaterii tehnice minore există numai în Normele H.G. nr. 395/2016, art. 134 alin. (9): „O modificare a propunerii tehnice nu poate fi considerată o abatere tehnică minoră a ofertei inițiale în următoarele situații”.",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în care dintre următoarele situații o modificare a propunerii tehnice NU poate fi considerată abatere tehnică minoră a ofertei inițiale?”",
+  "lot": "10",
+  "fisier": "N395B-migrat.json"
+ },
+ {
+  "id": "N395C-004",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 151 lit. a)–c) din Norme). Explicația însă afirmă că cesiunea contractului către alt operator economic este „guvernată de art. 221 alin. (1) lit. d) din Legea nr. 98/2016”, ceea ce e inexact: art. 221 alin. (1) lit. d) nu reglementează cesiunea voluntară cu acordul autorității, ci permite înlocuirea contractantului numai „(i) ca urmare a unei clauze de revizuire sau a unei opțiuni [...]; (ii) [...] succesiuni universale sau cu titlu universal în cadrul unui proces de reorganizare [...]; (iii) [...] autoritatea contractantă își asumă obligațiile contractantului principal față de subcontractanții acestuia”. Formularea sugerează că distractorul (cesiune cu acordul AC) ar fi o cale legală de schimbare a contractantului.",
+  "propunere": "Înlocuiește fraza cu: „Cesiunea contractului către alt operator economic nu figurează la art. 151 din Norme și nu este o formă de subcontractare; înlocuirea contractantului inițial fără o nouă procedură este permisă doar în situațiile limitative de la art. 221 alin. (1) lit. d) din Legea nr. 98/2016 (clauză de revizuire/opțiune, succesiune universală sau cu titlu universal în cadrul unei reorganizări, preluarea de către autoritate a obligațiilor față de subcontractanți), nu prin simplul acord al autorității contractante.” Opțional, „enumeră limitativ” → „enumeră” (textul art. 151 spune doar „poate interveni în următoarele situații”).",
+  "lot": "11",
+  "fisier": "N395C-migrat.json"
+ },
+ {
+  "id": "N395C-006",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 160 lit. a), b), d) din Norme). Explicația afirmă însă că „legislația achizițiilor publice nu limitează procentual partea subcontractabilă, ci impune doar transparența ei” — generalizare fără trimitere și parțial inexactă: pe lângă obligația de a indica „procentul sau valoarea aferentă activităților indicate în ofertă ca fiind realizate de către subcontractanți” (art. 55 alin. (1) lit. a) din Legea 98/2016), art. 186 din Lege permite autorității să impună „ca anumite sarcini esențiale să fie realizate în mod direct de către ofertant”, deci nu există doar o cerință de transparență.",
+  "propunere": "Înlocuiește fraza cu: „Pragul de 30% nu figurează printre condițiile art. 160 din Norme; Legea nr. 98/2016 cere ofertantului să indice categoriile subcontractate și procentul sau valoarea lor (art. 55 alin. (1) lit. a)), fără un plafon procentual, iar autoritatea poate impune ca anumite sarcini esențiale să fie realizate direct de ofertant (art. 186).”",
+  "lot": "11",
+  "fisier": "N395C-migrat.json"
+ }
+]

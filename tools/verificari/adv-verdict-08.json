@@ -1,0 +1,182 @@
+[
+ {
+  "id": "L98C-028",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (cele trei obligații de la art. 149 lit. a)-c)) e corectă. Probleme secundare: (1) enunțul nu numește actul (SPEC §4.3); (2) explicația conține o motivare speculativă, fără sprijin în text („risc reputațional și de influențare a presei”); (3) afirmația că „singurul aviz/punct de vedere obligatoriu în materie de excludere este cel al Consiliului Concurenței” e o digresiune neverificabilă ca „singurul” și amestecă avizul cu punctul de vedere de la art. 167 alin. (6) („solicită în scris Consiliului Concurenței punctul de vedere”) — legea mai cunoaște și „avizul conform” ANAP din controlul ex-ante (art. 196 alin. (2)); (4) distractorul CNA nu provine din Legea 98/2016 (SPEC §4.2).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, la atribuirea contractelor de publicitate media cu valoare estimată mai mare sau egală cu pragul de la art. 7 alin. (1) lit. b), care sunt obligațiile specifice de publicitate și transparență, suplimentare celor obișnuite, ale autorității contractante?” Explicație: se elimină fraza despre „risc reputațional” și fraza despre „singurul aviz”, înlocuite cu: „Art. 149 nu prevede niciun aviz prealabil asupra documentației de atribuire; legea nu atribuie Consiliului Național al Audiovizualului niciun rol în atribuirea acestor contracte.” Ultima frază: „Art. 149 precizează că aceste obligații sunt «suplimentare celor prevăzute de dispozițiile prezentei secțiuni» privind publicitatea contractelor de servicii.” Opțional, distractorul CNA se înlocuiește cu unul din lege: „Publicarea anunțului de participare numai pe pagina proprie de internet, fără publicare pe platforma electronică”."
+ },
+ {
+  "id": "N395-N305",
+  "verdict": "OK",
+  "motiv": "Art. 104 alin. (2) din Norme: fără mijloace electronice când se aplică art. 113 alin. (4) lit. b) din Lege sau „nu este posibil din motive tehnice imputabile operatorului SEAP”. Distractorii (lit. a) din art. 113 alin. (4), neînregistrarea în SEAP – art. 104 alin. (1), erata de la art. 103 alin. (4)) sunt corect explicați.",
+  "propunere": ""
+ },
+ {
+  "id": "L101A-037",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (art. 26 alin. (2) lit. a)-c)) e corectă, dar distractorul „Să atribuie direct contractul contestatorului, ca măsură de remediere” e parțial apărabil: art. 26 alin. (10) spune „Consiliul nu poate decide atribuirea contractului către un anumit operator economic, cu excepția situației în care acesta a fost desemnat de autoritatea contractantă sau calitatea sa de ofertant câștigător rezultă din informațiile cuprinse în dosarul de soluționare a contestației” — deci există o ipoteză în care CNSC poate decide atribuirea. Explicația spune „expres interzisă” și apoi recunoaște excepția, ceea ce slăbește distractorul. Ultima frază („Evaluarea ofertelor rămâne atributul autorității contractante”) e o concluzie generală, nu trimitere la text.",
+  "propunere": "Distractorul se înlocuiește cu: „Să modifice ea însăși specificațiile tehnice din caietul de sarcini, în locul autorității contractante” (art. 26 alin. (3): Consiliul „dispune modificarea/eliminarea” specificațiilor, iar autoritatea contractantă le pune în aplicare). Explicația: „Consiliul nu modifică el însuși documentația: potrivit art. 26 alin. (3), el dispune modificarea sau eliminarea specificațiilor tehnice, iar autoritatea contractantă aplică măsura și anulează procedura doar dacă nu poate lua nicio altă măsură de remediere.” Ultima frază: „Când dispune reevaluarea, Consiliul indică limitele acesteia și măsurile concrete pe care le va adopta autoritatea contractantă (art. 26 alin. (10^1)).”"
+ },
+ {
+  "id": "L98-N405",
+  "verdict": "OK",
+  "motiv": "Art. 152 alin. (2): perioada „este mai mare decât perioada minimă prevăzută de prezenta lege pentru procedura de atribuire utilizată”. Explicația e exactă: art. 152 alin. (1) „fără a afecta” perioadele minime; 6 zile = art. 153 alin. (3), calculat „de la data transmiterii informațiilor suplimentare”.",
+  "propunere": ""
+ },
+ {
+  "id": "L98C-033",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia („informațiile transmise ... sunt nesemnificative”) e corectă (art. 153 alin. (4)), dar distractorul „Când răspunsul la o solicitare de clarificări formulată în termen nu a fost transmis în termenele prevăzute la art. 161” e apărabil literal din aceeași normă: art. 153 alin. (4) – „În cazul în care informațiile suplimentare nu au fost transmise în timp util [...] autoritatea contractantă nu are obligația de a prelungi perioada” – contrazis de art. 153 alin. (1) lit. a). Explicația însăși spune că varianta „rămâne discutabilă” și că întrebarea e „de verificat” (interzis), iar argumentul se sprijină pe Directiva 2014/24/UE, act din afara corpusului. Enunțul nu numește actul.",
+  "propunere": "Distractorul contestat se înlocuiește cu: „Când răspunsul la clarificări, transmis în termenele prevăzute la art. 161, modifică semnificativ documentele achiziției” (prelungire obligatorie, art. 153 alin. (1) lit. b)); sau, pentru a nu dubla varianta cu modificarea semnificativă: „Când documentele achiziției nu pot fi accesate electronic din motive de protejare a naturii confidențiale a informațiilor, în afara situațiilor de urgență” (art. 150 alin. (5)-(6), prelungire cu 5 zile). Enunț: „Potrivit Legii nr. 98/2016, în care dintre următoarele situații autoritatea contractantă NU are obligația de a prelungi perioada pentru depunerea ofertelor?” Explicația se rescrie fără mențiunea „de verificat”, fără Directivă și fără „discutabilă”: „Art. 153 alin. (4) scutește autoritatea contractantă de prelungire când informațiile transmise sunt nesemnificative în ceea ce privește elaborarea ofertelor. Modificarea semnificativă a documentelor achiziției obligă la prelungire (art. 153 alin. (1) lit. b)), cu cel puțin 6 zile (art. 153 alin. (3)). Imposibilitatea accesului electronic la o parte din documente, indicată în anunț, obligă la prelungirea termenului cu 5 zile (art. 150 alin. (4)).”"
+ },
+ {
+  "id": "L101A-038",
+  "verdict": "OK",
+  "motiv": "Art. 26 alin. (6): respingere „ca fiind nefondată, tardivă, lipsită de interes, lipsită de obiect”. Art. 6-7 (notificarea prealabilă) sunt abrogate în forma la zi; excepțiile se soluționează mai întâi (art. 26 alin. (1)).",
+  "propunere": ""
+ },
+ {
+  "id": "N395B-036",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (lit. b), c), f)) e corectă și varianta cu acordul scris cade pe lit. e). Probleme secundare: (1) varianta corectă despre criteriile de calificare redă doar jumătate din lit. f), care spune „cel mult la valoarea estimată a celui mai mare contract subsecvent [...] sau, după caz, la valoarea maximă anticipată a contractelor subsecvente ce urmează să se execute în același timp” — formulată absolut, varianta e inexactă în ipoteza contractelor executate simultan; (2) explicația conține o motivare speculativă („tocmai pentru a nu bloca accesul întreprinderilor mici”) și istoric de modificare („introdusă în 2023”, SPEC §4.6); (3) enunțul spune „Normelor metodologice” fără H.G. nr. 395/2016.",
+  "propunere": "Varianta corectă devine: „Autoritatea contractantă are obligația de a impune criterii minime de calificare care să se raporteze cel mult la valoarea estimată a celui mai mare contract subsecvent anticipat sau, după caz, la valoarea maximă anticipată a contractelor subsecvente ce urmează să se execute în același timp.” Enunț: „... potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016?” În explicație se elimină „tocmai pentru a nu bloca accesul întreprinderilor mici” și „introdusă în 2023”: „A se reține și lit. g): nu se poate depăși cantitatea/valoarea maximă estimată indicată în anunțul de participare, cu excepția modificărilor realizate în condițiile art. 221 din Lege.”"
+ },
+ {
+  "id": "L98C-034",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 154 alin. (2): „nu poate depăși 1% din valoarea estimată a contractului [...] sau, în cazul acordului-cadru, din valoarea estimată a celui mai mare contract subsecvent”). Explicația justifică distractorul de 2% prin „legislația anterioară (O.U.G. nr. 34/2006)” — act din afara corpusului și istoric legislativ (SPEC §4.6, §4.8); valoarea de 2% nu apare în Legea 98/2016. Enunțul nu numește actul.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, care este valoarea maximă a garanției de participare pe care o poate solicita autoritatea contractantă?” În explicație, fraza cu O.U.G. 34/2006 se înlocuiește cu: „Pragul de 2% apare în Normele aprobate prin H.G. nr. 395/2016, dar cu alt rol: plafonul valorii totale a primelor acordate participanților la dialogul competitiv (art. 20 alin. (14) din Norme), iar 10% este plafonul garanției de bună execuție, calculat asupra prețului contractului fără TVA (art. 154 alin. (3)).” Ultima frază: „Potrivit art. 154 alin. (2) și (3), solicitarea garanției de participare este un drept al autorității contractante, iar garanția de bună execuție este obligatorie, cu excepțiile expres prevăzute.”"
+ },
+ {
+  "id": "L500-N201",
+  "verdict": "OK",
+  "motiv": "Art. 30^1 citat exact („în vederea întăririi supravegherii bugetare la nivelul Uniunii [...] pentru a evita deficitele publice excesive”); distractorii corect atribuiți: art. 30 alin. (2), art. 31^1 alin. (3) lit. b), art. 28^4 alin. (1).",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N306",
+  "verdict": "OK",
+  "motiv": "Art. 108 alin. (2) din Norme: „nu mai are/au capacitatea de a răspunde solicitărilor autorității contractante”. Trimiterile din explicație (art. 107 alin. (2) lit. a), (3), (4); art. 108 alin. (1) lit. b), (3)) sunt exacte.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N307",
+  "verdict": "OK",
+  "motiv": "Art. 109 alin. (2) lit. a)-c) din Norme corespund exact celor trei variante corecte; data-limită a noii oferte e în invitația la reofertare (art. 110 alin. (2) lit. c)) și se stabilește potrivit art. 110 alin. (4).",
+  "propunere": ""
+ },
+ {
+  "id": "L98C-037",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 154 alin. (4) lit. b) pct. (ii): „lucrări [...] mai mică sau egală cu 40.000.000 lei fără TVA și respectiv [...] produse sau servicii [...] mai mică sau egală cu 7.000.000 lei fără TVA”). Probleme secundare: enunțul nu numește actul (SPEC §4.3); explicația conține istoric legislativ („în forma dată de O.U.G. nr. 136/2022”, SPEC §4.6) și o motivare speculativă fără sprijin în text („limita există tocmai pentru că instituțiile financiare nebancare nu au aceeași soliditate”, „lucrărilor, care au în mod obișnuit valori mult mai ridicate”).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, scrisorile de garanție emise de instituții financiare nebancare pot fi utilizate pentru constituirea garanțiilor în limita următoarelor valori estimate:” Explicația: se elimină „în forma dată de O.U.G. nr. 136/2022” și fraza „Valorile sunt exprimate fără TVA, iar limita există tocmai pentru că...”, înlocuită cu: „Ambele praguri sunt exprimate fără TVA, ceea ce infirmă varianta cu 40.000.000 lei cu TVA, indiferent de obiect; scrisorile emise de instituții de credit bancare nu au o asemenea limită (art. 154 alin. (4) lit. b) pct. (i)).” Capcana se formulează fără justificarea „valori mult mai ridicate”: „Varianta cu 7.000.000 lei pentru lucrări și 40.000.000 lei pentru produse sau servicii inversează pragurile din pct. (ii).”"
+ },
+ {
+  "id": "L500-N202",
+  "verdict": "OK",
+  "motiv": "Art. 30^2 alin. (2): comparare „cu previziunile cele mai recente ale Comisiei Europene și, după caz, cu cele ale altor organisme independente internaționale”. Trimiterile pentru distractori (art. 30^4 alin. (1), art. 19 lit. n), art. 56 alin. (5)) sunt exacte.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N308",
+  "verdict": "OK",
+  "motiv": "Art. 111 alin. (2) lit. a) din Norme: „din propria sa culpă [...] achiziționarea întregii cantități necesare”; distractorii corect atribuiți: art. 111 alin. (1) (diferența), art. 110 alin. (7) (oferta inițială actualizată), art. 111 alin. (3) (consecințele nu exclud noua procedură).",
+  "propunere": ""
+ },
+ {
+  "id": "L98E-010",
+  "verdict": "OK",
+  "motiv": "Art. 155 alin. (4) citat corect („indiferent dacă este vorba de publicul larg sau de personalul autorității contractante [...] cu excepția cazurilor temeinic justificate”); distractorii corect respinși prin art. 157, art. 156 și art. 155 alin. (5).",
+  "propunere": ""
+ },
+ {
+  "id": "L500-N203",
+  "verdict": "OK",
+  "motiv": "Art. 30^3: „Ministerul Finanțelor Publice și Comisia Națională de Prognoză publică pe site”. Consiliul Fiscal publică evaluările (art. 30^4 alin. (2)); Comisia Europeană e reper de comparație (art. 30^2 alin. (2)); art. 31 confirmă publicarea prognozelor pe site-ul CNP.",
+  "propunere": ""
+ },
+ {
+  "id": "L101A-042",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 26 alin. (4): „sesizează atât Agenția Națională pentru Achiziții Publice [...] și Curtea de Conturi [...] cât și autoritatea contractantă”). Probleme minore: enunțul nu numește actul (Legea nr. 101/2016) și folosește „Consiliul” nedefinit (SPEC §4.3); ultima frază a explicației e o caracterizare proprie, fără sprijin în text („autoritățile cu competențe de reglementare, respectiv de control ex post”), nu o trimitere la text (SPEC §4.8).",
+  "propunere": "Enunț: „Potrivit Legii nr. 101/2016, cum procedează Consiliul Național de Soluționare a Contestațiilor dacă, în cursul soluționării contestației, constată că [...]?” Ultima frază a explicației: „Varianta sesizării exclusive a organelor de urmărire penală, fără informarea autorității contractante, contrazice art. 26 alin. (4), care numește expres ca destinatari ANAP, Curtea de Conturi și autoritatea contractantă.”"
+ },
+ {
+  "id": "N395-N309",
+  "verdict": "OK",
+  "motiv": "Art. 113 alin. (1) din Norme: „Toate comunicările în cadrul unui sistem dinamic de achiziții se realizează exclusiv prin mijloace electronice” (alin. (2) abrogat). Excepția SEAP e la art. 104 alin. (2) și art. 67 alin. (2); camera de date la art. 89 (parteneriat pentru inovare); art. 112 alin. (1) corect citat.",
+  "propunere": ""
+ },
+ {
+  "id": "L98C-042",
+  "verdict": "OK",
+  "motiv": "Art. 157 alin. (1) lit. b), d), e) corespund variantelor corecte; condiția sediului emitentului în UE nu apare în art. 157. Alin. (3) și (4) corect citate. (Observație minoră: distractorul nu provine din lege, dar nu e apărabil.)",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N406",
+  "verdict": "OK",
+  "motiv": "Art. 158 alin. (2): „acceptă și certificate echivalente emise de alte organisme de evaluare a conformității”. Distractorii corect atribuiți: art. 162 alin. (1) („explicit în anunțul de participare”), art. 159 (motive neimputabile), art. 158 alin. (3) (acreditare potrivit Regulamentului (CE) nr. 765/2008).",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N310",
+  "verdict": "OK",
+  "motiv": "Art. 113^1 alin. (2) din Norme: „cel mult la valoarea estimată a celui mai mare contract subsecvent care se anticipează a fi atribuit pe durata sistemului dinamic de achiziții” — un singur reper, spre deosebire de art. 107 alin. (2) lit. f) (acord-cadru, două repere); cantitățile minime sunt la art. 113^1 alin. (1) lit. c).",
+  "propunere": ""
+ },
+ {
+  "id": "L500-N204",
+  "verdict": "OK",
+  "motiv": "Art. 30^4 alin. (2)-(3): rezultatele se publică de Consiliul Fiscal/organele abilitate „pe site-ul propriu al instituției” și „sunt luate în considerare, în mod adecvat, în viitoarele previziuni”. Distractorii corect atribuiți: art. 30^5 alin. (2), art. 31^1 alin. (1), art. 32.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N407",
+  "verdict": "OK",
+  "motiv": "Art. 160 alin. (3): publicarea răspunsurilor „însoțite de întrebările aferente la adresa de internet la care sunt disponibile documentele achiziției [...] luând măsuri pentru a nu dezvălui identitatea operatorului economic”; art. 160 alin. (2): „unul sau două termene-limită”.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N311",
+  "verdict": "OK",
+  "motiv": "Art. 113^3 alin. (2) lit. a) și c) din Norme (valoarea estimată, termenul de valabilitate a ofertei); numărul maxim de operatori e la art. 109 alin. (2) lit. b), modalitatea de finalizare/încetare la art. 113^1 alin. (1) lit. f).",
+  "propunere": ""
+ },
+ {
+  "id": "L500-N205",
+  "verdict": "OK",
+  "motiv": "Art. 30^5 alin. (1)-(3) confirmă cele trei variante corecte (inclusiv „va evidenția diferențele față de cadrul bugetar pe termen mediu anterior”); motivarea abaterilor revine Ministerului Finanțelor Publice, nu Consiliului Fiscal (art. 30^4).",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N312",
+  "verdict": "OK",
+  "motiv": "Art. 113^4 din Norme: „aplică regulile licitației restrânse organizate exclusiv online, prevederile art. 67-72 fiind aplicabile în mod corespunzător”. Trimiterile din explicație (art. 101-105 procedura simplificată, art. 112 alin. (3) lit. b), art. 114-122 licitația electronică, art. 118) sunt exacte.",
+  "propunere": ""
+ },
+ {
+  "id": "OUG98-N102",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 17: condițiile de inițiere și mecanismul concilierii „vor fi reglementate prin normele metodologice de aplicare a prezentei ordonanțe de urgență”; art. 28 – norme aprobate prin hotărâre a Guvernului). Afirmație secundară inexactă în explicație: „Legea nr. 101/2016 [...] se aplică în mod corespunzător doar în privința constatării nulității absolute a contractului, potrivit art. 14 alin. (8)” — ordonanța mai trimite la Legea 101/2016 și în alte privințe, de ex. art. 22: „Avizele conforme emise de ANAP pot fi atacate numai împreună cu actele administrative ale autorității contractante [...] în baza prevederilor Legii nr. 101/2016”, iar art. 14 alin. (9) se raportează la termenele de așteptare din Legea 101/2016.",
+  "propunere": "Fraza se înlocuiește cu: „Legea nr. 101/2016 nu reglementează concilierea: ordonanța trimite la ea pentru constatarea nulității absolute a contractului (art. 14 alin. (8), cap. VI secțiunea a 3-a, aplicată în mod corespunzător) și pentru atacarea avizelor conforme, numai împreună cu actele autorității contractante (art. 22).”"
+ },
+ {
+  "id": "L98-N408",
+  "verdict": "OK",
+  "motiv": "Art. 163: „numai criterii de calificare și selecție referitoare la: a) motive de excludere [...]; b) capacitatea candidatului/ofertantului”. Distractorii corect atribuiți: art. 172 alin. (1) (criteriile de capacitate), art. 187 alin. (2)-(3) (criteriul de atribuire și factorii de evaluare).",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N409",
+  "verdict": "OK",
+  "motiv": "Art. 165 alin. (2): neexcludere dacă „anterior deciziei de excludere, își îndeplinește obligațiile prin plata [...] sau beneficiază, în condițiile legii, de eșalonarea acestora”. Art. 171 alin. (1) se aplică doar situațiilor de la art. 164 și 167; art. 165 alin. (1) lit. a), alin. (3) și art. 166 alin. (2) (sub 10.000 lei) corect citate.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N313",
+  "verdict": "OK",
+  "motiv": "Art. 115 lit. b) din Norme: interdicția de a utiliza licitația electronică astfel încât „să modifice obiectul contractului [...] astfel cum a fost acesta prevăzut în anunțul de participare și în documentația de atribuire”. Situațiile-distractor sunt permise expres de art. 116 alin. (1)-(2) și art. 118.",
+  "propunere": ""
+ }
+]

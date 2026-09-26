@@ -15,6 +15,9 @@ DA = [
  "capcana primei variante este termenul",
  "ca în cea de-a treia variantă",
  "variantele a), c) și d) sunt corecte",
+ "Varianta de la indicele 2 este falsă.",
+ "iar cea de la indicele 3 este definiția ordonanțării",
+ "varianta cu indexul 1 confundă fazele",
 ]
 NU = [
  "Varianta a fost introdusă prin Legea nr. 208/2022.",
@@ -24,6 +27,7 @@ NU = [
  "potrivit lit. a) și b) din art. 7",
  "Ultima teză a alin. (2) prevede excepția.",
  "prima perioadă curge de la publicare, iar a doua de la transmiterea invitației",
+ "indicele prețurilor de consum publicat de INS",
 ]
 esec = [("ratat", t) for t in DA if not rp({"explicatie": t})] + [("fals", t, rp({"explicatie": t})) for t in NU if rp({"explicatie": t})]
 for e in esec: print("EȘEC", *e)

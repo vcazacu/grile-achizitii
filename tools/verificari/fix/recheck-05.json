@@ -1,0 +1,265 @@
+[
+ {
+  "id": "N395B-012",
+  "tip": "unic",
+  "test": 17,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în licitația deschisă, dacă după publicarea anunțului de participare autoritatea contractantă nu utilizează mijloacele electronice din motive tehnice imputabile operatorului SEAP, cum se realizează evaluarea?",
+  "variante": [
+   "Evaluarea se suspendă de drept până la remedierea problemelor tehnice ale SEAP",
+   "Verificarea îndeplinirii criteriilor de calificare și selecție se realizează întotdeauna prima",
+   "Ordinea etapelor de evaluare este lăsată integral la aprecierea comisiei de evaluare",
+   "Evaluarea conformității ofertelor cu specificațiile tehnice și aplicarea criteriului de atribuire se realizează anterior verificării îndeplinirii criteriilor de calificare și selecție"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 58 alin. (2) din Normele metodologice, caz stabilit în aplicarea art. 208 din Lege, care deleagă normelor stabilirea acestor situații, prevede că evaluarea conformității ofertelor cu specificațiile tehnice și celelalte cerințe din documentele achiziției și aplicarea criteriului de atribuire se realizează anterior verificării îndeplinirii criteriilor de calificare și selecție. Varianta în care verificarea calificării și selecției se face întotdeauna prima contrazice această ordine stabilită expres de art. 58 alin. (2). Ordinea etapelor nu este lăsată la aprecierea comisiei de evaluare, pentru că art. 58 alin. (2) o stabilește chiar el. Art. 58 alin. (2) nu prevede nici suspendarea evaluării: permite autorității contractante, după publicarea anunțului de participare, să nu utilizeze mijloacele electronice atunci când acest lucru nu este posibil din motive tehnice imputabile operatorului SEAP, prin excepție de la regula aplicării licitației deschise prin mijloace electronice de la art. 58 alin. (1).",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 58 alin. (2)",
+   "citat": "să nu utilizeze mijloacele electronice pentru derularea procedurii de atribuire atunci când acest lucru nu este posibil din motive tehnice imputabile operatorului SEAP, situație în care evaluarea conformității ofertelor cu specificațiile tehnice și celelalte cerințe prevăzute în documentele achiziției și aplicarea criteriului de atribuire se realizează anterior verificării îndeplinirii criteriilor de calificare și selecție.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-032",
+  "tip": "unic",
+  "test": 17,
+  "intrebare": "Potrivit Legii nr. 98/2016, care sunt criteriile de atribuire care pot fi utilizate în cazul procedurii de dialog competitiv?",
+  "variante": [
+   "Exclusiv costul cel mai scăzut, determinat pe baza costului ciclului de viață",
+   "Oricare dintre criteriile prevăzute la art. 187 alin. (3), la alegerea autorității contractante",
+   "Prețul cel mai scăzut sau costul cel mai scăzut",
+   "Cel mai bun raport calitate-preț sau cel mai bun raport calitate-cost"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 90 alin. (3) limitează criteriile de atribuire la dialogul competitiv la cel mai bun raport calitate-preț sau cel mai bun raport calitate-cost, prevăzute la art. 187 alin. (3) lit. a) și b). Prețul cel mai scăzut și costul cel mai scăzut sunt criterii reale (art. 187 alin. (3) lit. c) și d)), dar nu pot fi utilizate la această procedură. Varianta care permite oricare dintre criteriile de la art. 187 alin. (3), la alegerea autorității, este falsă, deoarece art. 90 alin. (3) restrânge alegerea la primele două criterii. Varianta cu costul cel mai scăzut determinat pe baza costului ciclului de viață preia regula de la art. 187 alin. (7), care descrie criteriul costului cel mai scăzut, exclus la dialogul competitiv. Aceeași limitare există la parteneriatul pentru inovare (art. 98 alin. (6)) și la serviciile sociale și alte servicii specifice peste prag (art. 111 alin. (6)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 90 alin. (3)",
+   "citat": "Criteriile de atribuire utilizate în cazul procedurii de dialog competitiv sunt cel mai bun raport calitate-preț sau cel mai bun raport calitate-cost, prevăzute la art. 187 alin. (3) lit. a) și b).",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGB-026",
+  "tip": "multiplu",
+  "test": 17,
+  "intrebare": "Potrivit Normelor metodologice de aplicare a O.U.G. nr. 98/2017, aprobate prin H.G. nr. 419/2018, după ce ANAP a emis acceptul de publicare pentru un anunț de tip erată, care dintre următoarele obligații revin operatorului SEAP?",
+  "variante": [
+   "Să emită autorității contractante un aviz conform condiționat cu privire la anunțul de tip erată",
+   "Să transmită anunțul spre publicare în Jurnalul Oficial al Uniunii Europene în cel mult o zi lucrătoare de la primirea acceptului de publicare, când există o obligație în acest sens sau autoritatea contractantă selectează voluntar această opțiune",
+   "Să asigure înregistrarea în sistemul electronic a datei la care a fost transmis anunțul spre publicare, ca probă privind momentul transmiterii",
+   "Să publice anunțul în SEAP în cel mult 2 zile lucrătoare de la primirea acceptului de publicare"
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 6 alin. (2) din Normele metodologice de aplicare a O.U.G. nr. 98/2017 stabilește obligațiile operatorului SEAP după primirea acceptului de publicare: transmiterea anunțului spre publicare în JOUE în cel mult o zi lucrătoare (când există o obligație în acest sens sau autoritatea contractantă alege voluntar această opțiune) și înregistrarea în sistemul electronic a datei transmiterii, ca probă privind momentul transmiterii (lit. a)), respectiv publicarea în SEAP în cel mult 2 zile lucrătoare (lit. b)). Atenție la cele două termene diferite: o zi lucrătoare pentru transmiterea către JOUE, 2 zile lucrătoare pentru publicarea în SEAP. Termenul de maximum două zile lucrătoare de la încărcarea eratei în SEAP aparține ANAP, care în acest interval fie emite acceptul de publicare, fie respinge publicarea (art. 6 alin. (1)). Emiterea avizului conform condiționat revine ANAP, și numai când respinge publicarea (art. 6 alin. (1) lit. b)), nu operatorului SEAP.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+   "articol": "art. 6 alin. (2) lit. a) și b)",
+   "citat": "În cazul prevăzut la alin. (1) lit. a), operatorul SEAP are obligația: a) de a transmite anunțul spre publicare în Jurnalul Oficial al Uniunii Europene în cel mult o zi lucrătoare de la primirea acceptului de publicare, în cazul în care este prevăzută o obligație în acest sens sau autoritatea/entitatea contractantă selectează voluntar această opțiune; operatorul SEAP are obligația de a asigura înregistrarea în sistemul electronic a datei la care a fost transmis anunțul spre publicare, ca probă privind momentul transmiterii; [...] b) de a publica anunțul în SEAP în cel mult 2 zile lucrătoare de la primirea acceptului de publicare.",
+   "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-034",
+  "tip": "unic",
+  "test": 17,
+  "intrebare": "Potrivit Legii nr. 98/2016, după desemnarea ofertei finale care prezintă cel mai bun raport calitate-preț în cadrul dialogului competitiv, se mai pot desfășura negocieri cu ofertantul respectiv?",
+  "variante": [
+   "Nu, orice negociere după depunerea ofertelor finale este interzisă",
+   "Da, negocieri libere asupra oricărui element al ofertei, inclusiv reducerea cerințelor stabilite prin documentul descriptiv",
+   "Da, la solicitarea autorității contractante, pentru confirmarea angajamentelor financiare sau a altor termeni din ofertă, cu condiția să nu se modifice substanțial aspecte esențiale ale ofertei sau achiziției și să nu se denatureze concurența",
+   "Nu; după depunerea ofertelor finale, autoritatea contractantă poate doar să solicite clarificări, precizări și îmbunătățiri ale acestora"
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Art. 93 alin. (2) permite, la solicitarea autorității contractante, negocieri cu ofertantul a cărui ofertă finală a fost desemnată ca prezentând cel mai bun raport calitate-preț, având ca obiect confirmarea angajamentelor financiare sau a altor termeni ori condiții din ofertă, în vederea stabilirii clauzelor contractului. Limitele sunt stricte: fără modificări substanțiale ale aspectelor esențiale ale ofertei sau ale achiziției, fără riscul denaturării concurenței sau al discriminării (art. 93 alin. (2)). Interdicția absolută a oricărei negocieri după depunerea ofertelor finale este deci greșită. Varianta care reduce posibilitățile autorității la clarificări, precizări și îmbunătățiri preia dreptul de la art. 92 alin. (7) (clarificări, precizări și îmbunătățiri ale ofertelor finale), dar ignoră negocierile pe care art. 93 alin. (2) le permite suplimentar cu ofertantul desemnat. Varianta cu negocieri libere asupra oricărui element al ofertei, inclusiv reducerea cerințelor din documentul descriptiv, încalcă interdicția de modificare a necesităților și cerințelor stabilite prin anunțul de participare sau documentul descriptiv (art. 93 alin. (2)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 93 alin. (2)",
+   "citat": "La solicitarea autorității contractante se pot desfășura negocieri cu ofertantul a cărui ofertă finală a fost desemnată ca prezentând cel mai bun raport calitate-preț în urma aplicării factorilor de evaluare stabiliți de autoritatea contractantă, având ca obiect confirmarea angajamentelor financiare sau a altor termeni sau condiții incluse în ofertă",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-035",
+  "tip": "unic",
+  "test": 17,
+  "intrebare": "Potrivit Legii nr. 98/2016, poate autoritatea contractantă să acorde prime sau plăți participanților la etapa de dialog din cadrul dialogului competitiv?",
+  "variante": [
+   "Da, dar numai în cadrul unui concurs de soluții organizat ca procedură distinctă",
+   "Nu, orice plată către participanți înainte de atribuirea contractului este interzisă",
+   "Da, poate prevedea prime sau plăți pentru participanții la dialog, în condițiile stabilite prin documentele achiziției",
+   "Da, dar numai candidatului declarat câștigător, sub forma unui avans"
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Art. 94 permite expres ca autoritatea contractantă să prevadă prime sau plăți pentru participanții la dialog, în condițiile stabilite prin documentele achiziției; potrivit art. 20 alin. (13) din Normele metodologice aprobate prin H.G. nr. 395/2016, documentele achiziției conțin, dacă este cazul, posibilitatea acordării primelor și valoarea acestora. Varianta care interzice orice plată către participanți înainte de atribuire contrazice art. 94. Plata nu este rezervată câștigătorului și nu este un avans contractual: art. 94 vizează participanții la dialog. Varianta care limitează primele la concursul de soluții preia art. 105 lit. b), unde premiile sau plățile acordate participanților sunt proprii concursului organizat ca procedură distinctă, dar art. 94 le permite și la dialogul competitiv.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 94",
+   "citat": "Autoritatea contractantă poate prevedea prime sau plăți pentru participanții la dialog în condițiile stabilite prin documentele achiziției.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-037",
+  "tip": "unic",
+  "test": 18,
+  "intrebare": "Potrivit Legii nr. 98/2016, în ce situație aplică autoritatea contractantă parteneriatul pentru inovare?",
+  "variante": [
+   "Când produsele care fac obiectul achiziției sunt fabricate exclusiv în scop de cercetare științifică",
+   "Când, în urma unei licitații deschise, au fost depuse numai oferte neconforme sau inacceptabile",
+   "Când identifică necesitatea dezvoltării și achiziției ulterioare a unui produs, serviciu sau a unor lucrări inovatoare, necesitate care nu poate fi satisfăcută de soluțiile disponibile pe piață la un anumit moment",
+   "Când specificațiile tehnice nu pot fi definite cu suficientă precizie prin trimitere la un standard"
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Art. 98 alin. (1) leagă parteneriatul pentru inovare de necesitatea dezvoltării ȘI achiziției ulterioare a unui produs, serviciu sau lucrări inovatoare, care nu poate fi satisfăcută de soluțiile disponibile pe piață. Imposibilitatea definirii specificațiilor tehnice cu suficientă precizie prin trimitere la un standard este unul dintre criteriile pentru negocierea competitivă/dialogul competitiv (art. 70 alin. (1) lit. d)). Depunerea numai a unor oferte neconforme sau inacceptabile într-o licitație deschisă este cazul de la art. 70 alin. (2), tot pentru negociere competitivă/dialog competitiv. Varianta cu produsele fabricate exclusiv în scop de cercetare științifică este cazul de negociere fără publicare prealabilă pentru produse (art. 104 alin. (5) lit. a)) — acolo se cumpără produse deja fabricate în scop de cercetare, pe când parteneriatul finanțează chiar dezvoltarea soluției. Capcană conexă: scopul parteneriatului include achiziția produselor rezultate doar dacă acestea corespund nivelurilor de performanță și costurilor maxime convenite (art. 100).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 98 alin. (1)",
+   "citat": "Autoritatea contractantă aplică parteneriatul pentru inovare atunci când identifică necesitatea dezvoltării și achiziției ulterioare a unui produs, serviciu sau a unor lucrări inovatoare, necesitate care nu poate fi satisfăcută de soluțiile disponibile pe piață la un anumit moment.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGA-017",
+  "tip": "multiplu",
+  "test": 18,
+  "intrebare": "Potrivit O.U.G. nr. 98/2017, pentru care dintre următoarele elemente emite ANAP aviz conform, o singură dată pe fiecare fază, în cadrul controlului ex ante al procesului de evaluare a ofertelor/candidaturilor?",
+  "variante": [
+   "Studiul de fundamentare prevăzut la art. 229 din Legea nr. 98/2016",
+   "Componența comisiei de evaluare și concluziile acesteia privind îndeplinirea condițiilor de formă aferente depunerii ofertelor/candidaturilor și a criteriilor de calificare/selecție conform informațiilor din DUAE",
+   "Concluziile comisiei de evaluare privind evaluarea propunerilor financiare și a conformității acestora",
+   "Concluziile comisiei de evaluare privind evaluarea propunerilor tehnice și a conformității acestora"
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 12 alin. (1) din O.U.G. nr. 98/2017 prevede că personalul ANAP emite o singură dată, pe fiecare fază a procesului de evaluare a ofertelor/candidaturilor, un aviz conform. Lit. a) vizează componența comisiei de evaluare și concluziile acesteia privind condițiile de formă și criteriile de calificare/selecție conform informațiilor din DUAE, lit. b) concluziile privind propunerile tehnice, iar lit. c) concluziile privind propunerile financiare. Lit. d) adaugă concluziile privind documentele-suport ale candidaților care urmează a fi selectați, în procedurile cu etapă de preselecție, respectiv ale ofertantului care urmează a fi declarat câștigător, împreună cu concluziile din raportul procedurii, iar lit. e) concluziile finale privind neconformitățile neremediate din avizele conforme condiționate emise anterior. Studiul de fundamentare de la art. 229 din Legea nr. 98/2016 este exceptat de la verificarea documentației de atribuire (art. 6 alin. (2) lit. a)) și nu figurează printre fazele art. 12 alin. (1).",
+  "sursa": {
+   "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+   "articol": "art. 12 alin. (1) lit. a)-c)",
+   "citat": "componența comisiei de evaluare și concluziile comisiei de evaluare privind îndeplinirea condițiilor de formă aferente depunerii ofertelor/candidaturilor [...] concluziile comisiei de evaluare privind evaluarea propunerilor tehnice și a conformității acestora; [...] concluziile comisiei de evaluare privind evaluarea propunerilor financiare și a conformității acestora",
+   "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L101C-004",
+  "tip": "unic",
+  "test": 19,
+  "intrebare": "Potrivit Legii nr. 101/2016, odată cu punctul de vedere asupra contestației, ce are obligația autoritatea contractantă să transmită Consiliului și ce excepție prevede expres legea?",
+  "variante": [
+   "O copie a dosarului achiziției, dovada înaintării punctului de vedere către contestator și orice documente edificatoare, cu excepția anunțurilor de participare publicate în SEAP și a documentației de atribuire descărcabile direct din SEAP.",
+   "Originalul dosarului achiziției, incluzând obligatoriu anunțul de participare și documentația de atribuire, chiar și atunci când acestea sunt disponibile și pot fi descărcate direct din SEAP.",
+   "Numai dovada comunicării punctului de vedere către contestator, dosarul achiziției fiind transmis exclusiv dacă și când Consiliul îl solicită, în termen de 3 zile de la solicitare.",
+   "O copie a dosarului achiziției și orice documente edificatoare, însă numai după ce Consiliul îi comunică rezultatul verificării condițiilor de formă ale contestației."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 18 alin. (2) din Legea nr. 101/2016 impune transmiterea către Consiliu, în termenul de 5 zile de la primirea contestației prevăzut la alin. (1), a copiei dosarului achiziției, a dovezii înaintării punctului de vedere către contestator și a oricăror documente considerate edificatoare. Excepția privește anunțurile de participare publicate în SEAP și documentația de atribuire, atunci când aceasta este disponibilă și poate fi descărcată direct din SEAP. Varianta potrivit căreia se transmite numai dovada comunicării, iar dosarul doar la cererea Consiliului, este falsă: art. 18 alin. (2) impune transmiterea dosarului în termenul de la alin. (1), iar termenul de 3 zile de la art. 20 alin. (4) privește separat răspunsul la solicitările Consiliului. Varianta care cere originalul dosarului, inclusiv anunțul și documentația descărcabile din SEAP, contrazice atât cerința copiei, cât și excepția din art. 18 alin. (2). Varianta care condiționează transmiterea de comunicarea rezultatului verificării condițiilor de formă introduce o condiție pe care art. 18 nu o prevede: termenul curge de la primirea contestației (art. 18 alin. (1)). Termenul de 20 de zile de soluționare pe fond din art. 24 alin. (1) curge de la data primirii dosarului „în condițiile art. 18 alin. (2)”.",
+  "sursa": {
+   "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+   "articol": "art. 18 alin. (2)",
+   "citat": "Autoritatea contractată are obligația de a transmite Consiliului, în termenul prevăzut la alin. (1), o copie a dosarului achiziției publice, achiziției sectoriale sau al concesiunii, precum și dovada înaintării punctului de vedere către contestator și orice documente considerate edificatoare, cu excepția anunțurilor de participare publicate în SEAP și a documentației de atribuire, atunci când aceasta este disponibilă și poate fi descărcată direct din SEAP.",
+   "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-039",
+  "tip": "multiplu",
+  "test": 19,
+  "intrebare": "În care dintre următoarele cazuri are dreptul autoritatea contractantă să aplice procedura de negociere fără publicarea prealabilă a unui anunț de participare, potrivit art. 104 alin. (1) din Legea nr. 98/2016?",
+  "variante": [
+   "Dacă într-o licitație deschisă, licitație restrânsă ori procedură simplificată anterioară nu a fost depusă nicio ofertă/solicitare de participare sau au fost depuse numai oferte/solicitări neadecvate",
+   "Ca măsură strict necesară, din motive de extremă urgență determinate de evenimente imprevizibile care nu se datorează autorității contractante",
+   "Dacă într-o licitație deschisă anterioară au fost depuse numai oferte neconforme sau inacceptabile",
+   "Dacă lucrările, produsele sau serviciile pot fi furnizate numai de către un anumit operator economic, pentru motivele prevăzute la alin. (2)"
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Art. 104 alin. (1) reglementează trei cazuri (lit. a)-c)): lipsa totală a ofertelor/solicitărilor ori numai oferte/solicitări NEADECVATE într-o procedură anterioară de licitație deschisă, licitație restrânsă sau procedură simplificată; unicitatea operatorului economic, pentru motivele de la alin. (2) (operă de artă, motive tehnice, drepturi exclusive); extrema urgență determinată de evenimente imprevizibile care nu se datorează autorității contractante. Capcana este varianta cu ofertele neconforme sau inacceptabile dintr-o licitație deschisă anterioară. Ofertele neconforme sau inacceptabile permit doar trecerea la negociere competitivă sau dialog competitiv (art. 70 alin. (2)), chiar fără anunț de participare în condițiile art. 70 alin. (3), dar nu la negocierea fără publicare prealabilă de la art. 104. Distincția e dată de art. 215: oferta neadecvată este cea „lipsită de relevanță față de obiectul contractului” (alin. (5^1)), iar inacceptabilitatea și neconformitatea sunt definite separat, la alin. (4) și (5).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 104 alin. (1)",
+   "citat": "a) dacă în cadrul unei proceduri de licitație deschisă, licitație restrânsă ori procedură simplificată organizate pentru achiziția produselor, serviciilor sau lucrărilor respective nu a fost depusă nicio ofertă/solicitare de participare sau au fost depuse numai oferte/solicitări de participare neadecvate [...] b) dacă lucrările, produsele sau serviciile pot fi furnizate numai de către un anumit operator economic pentru unul dintre motivele prevăzute la alin. (2); [...] c) ca o măsură strict necesară, atunci când perioadele de aplicare a procedurilor de licitație deschisă, licitație restrânsă, negociere competitivă sau procedură simplificată nu pot fi respectate din motive de extremă urgență",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-040",
+  "tip": "multiplu",
+  "test": 19,
+  "intrebare": "Potrivit art. 104 alin. (2) din Legea nr. 98/2016, care sunt motivele pentru care lucrările, produsele sau serviciile pot fi furnizate numai de către un anumit operator economic, justificând negocierea fără publicare prealabilă?",
+  "variante": [
+   "Scopul achiziției este crearea sau achiziționarea unei opere de artă sau unei reprezentații artistice unice",
+   "Protecția unor drepturi exclusive, inclusiv drepturi de proprietate intelectuală",
+   "Operatorul economic oferă prețul cel mai scăzut de pe piață",
+   "Concurența lipsește din motive tehnice"
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Art. 104 alin. (2) enumeră limitativ trei motive: opera de artă sau reprezentația artistică unică (lit. a)); lipsa concurenței din motive tehnice (lit. b)); protecția unor drepturi exclusive, inclusiv de proprietate intelectuală (lit. c)). Prețul cel mai scăzut este un criteriu de atribuire (art. 187 alin. (3) lit. d)), nu un motiv de unicitate. Capcană conexă: pentru motivele tehnice și drepturile exclusive (alin. (2) lit. b) și c)), art. 104 alin. (3) impune condiții suplimentare: să nu existe o soluție alternativă sau înlocuitoare rezonabilă, iar absența concurenței să nu fie rezultatul unei restrângeri artificiale a parametrilor achiziției de către autoritate. Motivele tehnice pot fi generate și de cerințe specifice de interoperabilitate (art. 104 alin. (3), teza finală).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 104 alin. (2)",
+   "citat": "Motivele prevăzute la alin. (1) lit. b) sunt următoarele: a) scopul achiziției este crearea sau achiziționarea unei opere de artă sau unei reprezentații artistice unice; b) concurența lipsește din motive tehnice; c) protecția unor drepturi exclusive, inclusiv drepturi de proprietate intelectuală.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-051",
+  "tip": "multiplu",
+  "test": 19,
+  "intrebare": "Ulterior atribuirii unui contract de lucrări, autoritatea contractantă intenționează să achiziționeze lucrări noi, similare, prin negociere fără publicarea prealabilă a unui anunț de participare. Care dintre următoarele condiții trebuie îndeplinite în mod cumulativ, potrivit art. 104 alin. (8) din Legea nr. 98/2016?",
+  "variante": [
+   "Procedura de negociere fără publicarea prealabilă să fie aplicată într-un interval care nu poate depăși 3 ani de la încheierea contractului inițial.",
+   "Valoarea lucrărilor noi să nu depășească 50% din valoarea contractului inițial.",
+   "În anunțul de participare la procedura aplicată pentru atribuirea contractului inițial să se fi precizat că autoritatea contractantă are dreptul de a opta pentru achiziționarea ulterioară de noi lucrări de la operatorul economic declarat câștigător.",
+   "Atribuirea să se facă contractantului inițial, iar noile lucrări să constea în repetarea unor lucrări similare prevăzute în contractul atribuit inițial și să fie conforme cu cerințele din documentele achiziției inițiale."
+  ],
+  "corecte": [
+   0,
+   2,
+   3
+  ],
+  "explicatie": "Art. 104 alin. (8) prevede patru condiții cumulative: identitatea contractantului și caracterul repetitiv/similar al lucrărilor sau serviciilor (lit. a)), includerea lucrărilor sau serviciilor noi în valoarea estimată a achiziției inițiale (lit. b)), anunțarea opțiunii în anunțul de participare al procedurii inițiale (lit. c)) și aplicarea procedurii într-un interval de cel mult 3 ani de la încheierea contractului inițial (lit. d)). Plafonul de 50% din valoarea contractului inițial nu figurează aici: el limitează lucrările/serviciile/produsele adiționale în regimul modificării contractului, la art. 221 alin. (1) lit. b) și lit. c) pct. (iii) și alin. (4). Atenție și la condiția de la lit. b), neenumerată printre variante, dar la fel de obligatorie: valoarea estimată a achiziției inițiale trebuie să fi fost determinată luând în considerare inclusiv lucrările sau serviciile noi care pot fi achiziționate ulterior (art. 104 alin. (8) lit. b)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 104 alin. (8)",
+   "citat": "(8) Autoritatea contractantă are dreptul de a aplica procedura de negociere fără publicarea prealabilă a unui anunț de participare atunci când, ulterior atribuirii unui contract de achiziție publică de lucrări sau de servicii, autoritatea contractantă intenționează să achiziționeze lucrări sau servicii noi și numai dacă se îndeplinesc în mod cumulativ următoarele condiții: a) atribuirea se face contractantului inițial, iar noile lucrări, respectiv noile servicii constau în repetarea unor lucrări sau servicii similare prevăzute în contractul atribuit inițial și sunt conforme cu cerințele prevăzute în documentele achiziției elaborate cu ocazia atribuirii contractului inițial [...] d) procedura de negociere fără publicarea prealabilă a unui anunț de participare este aplicată într-un interval care nu poate depăși 3 ani de la încheierea contractului inițial.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ }
+]

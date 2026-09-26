@@ -1,0 +1,217 @@
+[
+ {
+  "id": "L101A-011",
+  "tip": "unic",
+  "test": 6,
+  "intrebare": "Potrivit Legii nr. 101/2016, în forma în vigoare, ce obligație are un operator economic care se consideră vătămat în legătură cu notificarea prealabilă a autorității contractante, înainte de a sesiza CNSC sau instanța?",
+  "variante": [
+   "Trebuie să notifice autoritatea contractantă doar când contestă conținutul documentației de atribuire",
+   "Nu are nicio obligație de notificare prealabilă; se poate adresa direct Consiliului sau instanței de judecată",
+   "Trebuie să notifice autoritatea contractantă doar dacă procedura depășește pragurile de publicare în JOUE",
+   "Trebuie să notifice autoritatea contractantă în 10, respectiv 7 zile de la luarea la cunoștință, după cum valoarea estimată atinge sau nu pragurile de publicare în JOUE"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Potrivit art. 4 alin. (1) din Legea nr. 101/2016, pentru soluționarea contestației persoana care se consideră vătămată se poate adresa fie Consiliului Național de Soluționare a Contestațiilor, pe cale administrativ-jurisdicțională, fie instanței de judecată, pe cale judiciară, fără vreo condiție prealabilă de notificare a autorității contractante. Capitolul II (art. 6 și 7) apare în forma la zi cu mențiunea „Abrogat.”, iar nicio altă dispoziție în vigoare nu condiționează sesizarea de o notificare prealabilă. Termenele de 10, respectiv 7 zile, stabilite după cum valoarea estimată este egală sau mai mare, respectiv mai mică decât pragurile de publicare în JOUE, sunt termenele în care persoana vătămată sesizează direct Consiliul (art. 8 alin. (1)), nu termene de notificare a autorității contractante. Nici pragurile JOUE nu introduc o notificare prealabilă: ele determină doar durata termenului de contestare, potrivit art. 8 alin. (1) lit. a) și b). Pentru contestarea documentației de atribuire publicate în SEAP, legea stabilește doar momentul luării la cunoștință — data publicării documentației (art. 8 alin. (2)).",
+  "sursa": {
+   "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+   "articol": "art. 4 alin. (1)",
+   "citat": "Pentru soluționarea contestației, persoana care se consideră vătămată se poate adresa: a) fie pe cale administrativ-jurisdicțională Consiliului Național de Soluționare a Contestațiilor; b) fie pe cale judiciară instanței de judecată.",
+   "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395A-033",
+  "tip": "multiplu",
+  "test": 6,
+  "intrebare": "Potrivit art. 17 alin. (1) din Normele metodologice aprobate prin H.G. nr. 395/2016, în funcție de care aspecte alege autoritatea contractantă procedura de atribuire?",
+  "variante": [
+   "Sursa de finanțare a contractului, respectiv fonduri publice naționale sau fonduri europene",
+   "Valoarea estimată a achiziției",
+   "Complexitatea contractului/acordului-cadru ce urmează a fi atribuit",
+   "Îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire"
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 17 alin. (1) din Normele metodologice enumeră trei aspecte: valoarea estimată a achiziției (lit. a)), complexitatea contractului/acordului-cadru ce urmează a fi atribuit (lit. b)) și îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire (lit. c)). Sursa de finanțare nu figurează printre aspectele enumerate la art. 17 alin. (1). Fondurile nerambursabile apar doar la art. 17 alin. (3), potrivit căruia, la proiectele finanțate din astfel de fonduri și/sau având ca obiect cercetarea-dezvoltarea, prevederile articolului se aplică prin raportare la durata contractului de finanțare/proiect. Capcană: sursa de finanțare este o informație obligatorie a programului anual al achizițiilor publice, potrivit art. 12 alin. (5) lit. d) din Normele metodologice.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 17 alin. (1) lit. a)-c)",
+   "citat": "Autoritatea contractantă alege procedura de atribuire în funcție de următoarele aspecte: a) valoarea estimată a achiziției; b) complexitatea contractului/acordului-cadru ce urmează a fi atribuit; c) îndeplinirea condițiilor specifice de aplicare a anumitor proceduri de atribuire.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-009",
+  "tip": "unic",
+  "test": 7,
+  "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), ce reprezintă creditul de angajament?",
+  "variante": [
+   "limita minimă a cheltuielilor care trebuie angajate obligatoriu în cursul exercițiului bugetar",
+   "suma aprobată prin buget, reprezentând limita maximă până la care se pot ordonanța și efectua plăți în cursul anului bugetar",
+   "suma pusă în rezervă (blocată) în vederea efectuării unei cheltuieli, potrivit destinației prevăzute în buget",
+   "limita maximă a cheltuielilor ce pot fi angajate, în timpul exercițiului bugetar, în limitele aprobate"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Potrivit pct. 1 «Angajarea cheltuielilor» din Normele ALOP, creditul de angajament reprezintă limita maximă a cheltuielilor ce pot fi angajate, în timpul exercițiului bugetar, în limitele aprobate. Varianta cu suma aprobată prin buget până la care se pot ordonanța și efectua plăți reia definiția creditului bugetar de la același pct. 1 — capcana clasică între cele două noțiuni: creditul de angajament limitează angajarea, iar creditul bugetar limitează ordonanțarea și plata (și, pentru acțiunile care nu sunt multianuale, și angajarea, care «se face numai în limita creditelor bugetare aprobate»). Varianta cu suma pusă în rezervă (blocată) descrie angajamentul bugetar, documentul prin care «se pun în rezerva (se blochează) creditele aferente unei cheltuieli, potrivit destinației prevăzute în buget» (pct. 1 lit. b)). Varianta cu o limită minimă obligatorie de angajare contrazice textul, care definește creditul de angajament ca limită maximă. Aceeași logică apare la începutul pct. 1: sumele aprobate la partea de cheltuieli, în cadrul cărora se angajează, se ordonanțează și se efectuează plăți, «reprezintă limite maxime care nu pot fi depășite».",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea cheltuielilor)",
+   "citat": "Creditul de angajament reprezintă limita maximă a cheltuielilor ce pot fi angajate, în timpul exercițiului bugetar, în limitele aprobate.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-036",
+  "tip": "unic",
+  "test": 6,
+  "intrebare": "Un contract de servicii care nu prevede un preț total este încheiat pe o durată determinată de 60 de luni. Cum se calculează valoarea estimată, potrivit art. 25 din Legea nr. 98/2016?",
+  "variante": [
+   "valoarea totală a contractului nu poate fi estimată, deci contractul nu poate fi atribuit",
+   "valoarea lunară înmulțită cu 12",
+   "valoarea lunară înmulțită cu 60, adică pentru întreaga durată a contractului",
+   "prin înmulțirea cu 48 a valorii lunare a contractului"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Potrivit art. 25 din Legea nr. 98/2016, pentru serviciile care nu prevăd un preț total, linia de demarcație este durata de 48 de luni: la durată determinată mai mică sau egală cu 48 de luni, valoarea estimată este valoarea totală pentru întreaga durată (lit. a)); la durată nedeterminată sau mai mare de 48 de luni, valoarea estimată se calculează prin înmulțirea cu 48 a valorii lunare (lit. b)). La 60 de luni se aplică deci art. 25 lit. b). Capcana din varianta cu înmulțirea valorii lunare cu 60: înmulțirea cu durata reală se aplică doar la contractele de până la 48 de luni inclusiv (art. 25 lit. a)). Pragul de 12 luni apare la art. 21 lit. a)-b), pentru produsele achiziționate în rate, prin închiriere sau leasing, nu la servicii. Lipsa unui preț total nu împiedică atribuirea, art. 25 fiind tocmai regula de estimare pentru această situație. Aceeași formulă ×48 se aplică și produselor închiriate pe durată nedeterminată (art. 21 lit. c)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 25 lit. b)",
+   "citat": "în cazul contractelor de achiziție publică încheiate pe durată nedeterminată sau pe durată determinată mai mare de 48 de luni, valoarea estimată se calculează prin înmulțirea cu 48 a valorii lunare a contractului.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395A-036",
+  "tip": "multiplu",
+  "test": 7,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele elemente trebuie să fie cuprinse în anunțul privind consultarea pieței?",
+  "variante": [
+   "Denumirea autorității contractante și datele de contact",
+   "Valoarea estimată a contractului care urmează să fie atribuit ca urmare a consultării",
+   "Adresa de internet unde sunt publicate informațiile cu privire la procesul de consultare a pieței",
+   "Aspectele supuse consultării"
+  ],
+  "corecte": [
+   0,
+   2,
+   3
+  ],
+  "explicatie": "Art. 18 alin. (2) din Normele metodologice stabilește conținutul minim al anunțului privind consultarea pieței: denumirea autorității contractante și datele de contact (lit. a)), adresa de internet unde sunt publicate informațiile despre consultare (lit. b)), descrierea necesităților obiective și a constrângerilor (lit. c)), aspectele supuse consultării (lit. d)), termenul de transmitere a propunerilor (lit. e)), termenul de desfășurare a consultării (lit. f)) și descrierea modalității de desfășurare (lit. g)). Valoarea estimată nu figurează în lista de la art. 18 alin. (2). Art. 18 alin. (3) arată că aspectele supuse consultării privesc soluțiile tehnice, financiare sau contractuale și aspecte legate de strategia de contractare. Capcană: valoarea estimată este obligatorie în programul anual al achizițiilor publice (art. 12 alin. (5) lit. c) din Normele metodologice).",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 18 alin. (2) lit. a)-d)",
+   "citat": "Anunțul prevăzut la alin. (1) trebuie să conțină cel puțin următoarele elemente: a) denumirea autorității contractante și datele de contact; b) adresa de internet unde sunt publicate informațiile cu privire la procesul de consultare a pieței; c) descrierea necesităților obiective și constrângerilor de natură tehnică, financiară și/sau contractuală ce caracterizează nevoia autorității contractante în raport cu care se organizează respectiva consultare; d) aspectele supuse consultării;",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-046",
+  "tip": "multiplu",
+  "test": 8,
+  "intrebare": "Care dintre următoarele condiții trebuie îndeplinite în mod CUMULATIV pentru ca atribuirea unui contract de către o autoritate contractantă unei persoane juridice controlate („in-house”) să fie exceptată de la aplicarea Legii nr. 98/2016, potrivit art. 31 alin. (1)?",
+  "variante": [
+   "Nu există participare privată directă la capitalul persoanei juridice controlate, cu excepția formelor de participare a capitalului privat care nu oferă controlul sau dreptul de veto, dar a căror existență este necesară potrivit dispozițiilor legale, în conformitate cu Tratatele, și care nu exercită o influență determinantă asupra acesteia.",
+   "Autoritatea contractantă exercită asupra persoanei juridice în cauză un control similar celui pe care îl exercită asupra propriilor departamente sau servicii.",
+   "Autoritățile contractante participante desfășoară pe piața liberă mai puțin de 20% din activitățile vizate de cooperare.",
+   "Mai mult de 80% din activitățile persoanei juridice controlate sunt efectuate în vederea îndeplinirii sarcinilor care îi sunt încredințate de către autoritatea contractantă care o controlează sau de alte persoane juridice controlate de aceasta."
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Excepția in-house de la art. 31 alin. (1) presupune trei condiții cumulative: controlul similar (definit la alin. (2) ca influență determinantă asupra obiectivelor strategice și a deciziilor importante), pragul de activitate de peste 80% desfășurat pentru autoritatea care controlează și absența participării private directe la capital, cu excepția formelor impuse de lege care nu conferă control, drept de veto sau influență determinantă. Condiția privind desfășurarea pe piața liberă a mai puțin de 20% din activitățile vizate aparține unei alte excepții — cooperarea orizontală dintre autorități contractante, reglementată la art. 31 alin. (6) lit. c) — și este cea mai frecventă capcană de examen, pentru că cele două praguri (80% și 20%) se referă la ipoteze juridice diferite. Reține și art. 31 alin. (3): excepția funcționează și „invers”, când persoana juridică controlată atribuie un contract autorității care o controlează.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 31 alin. (1)",
+   "citat": "(1) Prezenta lege nu se aplică contractelor de achiziție publică/acordurilor-cadru atribuite de o autoritate contractantă unei persoane juridice de drept privat sau de drept public în cazul în care sunt îndeplinite cumulativ următoarele condiții: a) autoritatea contractantă exercită asupra persoanei juridice în cauză un control similar [...] b) mai mult de 80% din activitățile persoanei juridice controlate sunt efectuate în vederea îndeplinirii sarcinilor care îi sunt încredințate de către autoritatea contractantă [...] c) nu există participare privată directă la capitalul persoanei juridice controlate, cu excepția formelor de participare a capitalului privat care nu oferă controlul sau dreptul de veto, dar a căror existență este necesară potrivit dispozițiilor legale, în conformitate cu Tratatele, și care nu exercită o influență determinantă asupra persoanei juridice controlate.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-047",
+  "tip": "unic",
+  "test": 8,
+  "intrebare": "Două autorități contractante încheie între ele un contract prin care instituie o cooperare, cu scopul de a asigura prestarea unor servicii publice în vederea îndeplinirii unor obiective comune (cooperare orizontală). Potrivit Legii nr. 98/2016, ce condiție privind activitatea pe piața liberă trebuie îndeplinită pentru ca legea să nu se aplice acestui contract?",
+  "variante": [
+   "Autoritățile contractante participante desfășoară pe piața liberă mai puțin de 20% din activitățile vizate de cooperare.",
+   "Autoritățile contractante participante desfășoară pe piața liberă mai puțin de 50% din activitățile vizate de cooperare.",
+   "Mai mult de 80% din activitățile fiecărei autorități contractante participante sunt efectuate în vederea îndeplinirii sarcinilor încredințate de celelalte autorități participante.",
+   "Autoritățile contractante participante desfășoară pe piața liberă mai puțin de 10% din activitățile vizate de cooperare."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 31 alin. (6) lit. c) stabilește pragul de sub 20% din activitățile vizate de cooperare desfășurate pe piața liberă, alături de celelalte două condiții cumulative: contractul instituie sau pune în aplicare o cooperare în vederea unor obiective comune (lit. a)) și punerea ei în aplicare are la bază exclusiv considerații de interes public (lit. b)). Pragurile de 10% și 50% nu există în acest text: 10% apare la art. 60 alin. (2), ca definiție a acționarului sau asociatului semnificativ. Varianta cu peste 80% din activitățile fiecărei autorități contractante participante transpune greșit condiția de la art. 31 alin. (1) lit. b) (excepția in-house verticală), care privește activitatea persoanei juridice controlate, nu a autorităților care cooperează. Procentele de la alin. (1) lit. b), alin. (4) lit. b) și alin. (6) lit. c) se stabilesc potrivit art. 31 alin. (7), pe baza cifrei medii de afaceri totale sau a unui indicator alternativ corespunzător (de ex. costurile), din ultimii 3 ani anteriori atribuirii contractului.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 31 alin. (6) lit. c)",
+   "citat": "a) contractul instituie sau pune în aplicare o cooperare între autoritățile contractante participante, cu scopul de a asigura că serviciile publice a căror realizare trebuie să o asigure sunt prestate în vederea îndeplinirii unor obiective comune; b) punerea în aplicare a cooperării are la bază exclusiv considerații de interes public; c) autoritățile contractante participante desfășoară pe piața liberă mai puțin de 20% din activitățile vizate de cooperare.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98A-050",
+  "tip": "unic",
+  "test": 8,
+  "intrebare": "Potrivit art. 34 din Legea nr. 98/2016, un contract mixt are ca obiect atât achiziții supuse acestei legi, cât și achiziții supuse altor acte normative (care nu privesc aspecte de apărare sau securitate și nici activități din sectoarele reglementate de legea privind achizițiile sectoriale), iar diferitele părți ale contractului NU sunt în mod obiectiv separabile. Care este regula de atribuire?",
+  "variante": [
+   "Autoritatea contractantă are obligația de a atribui contracte distincte pentru fiecare parte, potrivit actului normativ corespunzător.",
+   "Contractul se atribuie obligatoriu potrivit Legii nr. 98/2016, indiferent de valoarea părților componente.",
+   "Contractul este atribuit potrivit actului normativ aplicabil în funcție de obiectul său principal.",
+   "Se aplică actul normativ care conține regulile cele mai restrictive dintre cele incidente."
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Art. 34 alin. (6) tranșează situația părților neseparabile în mod obiectiv prin criteriul obiectului principal al contractului: actul normativ aplicabil este cel corespunzător acestui obiect principal. Varianta potrivit căreia contractul se atribuie obligatoriu potrivit Legii nr. 98/2016 descrie regula de la art. 34 alin. (3), aplicabilă numai când părțile SUNT separabile, iar autoritatea contractantă alege totuși să atribuie un singur contract (cu excepția situațiilor de la art. 38). Obligația de a atribui contracte distincte nu există: art. 34 alin. (1) conferă doar un drept de a alege, și doar în cazul părților separabile. Criteriul „actului normativ cel mai restrictiv” nu figurează în art. 34. Enunțul exclude situațiile speciale: la contractele mixte care includ activități sectoriale, atribuirea se face potrivit legii privind achizițiile sectoriale (art. 34 alin. (5)), iar pentru contractele mixte cu părți neseparabile care implică aspecte de apărare sau securitate, art. 38 alin. (7) stabilește un criteriu special (includerea unor elemente în legătură cu situațiile prevăzute la art. 346 din TFUE), nu obiectul principal.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 34 alin. (6)",
+   "citat": "(6) În cazul contractelor mixte care au ca obiect atât achiziții pentru care se aplică dispozițiile prezentei legi, cât și achiziții pentru care se aplică dispozițiile altor acte normative, iar diferitele părți ale unui anumit contract nu sunt în mod obiectiv separabile, contractul este atribuit potrivit actului normativ aplicabil în funcție de obiectul său principal.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395A-042",
+  "tip": "multiplu",
+  "test": 8,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în cazul acordului-cadru, care dintre următoarele informații specifice trebuie să se regăsească în anunțul de participare/simplificat?",
+  "variante": [
+   "Frecvența de atribuire a contractelor subsecvente",
+   "Opțiunea de a atribui contractele subsecvente cu sau fără reluarea competiției, în cazul acordului-cadru încheiat cu mai mulți operatori economici",
+   "Numele persoanelor desemnate în comisia de evaluare a ofertelor",
+   "Numărul sau intervalul în care se va încadra numărul de operatori economici care vor fi parte a acordului-cadru"
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Art. 20 alin. (8) din Normele metodologice impune un set minim de informații specifice acordului-cadru: numărul sau intervalul de operatori economici (lit. a)), opțiunea atribuirii contractelor subsecvente cu/fără reluarea competiției (lit. b)), opțiunea licitației electronice la reluarea competiției (lit. c)), frecvența de atribuire a contractelor subsecvente (lit. d)), criteriul de atribuire și factorii de evaluare pentru contractele subsecvente (lit. e)), estimările cantităților minime și maxime (lit. f)), estimarea valorii celui mai mare contract subsecvent (lit. g)) și estimarea valorii maxime a acordului-cadru (lit. h)). Numele membrilor comisiei de evaluare nu figurează în acest set de informații specifice acordului-cadru. Art. 21 alin. (6) din Normele metodologice cere, pentru orice procedură, precizarea în anunț a numelui, prenumelui și funcției persoanelor care dețin funcții de decizie, prevăzute la alin. (5), în vederea analizării unei situații de conflict de interese — de aici plauzibilitatea distractorului, dar regula nu este specifică acordului-cadru. Estimarea valorii celui mai mare contract subsecvent contează și pentru garanția de participare, a cărei valoare nu poate depăși, în cazul acordului-cadru, 1% din valoarea estimată a celui mai mare contract subsecvent (art. 35 din Normele metodologice).",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 20 alin. (8) lit. a), b) și d)",
+   "citat": "În cazul acordului-cadru, anunțul de participare/ simplificat trebuie să conțină și un set minim de informații specifice referitoare la: [...] a) numărul sau intervalul în care se va încadra numărul de operatori economici care vor fi parte a acordului-cadru ce urmează să fie încheiat; b) opțiunea de a atribui contractele subsecvente încheierii acordului-cadru cu/fără reluarea competiției, în cazul în care acordul-cadru urmează să fie încheiat cu mai mulți operatori economici; [...] d) frecvența de atribuire a contractelor subsecvente;",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ }
+]

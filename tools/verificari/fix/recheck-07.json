@@ -1,0 +1,291 @@
+[
+ {
+  "id": "L98E-009",
+  "tip": "unic",
+  "test": 23,
+  "intrebare": "Potrivit Legii nr. 98/2016, pe baza căror elemente desemnează autoritatea contractantă oferta câștigătoare pentru o achiziție specifică realizată în cadrul unui sistem dinamic de achiziții?",
+  "variante": [
+   "Exclusiv pe baza prețului cel mai scăzut, factorii de evaluare fiind interziși în sistemul dinamic de achiziții.",
+   "Pe baza criteriului de atribuire stabilit liber pentru fiecare achiziție specifică, prin invitația de participare transmisă participanților admiși.",
+   "Pe baza criteriului de atribuire și a factorilor de evaluare stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului, aceștia putând fi detaliați în invitația de participare.",
+   "Pe baza criteriului de atribuire convenit în scris cu toți participanții admiși în sistem, înaintea fiecărei achiziții specifice."
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Art. 127 alin. (1) ancorează criteriul de atribuire și factorii de evaluare în anunțul de participare publicat cu ocazia LANSĂRII sistemului dinamic de achiziții, iar alin. (2) permite doar detalierea lor în invitația de participare de la art. 126 pentru achiziția specifică, ceea ce elimină varianta cu criteriul stabilit liber pentru fiecare achiziție specifică. Varianta cu prețul cel mai scăzut exclusiv și interzicerea factorilor de evaluare contrazice art. 127 alin. (1), care se referă expres la „factorii de evaluare” stabiliți prin anunțul de participare; criteriile de atribuire posibile sunt cele de la art. 187 alin. (3). Varianta cu criteriul convenit în scris cu toți participanții admiși contrazice art. 127 alin. (1), potrivit căruia criteriul și factorii sunt cei „stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului dinamic de achiziții”, iar invitația de la art. 126 îi poate doar detalia (art. 127 alin. (2)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 127 alin. (1) și (2)",
+   "citat": "Autoritatea contractantă atribuie contractul de achiziție publică ofertantului care prezintă oferta cea mai avantajoasă, desemnată prin aplicarea criteriului de atribuire și a factorilor de evaluare stabiliți prin anunțul de participare publicat cu ocazia lansării sistemului dinamic de achiziții. (2) Dacă este cazul, criteriul de atribuire și factorii de evaluare prevăzuți la alin. (1) pot fi detaliați în cadrul invitației de participare prevăzute la art. 126.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L101A-033",
+  "tip": "unic",
+  "test": 23,
+  "intrebare": "Potrivit Legii nr. 101/2016, cum poate fi atacată încheierea Consiliului Național de Soluționare a Contestațiilor privind soluționarea cererii de suspendare a procedurii de atribuire?",
+  "variante": [
+   "Cu plângere la instanța competentă, în mod separat, în termen de 5 zile de la comunicare",
+   "Cu plângere la CNSC, judecată de un alt complet, în 3 zile",
+   "Nu poate fi atacată separat, ci numai odată cu decizia de soluționare a contestației",
+   "Cu recurs la Înalta Curte de Casație și Justiție, în 10 zile de la pronunțare"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 23 alin. (2) din Legea nr. 101/2016 prevede că încheierea privind soluționarea cererii de suspendare poate fi atacată cu plângere la instanța competentă prevăzută la art. 32 alin. (1), în mod separat, în termen de 5 zile de la comunicare. Varianta potrivit căreia încheierea nu poate fi atacată separat contrazice expres sintagma „în mod separat” din art. 23 alin. (2). Termenul de 3 zile este cel în care Consiliul se pronunță asupra cererii de suspendare (art. 22 alin. (1)), nu un termen de atac, iar plângerea se depune la instanța judecătorească competentă, nu la Consiliu (art. 30 alin. (3)). Instanța competentă este curtea de apel, secția de contencios administrativ și fiscal (art. 32 alin. (1)), nu Înalta Curte de Casație și Justiție, iar termenul de 10 zile este cel pentru plângerea împotriva deciziei de soluționare a contestației, calculat de la comunicare (art. 29). Același regim — plângere separată, în 5 zile de la comunicare — se aplică și încheierii prin care Consiliul revine asupra suspendării procedurii de soluționare a contestației (art. 25 alin. (4)).",
+  "sursa": {
+   "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+   "articol": "art. 23 alin. (2)",
+   "citat": "Încheierea privind soluționarea cererii de suspendare poate fi atacată cu plângere la instanța competentă prevăzută la art. 32 alin. (1), în mod separat, în termen de 5 zile de la comunicare.",
+   "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98C-012",
+  "tip": "multiplu",
+  "test": 23,
+  "intrebare": "În care dintre următoarele situații poate fi utilizată licitația electronică, potrivit art. 131 din Legea nr. 98/2016?",
+  "variante": [
+   "La depunerea ofertelor în vederea atribuirii unui contract de achiziție publică în cadrul unui sistem dinamic de achiziții",
+   "Ca etapă finală a procedurii de negociere fără publicarea prealabilă a unui anunț de participare",
+   "La reluarea competiției dintre operatorii economici parte la un acord-cadru",
+   "Ca etapă finală a procedurii de licitație deschisă, licitație restrânsă, negociere competitivă sau procedură simplificată"
+  ],
+  "corecte": [
+   0,
+   2,
+   3
+  ],
+  "explicatie": "Art. 131 alin. (1) enumeră limitativ trei situații: etapă finală a licitației deschise, licitației restrânse, negocierii competitive sau procedurii simplificate (lit. a)); reluarea competiției dintre operatorii economici parte la un acord-cadru, potrivit art. 118 alin. (1) lit. b) și c) (lit. b)); depunerea ofertelor în vederea atribuirii unui contract în cadrul unui sistem dinamic de achiziții (lit. c)). Negocierea fără publicarea prealabilă a unui anunț de participare nu figurează în enumerarea limitativă din art. 131 alin. (1). Condiție transversală: conținutul documentelor achiziției, în special specificațiile tehnice, trebuie să poată fi stabilit în mod precis (art. 131 alin. (1)), iar decizia de a organiza licitația electronică se anunță în anunțul de participare și în documentația de atribuire (art. 131 alin. (2)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 131 alin. (1)",
+   "citat": "a) ca o etapă finală a procedurii de licitație deschisă, licitație restrânsă, negociere competitivă sau procedură simplificată; [...] b) la reluarea competiției dintre operatorii economici parte la un acord-cadru [...] c) la depunerea ofertelor în vederea atribuirii unui contract de achiziție publică în cadrul unui sistem dinamic de achiziții.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98C-015",
+  "tip": "unic",
+  "test": 24,
+  "intrebare": "Potrivit Legii nr. 98/2016, pe parcursul desfășurării rundelor unei licitații electronice, în privința identității ofertanților, autoritatea contractantă:",
+  "variante": [
+   "Nu poate dezvălui, în nicio situație, identitatea ofertanților",
+   "Dezvăluie identitatea ofertanților numai la solicitarea expresă a acestora",
+   "Poate dezvălui identitatea ofertanților dacă acest lucru a fost prevăzut în documentele achiziției",
+   "Dezvăluie identitatea doar pentru ofertantul aflat pe primul loc în clasament"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 136 alin. (3) instituie o interdicție absolută: identitatea ofertanților nu poate fi dezvăluită «în nicio situație» pe parcursul rundelor. Capcana din varianta care permite dezvăluirea identității dacă s-a prevăzut în documentele achiziției provine dintr-o regulă reală, dar care privește altceva: prețurile sau valorile noi prezentate de ceilalți ofertanți POT fi comunicate dacă acest lucru a fost prevăzut în documentele achiziției (art. 136 alin. (2) lit. b)) — deci datele ofertelor pot circula condiționat, identitatea niciodată. Obligatoriu se comunică instantaneu fiecărui ofertant cel puțin informațiile suficiente pentru a-și determina poziția în clasament (alin. (1)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 136 alin. (3)",
+   "citat": "Pe parcursul desfășurării rundelor licitației electronice, autoritatea contractantă nu poate dezvălui, în nicio situație, identitatea ofertanților.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGB-033",
+  "tip": "multiplu",
+  "test": 24,
+  "intrebare": "Potrivit art. 8 alin. (1) din Normele metodologice de aplicare a O.U.G. nr. 98/2017, aprobate prin H.G. nr. 419/2018, care dintre următoarele corespondențe între faza controlului ex ante al procesului de evaluare și termenul aplicabil sunt corecte?",
+  "variante": [
+   "Analiza documentelor-suport pentru îndeplinirea criteriilor de calificare/selecție și concluziile incluse în raportul procedurii — 3 zile lucrătoare",
+   "Evaluarea propunerilor financiare și conformitatea acestora — 2 zile lucrătoare",
+   "Evaluarea propunerilor financiare și conformitatea acestora — 3 zile lucrătoare",
+   "Concluziile finale cuprinse în raportul procedurii privind neconformitățile constatate și neremediate din avizele conforme condiționate — 2 zile lucrătoare"
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Art. 8 alin. (1) din Normele metodologice aprobate prin H.G. nr. 419/2018 alocă 2 zile lucrătoare propunerilor financiare (lit. c)), 3 zile lucrătoare documentelor-suport pentru criteriile de calificare/selecție și concluziilor din raportul procedurii (lit. d), care acoperă și ipoteza de la art. 12 alin. (2) din O.U.G. nr. 98/2017, privind măsurile luate după un avertisment de integritate) și 2 zile lucrătoare concluziilor finale privind neconformitățile neremediate din avizele conforme condiționate anterioare (lit. e)). Varianta care atribuie 3 zile lucrătoare propunerilor financiare este falsă: termenul de 3 zile lucrătoare aparține fazei documentelor-suport (lit. d)) și fazei de verificare pe baza DUAE (lit. a)). Schema completă a art. 8 alin. (1) este: 3 (sau 1) — 4 — 2 — 3 — 2 zile lucrătoare, toate calculate de la încărcarea în SEAP a înscrisurilor ce conțin deciziile formalizate ale comisiei de evaluare. Dacă procedura implică runde de negociere/dialog, la termenele de la lit. b) și c) se adaugă 3 zile lucrătoare (art. 8 alin. (2)).",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+   "articol": "art. 8 alin. (1) lit. c), d) și e)",
+   "citat": "c) 2 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. c) din ordonanța de urgență; d) 3 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. d), respectiv art. 12 alin. (2) din ordonanța de urgență; e) 2 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin (1) lit. e) din ordonanța de urgență.",
+   "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395B-028",
+  "tip": "multiplu",
+  "test": 24,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele informații trebuie să fie cuprinse în documentația de concurs a unui concurs de soluții?",
+  "variante": [
+   "Numărul și cuantumul premiilor care urmează să fie acordate, în cazul în care concursul este organizat ca o procedură independentă, precum și modalitatea de acordare a acestora.",
+   "Criteriile minime de calificare solicitate în legătură cu participarea la concurs, precum și documentele care urmează să fie prezentate de concurenți pentru dovedirea îndeplinirii criteriilor respective.",
+   "Numele, prenumele și datele de identificare ale membrilor juriului desemnat pentru evaluarea proiectelor.",
+   "Informații detaliate și complete privind criteriul/criteriile aplicat/aplicate pentru stabilirea proiectului/proiectelor câștigător/câștigătoare."
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Art. 96 alin. (2) din Normele metodologice enumeră conținutul minim al documentației de concurs, printre care lit. c) - criteriile minime de calificare și documentele doveditoare, lit. e) - numărul, cuantumul și modalitatea de acordare a premiilor atunci când concursul este organizat ca procedură independentă, și lit. g) - informațiile detaliate și complete privind criteriile de stabilire a proiectelor câștigătoare. Datele de identificare ale membrilor juriului nu figurează în conținutul minim al documentației de concurs de la art. 96 alin. (2). Art. 99 alin. (2) reglementează separat numirea juriului, format din cel puțin 3 membri, persoane fizice independente față de concurenți, cu pregătire profesională și experiență relevantă în domeniu. A se distinge lit. e) de lit. f) a art. 96 alin. (2): angajamentul de a încheia contractul de servicii cu câștigătorul privește ipoteza în care concursul este organizat ca parte a unei alte proceduri de atribuire, nu ca procedură independentă.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 96 alin. (2) lit. c), e) și g)",
+   "citat": "c) criteriile minime de calificare solicitate în legătură cu participarea la concurs, precum și documentele care urmează să fie prezentate de concurenți pentru dovedirea îndeplinirii criteriilor respective; [...] e) numărul și cuantumul premiilor care urmează să fie acordate, în cazul în care concursul este organizat ca o procedură independentă, precum și modalitatea de acordare a acestora; [...] g) informații detaliate și complete privind criteriul/criteriile aplicat/aplicate pentru stabilirea proiectului/proiectelor",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L500-038",
+  "tip": "multiplu",
+  "test": 24,
+  "intrebare": "Potrivit Legii nr. 500/2002 privind finanțele publice, când o instituție publică finanțată de la bugetul de stat înregistrează arierate la sfârșitul lunii anterioare lunii pentru care solicită efectuarea de plăți, unitățile teritoriale ale Trezoreriei Statului nu operează plăți din conturile acesteia. Care sunt plățile exceptate de la această măsură?",
+  "variante": [
+   "Plata ratelor de capital, dobânzilor, comisioanelor și altor costuri aferente datoriei publice.",
+   "Plățile pentru servicii de utilități publice.",
+   "Plățile pentru achitarea drepturilor salariale și a contribuțiilor aferente acestora.",
+   "Plățile pentru stingerea arieratelor."
+  ],
+  "corecte": [
+   0,
+   2,
+   3
+  ],
+  "explicatie": "Art. 28^4 alin. (1) prevede trei categorii de plăți exceptate de la blocarea plăților în cazul înregistrării de arierate: drepturile salariale și contribuțiile aferente, stingerea arieratelor și plata ratelor de capital, dobânzilor, comisioanelor și altor costuri aferente datoriei publice. Plățile pentru utilități NU sunt exceptate de acest text — capcana provine din art. 28^3, unde serviciile privind furnizarea de utilități și drepturile salariale sunt exceptate de la regula potrivit căreia obligațiile de plată înregistrate la nivelul unui an trebuie să fie cel mult egale cu creditele bugetare aprobate; este deci o excepție reală, dar cu alt rol. Măsura de blocare încetează, potrivit alin. (2), la data la care instituția nu mai înregistrează arierate în contabilitate.",
+  "sursa": {
+   "act": "Legea nr. 500/2002 privind finanțele publice",
+   "articol": "art. 28^4 alin. (1)",
+   "citat": "unitățile teritoriale ale Trezoreriei Statului au obligația să nu opereze plăți din conturile acestora, cu excepția plăților pentru achitarea drepturilor salariale și a contribuțiilor aferente acestora, respectiv pentru stingerea arieratelor, precum și pentru plata ratelor de capital, dobânzilor, comisioanelor și altor costuri aferente datoriei publice.",
+   "fisier": "10_Legea_500-2002_finantele_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98C-021",
+  "tip": "multiplu",
+  "test": 25,
+  "intrebare": "Potrivit art. 142 din Legea nr. 98/2016, prin publicarea căror anunțuri asigură autoritatea contractantă transparența procedurii de atribuire a contractelor de achiziție publică/acordurilor-cadru?",
+  "variante": [
+   "Anunțul de consultare a pieței",
+   "Anunțul de participare",
+   "Anunțul de intenție",
+   "Anunțul de atribuire"
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 142 enumeră trei tipuri de anunțuri prin care autoritatea contractantă asigură transparența procedurii de atribuire: anunțurile de intenție, anunțurile de participare și anunțurile de atribuire. Anunțul privind consultarea pieței există, dar în Normele metodologice aprobate prin H.G. nr. 395/2016 (art. 18 alin. (1)), ca modalitate de inițiere a consultării reglementate de art. 139 din Lege; el nu figurează în enumerarea art. 142. Art. 146 prevede că anunțurile de la art. 142, „inclusiv anunțurile corespunzătoare tip erată”, se transmit spre publicare prin mijloace electronice.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 142",
+   "citat": "Autoritatea contractantă are obligația de a asigura transparența procedurii de atribuire a contractelor de achiziție publică/acordurilor-cadru prin publicarea, în conformitate cu dispozițiile prezentei legi, a anunțurilor de intenție, anunțurilor de participare și a anunțurilor de atribuire.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L101A-035",
+  "tip": "multiplu",
+  "test": 25,
+  "intrebare": "Potrivit Legii nr. 101/2016, în care dintre următoarele situații poate Consiliul Național de Soluționare a Contestațiilor să suspende, prin încheiere, procedura de soluționare a contestației? (selectați toate variantele corecte)",
+  "variante": [
+   "Contestatorul solicită un termen pentru angajarea unui avocat",
+   "S-a pus în mișcare acțiunea penală pentru o infracțiune săvârșită în legătură cu actul atacat de contestator",
+   "Autoritatea contractantă nu a transmis punctul său de vedere asupra contestației",
+   "Soluționarea contestației depinde în tot sau în parte de existența ori inexistența unui drept care face obiectul unei alte judecăți"
+  ],
+  "corecte": [
+   1,
+   3
+  ],
+  "explicatie": "Art. 25 alin. (1) din Legea nr. 101/2016 prevede două cazuri de suspendare a procedurii de soluționare a contestației: dependența de existența ori inexistența unui drept care face obiectul unei alte judecăți (lit. a)) și punerea în mișcare a acțiunii penale pentru o infracțiune săvârșită în legătură cu actul atacat (lit. b)). Solicitarea unui termen pentru angajarea unui avocat nu figurează printre cele două cazuri enumerate de art. 25 alin. (1). Lipsa punctului de vedere nu suspendă soluționarea: potrivit art. 18 alin. (3), ea nu împiedică soluționarea contestației și atrage decăderea autorității din dreptul de a mai propune probe și de a invoca excepții, în afara celor de ordine publică. De reținut: suspendarea întrerupe curgerea termenului de soluționare, iar de la reluare curge un nou termen (art. 25 alin. (5)); Consiliul poate reveni motivat asupra suspendării în condițiile art. 25 alin. (3).",
+  "sursa": {
+   "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+   "articol": "art. 25 alin. (1)",
+   "citat": "Consiliul, prin încheiere, poate suspenda procedura de soluționare a contestației: a) în situația în care aceasta depinde în tot sau în parte de existența ori inexistența unui drept care face obiectul unei alte judecăți; b) când s-a pus în mișcare acțiunea penală pentru o infracțiune săvârșită în legătură cu actul atacat de contestator.",
+   "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-026",
+  "tip": "multiplu",
+  "test": 25,
+  "intrebare": "Prin vizarea documentelor pentru „Bun de plată” se confirmă, potrivit Normelor metodologice ALOP, că:",
+  "variante": [
+   "creditele bugetare aferente au fost puse în rezervă (blocate) prin angajamentul bugetar",
+   "bunurile furnizate au fost înregistrate în gestiune și în contabilitate, cu specificarea gestiunii și a notei contabile de înregistrare",
+   "bunurile furnizate au fost recepționate, cu specificarea datei și a locului primirii",
+   "condițiile cu privire la legalitatea efectuării rambursărilor de rate sau a plăților de dobânzi la credite ori împrumuturi contractate/garantate sunt îndeplinite"
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Pct. 2 din Normele ALOP enumeră elementele confirmate prin viza «Bun de plată» acordată de ordonatorul de credite sau de persoana delegată: bunurile furnizate au fost recepționate, cu specificarea datei și a locului primirii; lucrările au fost executate și serviciile prestate; bunurile furnizate au fost înregistrate în gestiune și în contabilitate, cu specificarea gestiunii și a notei contabile de înregistrare; condițiile cu privire la legalitatea efectuării rambursărilor de rate sau a plăților de dobânzi la credite ori împrumuturi contractate/garantate sunt îndeplinite; alte condiții prevăzute de lege sunt îndeplinite. Varianta privind punerea în rezervă (blocarea) creditelor bugetare prin angajamentul bugetar este falsă: această operațiune aparține fazei de angajare, nu vizei «Bun de plată» din faza de lichidare. Potrivit pct. 1 (angajarea cheltuielilor), prin documentul scris privind angajamentul bugetar «se pun în rezerva (se blochează) creditele aferente unei cheltuieli, potrivit destinației prevăzute în buget».",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 2 (lichidarea cheltuielilor)",
+   "citat": "prin care se confirma ca: – bunurile furnizate au fost recepționate, cu specificarea datei și a locului primirii; – lucrările au fost executate și serviciile prestate; – bunurile furnizate au fost înregistrate în gestiune și în contabilitate, cu specificarea gestiunii și a notei contabile de înregistrare; – condițiile cu privire la legalitatea efectuării rambursarilor de rate sau a plăților de dobânzi la credite ori împrumuturi contractate/garantate sunt îndeplinite; – alte condiții prevăzute de lege sunt îndeplinite.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGB-034",
+  "tip": "unic",
+  "test": 25,
+  "intrebare": "Potrivit Normelor metodologice de aplicare a O.U.G. nr. 98/2017, aprobate prin H.G. nr. 419/2018, în cazul în care procedura de atribuire supusă controlului ex ante implică și derularea unor runde de negociere/dialog, cum se modifică termenele de control ex ante ale fazelor de evaluare prevăzute la art. 8 alin. (1) din aceste norme?",
+  "variante": [
+   "Termenele rămân neschimbate, însă ANAP emite un singur aviz conform, la finalul negocierii/dialogului",
+   "La toate termenele prevăzute la art. 8 alin. (1) se adaugă 5 zile lucrătoare",
+   "La termenele pentru evaluarea propunerilor tehnice și a celor financiare se adaugă 3 zile lucrătoare",
+   "Se dublează toate termenele prevăzute la art. 8 alin. (1), pentru fiecare rundă de negociere/dialog"
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Art. 8 alin. (2) din Normele metodologice aprobate prin H.G. nr. 419/2018 adaugă 3 zile lucrătoare numai la termenele de la alin. (1) lit. b) și c) — evaluarea propunerilor tehnice (4 zile lucrătoare) și a celor financiare (2 zile lucrătoare) — pentru controlul înscrisurilor ce conțin deciziile formalizate ale comisiei de evaluare rezultate în urma finalizării negocierii/dialogului. Termenele de la lit. a), d) și e) (DUAE/calificare, documente-suport, concluzii finale) nu sunt vizate de alin. (2). Textul nu prevede o dublare a termenelor, iar suplimentarea cu 5 zile lucrătoare aparține altor ipoteze din aceleași norme: prelungirea controlului documentației de atribuire (art. 5 alin. (4)) și analiza raportului procedurii de negociere fără publicare prealabilă (art. 11 alin. (4)). Varianta cu un singur aviz conform la finalul negocierii/dialogului contrazice art. 12 alin. (1) din O.U.G. nr. 98/2017, care impune emiterea avizului conform o singură dată pe fiecare fază a procesului de evaluare.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+   "articol": "art. 8 alin. (2)",
+   "citat": "la termenele prevăzute conform alin. (1) lit. b) și c) se adaugă 3 zile lucrătoare pentru realizarea controlului ex ante prevăzut la art. 12 alin. (1) lit. b), respectiv lit. c), din ordonanța [...] asupra înscrisului/înscrisurilor ce conțin deciziile formalizate ale comisiei de evaluare rezultate în urma finalizării negocierii/dialogului.",
+   "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98C-026",
+  "tip": "unic",
+  "test": 26,
+  "intrebare": "Potrivit Legii nr. 98/2016, autoritatea contractantă a transmis spre publicare un anunț de participare către Oficiul pentru Publicații al Uniunii Europene. Când poate publica anunțul la nivel național?",
+  "variante": [
+   "Simultan cu transmiterea către Oficiul pentru Publicații al Uniunii Europene, publicitatea națională fiind independentă",
+   "După publicarea în Jurnalul Oficial al Uniunii Europene sau, prin excepție, dacă nu a fost notificată cu privire la publicare în termen de 48 de ore de la confirmarea primirii anunțului",
+   "Oricând, cu condiția ca anunțul național să conțină informații suplimentare față de cel european",
+   "După publicarea în Jurnalul Oficial al Uniunii Europene sau, prin excepție, dacă nu a fost notificată cu privire la publicare în termen de 5 zile de la transmitere"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Potrivit art. 147 alin. (1), anunțurile prevăzute la art. 142 nu pot fi publicate la nivel național înainte de data publicării acestora în JOUE. Excepția de la art. 147 alin. (2) permite publicarea națională dacă autoritatea contractantă nu a fost notificată de Oficiul pentru Publicații al Uniunii Europene despre publicarea în JOUE în termen de 48 de ore de la CONFIRMAREA PRIMIRII anunțului (nu de la transmitere). Termenul de 5 zile este real, dar are alt rol: prelungirea termenului de depunere a ofertelor când accesul electronic la anumite documente ale achiziției nu poate fi asigurat (art. 150 alin. (4) și (6)). Publicarea simultană cu transmiterea contrazice art. 147 alin. (1). Varianta care permite publicarea oricând, cu informații suplimentare în anunțul național, contrazice art. 148, potrivit căruia anunțurile publicate la nivel național nu trebuie să conțină alte informații față de cele publicate în JOUE.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 147 alin. (1) și (2)",
+   "citat": "Anunțurile prevăzute la art. 142 nu pot fi publicate la nivel național înainte de data publicării acestora în Jurnalul Oficial al Uniunii Europene. [...] publicarea la nivel național a anunțurilor prevăzute la art. 142 este permisă atunci când autoritatea contractantă nu a fost notificată de către Oficiul pentru Publicații al Uniunii Europene cu privire la publicarea în Jurnalul Oficial al Uniunii Europene a anunțurilor transmise spre publicare în termen de 48 de ore de la confirmarea primirii de către Oficiul pentru Publicații al Uniunii Europene a anunțului transmis spre publicare.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ }
+]

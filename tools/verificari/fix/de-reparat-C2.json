@@ -1,0 +1,178 @@
+[
+ {
+  "id": "OUGB-007",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 7 alin. (8) din Legea 98/2016, citat exact. Enunțul se sprijină însă pe istoricul modificărilor, contrar SPEC §4.6 („Se testează norma în vigoare”), și afirmă conținutul fostului art. 46 din Norme („în forma dată de H.G. nr. 419/2018 obliga ... TRIMESTRIAL”). Acest conținut nu se poate verifica în corpus: fișierul Normelor conține doar „Articolul 46 / Abrogat.” și nota abrogării prin H.G. 336/2023. Explicația folosește tot istoricul (H.G. 336/2023, Legea 208/2022).",
+  "propunere": "Enunțul nou: „Potrivit legislației în vigoare, cum este reglementată obligația autorității contractante de a transmite în SEAP o notificare privind achizițiile directe?” Cele patru variante se păstrează. Din explicație se elimină parantezele cu actele modificatoare. Pentru distractorul cu abrogarea se păstrează doar: „Art. 46 din Normele metodologice este abrogat, dar obligația este prevăzută de art. 7 alin. (8) din Legea nr. 98/2016.”",
+  "lot": "01",
+  "fisier": "OUGB-migrat.json"
+ },
+ {
+  "id": "L101A-011",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 4 alin. (1) Legea 101/2016; art. 6 și 7 apar „Abrogat.”), dar: (1) explicația conține istoric de modificare preluat din §NOTA§ („abrogarea s-a făcut prin O.U.G. nr. 45/2018, de la 4 iunie 2018”) — interzis de SPEC §4 pct. 6 și sursă nenormativă; (2) varianta corectă include ea însăși istoric („care o reglementau”) și e vizibil mai lungă decât distractorii (indiciu de răspuns); (3) termenele de 5/10 zile din distractor nu sunt verificabile în textul la zi (provin din regimul abrogat), deci distractorul nu e „din aceeași lege cu alt rol” (SPEC §4 pct. 2).",
+  "propunere": "Varianta corectă: „Nu are nicio obligație de notificare prealabilă; se poate adresa direct Consiliului sau instanței de judecată”. Distractorul cu 5/10 zile se înlocuiește cu: „Trebuie să notifice autoritatea contractantă în termenul de 10, respectiv 7 zile de la luarea la cunoștință, după cum valoarea estimată este peste sau sub pragurile JOUE” (valori reale din art. 8 alin. (1), cu alt rol). Din explicație se elimină paranteza „(potrivit notei portalului, abrogarea s-a făcut prin O.U.G. nr. 45/2018, de la 4 iunie 2018)”, rămânând: „Capitolul II (art. 6 și 7) apare în forma la zi cu mențiunea «Abrogat.»”.",
+  "lot": "02",
+  "fisier": "L101A-migrat.json"
+ },
+ {
+  "id": "L101A-015",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 9 alin. (6) din Legea 101/2016 — „măsurile de remediere adoptate potrivit alin. (1) privesc numai loturile pentru care s-a depus contestație”; art. 9 alin. (1) („în cel mult 3 zile de la primirea contestației”) confirmă explicația. Dar enunțul nu numește actul (SPEC §4 pct. 3).",
+  "propunere": "Enunț: „Potrivit Legii nr. 101/2016, o procedură de atribuire este împărțită pe 5 loturi, iar un ofertant depune contestație doar pentru lotul 2. Măsurile de remediere adoptate de autoritatea contractantă ca urmare a contestației:”",
+  "lot": "03",
+  "fisier": "L101A-migrat.json"
+ },
+ {
+  "id": "OUGA-010",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 7 alin. (1) lit. a)-b) din O.U.G. 98/2017 („rezultatul selecției să nu fie predictibil”; „să fie flexibilă, și anume parțial bazată pe alegerea aleatorie ..., parțial pe indicatori de risc”). Enunțul însă nu numește actul (SPEC §4 pct. 3), iar explicația nu indică articolul pentru afirmația despre accentul pe categoriile cu riscul cel mai mare (art. 7 alin. (3)).",
+  "propunere": "Enunț: „Potrivit O.U.G. nr. 98/2017, ce principii urmărește metodologia de selecție a procedurilor de atribuire supuse controlului ex ante?”. În explicație: „...selecția pune accent pe contractele din categoriile cu riscul cel mai mare (art. 7 alin. (3)).”",
+  "lot": "03",
+  "fisier": "OUGA-migrat.json"
+ },
+ {
+  "id": "OUGA-011",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 7 alin. (6) din O.U.G. 98/2017 — ANAP verifică „măsurile de remediere adoptate de către autoritatea contractantă ... până la semnarea contractului ... indiferent dacă procedurile ... au fost incluse sau nu în programul de verificare”; art. 14 alin. (9^1) (fără aviz conform, constatări comunicate ANI) citat corect. Enunțul însă nu numește actul (SPEC §4 pct. 3).",
+  "propunere": "Enunț: „Potrivit O.U.G. nr. 98/2017, ce verifică ANAP în cadrul controlului ex ante după comunicarea unui avertisment de integritate emis de Agenția Națională de Integritate?”",
+  "lot": "03",
+  "fisier": "OUGA-migrat.json"
+ },
+ {
+  "id": "L101C-003",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: cele trei variante reproduc art. 14 alin. (1)-(3), iar repartizarea de către președinte, după încărcătură, nu are temei. Afirmația secundară din ultima propoziție a explicației e însă inexactă. Explicația spune „restul hotărârilor sunt încheieri”, dar art. 27 alin. (2) din Legea nr. 101/2016 prevede: „Toate celelalte hotărâri pronunțate de Consiliu se numesc încheieri, cu excepția celor de unificare a practicii administrativ-jurisdicționale.” În plus, art. 27 alin. (1) vorbește despre hotărârea prin care Consiliul „se dezinvestește fără a soluționa contestația pe fond”, nu simplu despre o decizie care „dezînvestește Consiliul”.",
+  "propunere": "Ultima propoziție a explicației se înlocuiește cu: „Distincția este detaliată de art. 27 alin. (1) și (2): decizia este hotărârea prin care contestația este soluționată sau prin care Consiliul se dezinvestește fără a o soluționa pe fond; celelalte hotărâri sunt încheieri, cu excepția celor de unificare a practicii administrativ-jurisdicționale.”",
+  "lot": "04",
+  "fisier": "L101C-migrat.json"
+ },
+ {
+  "id": "OUGB-026",
+  "verdict": "SUSPECT",
+  "motiv": "Cheile (3 corecte) corespund art. 6 alin. (2) lit. a) și b) din Normele H.G. nr. 419/2018 (JOUE „în cel mult o zi lucrătoare”, înregistrarea datei „ca probă privind momentul transmiterii”, SEAP „în cel mult 2 zile lucrătoare”). Probleme: enunțul nu numește actul (SPEC §4.3); distractorul cu „confirmare suplimentară în 24 de ore” e inventat, nu o valoare reală din act (SPEC §4.2); ultima frază a explicației e o concluzie generală, nu o trimitere la text (SPEC §4.8).",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 419/2018, după ce ANAP a emis acceptul de publicare pentru un anunț de tip erată, care dintre următoarele obligații revin operatorului SEAP?” Distractor nou: „Să emită autorității contractante aviz conform condiționat pentru anunțul de tip erată” (atribuție a ANAP, art. 6 alin. (1) lit. b), pentru cazul respingerii publicării). Explicația: „Emiterea avizului conform condiționat revine ANAP, și numai când respinge publicarea (art. 6 alin. (1) lit. b)), nu operatorului SEAP.”",
+  "lot": "05",
+  "fisier": "OUGB-migrat.json"
+ },
+ {
+  "id": "OUGA-017",
+  "verdict": "SUSPECT",
+  "motiv": "Cheile corespund art. 12 alin. (1) lit. a)–c) din O.U.G. nr. 98/2017. Probleme: enunțul nu numește actul (SPEC §4.3); explicația are doar 3 propoziții (SPEC §4.4 cere 4–8) și reduce lit. d) la „documentele-suport ale câștigătorului”, deși textul vizează și „candidații ce urmează a fi selectați ... în cadrul procedurilor care prevăd etapă de preselecție”; trimiterea la art. 10 alin. (1) lit. a) ca excepție „expresă” e nuanțată în text („cu excepția studiului de fundamentare ... dacă nu este solicitat potrivit lit. i)”).",
+  "propunere": "Enunț: „Potrivit O.U.G. nr. 98/2017, pentru care dintre următoarele elemente emite ANAP aviz conform, o singură dată pe fiecare fază, în cadrul controlului ex ante al procesului de evaluare a ofertelor/candidaturilor?” Explicație: „...lit. d) adaugă documentele-suport ale candidaților care urmează a fi selectați, respectiv ale ofertantului care urmează a fi declarat câștigător, iar lit. e) concluziile finale privind neconformitățile neremediate. Studiul de fundamentare de la art. 229 din Legea nr. 98/2016 este exceptat de la verificarea documentației de atribuire (art. 6 alin. (2) lit. a)) și nu figurează printre fazele art. 12 alin. (1).”",
+  "lot": "05",
+  "fisier": "OUGA-migrat.json"
+ },
+ {
+  "id": "L101C-004",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia reproduce fidel art. 18 alin. (2) din Legea nr. 101/2016 („o copie a dosarului achiziției publice ... precum și dovada înaintării punctului de vedere către contestator și orice documente considerate edificatoare, cu excepția anunțurilor de participare publicate în SEAP și a documentației de atribuire, atunci când aceasta este disponibilă și poate fi descărcată direct din SEAP”). Enunțul nu numește actul (SPEC §4.3), iar varianta corectă este vizibil mai lungă și mai detaliată decât distractorii (indiciu de formă). Explicația ar trebui să precizeze termenul: 5 zile de la primirea contestației (art. 18 alin. (1)).",
+  "propunere": "Enunț: „Potrivit Legii nr. 101/2016, odată cu punctul de vedere asupra contestației, ce are obligația autoritatea contractantă să transmită Consiliului și ce excepție prevede expres legea?” Explicație, prima frază: „Art. 18 alin. (2) impune transmiterea, în termenul de 5 zile de la primirea contestației prevăzut la alin. (1), a copiei dosarului achiziției, ...”. Opțional, distractorii se lungesc la nivel similar.",
+  "lot": "05",
+  "fisier": "L101C-migrat.json"
+ },
+ {
+  "id": "OUGB-006",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 37 alin. (3) din Norme spune că autoritatea „nu reține garanția de participare … în acest caz nefiind aplicabile dispozițiile alin. (1) lit. c) și ale 144 alin. (1)”. Explicația însă nu indică articolul regulii generale pe care se sprijină distractorul „reține integral” (art. 37 alin. (1) lit. c)) și nici excluderea art. 144 alin. (1). Încheie cu o concluzie generală („nu există în text”), nu cu o trimitere, contrar SPEC §4.4 și §4.8. Distractorii „jumătate” și „numai dacă nu depune contestație” nu au corespondent în lege (SPEC §4.2).",
+  "propunere": "Explicația: „Regula generală din art. 37 alin. (1) lit. c) din Norme obligă autoritatea contractantă să rețină garanția de participare când ofertantul câștigător refuză să semneze contractul în perioada de valabilitate a ofertei; varianta reținerii integrale descrie această regulă, înlăturată aici de alin. (3), care exclude expres și aplicarea art. 144 alin. (1).” Distractorul „reține jumătate” se înlocuiește cu: „Autoritatea contractantă reține garanția de participare, iar refuzul nemotivat se asimilează situației de la art. 167 alin. (1) lit. g) din Lege” (vine din art. 144 alin. (1) din Norme, exclus expres de alin. (3)).",
+  "lot": "06",
+  "fisier": "OUGB-migrat.json"
+ },
+ {
+  "id": "L101A-033",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 23 alin. (2) Legea 101/2016: „poate fi atacată cu plângere la instanța competentă prevăzută la art. 32 alin. (1), în mod separat, în termen de 5 zile de la comunicare”), dar enunțul nu numește actul (SPEC §4 pct. 3). Explicația nu arată de unde vin valorile distractorilor (SPEC §4 pct. 4) și respinge două variante prin afirmații generale nefundamentate textual („Nu există recurs la ICCJ în acest sistem”, „CNSC nu își judecă propriile încheieri”). Termenul de 3 zile provine din art. 22 alin. (1) (soluționarea cererii de suspendare), iar 10 zile din art. 29 (plângerea contra deciziei, de la comunicare).",
+  "propunere": "Enunț: „Potrivit Legii nr. 101/2016, cum poate fi atacată încheierea Consiliului Național de Soluționare a Contestațiilor privind soluționarea cererii de suspendare a procedurii de atribuire?”. Explicație, înlocuiește fraza despre ICCJ/CNSC cu: „Termenul de 3 zile este cel în care Consiliul se pronunță asupra cererii de suspendare (art. 22 alin. (1)), nu un termen de atac; instanța competentă este curtea de apel, secția de contencios administrativ și fiscal (art. 32 alin. (1)), nu ICCJ, iar termenul de 10 zile este cel pentru plângerea împotriva deciziei de soluționare a contestației (art. 29).”",
+  "lot": "07",
+  "fisier": "L101A-migrat.json"
+ },
+ {
+  "id": "OUGB-033",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (3/4) e corectă față de art. 8 alin. (1) lit. c), d), e) din Normele aprobate prin H.G. nr. 419/2018, dar enunțul spune doar „din Normele metodologice”, fără a numi actul — ambiguu în corpus, unde există și Normele H.G. nr. 395/2016, al căror art. 8 are alt conținut (SPEC §4 pct. 3). Nuanță neobligatorie: art. 8 alin. (2) adaugă 3 zile lucrătoare la termenul de la lit. c) când procedura implică runde de negociere/dialog; varianta „propunerile financiare — 2 zile lucrătoare” rămâne corectă doar pentru că enunțul se limitează la alin. (1).",
+  "propunere": "Enunț: „Potrivit art. 8 alin. (1) din Normele metodologice aprobate prin H.G. nr. 419/2018 (controlul ex ante), care dintre următoarele corespondențe între faza controlului ex ante al procesului de evaluare și termenul aplicabil sunt corecte?”. Opțional, în explicație: „Dacă procedura implică runde de negociere/dialog, la termenul de la lit. c) se adaugă 3 zile lucrătoare (art. 8 alin. (2)).”",
+  "lot": "07",
+  "fisier": "OUGB-migrat.json"
+ },
+ {
+  "id": "L101A-035",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (2/4) e corectă conform art. 25 alin. (1) lit. a)-b) din Legea 101/2016; art. 18 alin. (3), art. 25 alin. (3) și (5) sunt citate exact. Enunțul însă nu numește actul (doar „CNSC”; SPEC §4 pct. 3), iar respingerea variantei cu avocatul se face printr-un argument general („ar contrazice celeritatea”), nu prin text.",
+  "propunere": "Enunț: „Potrivit Legii nr. 101/2016, în care dintre următoarele situații poate Consiliul Național de Soluționare a Contestațiilor să suspende, prin încheiere, procedura de soluționare a contestației?”. Explicație: „Solicitarea unui termen pentru angajarea unui avocat nu figurează printre cele două cazuri enumerate de art. 25 alin. (1).”",
+  "lot": "07",
+  "fisier": "L101A-migrat.json"
+ },
+ {
+  "id": "OUGB-034",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă: art. 8 alin. (2) din Normele H.G. 419/2018 — „la termenele prevăzute conform alin. (1) lit. b) și c) se adaugă 3 zile lucrătoare”; trimiterile la art. 5 alin. (4) și art. 11 alin. (4) (5 zile lucrătoare) și la art. 12 alin. (1) din O.U.G. 98/2017 („o singură dată, pe fiecare fază”) sunt exacte. Enunțul însă nu numește actul (nici O.U.G. 98/2017, nici Normele H.G. 419/2018; SPEC §4 pct. 3), iar varianta de răspuns trimite la „art. 8 alin. (1)” fără ca enunțul să spună din ce act.",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 419/2018 (controlul ex ante), în cazul în care procedura de atribuire supusă controlului ex ante implică și derularea unor runde de negociere/dialog, cum se modifică termenele de control ex ante ale fazelor de evaluare prevăzute la art. 8 alin. (1)?”",
+  "lot": "07",
+  "fisier": "OUGB-migrat.json"
+ },
+ {
+  "id": "L101A-037",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (art. 26 alin. (2) lit. a)-c)) e corectă, dar distractorul „Să atribuie direct contractul contestatorului, ca măsură de remediere” e parțial apărabil: art. 26 alin. (10) spune „Consiliul nu poate decide atribuirea contractului către un anumit operator economic, cu excepția situației în care acesta a fost desemnat de autoritatea contractantă sau calitatea sa de ofertant câștigător rezultă din informațiile cuprinse în dosarul de soluționare a contestației” — deci există o ipoteză în care CNSC poate decide atribuirea. Explicația spune „expres interzisă” și apoi recunoaște excepția, ceea ce slăbește distractorul. Ultima frază („Evaluarea ofertelor rămâne atributul autorității contractante”) e o concluzie generală, nu trimitere la text.",
+  "propunere": "Distractorul se înlocuiește cu: „Să modifice ea însăși specificațiile tehnice din caietul de sarcini, în locul autorității contractante” (art. 26 alin. (3): Consiliul „dispune modificarea/eliminarea” specificațiilor, iar autoritatea contractantă le pune în aplicare). Explicația: „Consiliul nu modifică el însuși documentația: potrivit art. 26 alin. (3), el dispune modificarea sau eliminarea specificațiilor tehnice, iar autoritatea contractantă aplică măsura și anulează procedura doar dacă nu poate lua nicio altă măsură de remediere.” Ultima frază: „Când dispune reevaluarea, Consiliul indică limitele acesteia și măsurile concrete pe care le va adopta autoritatea contractantă (art. 26 alin. (10^1)).”",
+  "lot": "08",
+  "fisier": "L101A-migrat.json"
+ },
+ {
+  "id": "L101A-042",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 26 alin. (4): „sesizează atât Agenția Națională pentru Achiziții Publice [...] și Curtea de Conturi [...] cât și autoritatea contractantă”). Probleme minore: enunțul nu numește actul (Legea nr. 101/2016) și folosește „Consiliul” nedefinit (SPEC §4.3); ultima frază a explicației e o caracterizare proprie, fără sprijin în text („autoritățile cu competențe de reglementare, respectiv de control ex post”), nu o trimitere la text (SPEC §4.8).",
+  "propunere": "Enunț: „Potrivit Legii nr. 101/2016, cum procedează Consiliul Național de Soluționare a Contestațiilor dacă, în cursul soluționării contestației, constată că [...]?” Ultima frază a explicației: „Varianta sesizării exclusive a organelor de urmărire penală, fără informarea autorității contractante, contrazice art. 26 alin. (4), care numește expres ca destinatari ANAP, Curtea de Conturi și autoritatea contractantă.”",
+  "lot": "08",
+  "fisier": "L101A-migrat.json"
+ },
+ {
+  "id": "OUG98-N102",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 17: condițiile de inițiere și mecanismul concilierii „vor fi reglementate prin normele metodologice de aplicare a prezentei ordonanțe de urgență”; art. 28 – norme aprobate prin hotărâre a Guvernului). Afirmație secundară inexactă în explicație: „Legea nr. 101/2016 [...] se aplică în mod corespunzător doar în privința constatării nulității absolute a contractului, potrivit art. 14 alin. (8)” — ordonanța mai trimite la Legea 101/2016 și în alte privințe, de ex. art. 22: „Avizele conforme emise de ANAP pot fi atacate numai împreună cu actele administrative ale autorității contractante [...] în baza prevederilor Legii nr. 101/2016”, iar art. 14 alin. (9) se raportează la termenele de așteptare din Legea 101/2016.",
+  "propunere": "Fraza se înlocuiește cu: „Legea nr. 101/2016 nu reglementează concilierea: ordonanța trimite la ea pentru constatarea nulității absolute a contractului (art. 14 alin. (8), cap. VI secțiunea a 3-a, aplicată în mod corespunzător) și pentru atacarea avizelor conforme, numai împreună cu actele autorității contractante (art. 22).”",
+  "lot": "08",
+  "fisier": "OUG98-N1.json"
+ },
+ {
+  "id": "OUGA-028",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 18 alin. (3) lit. a) și b) din O.U.G. nr. 98/2017; alin. (2) – 2 zile lucrătoare fără examinare pe fond; nici în Normele H.G. 419/2018, art. 14–18, nu există termen în zile calendaristice). Dar enunțul nu numește actul (SPEC §4 pct. 3 „Enunț autonom”), iar explicația citează „Art. 18 alin. (3)” fără act, deși și Normele H.G. 419/2018 au un art. 18 despre decizia de conciliere (cu termen de o zi lucrătoare pentru avizul conform final, art. 18 alin. (5)) — risc real de confuzie.",
+  "propunere": "Enunț: „Potrivit O.U.G. nr. 98/2017, care dintre următoarele afirmații privind termenele de emitere a deciziei de conciliere adoptate ca urmare a examinării pe fond sunt adevărate?”; în explicație: „Art. 18 alin. (3) din O.U.G. nr. 98/2017 prevede ...” și „(art. 18 alin. (2) din O.U.G. nr. 98/2017)”.",
+  "lot": "09",
+  "fisier": "OUGA-migrat.json"
+ },
+ {
+  "id": "L101B-005",
+  "verdict": "SUSPECT",
+  "motiv": "Varianta-cheie privind competența („curtea de apel ... în a cărei rază teritorială se află sediul autorității contractante”) este formulată absolut, dar art. 32 alin. (2) din Legea nr. 101/2016 derogă: „Instanța competentă să soluționeze plângerea formulată împotriva deciziei pronunțate de Consiliu privind procedurile de atribuire de servicii și/sau lucrări aferente infrastructurii de transport de interes național ... este Curtea de Apel București”. Explicația nu menționează excepția. În plus, enunțul nu numește actul (SPEC §4.3). Restul (alin. (4): 45 de zile, 3 judecători; art. 36^1 scutire de taxă; art. 52^1: 2%, max. 100.000.000 lei) verificat și corect.",
+  "propunere": "Enunț: „Potrivit Legii nr. 101/2016, care dintre următoarele afirmații privind soluționarea plângerii formulate împotriva deciziei CNSC sunt adevărate, ca regulă generală (în afara procedurilor privind infrastructura de transport de interes național)?” Și în explicație: „Prin excepție, pentru procedurile de atribuire de servicii și/sau lucrări aferente infrastructurii de transport de interes național, competența aparține Curții de Apel București (art. 32 alin. (2)).”",
+  "lot": "10",
+  "fisier": "L101B-migrat.json"
+ },
+ {
+  "id": "OUGC-006",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 17 alin. (1) lit. a) și b) Norme H.G. 419/2018). Două probleme secundare: (1) enunțul nu numește actul (SPEC §4.3); (2) explicația afirmă că la documentele noi „sancțiunea este neluarea lor în considerare”, dar textul nu prevede o asemenea sancțiune — art. 17 alin. (4) spune doar: „Examinarea cererii de conciliere se realizează pe baza informațiilor ce au fost avute în vedere de verificatorii ex-ante la momentul emiterii avizului conform condiționat, nefiind permisă prezentarea unor documente noi”.",
+  "propunere": "Enunț: „Potrivit Normelor metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018), în care dintre următoarele situații este respinsă ca inadmisibilă, fără examinare pe fond, cererea de conciliere?” În explicație, înlocuiește „dar sancțiunea este neluarea lor în considerare, nu respingerea ca inadmisibilă a cererii” cu „dar această interdicție nu figurează printre cele două cazuri de inadmisibilitate enumerate la art. 17 alin. (1)”.",
+  "lot": "10",
+  "fisier": "OUGC-migrat.json"
+ },
+ {
+  "id": "N419-N108",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia este corectă: art. 21 din Normele H.G. 419/2018 prevede „Anexele nr. 1.1-1.3 fac parte integrantă din prezentele norme metodologice.” Toate trimiterile din explicație sunt exacte: art. 4 alin. (8), art. 10 alin. (2), art. 14 alin. (2), art. 17 alin. (1) lit. b) și art. 17 din O.U.G. Problema ține de calitate (SPEC §4 pct. 6-7): întrebarea testează clauza finală standard de tipul „anexele fac parte integrantă”, adică o formulă de tehnică legislativă, nu o normă de examen (termen, competență, consecință).",
+  "propunere": "Reformulează pe consecința juridică a aceleiași anexe: „Potrivit Normelor metodologice de aplicare a O.U.G. nr. 98/2017, aprobate prin H.G. nr. 419/2018, ce se întâmplă cu o cerere de conciliere care nu conține toate informațiile prevăzute de modelul din anexa nr. 1.3?” Cheie: „Este respinsă ca inadmisibilă, fără examinare pe fond (art. 17 alin. (1) lit. b))”. Distractori din același act: „Se soluționează pe fond, ANAP putând solicita informații suplimentare (art. 18 alin. (3) lit. b) din O.U.G.)”; „Autoritatea contractantă o poate completa cu documente noi (interzis de art. 17 alin. (4))”; „Rămâne fără obiect (art. 14 alin. (3), renunțare)”.",
+  "lot": "12",
+  "fisier": "N419-N1.json"
+ },
+ {
+  "id": "OUGC-003",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia este corectă (art. 25 alin. (3) din O.U.G. nr. 98/2017). Distractorii sunt atribuiți corect: alin. (2) pentru invalidarea totală, art. 19 alin. (2) lit. b) pentru noul aviz după conciliere, art. 25 alin. (1) pentru termenul de 3 luni. Enunțul însă nu numește actul normativ, contrar SPEC §4 pct. 3 („Enunț autonom: numește actul”); nicăieri în întrebare nu apare „O.U.G. nr. 98/2017”.",
+  "propunere": "Începe enunțul cu: „Potrivit O.U.G. nr. 98/2017, Consiliul Național de Soluționare a Contestațiilor s-a pronunțat în mod definitiv asupra unor acte ale autorității contractante care făcuseră obiectul unui aviz conform condiționat al ANAP, iar din decizie rezultă doar o invalidare parțială a constatărilor ANAP. Contractul a fost deja semnat. Cum procedează ANAP?”",
+  "lot": "12",
+  "fisier": "OUGC-migrat.json"
+ }
+]

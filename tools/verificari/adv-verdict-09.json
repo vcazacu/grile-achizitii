@@ -1,0 +1,182 @@
+[
+ {
+  "id": "N395-N314",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 116 alin. (1) din Norme; distractorul cu informațiile introduse de AC este condiția de la art. 116 alin. (2) (utilizare parțială/reluarea competiției); art. 66 alin. (3) și art. 70 alin. (3) sunt citate corect.",
+  "propunere": ""
+ },
+ {
+  "id": "ALOP-029",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia (trei variante corecte) e confirmată de pct. 3 din Normele ALOP („Ordonanțarea de plată trebuie să conțină date cu privire la: – exercițiul bugetar ...; – subdiviziunea bugetară ...; – suma de plată (în cifre și litere) ...; – datele de identificare a beneficiarului plății; – natura cheltuielilor; – modalitatea de plată”). Dar explicația conține o referire pozițională interzisă (SPEC §4 pct. 5) și greșită: „Varianta de la indicele 2 este falsă” — în ordinea din fișier, indicele 2 este varianta corectă „Datele de identificare a beneficiarului plății, natura cheltuielilor și modalitatea de plată”; varianta falsă este cea cu procesul-verbal de recepție finală. Explicația nu numește nici punctul din Norme (pct. 3 „Ordonanțarea cheltuielilor”). Procesul-verbal de recepție apare la pct. 2 (lichidare), ceea ce e corect.",
+  "propunere": "Înlocuiește în explicație fraza „Varianta de la indicele 2 este falsă ca element obligatoriu de conținut al ordonanțării — ...” cu: „Numărul și data procesului-verbal de recepție finală nu figurează printre elementele obligatorii de la pct. 3: procesul-verbal de recepție este un document întocmit de comisia de recepție, folosit la lichidare (pct. 2), iar formularul din anexa nr. 3 cere lista documentelor justificative și nr./data angajamentului legal, nu identificarea unui anumit proces-verbal.” și prima frază să înceapă „Pct. 3 «Ordonanțarea cheltuielilor» din Normele ALOP enumeră șase elemente ...”."
+ },
+ {
+  "id": "L98-N410",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 168 alin. (3); art. 168 alin. (1)–(2) și art. 167 alin. (1) lit. h) sunt folosite corect pentru distractori.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N401",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 117 din Norme; paragraful 3 „Licitația electronică” cuprinde într-adevăr art. 114–122 și nu prevede avizarea ANAP; art. 119 alin. (1) (runde și intervale de minimum o zi) citat corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N411",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 169; trimiterea la art. 193 alin. (1) lit. a) pentru DUAE ca dovadă preliminară este corectă.",
+  "propunere": ""
+ },
+ {
+  "id": "L500-N206",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 31^1 alin. (1) (memorandum, 15 iulie); distractorii provin corect din art. 31 (1 iunie), art. 30 alin. (2) (hotărâri de Guvern), art. 32 (31 iulie), art. 33 alin. (1) (scrisoarea-cadru, 1 august).",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N402",
+  "verdict": "OK",
+  "motiv": "Cele trei variante corecte reproduc exact enumerarea din art. 118 din Norme; distractorul cu identitatea ofertanților e contrazis de art. 121 alin. (3).",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N412",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 170 alin. (2) („o singură dată”); art. 170 alin. (1), (3) și art. 172 alin. (4) citate corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N413",
+  "verdict": "OK",
+  "motiv": "Cele trei variante corecte reproduc art. 172 alin. (1), (4) și (5); varianta cu cerințe suplimentare justificate e contrazisă de art. 172 alin. (2), fără excepție.",
+  "propunere": ""
+ },
+ {
+  "id": "L500-N207",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 31^1 alin. (4) lit. d); coordonarea (alin. (2) lit. a)), strategia multianuală (alin. (3) lit. a)) și informarea anuală până la sfârșitul lunii iunie (alin. (3) lit. e)) sunt ale Ministerului Finanțelor.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N403",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 120 din Norme (înregistrare SEAP + invitație); trimiterea la art. 116 alin. (1) (clasamentul ofertelor admisibile) e corectă.",
+  "propunere": ""
+ },
+ {
+  "id": "N419-N101",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 12 alin. (3) din Normele H.G. 419/2018 (recomandarea finală, 3 zile lucrătoare); art. 11 alin. (5) (aviz conform final, 2 zile lucrătoare), art. 12 alin. (2) (5 zile lucrătoare) și art. 21 alin. (3) din O.U.G. 98/2017 (fără aviz conform la modificări) citate corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N501",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 173 alin. (1): „în conformitate cu cerințele legale din țara în care este stabilit operatorul economic”). Trimitere inexactă în explicație: „Caietul de sarcini cuprinde specificațiile tehnice (art. 155 alin. (1))” — art. 155 alin. (1) din Lege spune doar că „Specificațiile tehnice sunt stabilite prin documentația de atribuire”, fără a menționa caietul de sarcini; regula e în art. 20 alin. (10) din Norme: „Caietul de sarcini conține, în mod obligatoriu, specificații tehnice ...”.",
+  "propunere": "Înlocuiește fraza cu: „Caietul de sarcini conține specificațiile tehnice ale obiectului achiziției (art. 20 alin. (10) din Normele aprobate prin H.G. nr. 395/2016), nu regulile după care se dovedește înregistrarea operatorului.”"
+ },
+ {
+  "id": "L98-N502",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 174 alin. (2); art. 184, art. 185 alin. (1), art. 172 alin. (4) și art. 183 alin. (2) („o singură dată”) citate corect.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N404",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 121 alin. (2) din Norme; art. 121 alin. (1), (3) și art. 122 alin. (1) (clasament pus la dispoziția AC) folosite corect pentru distractori.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N503",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 176 alin. (2); regulile acordului-cadru (execuție simultană / cel mai mare contract subsecvent) sunt din art. 176 alin. (1), limita de două ori din art. 175 alin. (2) lit. a).",
+  "propunere": ""
+ },
+ {
+  "id": "OUGA-028",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 18 alin. (3) lit. a) și b) din O.U.G. nr. 98/2017; alin. (2) – 2 zile lucrătoare fără examinare pe fond; nici în Normele H.G. 419/2018, art. 14–18, nu există termen în zile calendaristice). Dar enunțul nu numește actul (SPEC §4 pct. 3 „Enunț autonom”), iar explicația citează „Art. 18 alin. (3)” fără act, deși și Normele H.G. 419/2018 au un art. 18 despre decizia de conciliere (cu termen de o zi lucrătoare pentru avizul conform final, art. 18 alin. (5)) — risc real de confuzie.",
+  "propunere": "Enunț: „Potrivit O.U.G. nr. 98/2017, care dintre următoarele afirmații privind termenele de emitere a deciziei de conciliere adoptate ca urmare a examinării pe fond sunt adevărate?”; în explicație: „Art. 18 alin. (3) din O.U.G. nr. 98/2017 prevede ...” și „(art. 18 alin. (2) din O.U.G. nr. 98/2017)”."
+ },
+ {
+  "id": "N395-N405",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 123 alin. (2) din Norme; art. 132 alin. (1)–(2) din Norme și art. 57 alin. (4) din Lege citate corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L101C-007",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 28 alin. (5) din Legea 101/2016 („are dreptul”); art. 28 alin. (1)–(4) și art. 33 alin. (1) (suspendare dispusă de instanță, la cerere) citate corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N505",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 178 alin. (3) (produse care necesită lucrări sau operațiuni de amplasare sau instalare); distractorul „complexe/scop special” provine corect din art. 179 lit. f).",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N608",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 219 alin. (3)–(4); notificarea (alin. (2)), art. 222 alin. (1) și pragul de 10% din art. 221 alin. (1) lit. f) pct. (ii) sunt atribuite corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L500-043",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 33 alin. (1); distractorii provin corect din art. 34 alin. (1) (1 septembrie), art. 35 alin. (2) (raportul macroeconomic) și art. 17 alin. (2) (procedura de urgență).",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N506",
+  "verdict": "OK",
+  "motiv": "Cele două variante corecte reproduc art. 180 alin. (2) și (3); forma de înregistrare (art. 173) și lichiditatea/asigurarea de risc (art. 175 alin. (2) lit. b)–c)) nu sunt printre excepții.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N406",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 125 din Norme („inclusiv forța majoră sau cazul fortuit, cad în sarcina operatorului economic”).",
+  "propunere": ""
+ },
+ {
+  "id": "OUGC-005",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 13 alin. (1) din Normele H.G. 419/2018; excepția letrică (alin. (3)), art. 14 alin. (3)–(4) din O.U.G. (publicare automată) și art. 13 alin. (6) citate corect. Afirmația că avizul se aprobă la nivelul structurii de specialitate e adevărată (art. 14 alin. (7^1) din O.U.G. nr. 98/2017), dar e lăsată fără trimitere — se poate adăuga „(art. 14 alin. (7^1) din O.U.G. nr. 98/2017)”.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N507",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 181: „... sunt prevăzute în anunțul de participare”). Două afirmații secundare inexacte în explicație: (1) „Caietul de sarcini cuprinde specificațiile tehnice ... (art. 155 alin. (1))” — art. 155 alin. (1) spune doar că „Specificațiile tehnice sunt stabilite prin documentația de atribuire”; regula despre caietul de sarcini este art. 20 alin. (10) din Norme („Caietul de sarcini conține, în mod obligatoriu, specificații tehnice ...”); (2) ultima frază („Cerința de a include aceste elemente în anunț corespunde regulii de la art. 172 alin. (5)”) e o legătură neîntemeiată: art. 172 alin. (5) privește legătura cu obiectul contractului și proporționalitatea, nu locul în care se prevăd cerințele.",
+  "propunere": "Fraza (1): „Caietul de sarcini conține specificațiile tehnice ale obiectului achiziției (art. 20 alin. (10) din Normele aprobate prin H.G. nr. 395/2016), nu criteriile de capacitate ale ofertanților; criteriile de calificare care apar în caietul de sarcini dar nu și în anunț sunt considerate clauze nescrise (art. 30 alin. (6) din Norme).” Ultima frază înlocuită cu: „Potrivit art. 30 alin. (6) din Norme, criteriile de calificare și selecție care nu sunt prevăzute în anunțul de participare/simplificat/de concurs sunt considerate clauze nescrise.”"
+ },
+ {
+  "id": "L98C-052",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 182 alin. (1), art. 183 alin. (2), art. 184; varianta falsă e contrazisă de art. 182 alin. (2): „doar atunci când acesta va desfășura efectiv lucrările sau serviciile”). Minor: explicația conține o referire la istoricul modificărilor („Art. 184, în forma dată de Legea nr. 208/2022”), preluată dintr-o linie §NOTA§, contrar SPEC §4 pct. 6 (se testează și se explică norma în vigoare, fără istoric).",
+  "propunere": "Înlocuiește „Art. 184, în forma dată de Legea nr. 208/2022, impune ...” cu „Art. 184 impune ...”."
+ },
+ {
+  "id": "N395B-044",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 126 alin. (7), (8), (9)–(10) din Normele H.G. 395/2016; nici Normele, nici Legea nr. 98/2016 nu impun număr minim sau impar de membri ai comisiei de evaluare — „cel puțin 3 membri” apare doar pentru juriul concursului de soluții, art. 99 alin. (2) din Norme). Probleme: (1) enunțul spune doar „potrivit Normelor metodologice”, fără a preciza H.G. nr. 395/2016 (banca include și Normele H.G. 419/2018 și Normele ALOP) — SPEC §4 pct. 3; (2) explicația afirmă că numărul impar/minim „aparține reglementărilor anterioare”, afirmație istorică neverificabilă în corpus (SPEC §4 pct. 6 și 8); (3) calificarea „obligație de rezultat atenuată” pentru art. 126 alin. (8) nu are temei în text; (4) ultima propoziție e o concluzie generală, nu o trimitere la text.",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele afirmații privind componența și funcționarea comisiei de evaluare sunt corecte?”. În explicație: elimină „- o obligație de rezultat atenuată” și înlocuiește ultima frază cu: „Art. 126 din Norme nu stabilește un număr minim ori impar de membri ai comisiei de evaluare; pragul de «cel puțin 3 membri» apare doar la juriul concursului de soluții (art. 99 alin. (2) din Norme).”"
+ },
+ {
+  "id": "L98-N508",
+  "verdict": "OK",
+  "motiv": "Cheia reproduce art. 183 alin. (2); art. 183 alin. (1) și art. 184 citate corect.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N407",
+  "verdict": "OK",
+  "motiv": "Variantele corecte reproduc art. 127 alin. (1) lit. a) și k) din Norme; aprobarea raportului (art. 127 alin. (2)) și numirea persoanei responsabile (art. 126 alin. (6)) sunt atribuite corect.",
+  "propunere": ""
+ }
+]

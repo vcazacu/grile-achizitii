@@ -1,0 +1,416 @@
+[
+ {
+  "id": "ALOP-015",
+  "tip": "unic",
+  "test": 14,
+  "intrebare": "Cum definesc Normele metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002) angajamentul bugetar?",
+  "variante": [
+   "Orice act prin care o autoritate competentă, potrivit legii, afectează fonduri publice unor anumite destinații, în limita creditelor bugetare aprobate.",
+   "Faza în procesul execuției bugetare reprezentând orice act juridic din care rezultă sau ar putea rezulta o obligație pe seama fondurilor publice.",
+   "Documentul intern prin care ordonatorul de credite dă dispoziție conducătorului compartimentului financiar să întocmească instrumentele de plată a cheltuielilor.",
+   "Limita maximă a cheltuielilor ce pot fi angajate, în timpul exercițiului bugetar, în limitele aprobate."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Pct. 1 lit. b) din Normele ALOP definește angajamentul bugetar ca orice act prin care o autoritate competentă, potrivit legii, afectează fonduri publice unor anumite destinații, în limita creditelor bugetare aprobate; prin documentul scris privind angajamentul bugetar se pun în rezervă (se blochează) creditele aferente unei cheltuieli. Varianta cu faza în procesul execuției bugetare reprezentând orice act juridic din care rezultă sau ar putea rezulta o obligație pe seama fondurilor publice este definiția angajamentului legal de la pct. 1 lit. a), nu a celui bugetar — confuzia dintre cele două este capcana clasică a acestui punct. Varianta cu limita maximă a cheltuielilor ce pot fi angajate este definiția creditului de angajament, tot de la pct. 1. Varianta cu documentul intern prin care ordonatorul de credite dispune întocmirea instrumentelor de plată este definiția ordonanțării de plată de la pct. 3. Potrivit pct. 1 lit. a), angajamentul legal ia forma unui contract de achiziție publică, comandă, convenție, contract de muncă, acord de împrumut etc., iar potrivit pct. 1 lit. b) angajamentul bugetar îl precedă.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea cheltuielilor)",
+   "citat": "b) Angajamentul bugetar - orice act prin care o autoritate competentă, potrivit legii, afectează fonduri publice unor anumite destinații, în limita creditelor bugetare aprobate.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-016",
+  "tip": "unic",
+  "test": 15,
+  "intrebare": "Care este raportul de ordine dintre angajamentul bugetar și angajamentul legal, potrivit Normelor metodologice ALOP?",
+  "variante": [
+   "Angajamentul bugetar precedă angajamentul legal, fiind interzisă ordonatorilor de credite aprobarea unor angajamente legale fără asigurarea că au fost rezervate fondurile publice necesare plății acestora în exercițiul bugetar, cu excepția acțiunilor multianuale.",
+   "Angajamentul legal precedă angajamentul bugetar, rezervarea creditelor efectuându-se numai după semnarea contractului de către ordonatorul de credite.",
+   "Angajamentul bugetar se întocmește numai la finele exercițiului bugetar, pentru regularizarea angajamentelor legale încheiate în cursul anului.",
+   "Cele două documente se întocmesc întotdeauna simultan, iar ordinea întocmirii lor nu produce efecte juridice."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Potrivit pct. 1 lit. b) din Normele ALOP, angajamentul bugetar prin care au fost rezervate fonduri publice unei anumite destinații, în limita creditelor bugetare aprobate, precedă angajamentul legal, iar ordonatorilor de credite le este interzisă aprobarea unor angajamente legale fără asigurarea că au fost rezervate fondurile publice necesare plății acestora în exercițiul bugetar, cu excepția acțiunilor multianuale. Varianta potrivit căreia angajamentul legal precedă angajamentul bugetar, cu rezervarea creditelor după semnarea contractului, inversează această ordine. Varianta cu întocmirea simultană, fără efecte ale ordinii, este contrazisă de același text, care impune ordinea în aplicarea principiului anualității, pentru ca angajamentele legale să poată fi plătite în exercițiul bugetar respectiv. Varianta cu întocmirea angajamentului bugetar numai la finele exercițiului, pentru regularizare, confundă angajamentul bugetar cu analiza de la finele anului a angajamentelor bugetare globale, făcută de persoana desemnată să exercite controlul financiar preventiv propriu (pct. 1). Tot pct. 1 lit. b) precizează că angajamentele legale «sunt precedate de angajamente bugetare, respectiv de rezervarea creditelor necesare plății angajamentelor legale».",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea cheltuielilor)",
+   "citat": "În vederea respectării acestei cerințe, angajamentul bugetar prin care au fost rezervate fonduri publice unei anumite destinații, în limita creditelor bugetare aprobate, preceda angajamentul legal. [...] Este interzis ordonatorilor de credite aprobarea unor angajamente legale fără asigurarea ca au fost rezervate și fondurile publice necesare plății acestora în exercițiul bugetar, cu excepția acțiunilor multianuale.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-017",
+  "tip": "unic",
+  "test": 16,
+  "intrebare": "Ce regulă de plafonare se aplică valorii angajamentelor legale, potrivit Normelor metodologice ALOP?",
+  "variante": [
+   "Valoarea lor poate depăși cu până la 10% valoarea angajamentelor bugetare, cu aprobarea prealabilă a ordonatorului principal de credite.",
+   "Valoarea lor nu poate depăși valoarea angajamentelor bugetare și, respectiv, a creditelor bugetare aprobate, cu excepția angajamentelor legale aferente acțiunilor multianuale, care nu pot depăși creditele de angajament aprobate în buget.",
+   "Valoarea lor nu este plafonată în faza angajării, plafonarea operând exclusiv în faza plății, în limita creditelor bugetare deschise.",
+   "Valoarea lor nu poate depăși, în niciun caz, creditele de angajament aprobate în buget, indiferent de tipul acțiunii finanțate."
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Pct. 1 lit. b) din Normele ALOP prevede că valoarea angajamentelor legale nu poate depăși valoarea angajamentelor bugetare și, respectiv, a creditelor bugetare aprobate, cu excepția angajamentelor legale aferente acțiunilor multianuale, care nu pot depăși creditele de angajament aprobate în buget. Varianta cu o depășire de până la 10%, cu aprobarea ordonatorului principal de credite, introduce o toleranță pe care textul nu o prevede; dimpotrivă, pct. 1 interzice ordonatorilor de credite să ia cu bună știință măsuri care au ca obiect angajarea de cheltuieli peste sumele aprobate în buget, cu excepția angajamentelor multianuale. Varianta potrivit căreia plafonul ar fi întotdeauna creditul de angajament, indiferent de tipul acțiunii, extinde la toate cheltuielile regula specifică acțiunilor multianuale; pentru celelalte, angajarea «se face numai în limita creditelor bugetare aprobate» (pct. 1). Varianta potrivit căreia plafonarea operează doar la plată contrazice rațiunea fazei de angajare, în care angajamentul bugetar rezervă creditele înaintea angajamentului legal (pct. 1 lit. b)). Corolarul enunțat de pct. 1 lit. b) este că angajarea cheltuielilor se face întotdeauna în limita disponibilului de credite bugetare și, respectiv, a disponibilului de credite de angajament pentru acțiuni multianuale.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea cheltuielilor)",
+   "citat": "Valoarea angajamentelor legale nu poate depăși valoarea angajamentelor bugetare și, respectiv, a creditelor bugetare aprobate, cu excepția angajamentelor legale aferente acțiunilor multianuale care nu pot depăși creditele de angajament aprobate în buget.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-020",
+  "tip": "unic",
+  "test": 18,
+  "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), ce regim au, din perspectiva vizei de control financiar preventiv propriu, angajamentele legale individuale acoperite de angajamente legale provizorii?",
+  "variante": [
+   "Cele aprobate până la finele anului și acoperite de angajamentele legale provizorii nu trebuie înaintate pentru viză, însă cele care depășesc valoarea angajamentelor legale provizorii se supun vizei.",
+   "Ele se supun vizei numai la finele exercițiului bugetar, cu ocazia definitivării angajamentului bugetar global.",
+   "Toate angajamentele legale individuale, indiferent de valoare, se supun în mod obligatoriu vizei de control financiar preventiv propriu.",
+   "Niciun angajament legal individual acoperit de un angajament legal provizoriu nu se supune vizei, nici chiar atunci când depășește valoarea acestuia."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Pct. 1 lit. b2) din Normele ALOP prevede că angajamentele legale individuale aprobate până la finele anului, acoperite de angajamentele legale provizorii, nu trebuie înaintate pentru viza de control financiar preventiv propriu, iar cele care depășesc valoarea angajamentelor legale provizorii se supun vizei. Rațiunea: propunerile de angajamente legale provizorii, materializate în bugete previzionale, se înaintează pentru viză împreună cu angajamentele bugetare globale, iar ordonatorul de credite verifică faptul că angajamentele legale individuale încheiate nu depășesc valoarea angajamentelor provizorii emise anterior. Varianta potrivit căreia toate angajamentele individuale se supun vizei, indiferent de valoare, ignoră această excepție. Varianta potrivit căreia nici cele care depășesc angajamentul provizoriu nu se supun vizei o extinde dincolo de text, care supune expres vizei depășirile. Varianta cu viza numai la finele exercițiului confundă mecanismul cu analiza de la finele anului, în care persoana desemnată să exercite controlul financiar preventiv propriu verifică realizarea cheltuielilor din angajamentele bugetare globale și, dacă nu există diferențe semnificative, avizează angajamentul bugetar global, care devine definitiv (pct. 1). Dacă constată diferențe semnificative, aceeași persoană poate hotărî includerea în viitor a acestor cheltuieli în categoria angajamentelor bugetare individuale (pct. 1).",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea cheltuielilor)",
+   "citat": "Angajamentele legale individuale aprobate până la finele anului, acoperite de aceste angajamente legale provizorii, nu trebuie înaintate pentru viza de control financiar preventiv propriu. [...] Angajamentele legale individuale care depășesc valoarea angajamentelor legale provizorii se supun vizei de control financiar preventiv propriu.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-021",
+  "tip": "unic",
+  "test": 19,
+  "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), ce se întâmplă, la finele exercițiului bugetar, cu creditele bugetare neangajate, precum și cu creditele bugetare angajate și neutilizate?",
+  "variante": [
+   "Se reportează automat în exercițiul bugetar următor, cu păstrarea aceleiași destinații.",
+   "Se virează în Fondul de rezervă bugetară la dispoziția Guvernului, pentru redistribuire.",
+   "Rămân la dispoziția ordonatorului principal de credite până la aprobarea contului anual de execuție bugetară.",
+   "Sunt anulate de drept."
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Pct. 1 din Normele ALOP prevede expres că creditele bugetare neangajate, precum și creditele bugetare angajate și neutilizate până la finele exercițiului bugetar sunt anulate de drept, în aplicarea principiului anualității, potrivit căruia plățile efectuate în cursul unui an bugetar în contul unui buget aparțin exercițiului corespunzător. Varianta cu reportarea automată în exercițiul următor este contrazisă de această anulare de drept. Varianta cu virarea în Fondul de rezervă bugetară la dispoziția Guvernului confundă anularea de drept de la finele anului cu mecanismul din Legea nr. 500/2002: fondul, inclus în bugetul de stat, se repartizează prin hotărâri ale Guvernului pentru cheltuieli urgente sau neprevăzute (art. 30 alin. (1)–(2)) și se majorează cu creditele anulate la propunerea ordonatorilor principali, pentru sarcini desființate sau amânate (art. 54 alin. (1) și (3)). Varianta potrivit căreia creditele rămân la dispoziția ordonatorului principal până la aprobarea contului anual de execuție nu are sprijin în text, care prevede anularea lor de drept. Distincția conexă din pct. 1: orice cheltuială angajată și neplătită până la 31 decembrie se plătește în contul bugetului pe anul următor, din creditele bugetare aprobate în acest scop, și se raportează la finele anului curent pe baza datelor din contabilitatea cheltuielilor angajate.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea cheltuielilor)",
+   "citat": "Creditele bugetare neangajate, precum și creditele bugetare angajate și neutilizate până la finele exercițiului bugetar sunt anulate de drept. Orice cheltuiala angajata și neplatita până la data de 31 decembrie a exercițiului bugetar curent se va plati în contul bugetului pe anul următor din creditele bugetare aprobate în acest scop.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-022",
+  "tip": "unic",
+  "test": 20,
+  "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), de la ce dată și pentru ce sumă se consideră angajamente legale și bugetare salariile personalului cuprins în statele de funcții anexate bugetului aprobat, pensiile și ajutoarele sociale, precum și cheltuielile cu dobânzile aferente datoriei publice?",
+  "variante": [
+   "De la data primei plăți efectuate în cursul anului, pentru suma efectiv plătită.",
+   "De la data de 1 ianuarie, dar numai cu sumele repartizate pe primul trimestru al anului.",
+   "De la data de 1 ianuarie a fiecărui an, cu întreaga sumă a creditelor bugetare aprobate.",
+   "Lunar, pe măsura întocmirii statelor de plată, cu suma lichidată în luna respectivă."
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Pct. 1 din Normele ALOP prevede că salariile personalului cuprins în statele de funcții anexate bugetului aprobat și obligațiile aferente acestora, pensiile și ajutoarele sociale stabilite conform legilor în vigoare, precum și cheltuielile cu dobânzile și alte cheltuieli aferente datoriei publice se consideră angajamente legale și bugetare de la data de 1 ianuarie a fiecărui an, cu întreaga sumă a creditelor bugetare aprobate. Varianta cu data primei plăți și suma efectiv plătită confundă angajarea cu plata, faza finală a execuției bugetare (pct. 4). Varianta cu sumele repartizate pe primul trimestru restrânge o regulă care privește întreaga sumă a creditelor aprobate; repartizarea pe trimestre apare în Norme în legătură cu bugetul pe care instituțiile îl prezintă unităților de trezorerie și contabilitate publică (pct. 4). Varianta lunară, pe baza statelor de plată, descrie de fapt lichidarea: potrivit pct. 2, salariile și indemnizațiile se lichidează în baza statelor de plată colective întocmite de compartimentul de specialitate. Tot pct. 1 prevede că, dacă se impune majorarea sau diminuarea unor angajamente legale, se elaborează propuneri de modificare a angajamentelor legale și bugetare inițiale, însoțite de memorii justificative.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea cheltuielilor)",
+   "citat": "Salariile personalului cuprins în statele de funcții anexate bugetului aprobat și obligațiile aferente acestora, pensiile și ajutoarele sociale stabilite conform legilor în vigoare, precum și cheltuielile cu dobânzile și alte cheltuieli aferente datoriei publice se considera angajamente legale și bugetare de la data de 1 ianuarie a fiecărui an cu întreaga suma a creditelor bugetare aprobate.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-023",
+  "tip": "unic",
+  "test": 22,
+  "intrebare": "Ce operațiuni definesc faza de lichidare a cheltuielilor, potrivit Normelor metodologice ALOP?",
+  "variante": [
+   "Se întocmesc instrumentele de plată și se transmit unității de trezorerie și contabilitate publică pentru decontare.",
+   "Se rezervă creditele bugetare necesare plății și se emite documentul scris privind angajamentul bugetar individual sau global.",
+   "Se confirmă că plata poate fi realizată și se emite dispoziția către compartimentul financiar de a întocmi instrumentele de plată.",
+   "Se verifică existența angajamentelor, se determină sau se verifică realitatea sumei datorate și se verifică condițiile de exigibilitate ale angajamentului legal, pe baza documentelor justificative care atestă operațiunile respective."
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Pct. 2 din Normele ALOP definește lichidarea ca faza în care se verifică existența angajamentelor, se determină sau se verifică realitatea sumei datorate și se verifică condițiile de exigibilitate ale angajamentului legal, pe baza documentelor justificative. Varianta cu rezervarea creditelor bugetare și emiterea documentului privind angajamentul bugetar individual sau global descrie faza de angajare (pct. 1 lit. b)). Varianta cu confirmarea că plata poate fi realizată și dispoziția către compartimentul financiar de a întocmi instrumentele de plată descrie ordonanțarea (pct. 3). Varianta cu întocmirea instrumentelor de plată și transmiterea lor unității de trezorerie descrie faza de plată (pct. 4). Potrivit pct. 3, primele trei faze ale execuției bugetare se realizează în cadrul instituției publice, în răspunderea ordonatorului de credite sau a persoanelor împuternicite prin delegare, iar potrivit pct. 4 plata se efectuează de persoanele autorizate care poartă denumirea generică de contabil. Condițiile de exigibilitate se verifică pe baza datelor din angajamentele legale, care trebuie să cuprindă și termenele de plată a obligației (pct. 2).",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 2 (lichidarea cheltuielilor)",
+   "citat": "Este faza în procesul execuției bugetare în care se verifica existenta angajamentelor, se determina sau se verifica realitatea sumei datorate, se verifica condițiile de exigibilitate ale angajamentului legal pe baza documentelor justificative care să ateste operațiunile respective.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-024",
+  "tip": "unic",
+  "test": 23,
+  "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), cum se realizează verificarea existenței obligației de plată în faza de lichidare a cheltuielilor?",
+  "variante": [
+   "Exclusiv prin confruntarea sumei din factură cu suma înscrisă în angajamentul bugetar global aprobat pentru categoria de cheltuieli respectivă.",
+   "Prin verificarea documentelor justificative din care rezultă pretenția creditorului, precum și a realității „serviciului efectuat” — bunurile livrate, lucrările executate și serviciile prestate sau, după caz, existența unui titlu care să justifice plata (titlu executoriu, acord de împrumut, acord de grant etc.).",
+   "Prin acordarea vizei de control financiar preventiv propriu pe ordonanțarea de plată, care valorifică toate verificările anterioare.",
+   "Prin emiterea documentului scris privind angajamentul bugetar, prin care se certifică existența creditelor bugetare disponibile și se pun în rezervă creditele aferente cheltuielii."
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Pct. 2 din Normele ALOP prevede că verificarea existenței obligației de plată se realizează prin verificarea documentelor justificative din care să rezulte pretenția creditorului, precum și realitatea «serviciului efectuat»: bunurile au fost livrate, lucrările executate și serviciile prestate sau, după caz, există un titlu care să justifice plata (titlu executoriu, acord de împrumut, acord de grant etc.). Varianta cu confruntarea exclusivă a sumei din factură cu angajamentul bugetar global reduce lichidarea la o comparație de sume și ignoră proba serviciului efectuat; determinarea sumei datorate se face, potrivit pct. 2, pe baza datelor din factură și a documentelor întocmite de comisia de recepție. Varianta cu viza de control financiar preventiv propriu pe ordonanțarea de plată mută verificarea în faza următoare: potrivit pct. 3, persoana desemnată se asigură, la avizarea ordonanțării, că sunt deja îndeplinite condițiile de lichidare a angajamentelor. Varianta cu documentul scris privind angajamentul bugetar descrie faza de angajare, în care se certifică existența creditelor bugetare disponibile și se pun în rezervă creditele aferente unei cheltuieli (pct. 1 lit. b)). Potrivit pct. 2, persoana împuternicită să efectueze lichidarea verifică personal documentele justificative și confirmă pe propria răspundere că verificarea a fost realizată.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 2 (lichidarea cheltuielilor)",
+   "citat": "Verificarea existenței obligației de plată se realizează prin verificarea documentelor justificative din care să rezulte pretenția creditorului, precum și realitatea \"serviciului efectuat\" (bunurile au fost livrate, lucrările executate și serviciile prestate sau, după caz, existenta unui titlu care să justifice plata: titlu executoriu, acord de împrumut, acord de grant etc.).",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-025",
+  "tip": "unic",
+  "test": 24,
+  "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), cine acordă viza „Bun de plată” pe documentele care atestă bunurile livrate, lucrările executate și serviciile prestate?",
+  "variante": [
+   "Persoana desemnată să exercite controlul financiar preventiv propriu.",
+   "Președintele comisiei de recepție constituite potrivit legii.",
+   "Ordonatorul de credite sau persoana delegată cu aceste atribuții.",
+   "Conducătorul compartimentului financiar (financiar-contabil), care urmează să facă plata."
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Pct. 2 din Normele ALOP prevede că documentele care atestă bunurile livrate, lucrările executate și serviciile prestate sau din care reies obligații de plată certe se vizează pentru «Bun de plată» de ordonatorul de credite sau de persoana delegată cu aceste atribuții; prin semnătura și mențiunea «Bun de plată» pe factură se atestă că serviciul a fost efectuat corespunzător de către furnizor și că toate pozițiile din factură au fost verificate. Varianta cu persoana desemnată să exercite controlul financiar preventiv propriu confundă «Bun de plată» cu viza de control financiar preventiv propriu, acordată pe propunerea de angajare și pe angajamentul bugetar (pct. 1) și pe ordonanțarea de plată (pct. 3). Varianta cu conducătorul compartimentului financiar (financiar-contabil) confundă cu rolul celui care face plata: potrivit pct. 4, plata nu se poate efectua când nu există confirmarea serviciului efectuat și documentele nu sunt vizate pentru «Bun de plată». Varianta cu președintele comisiei de recepție confundă cu rolul comisiei, ale cărei documente (proces-verbal de recepție, notă de recepție și constatare de diferențe etc.) stau, potrivit pct. 2, la baza determinării sau verificării sumei datorate creditorului.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 2 (lichidarea cheltuielilor)",
+   "citat": "Documentele care atesta bunurile livrate, lucrările executate și serviciile prestate sau din care reies obligații de plată certe se vizează pentru \"Bun de plată\" de ordonatorul de credite sau de persoana delegată cu aceste atribuții [...] Prin acordarea semnăturii și mențiunii \"Bun de plată\" pe factura, se atesta ca serviciul a fost efectuat corespunzător de către furnizor și ca toate pozițiile din factura au fost verificate.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-027",
+  "tip": "unic",
+  "test": 26,
+  "intrebare": "Ce obligație are, potrivit Normelor metodologice ALOP, persoana împuternicită să efectueze lichidarea cheltuielilor?",
+  "variante": [
+   "Să întocmească statele de plată colective pentru salarii și indemnizații.",
+   "Să transmită documentele justificative, în copie certificată, unității de trezorerie și contabilitate publică.",
+   "Să solicite viza de control financiar preventiv propriu pe fiecare factură primită de la furnizori.",
+   "Să verifice personal documentele justificative și să confirme pe propria răspundere că această verificare a fost realizată."
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Pct. 2 din Normele ALOP prevede că persoana împuternicită să efectueze lichidarea cheltuielilor verifică personal documentele justificative și confirmă pe propria răspundere că această verificare a fost realizată. Varianta cu solicitarea vizei de control financiar preventiv propriu pe fiecare factură este falsă: viza se acordă pe propunerea de angajare și pe angajamentul bugetar (pct. 1) și pe ordonanțarea de plată (pct. 3), în timp ce factura se vizează pentru «Bun de plată» de ordonatorul de credite sau de persoana delegată (pct. 2). Varianta cu transmiterea documentelor justificative, în copie certificată, unității de trezorerie contrazice regula de la pct. 3: ordonanțarea de plată se însoțește de documentele justificative în original și se înaintează conducătorului compartimentului financiar (financiar-contabil), copiile certificate pentru conformitate de ordonatorul de credite fiind acceptate doar în cazuri excepționale. Varianta cu întocmirea statelor de plată colective pentru salarii și indemnizații descrie atribuția compartimentului de specialitate (pct. 2), nu obligația persoanei care efectuează lichidarea. Tot pct. 2 prevede că documentele care atestă parcurgerea fazei de lichidare stau la baza înregistrării în contabilitatea patrimonială a serviciului efectuat și a obligației de plată față de terții creditori.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 2 (lichidarea cheltuielilor)",
+   "citat": "Persoana imputernicita să efectueze lichidarea cheltuielilor verifica personal documentele justificative și confirma pe propria răspundere ca aceasta verificare a fost realizată.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-028",
+  "tip": "unic",
+  "test": 28,
+  "intrebare": "Ce reprezintă, potrivit Normelor metodologice ALOP, „Ordonanțarea de plată”?",
+  "variante": [
+   "Documentul intern prin care ordonatorul de credite dă dispoziție conducătorului compartimentului financiar (financiar-contabil) să întocmească instrumentele de plată a cheltuielilor.",
+   "Documentul prin care se certifică existența creditelor bugetare disponibile și se pun în rezervă creditele aferente unei cheltuieli.",
+   "Instrumentul de plată prin care se transferă efectiv suma din contul instituției publice în contul beneficiarului.",
+   "Documentul prin care comisia de recepție confirmă realitatea serviciului efectuat de furnizor."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Pct. 3 din Normele ALOP definește ordonanțarea de plată ca documentul intern prin care ordonatorul de credite dă dispoziție conducătorului compartimentului financiar (financiar-contabil) să întocmească instrumentele de plată a cheltuielilor; modelul formularului este în anexa nr. 3 la Norme. Varianta cu instrumentul prin care se transferă efectiv suma confundă ordonanțarea cu instrumentele de plată — cecul de numerar și ordinul de plată pentru trezoreria statului (OPHT), reglementate la pct. 4 — pe care compartimentul financiar le întocmește în baza ordonanțării. Varianta cu documentul prin care se certifică existența creditelor bugetare disponibile și se pun în rezervă creditele descrie angajamentul bugetar din faza de angajare (pct. 1 lit. b)). Varianta cu confirmarea de către comisia de recepție descrie documentele comisiei de recepție, folosite în faza de lichidare (pct. 2). Potrivit pct. 3, ordonanțarea de plată este datată și semnată de ordonatorul de credite sau de persoana delegată cu aceste atribuții, iar la emiterea ordonanțării de plată finale ordonatorul confirmă că operațiunea s-a finalizat.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 3 (ordonanțarea cheltuielilor)",
+   "citat": "Ordonanțarea de plată este documentul intern prin care ordonatorul de credite da dispoziție conducătorului compartimentului financiar (financiar-contabil) sa întocmească instrumentele de plată a cheltuielilor.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-030",
+  "tip": "unic",
+  "test": 31,
+  "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), ce condiție trebuie îndeplinită înainte ca o ordonanțare de plată să fie prezentată spre semnare ordonatorului de credite?",
+  "variante": [
+   "Ordonanțarea trebuie să fi fost avizată de comisia de recepție și de compartimentul de audit public intern.",
+   "Ordonanțarea trebuie să fi fost transmisă în prealabil unității de trezorerie și contabilitate publică, pentru confirmarea disponibilului din cont.",
+   "Persoana desemnată să exercite controlul financiar preventiv propriu trebuie să fi acordat viza.",
+   "Ordonanțarea trebuie să fi fost înscrisă în registrul distinct al ordinelor de plată, cu număr de ordine unic."
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Pct. 3 din Normele ALOP prevede că nicio ordonanțare de plată nu poate fi prezentată spre semnare ordonatorului de credite decât după ce persoana desemnată să exercite controlul financiar preventiv propriu a acordat viza; aceasta se asigură că ordonanțările supuse vizei se referă la angajamente de cheltuieli deja vizate și că sunt îndeplinite condițiile de lichidare a angajamentelor. Varianta cu înscrierea în registrul distinct, cu număr de ordine unic, privește ordinele de plată: potrivit pct. 4, acestea se înscriu într-un registru distinct și poartă un număr de ordine unic, începând cu numărul 1, pentru fiecare ordonator de credite și pentru fiecare exercițiu bugetar. Varianta cu transmiterea prealabilă la unitatea de trezorerie nu are sprijin în text: verificarea existenței creditelor bugetare disponibile este unul dintre scopurile avizării de către persoana desemnată să exercite controlul financiar preventiv propriu, iar disponibilul se înscrie în formular ținând cont de angajamentele bugetare din contul 8066 (pct. 3). Varianta cu avizul comisiei de recepție și al compartimentului de audit public intern adaugă avize neprevăzute: comisia de recepție intervine la lichidare, prin documentele pe baza cărora se determină suma datorată (pct. 2), iar pct. 3 cere, înainte de semnarea ordonatorului, doar viza persoanei desemnate să exercite controlul financiar preventiv propriu. Potrivit pct. 3, înainte de a fi transmisă compartimentului financiar (financiar-contabil) pentru plată, ordonanțarea de plată se transmite pentru avizare persoanei desemnate să exercite controlul financiar preventiv propriu.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 3 (ordonanțarea cheltuielilor)",
+   "citat": "Nici o ordonantare de plată nu poate fi prezentată spre semnare ordonatorului de credite decât după ce persoana desemnată să exercite controlul financiar preventiv propriu a acordat viza.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-031",
+  "tip": "unic",
+  "test": 32,
+  "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), care este consecința lipsei vizei de control financiar preventiv propriu de pe o ordonanțare de plată?",
+  "variante": [
+   "Ordonanțarea se consideră tacit avizată dacă viza nu a fost refuzată în termen de 3 zile lucrătoare de la primire.",
+   "Ordonanțarea este nulă și fără valoare pentru conducătorul compartimentului financiar (financiar-contabil) care urmează să facă plata, dacă nu este autorizată în condițiile prevăzute de lege.",
+   "Ordonanțarea produce efecte, însă plata poate fi efectuată numai după expirarea unui termen de 30 de zile de la emitere.",
+   "Ordonanțarea rămâne pe deplin valabilă, răspunderea revenind exclusiv ordonatorului de credite care a semnat-o."
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Pct. 3 din Normele ALOP prevede că ordonanțările de plată nevizate de persoana desemnată să exercite controlul financiar preventiv propriu sunt nule și fără valoare pentru conducătorul compartimentului financiar (financiar-contabil) care urmează să facă plata, dacă nu sunt autorizate în condițiile prevăzute de lege. Coerent, pct. 4 prevede că plata nu se poate efectua când nu există viza de control financiar preventiv propriu pe ordonanțarea de plată și nici autorizarea prevăzută de lege. Varianta cu efectuarea plății după un termen de 30 de zile introduce un termen pe care Normele nu îl prevăd; lipsa vizei împiedică plata (pct. 4). Varianta cu avizarea tacită după 3 zile lucrătoare este contrazisă de pct. 3, potrivit căruia nicio ordonanțare nu poate fi prezentată spre semnare ordonatorului de credite decât după ce viza a fost acordată. Varianta cu valabilitatea deplină a ordonanțării, cu răspunderea exclusivă a ordonatorului care a semnat-o, contrazice textul: tocmai pentru conducătorul compartimentului financiar documentul este nul și fără valoare. Potrivit pct. 1, angajarea și ordonanțarea cheltuielilor se efectuează numai cu viza prealabilă de control financiar preventiv propriu, potrivit dispozițiilor legale.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 3 (ordonanțarea cheltuielilor)",
+   "citat": "Ordonantarile de plată nevizate de persoana desemnată să exercite controlul financiar preventiv propriu sunt nule și fără valoare pentru conducătorul compartimentului financiar (financiar-contabil) care urmează să facă plata, dacă nu sunt autorizate în condițiile prevăzute de lege.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-032",
+  "tip": "unic",
+  "test": 11,
+  "intrebare": "Prin ce structuri se efectuează plata cheltuielilor instituțiilor publice și care este excepția prevăzută de Normele metodologice ALOP?",
+  "variante": [
+   "Prin casieria proprie a instituției publice, cu excepția plăților care depășesc plafonul stabilit prin hotărâre a Guvernului.",
+   "Prin unitățile de trezorerie și contabilitate publică la care instituțiile au conturile deschise, cu excepția plăților în valută, care se efectuează prin bănci, sau a altor plăți prevăzute de lege să se efectueze prin bănci.",
+   "Exclusiv prin unitățile de trezorerie și contabilitate publică, fără nicio excepție.",
+   "Prin bănci comerciale, cu excepția plăților în lei, care se efectuează prin unitățile de trezorerie și contabilitate publică."
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Pct. 4 din Normele ALOP prevede că plata cheltuielilor se efectuează de persoanele autorizate care poartă denumirea generică de contabil, în limita creditelor bugetare și destinațiilor aprobate, prin unitățile de trezorerie și contabilitate publică la care instituțiile își au conturile deschise, cu excepția plăților în valută, care se efectuează prin bănci, sau a altor plăți prevăzute de lege să se efectueze prin bănci. Varianta cu plata prin bănci comerciale, cu excepția plăților în lei, inversează regula cu excepția. Varianta cu plata exclusiv prin unitățile de trezorerie, fără nicio excepție, elimină excepția expresă din text. Varianta cu plata prin casieria proprie confundă regula cu plățile în numerar: potrivit pct. 4, instituțiile publice iau măsuri pentru reducerea la maximum a plăților în numerar, efectuând prin casieria proprie numai cheltuielile de volum redus care nu se justifică a fi efectuate prin virament. Tot pct. 4 prevede că plata cheltuielilor este asigurată de șeful compartimentului financiar (financiar-contabil), iar în instituțiile publice fără un asemenea compartiment, de persoana desemnată de ordonatorul de credite.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 4 (plata cheltuielilor)",
+   "citat": "Plata cheltuielilor se efectuează de persoanele autorizate care, potrivit legii, poarta denumirea generica de contabil, în limita creditelor bugetare și destinațiilor aprobate în condițiile dispozițiilor legale, prin unitățile de trezorerie și contabilitate publică la care își au conturile deschise, cu excepția plăților în valută, care se efectuează prin bănci, sau a altor plati prevăzute de lege să se efectueze prin bănci.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-033",
+  "tip": "unic",
+  "test": 34,
+  "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), cum se semnează instrumentele de plată utilizate de instituțiile publice, respectiv cecul de numerar și ordinul de plată pentru trezoreria statului (OPHT)?",
+  "variante": [
+   "De trei persoane: ordonatorul de credite, conducătorul compartimentului financiar și persoana desemnată să exercite controlul financiar preventiv propriu.",
+   "De două persoane, prima semnătură fiind cea a ordonatorului de credite, iar a doua cea a conducătorului compartimentului financiar (financiar-contabil).",
+   "De două persoane autorizate, prima semnătură fiind cea a conducătorului compartimentului financiar (financiar-contabil), iar a doua cea a persoanei cu atribuții în efectuarea plății.",
+   "De o singură persoană, respectiv de ordonatorul de credite sau de persoana delegată cu aceste atribuții."
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Pct. 4 din Normele ALOP prevede că instrumentele de plată utilizate de instituțiile publice, respectiv cecul de numerar și ordinul de plată pentru trezoreria statului (OPHT), se semnează de două persoane autorizate, prima semnătură fiind a conducătorului compartimentului financiar (financiar-contabil), urmată de semnătura persoanei cu atribuții în efectuarea plății. Varianta cu o singură semnătură, a ordonatorului de credite sau a persoanei delegate, elimină dubla semnătură cerută de text. Varianta cu trei semnături, inclusiv a persoanei desemnate să exercite controlul financiar preventiv propriu, adaugă o semnătură neprevăzută: viza acesteia se acordă pe documentele de angajare (pct. 1) și pe ordonanțarea de plată (pct. 3), nu pe instrumentul de plată. Varianta în care prima semnătură este a ordonatorului de credite este capcana cea mai plauzibilă: ordonatorul de credite datează și semnează ordonanțarea de plată (pct. 3), documentul intern prin care dispune conducătorului compartimentului financiar să întocmească instrumentele de plată, iar execuția bugetară se bazează pe separarea atribuțiilor ordonatorului de credite de cele ale contabilului (preambulul Normelor). Tot pct. 4 prevede că ordinele de plată se emit pe numele fiecărui creditor, iar un ordin de plată nu poate cuprinde plăți referitoare la mai multe subdiviziuni ale bugetului aprobat.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 4 (plata cheltuielilor)",
+   "citat": "Instrumentele de plată utilizate de instituțiile publice, respectiv cecul de numerar și ordinul de plată pentru trezoreria statului (OPHT), se semnează de doua persoane autorizate în acest sens, dintre care prima semnătura este cea a conducătorului compartimentului financiar (financiar-contabil), iar a doua, a persoanei cu atribuții în efectuarea plății.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-034",
+  "tip": "unic",
+  "test": 36,
+  "intrebare": "Potrivit Normelor metodologice ALOP, în care dintre următoarele situații NU se poate efectua plata?",
+  "variante": [
+   "Când nu există confirmarea serviciului efectuat și documentele nu sunt vizate pentru „Bun de plată”.",
+   "Când suma de plată este exprimată în valută, iar cursul valutar s-a modificat față de data încheierii angajamentului legal.",
+   "Când factura a fost emisă cu mai mult de 30 de zile înainte de data la care urmează să se efectueze plata.",
+   "Când plata urmează a se efectua în numerar, prin casieria proprie a instituției publice."
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Pct. 4 din Normele ALOP enumeră situațiile în care nu se poate efectua plata: când nu există credite bugetare deschise și/sau repartizate ori disponibilitățile sunt insuficiente; când nu există confirmarea serviciului efectuat și documentele nu sunt vizate pentru «Bun de plată»; când beneficiarul nu este cel față de care instituția are obligații; când nu există viza de control financiar preventiv propriu pe ordonanțarea de plată și nici autorizarea prevăzută de lege. Varianta cu modificarea cursului valutar față de data încheierii angajamentului legal nu figurează în această enumerare; pct. 3 admite expres ca suma de plată să fie exprimată în moneda străină, iar pct. 4 prevede că plățile în valută se efectuează prin bănci. Varianta cu factura emisă cu mai mult de 30 de zile înainte de plată introduce un termen pe care Normele nu îl prevăd; condițiile de exigibilitate se verifică, potrivit pct. 2, pe baza termenelor de plată din angajamentele legale. Varianta cu plata în numerar prin casieria proprie este falsă: pct. 4 permite ridicarea de numerar pentru salarii, premii, deplasări și alte cheltuieli care nu se pot efectua prin virament, cerând doar reducerea la maximum a plăților în numerar. Tot pct. 4 enumeră, distinct, condițiile în care conducătorul compartimentului financiar (financiar-contabil) efectuează plata, între care ca cheltuielile să fi fost angajate, lichidate și ordonanțate.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 4 (plata cheltuielilor)",
+   "citat": "Nu se poate efectua plata: – în cazul în care nu exista credite bugetare deschise și/sau repartizate ori disponibilitățile sunt insuficiente; – când nu exista confirmarea serviciului efectuat și documentele nu sunt vizate pentru \"Bun de plată\"; – când beneficiarul nu este cel față de care instituția are obligații; – când nu exista viza de control financiar preventiv propriu pe ordonanțarea de plată și nici autorizarea prevăzută de lege.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-035",
+  "tip": "unic",
+  "test": 37,
+  "intrebare": "Ce se întâmplă, potrivit Normelor metodologice ALOP, în cazul constatării unei erori în legătură cu plata ce urmează să fie efectuată?",
+  "variante": [
+   "Persoana desemnată să exercite controlul financiar preventiv propriu retrage viza acordată, iar plata se blochează de drept până la remedierea erorii.",
+   "Ordonatorul de credite anulează ordonanțarea de plată, iar cheltuiala trebuie reluată de la faza angajării.",
+   "Plata se efectuează, urmând ca eroarea constatată să fie regularizată cu ocazia raportării de la finele trimestrului.",
+   "Conducătorul compartimentului financiar (financiar-contabil) suspendă plata, iar motivele deciziei se prezintă într-o declarație scrisă care se trimite ordonatorului de credite și, spre informare, persoanei desemnate să exercite controlul financiar preventiv propriu."
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Pct. 4 din Normele ALOP prevede că, în cazul constatării unei erori în legătură cu plata ce urmează să fie efectuată, conducătorul compartimentului financiar (financiar-contabil) suspendă plata, iar motivele deciziei de suspendare se prezintă într-o declarație scrisă care se trimite ordonatorului de credite și, spre informare, persoanei desemnate să exercite controlul financiar preventiv propriu. Varianta cu anularea ordonanțării de către ordonatorul de credite și reluarea cheltuielii de la faza angajării confundă suspendarea cu o anulare pe care textul nu o prevede. Varianta cu retragerea vizei de către persoana desemnată să exercite controlul financiar preventiv propriu este falsă: pct. 4 atribuie suspendarea conducătorului compartimentului financiar, iar persoana desemnată primește declarația scrisă doar spre informare. Varianta cu efectuarea plății și regularizarea erorii la raportarea trimestrială contrazice textul, care impune suspendarea plății. Deblocarea aparține ordonatorului: potrivit pct. 4, «Ordonatorul de credite poate solicita în scris și pe propria răspundere efectuarea plăților».",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 4 (plata cheltuielilor)",
+   "citat": "În cazul constatării unei erori în legătură cu plata ce urmează să fie efectuată, conducătorul compartimentului financiar (financiar-contabil) suspenda plata. Motivele deciziei de suspendare a plății se prezintă într-o declarație scrisă care se trimite ordonatorului de credite și, spre informare, persoanei desemnate sa exercite controlul financiar preventiv propriu. [...] Ordonatorul de credite poate solicita în scris și pe propria răspundere efectuarea plăților.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-036",
+  "tip": "unic",
+  "test": 38,
+  "intrebare": "Potrivit Normelor metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002), cum se stabilesc acțiunile și categoriile de cheltuieli pentru care se pot acorda plăți în avans din fonduri publice și ce regim au avansurile rămase nejustificate la sfârșitul anului?",
+  "variante": [
+   "Se stabilesc prin ordin al ministrului finanțelor publice, iar avansurile nejustificate se anulează de drept la finele exercițiului bugetar.",
+   "Se stabilesc prin hotărâri ale Guvernului, iar sumele nejustificate prin bunuri livrate, lucrări executate și servicii prestate până la sfârșitul anului se recuperează de instituția publică ce le-a acordat și se restituie bugetului din care au fost acordate, cu perceperea dobânzilor și penalităților de întârziere aferente.",
+   "Se stabilesc prin normele proprii ale ordonatorului principal de credite, iar avansurile nejustificate se recuperează integral, dar fără perceperea de dobânzi.",
+   "Se stabilesc prin contractul de achiziție publică încheiat cu fiecare furnizor, iar recuperarea se face exclusiv prin executarea garanției de bună execuție."
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Pct. 4 din Normele ALOP prevede că acțiunile și categoriile de cheltuieli pentru care se pot acorda plăți în avans din fonduri publice sunt cele stabilite prin hotărâri ale Guvernului, iar sumele reprezentând plăți în avans nejustificate prin bunuri livrate, lucrări executate și servicii prestate până la sfârșitul anului se recuperează de instituția publică care le-a acordat și se restituie bugetului din care au fost acordate, cu perceperea dobânzilor și penalităților de întârziere aferente, potrivit legii. Plata în avans este o excepție de la regula din pct. 4 potrivit căreia ordinele de plată se emit pe baza documentelor justificative din care reiese că se achită o datorie contractată și justificată. Varianta cu ordinul ministrului finanțelor publice și anularea de drept a avansurilor schimbă actul prevăzut de text și înlocuiește recuperarea cu o anulare; anularea de drept privește, potrivit pct. 1, creditele bugetare neangajate sau angajate și neutilizate la finele exercițiului, nu avansurile. Varianta cu normele proprii ale ordonatorului principal și recuperarea fără dobânzi contrazice textul, care cere hotărâri ale Guvernului și perceperea dobânzilor și penalităților. Varianta cu stabilirea prin contractul de achiziție publică și recuperarea exclusiv prin executarea garanției de bună execuție nu are sprijin în pct. 4, care prevede recuperarea de către instituția publică și restituirea sumelor la bugetul din care au fost acordate.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 4 (plata cheltuielilor)",
+   "citat": "Acțiunile și categoriile de cheltuieli pentru care se pot acorda plati în avans din fonduri publice sunt cele stabilite prin hotărâri ale Guvernului. Sumele reprezentând plati în avans nejustificate prin bunuri livrate, lucrări executate și servicii prestate până la sfârșitul anului se recuperează de către instituția publică care a acordat avansurile și se vor restitui bugetului din care au fost acordate, cu perceperea dobânzilor și penalităților de întârziere aferente, potrivit legii.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ }
+]

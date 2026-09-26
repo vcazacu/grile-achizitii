@@ -1,0 +1,182 @@
+[
+  {
+    "id": "L98-proceduri-atribuire",
+    "verdict": "SUSPECT",
+    "motiv": "Cheia (parteneriatul pentru inovare, negocierea competitivă) e corectă conform art. 68 alin. (1) lit. a)-i), iar achiziția directă (art. 7 alin. (5)) și cererea de oferte nu sunt în enumerare. Problema e în explicație: ultima propoziție sprijină distractorul „Cererea de oferte” pe O.U.G. nr. 34/2006, act din afara corpusului, și pe afirmația neverificabilă că procedura „a fost înlocuită conceptual de procedura simplificată”. SPEC §4.8 cere ca ultima propoziție să trimită la text. Detaliu minor: în citat apare „[...]” între lit. f) și lit. g), deși în text nu se sare nimic între ele („f) negocierea fără publicare prealabilă; g) concursul de soluții;”).",
+    "propunere": "Ultima propoziție a explicației se înlocuiește cu: „«Cererea de oferte» nu figurează printre cele nouă proceduri enumerate limitativ la art. 68 alin. (1) lit. a)-i); sub pragurile de la art. 7 alin. (1), contractele se atribuie prin procedura simplificată (art. 7 alin. (2)).” În citat se elimină „[...]” dintre „negocierea fără publicare prealabilă;” și „g) concursul de soluții;”."
+  },
+  {
+    "id": "N395A-064",
+    "verdict": "OK",
+    "motiv": "Art. 40 alin. (4)-(9) din Norme este în vigoare (au fost abrogate doar alin. (1)-(3)). Toate afirmațiile sunt confirmate: alin. (5) (Trezoreria), alin. (6) (0,5% fără TVA), alin. (9) (dobânda în favoarea contractantului), iar alin. (4) cere o instituție „agreată de ambele părți”, deci distractorul e fals. Trimiterile din explicație sunt exacte: art. 37 alin. (1) lit. b^1) din Norme și plafonul de 1% de la art. 154 alin. (2) din Lege.",
+    "propunere": ""
+  },
+  {
+    "id": "L98B-016",
+    "verdict": "OK",
+    "motiv": "Art. 69 alin. (1): peste pragurile de la art. 7 alin. (1) se aplică licitația deschisă sau licitația restrânsă; celelalte proceduri sunt excepții (art. 69 alin. (2)-(6)). Procedura simplificată se aplică sub praguri (art. 7 alin. (2)). Toate trimiterile din explicație (art. 70, 95-103, 104) sunt corecte.",
+    "propunere": "Opțional: se numește actul la începutul enunțului („Potrivit Legii nr. 98/2016, care sunt...”) și se adaugă în explicație temeiul art. 7 alin. (2) pentru procedura simplificată."
+  },
+  {
+    "id": "L98-N114",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce art. 71. Distractorii sunt corect atribuiți: art. 76 (licitația restrânsă), art. 3 alin. (1) lit. g) (candidatul invitat la negocierea fără publicare) și art. 70 alin. (3) (fără anunț, după oferte neconforme sau inacceptabile). Art. 73 alin. (1) (o singură etapă) este corect citat.",
+    "propunere": "Opțional, pentru precizie: în explicație, la art. 70 alin. (3), „organizate după o procedură simplificată, de licitație deschisă sau de licitație restrânsă în care s-au depus numai oferte neconforme sau inacceptabile”."
+  },
+  {
+    "id": "N395B-001",
+    "verdict": "SUSPECT",
+    "motiv": "Cheia e corectă și reproduce verbatim art. 45 alin. (3) din Norme. Cifrele de la art. 7 alin. (7) lit. b) din Lege sunt exacte: peste 140.000 lei și cel mult 200.000 lei pentru produse/servicii, respectiv peste 300.000 lei și cel mult 560.000 lei pentru lucrări. Explicația încalcă însă SPEC §4.6 („fără istoricul modificărilor”) și §4.8 (ultima propoziție trebuie să fie o trimitere la text): se încheie cu datele abrogărilor („art. 44 în 2018, art. 43 și 46 în 2023”), informație provenită din §NOTA§.",
+    "propunere": "Ultima propoziție a explicației se înlocuiește cu: „Din secțiunea Normelor privind achiziția directă, art. 43, 44 și 46 sunt abrogate, iar în vigoare a rămas art. 45, care la alin. (3) permite consultarea prin catalogul electronic SEAP sau prin orice alte modalități identificate de autoritatea contractantă.” (fără anii abrogării)."
+  },
+  {
+    "id": "L98-N201",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce art. 72. Distractorii sunt verificați: anunțul de intenție doar scurtează termenul la cel puțin 15 zile, dacă a fost transmis cu 35 de zile–12 luni înainte (art. 74 alin. (2)); solicitările de participare sunt formula art. 77/81/87/96; invitația transmisă simultan candidaților selectați e la art. 78 alin. (6). Art. 144 alin. (1) lit. a) e corect citat.",
+    "propunere": ""
+  },
+  {
+    "id": "N395B-002",
+    "verdict": "OK",
+    "motiv": "Art. 47 lit. a) și b) din Norme interzic exact cele două variante-cheie. Partea introductivă salvează expres oferta alternativă și ofertarea pe mai multe loturi, deci ambii distractori sunt clar greșiți. Sancțiunea „excluderii din procedura prevăzută la art. 167 din Lege” e redată corect.",
+    "propunere": ""
+  },
+  {
+    "id": "L98B-019",
+    "verdict": "OK",
+    "motiv": "Art. 74 alin. (1): cel puțin 35 de zile; alin. (4): reducere cu 5 zile pentru depunerea electronică. Valoarea de 30 de zile vine corect de la art. 79 alin. (1)-(2), iar reducerile la 15 zile de la art. 74 alin. (2) și (3). Enunțul nu numește actul, dar mențiunea JOUE și „licitația deschisă” îl fac neambiguu.",
+    "propunere": "Opțional (SPEC §4.3): enunțul să înceapă cu „Potrivit Legii nr. 98/2016, la licitația deschisă, ...”."
+  },
+  {
+    "id": "L101C-003",
+    "verdict": "SUSPECT",
+    "motiv": "Cheia e corectă: cele trei variante reproduc art. 14 alin. (1)-(3), iar repartizarea de către președinte, după încărcătură, nu are temei. Afirmația secundară din ultima propoziție a explicației e însă inexactă. Explicația spune „restul hotărârilor sunt încheieri”, dar art. 27 alin. (2) din Legea nr. 101/2016 prevede: „Toate celelalte hotărâri pronunțate de Consiliu se numesc încheieri, cu excepția celor de unificare a practicii administrativ-jurisdicționale.” În plus, art. 27 alin. (1) vorbește despre hotărârea prin care Consiliul „se dezinvestește fără a soluționa contestația pe fond”, nu simplu despre o decizie care „dezînvestește Consiliul”.",
+    "propunere": "Ultima propoziție a explicației se înlocuiește cu: „Distincția este detaliată de art. 27 alin. (1) și (2): decizia este hotărârea prin care contestația este soluționată sau prin care Consiliul se dezinvestește fără a o soluționa pe fond; celelalte hotărâri sunt încheieri, cu excepția celor de unificare a practicii administrativ-jurisdicționale.”"
+  },
+  {
+    "id": "N395B-003",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce ultima frază a art. 48 alin. (1) din Norme. Distractorii nu au temei. Art. 47 interzice doar cumulul „ofertant + subcontractant în altă ofertă”, iar asocierea nu rezultă din subcontractare. Explicația e exactă.",
+    "propunere": ""
+  },
+  {
+    "id": "L98-N202",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce art. 75 („criteriilor de calificare stabilite de autoritatea contractantă”). Toate trimiterile din explicație sunt corecte: cerințele minime nenegociabile (art. 83 alin. (2), art. 85 alin. (2)), nivelurile de performanță și costurile maxime (art. 100), documentul descriptiv (art. 90 alin. (1)) și DUAE ca dovadă preliminară (art. 193 alin. (1)).",
+    "propunere": ""
+  },
+  {
+    "id": "L98B-022",
+    "verdict": "OK",
+    "motiv": "Art. 76: numai candidații care îndeplinesc criteriile de calificare și selecție depun oferta în etapa ulterioară. Distractorii sunt clar greșiți: licitația deschisă e la art. 71; numărul minim de candidați nu poate fi mai mic de 5 (art. 78 alin. (4)); accesul la documente este gratuit (art. 150 alin. (1)). Art. 78 alin. (9) e corect citat.",
+    "propunere": "Opțional: se numește actul în enunț („Potrivit Legii nr. 98/2016, ...”). Afirmația „documentația este disponibilă gratuit în SEAP” se ancorează în art. 150 alin. (1)."
+  },
+  {
+    "id": "N395-N104",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce art. 49 din Norme („oricând pe parcursul procesului de evaluare... în cazul în care există rezerve”). Trimiterile din explicație sunt exacte: art. 50 alin. (1) (dificultăți în executare), art. 48 alin. (1) (acordul de subcontractare ține loc de angajament ferm), art. 66 alin. (1) (ofertantul clasat pe locul următor) și art. 183 alin. (1) din Lege.",
+    "propunere": ""
+  },
+  {
+    "id": "L98-N203",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce art. 77. Distractorii au rolul atribuit corect: art. 78 alin. (1) lit. b) (etapa a doua, criteriul de atribuire), art. 88 alin. (1) lit. b) (etapa dialogului), art. 93 alin. (2) (negocierea cu ofertantul a cărui ofertă finală prezintă cel mai bun raport calitate-preț, pentru confirmarea angajamentelor financiare).",
+    "propunere": "Opțional, pentru exactitate: la art. 93 alin. (2), „cu ofertantul a cărui ofertă finală a fost desemnată ca prezentând cel mai bun raport calitate-preț”, în loc de „desemnată câștigătoare”."
+  },
+  {
+    "id": "L101A-021",
+    "verdict": "OK",
+    "motiv": "Art. 15 alin. (1) enumeră: legalitate, celeritate, contradictorialitate, dreptul la apărare, imparțialitate, independență. Publicitatea ședinței nu figurează, iar art. 21 alin. (1) (procedura scrisă) e corect citat. Principiile din Legea nr. 98/2016 sunt redate corect față de art. 2 alin. (2), deși explicația nu numește articolul.",
+    "propunere": "Opțional: în ultima propoziție a explicației se adaugă trimiterea „(art. 2 alin. (2) din Legea nr. 98/2016)”, conform SPEC §4.4/§4.8."
+  },
+  {
+    "id": "N395-N105",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce art. 50 alin. (2) din Norme. Distractorii sunt atribuiți corect: art. 51 alin. (1) (autorizațiile specifice ale unui membru al asocierii), art. 66 alin. (2) (atribuirea către ofertantul de pe locul următor) și art. 48 alin. (1) (acordul de subcontractare ca angajament ferm). Art. 50 alin. (1) e redat corect.",
+    "propunere": ""
+  },
+  {
+    "id": "L500-023",
+    "verdict": "OK",
+    "motiv": "Art. 18 alin. (2) lit. b), d) și e) din Legea nr. 500/2002 corespund exact celor trei variante-cheie. Aprobarea clasificațiilor bugetare și a modificărilor lor este atribuția MFP (art. 19 lit. f)), deci distractorul e fals pentru Guvern.",
+    "propunere": "Opțional (SPEC §4.8): ultima propoziție („ministerul pregătește și analizează, Guvernul își asumă politic...”) este o concluzie generală. Se poate înlocui cu „Potrivit art. 19 lit. a), MFP coordonează pregătirea proiectelor legilor bugetare anuale, ale legilor de rectificare și ale legilor privind aprobarea contului general anual de execuție.”"
+  },
+  {
+    "id": "N395B-006",
+    "verdict": "OK",
+    "motiv": "Art. 52 alin. (2) din Norme prevede: serviciile poștale, faxul sau o combinație între acestea. Nici Normele, nici Legea nr. 98/2016 nu prevăd comunicarea telefonică sau orală în acest context. E-mailul este mijloc electronic, deci nu poate fi alternativă la mijloacele electronice. Alin. (1) și (3) sunt redate corect.",
+    "propunere": ""
+  },
+  {
+    "id": "L98B-027",
+    "verdict": "OK",
+    "motiv": "Art. 79 alin. (5) lit. a) și b): 15 zile pentru solicitările de participare și 10 zile pentru oferte. Valorile distractorilor au sursele indicate corect: 15 zile la art. 74 alin. (3); 6/9 zile la art. 113 alin. (10) (6 zile servicii/produse, 9 zile lucrări). Reducerea 15/10 există și la art. 84 alin. (5).",
+    "propunere": "Opțional: se numește actul în enunț („Potrivit Legii nr. 98/2016, ...”)."
+  },
+  {
+    "id": "L98-N204",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce art. 80. Distractorii sunt atribuiți corect: ofertele finale nu se negociază (art. 85 alin. (1)); cerințele minime, criteriul și factorii de evaluare sunt nenegociabili (art. 85 alin. (2)); dialogul pe soluții ține de art. 91 alin. (1) și art. 92 alin. (4). Excepția de la art. 82 alin. (10) e citată corect.",
+    "propunere": ""
+  },
+  {
+    "id": "L98-N205",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce art. 81. Ofertele inițiale se depun doar de candidații selectați, pe bază de invitație (art. 80, art. 82 alin. (1) lit. b) și alin. (6)). Oferta însoțită de DUAE ține de art. 72 și 75, iar dialogul de art. 88 alin. (1) lit. b) și art. 91 alin. (2). Toate trimiterile sunt verificate.",
+    "propunere": ""
+  },
+  {
+    "id": "L98B-028",
+    "verdict": "OK",
+    "motiv": "Art. 82 alin. (10): atribuirea pe baza ofertelor inițiale, fără negociere, e posibilă dacă autoritatea și-a rezervat această posibilitate prin anunțul de participare. Art. 85 alin. (1) confirmă excepția. Niciun text nu cere acordul ofertanților.",
+    "propunere": "Opțional: se numește actul în enunț („Potrivit Legii nr. 98/2016, ...”)."
+  },
+  {
+    "id": "N395-N106",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce art. 54 din Norme (numai electronic, numai de autoritățile contractante înregistrate). Distractorii sunt atribuiți corect: art. 52 alin. (2) (poștă/fax pentru comunicări, nu pentru anunțuri), art. 2 alin. (6) (serviciile auxiliare achiziției), art. 26 (transmiterea spre JOUE prin mijloace proprii, la imposibilitate tehnică) și art. 56 (publicarea după confirmarea OPUE).",
+    "propunere": ""
+  },
+  {
+    "id": "L98-N206",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce art. 83 alin. (2). Distractorii au sursele indicate corect: termenul orientativ la art. 90 alin. (2) (dialog competitiv), obiectivele intermediare și plata în tranșe la art. 101 alin. (2) (parteneriat pentru inovare), rundele succesive la art. 85 alin. (8)-(10). Art. 85 alin. (2) și (4) și art. 82 alin. (1) lit. b) sunt corect citate.",
+    "propunere": ""
+  },
+  {
+    "id": "L98B-029",
+    "verdict": "OK",
+    "motiv": "Art. 85 alin. (2) exclude de la negociere cerințele minime (art. 83 alin. (2)), criteriul de atribuire și factorii de evaluare. Prețul nu figurează printre excepții, iar art. 85 alin. (1) permite negocierea ofertelor inițiale pentru îmbunătățirea conținutului lor. Regula identică de la art. 103 alin. (2) e corect citată.",
+    "propunere": "Opțional: se numește actul în enunț („Potrivit Legii nr. 98/2016, ...”)."
+  },
+  {
+    "id": "ALOP-019",
+    "verdict": "SUSPECT",
+    "motiv": "Cheia (0, 1, 2) e corectă: variantele reproduc lit. d), c) și b) din enumerarea de la pct. 1 al Normelor ALOP („Avizarea proiectelor de angajamente legale se poate face după îndeplinirea următoarelor condiții: [...]”). Explicația spune însă „Varianta de la indicele 1 este falsă: avizul ANAP...”. Aceasta încalcă SPEC §4.5 (referire la poziția variantei) și e factual greșită: în ordinea din fișier, varianta de la indicele 1 este încadrarea în limitele angajamentului bugetar, adică o variantă corectă, iar varianta ANAP e la indicele 3. Cititorul primește astfel o explicație care declară falsă o variantă-cheie.",
+    "propunere": "Fraza se înlocuiește cu: „Afirmația privind obținerea prealabilă a avizului conform al ANAP pentru orice proiect de angajament legal este falsă: pct. 1 din Normele ALOP nu enumeră un asemenea aviz printre condițiile avizării, iar controlul ex ante al ANAP privește procedurile de atribuire reglementate de O.U.G. nr. 98/2017.”"
+  },
+  {
+    "id": "L98-N207",
+    "verdict": "OK",
+    "motiv": "Cheia reproduce art. 86 („candidații rămași la sfârșitul etapei de dialog au dreptul de a depune oferte finale”). Trimiterile din explicație sunt corecte: art. 88 alin. (9) și (10), art. 92 alin. (5), art. 82 alin. (1) lit. b) și art. 88 alin. (1). Niciun distractor nu e apărabil.",
+    "propunere": ""
+  },
+  {
+    "id": "N395-N107",
+    "verdict": "SUSPECT",
+    "motiv": "Cheia e corectă (art. 57 alin. (1) și (2) din Norme), la fel trimiterile la art. 24 alin. (5), singurul alineat în vigoare al art. 24, și la art. 54-56. Enunțul și explicația atribuie însă Legii nr. 98/2016 o trimitere care nu mai există în forma la zi: „art. 111 alin. (1) lit. a) din Legea nr. 98/2016”. Art. 111 alin. (1) din Lege nu mai are litere. Anunțul de intenție valabil în mod continuu e acum la art. 111 alin. (2) lit. a): „de a-și face cunoscută intenția de a achiziționa respectivele servicii fie prin publicarea unui anunț de participare, fie prin intermediul unui anunț de intenție valabil în mod continuu”. Art. 57 alin. (1) din Norme păstrează numerotarea veche, deci citatul e verbatim, dar enunțul prezintă o trimitere greșită la Lege.",
+    "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, ce obligație are operatorul SEAP în cazul unui anunț de intenție valabil în mod continuu, transmis de autoritatea contractantă pentru serviciile sociale și alte servicii specifice (art. 111 alin. (2) lit. a) din Legea nr. 98/2016)?”. În explicație, prima frază se încheie cu „... transmis potrivit art. 111 din Lege (art. 57 alin. (1) din Norme trimite la «alin. (1) lit. a)», dispoziție aflată în prezent la art. 111 alin. (2) lit. a))”. Citatul rămâne neschimbat."
+  },
+  {
+    "id": "L98-N208",
+    "verdict": "OK",
+    "motiv": "Cele trei variante-cheie reproduc cele trei elemente ale art. 87. Depunerea directă a soluțiilor e falsă: dialogul are loc doar cu candidații selectați, cu fiecare în parte (art. 88 alin. (1) lit. b), art. 91 alin. (1) și (2)). Art. 144 alin. (1) lit. a) e corect citat. Împărțirea 3/4 e legitimă.",
+    "propunere": ""
+  },
+  {
+    "id": "L98-N504",
+    "verdict": "OK",
+    "motiv": "Art. 177 alin. (1) lit. a), b) și c) corespund celor trei variante-cheie; formularea „de regulă” e preluată din text. Lista principalelor livrări din ultimii 3 ani este mijloc de probă pentru capacitatea tehnică și profesională (art. 179 lit. b)). Art. 177 alin. (2) e redat corect.",
+    "propunere": ""
+  }
+]

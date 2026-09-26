@@ -1,0 +1,149 @@
+[
+ {
+  "id": "N395B-019",
+  "tip": "multiplu",
+  "test": 20,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele afirmații privind etapa a doua a licitației restrânse sunt corecte?",
+  "variante": [
+   "Candidații selectați se pot asocia între ei pentru depunerea unei oferte comune, cu acordul prealabil scris al autorității contractante.",
+   "Candidații selectați nu au dreptul de a se asocia în scopul depunerii de ofertă comună, iar autoritatea contractantă nu are dreptul de a accepta o astfel de ofertă.",
+   "Sistemul informatic permite doar candidaților selectați în etapa anterioară să depună oferte în cadrul etapei a doua.",
+   "La etapa a doua pot depune oferte și operatorii economici care nu au participat la etapa de selecție, cu condiția de a demonstra îndeplinirea criteriilor de calificare."
+  ],
+  "corecte": [
+   1,
+   2
+  ],
+  "explicatie": "Art. 72 alin. (2) din Normele metodologice prevede că sistemul informatic permite doar candidaților selectați în etapa anterioară să depună oferte în etapa a doua, iar art. 72 alin. (3), în vederea respectării art. 78 alin. (9) din Lege, interzice asocierea candidaților selectați în scopul depunerii unei oferte comune; interdicția privește atât candidații, cât și autoritatea contractantă, care nu are dreptul să accepte o astfel de ofertă. Prin urmare, varianta cu asocierea permisă cu acordul prealabil scris al autorității contractante este contrazisă de art. 72 alin. (3). Varianta cu operatorii care nu au participat la etapa de selecție este contrazisă de art. 78 alin. (9) din Lege, care interzice invitarea în etapa a doua a unui operator economic ce nu a depus solicitare de participare în prima etapă, precum și de art. 72 alin. (2) din Normele metodologice. Aceeași interdicție de asociere se regăsește la negocierea competitivă, la art. 74 alin. (4) din Normele metodologice, raportat la art. 82 alin. (9) din Lege.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 72 alin. (2) și (3)",
+   "citat": "Sistemul informatic permite doar candidaților selectați în etapa anterioară să depună oferte în cadrul etapei a doua a procedurii de licitație restrânsă. [...] candidații selectați nu au dreptul de a se asocia în scopul depunerii de ofertă comună, iar autoritatea contractantă nu are dreptul de a accepta o astfel de ofertă.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGB-006",
+  "tip": "unic",
+  "test": 20,
+  "intrebare": "Ofertantul desemnat câștigător refuză să semneze contractul de achiziție publică în perioada de valabilitate a ofertei. Procedura a făcut obiectul controlului ex ante, ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a finalizat procedura fără a remedia abaterile constatate. Ce se întâmplă cu garanția de participare, potrivit art. 37 alin. (3) din Normele metodologice aprobate prin H.G. nr. 395/2016 (text stabilit prin art. V pct. 35 din H.G. nr. 419/2018)?",
+  "variante": [
+   "Autoritatea contractantă nu reține garanția de participare în această situație",
+   "Autoritatea contractantă reține integral garanția de participare, refuzul de semnare fiind culpa exclusivă a ofertantului",
+   "Autoritatea contractantă reține garanția de participare, iar refuzul nemotivat se asimilează situației de la art. 167 alin. (1) lit. g) din Legea nr. 98/2016",
+   "Autoritatea contractantă emite pretenții asupra garanției de bună execuție, în limita prejudiciului creat prin refuzul semnării"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 37 alin. (3) din Normele metodologice aprobate prin H.G. nr. 395/2016, în textul stabilit prin art. V pct. 35 din H.G. nr. 419/2018, prevede că autoritatea contractantă nu reține garanția de participare când ofertantul desemnat câștigător refuză semnarea, dacă procedura a făcut obiectul controlului ex ante, ANAP a emis aviz conform condiționat, iar autoritatea a finalizat procedura fără a remedia abaterile constatate. Regula generală din art. 37 alin. (1) lit. c) din Norme obligă autoritatea contractantă să rețină garanția de participare când ofertantul câștigător refuză să semneze contractul în perioada de valabilitate a ofertei; varianta reținerii integrale descrie această regulă, înlăturată aici de alin. (3). Asimilarea refuzului nemotivat situației de la art. 167 alin. (1) lit. g) din Legea nr. 98/2016 provine din art. 144 alin. (1) din Norme, a cărui aplicare este exclusă expres de același art. 37 alin. (3). Pretențiile asupra garanției de bună execuție, în limita prejudiciului, sunt reglementate de art. 41 din Norme pentru neîndeplinirea obligațiilor contractuale, iar această garanție se constituie abia după semnarea contractului (art. 39 alin. (3) din Norme).",
+  "sursa": {
+   "act": "H.G. nr. 419/2018",
+   "articol": "art. V pct. 35 (art. 37 alin. (3) din normele aprobate prin H.G. nr. 395/2016)",
+   "citat": "Autoritatea contractantă nu reține garanția de participare în cazul în care ofertantul desemnat câștigător refuză să semneze contractul de achiziție publică/acordul-cadru în perioada de valabilitate a ofertei, atribuit în urma unei proceduri de atribuire care a făcut obiectul controlului ex ante și în care ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a derulat și finalizat procedura de atribuire fără a remedia abaterile constatate de ANAP",
+   "fisier": "05_HG_419-2018_act_de_aprobare.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395B-022",
+  "tip": "multiplu",
+  "test": 20,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, care dintre următoarele reguli se aplică desfășurării negocierilor în etapa a doua a procedurii de negociere competitivă?",
+  "variante": [
+   "Autoritatea contractantă poate derula negocierile în runde succesive, pentru a reduce numărul de oferte negociate, numai în măsura în care a prevăzut această posibilitate în anunțul de participare.",
+   "La sfârșitul fiecărei întâlniri de negocieri, aspectele discutate și convenite se consemnează într-un proces-verbal de ședință, care se semnează de către toți participanții la negocieri.",
+   "Negocierile se derulează până în momentul în care fiecare participant declară că oferta pe care a prezentat-o nu mai poate fi îmbunătățită, fapt consemnat explicit în procesul-verbal de ședință.",
+   "Negocierile se derulează obligatoriu în cel mult trei runde succesive, indiferent de prevederile anunțului de participare."
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Art. 75 alin. (4) din Normele metodologice impune consemnarea aspectelor discutate și convenite la fiecare întâlnire într-un proces-verbal de ședință semnat de toți participanții la negocieri; procesele-verbale de negociere fac parte din dosarul achiziției (art. 148 lit. n)). Art. 75 alin. (5) condiționează dreptul de a derula negocierile în runde succesive, pentru reducerea numărului de oferte negociate, de prevederea acestei posibilități în anunțul de participare, la fel ca art. 90 pentru parteneriatul pentru inovare. Art. 75 alin. (6) stabilește momentul finalizării negocierilor: declarația fiecărui participant că oferta nu mai poate fi îmbunătățită, consemnată explicit în procesul-verbal de ședință. Varianta cu cel mult trei runde obligatorii contrazice art. 75 alin. (5), care nu stabilește un număr maxim de runde și lasă rundele succesive la latitudinea autorității, în măsura prevederii lor în anunț. Dacă nu se mai înregistrează îmbunătățiri substanțiale, art. 75 alin. (7) dă comisiei dreptul de a stabili o întâlnire finală cu fiecare participant.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 75 alin. (4), (5) și (6)",
+   "citat": "La sfârșitul fiecărei întâlniri de negocieri, comisia de evaluare are obligația consemnării aspectelor discutate și convenite într-un proces-verbal de ședință, care se semnează de către toți participanții la negocieri. [...] În măsura în care a prevăzut această posibilitate în anunțul de participare, autoritatea contractantă are dreptul de a derula negocierile în runde succesive, cu scopul de a reduce numărul de oferte care urmează să fie negociate. [...] Negocierile în cadrul etapei a doua a procedurii de atribuire se derulează până în momentul în care fiecare participant la negocieri declară că oferta pe care a prezentat-o nu mai poate fi îmbunătățită, fapt care se consemnează explicit în procesul-verbal de ședință.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-018",
+  "tip": "multiplu",
+  "test": 21,
+  "intrebare": "Angajamentul bugetar global este aferent unui angajament legal provizoriu care privește cheltuielile curente de funcționare de natură administrativă. Care dintre următoarele categorii sunt enumerate expres de Normele metodologice ALOP (Ordinul M.F.P. nr. 1.792/2002) ca fiind de acest tip?",
+  "variante": [
+   "Cheltuielile cu asigurările, cheltuielile cu chiriile și cheltuielile cu abonamentele la reviste și buletine lunare",
+   "Cheltuielile de deplasare și cheltuielile de protocol",
+   "Cheltuielile de întreținere și gospodărie (încălzit, iluminat, apă, canal, salubritate, poștă, telefon, radio, furnituri de birou etc.)",
+   "Cheltuielile de capital și cele cuprinse în programele de investiții publice anexate bugetului"
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Pct. 1 lit. b2) din Normele ALOP enumeră, drept cheltuieli curente de funcționare de natură administrativă aferente angajamentului bugetar global, cheltuielile de deplasare, de protocol, de întreținere și gospodărie (încălzit, iluminat, apă, canal, salubritate, poștă, telefon, radio, furnituri de birou etc.), cu asigurările, cu chiriile și cu abonamentele la reviste, buletine lunare etc. Pentru aceste cheltuieli, care se efectuează în mod repetat pe parcursul aceluiași exercițiu bugetar, se pot întocmi propuneri de angajamente legale provizorii, materializate în bugete previzionale, înaintate pentru viză împreună cu angajamentele bugetare globale. Varianta cu cheltuielile de capital și cele din programele de investiții publice este greșită și constituie capcana: potrivit pct. 1, «Cheltuielile de investiții se angajează individual în cadrul angajamentelor multianuale care reprezintă limita superioară de angajare», iar programele de investiții publice sunt enumerate printre acțiunile multianuale. Prin opoziție, angajamentul bugetar individual este specific unei anumite operațiuni noi și se prezintă la viza de control financiar preventiv propriu în același timp cu proiectul angajamentului legal individual (pct. 1 lit. b1)).",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea cheltuielilor)",
+   "citat": "Angajamentul bugetar global este un angajament bugetar aferent angajamentului legal provizoriu care privește cheltuielile curente de funcționare de natura administrativă, cum ar fi: – cheltuieli de deplasare; – cheltuieli de protocol; – cheltuieli de întreținere și gospodărie (încălzit, iluminat, apa, canal, salubritate, posta, telefon, radio, furnituri de birou etc.); – cheltuieli cu asigurările; – cheltuieli cu chiriile; – cheltuieli cu abonamentele la reviste, buletine lunare etc.",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L500B-004",
+  "tip": "multiplu",
+  "test": 22,
+  "intrebare": "Care dintre următoarele elemente sunt cuprinse în legile bugetare, potrivit art. 26 din Legea nr. 500/2002?",
+  "variante": [
+   "La venituri, estimările anului bugetar",
+   "Reglementări specifice exercițiului bugetar",
+   "Deficitul sau excedentul bugetar, după caz",
+   "Sintezele bugetelor prevăzute la art. 16 alin. (1) lit. a) și sumele defalcate din unele venituri ale bugetului de stat, cu criteriile de repartizare a acestora"
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Art. 26 stabilește conținutul legilor bugetare: la venituri, estimările anului bugetar (lit. a)); la cheltuieli, creditele de angajament și creditele bugetare determinate de autorizările conținute în legi specifice, în structură funcțională și economică (lit. b)); deficitul sau excedentul bugetar, după caz (lit. c)); reglementări specifice exercițiului bugetar (lit. d)). Observați asimetria: veniturile sunt estimări, în timp ce sumele aprobate la partea de cheltuieli reprezintă limite maxime care nu pot fi depășite (art. 4 alin. (2)). Varianta cu sintezele bugetelor prevăzute la art. 16 alin. (1) lit. a) și sumele defalcate din unele venituri ale bugetului de stat, cu criteriile de repartizare, este greșită pentru că reia conținutul anexelor legilor bugetare (art. 27 lit. a) și c)), nu al legilor bugetare. Conținutul anexelor este enumerat distinct la art. 27 lit. a)–d), sub formula «Anexele legilor bugetare cuprind».",
+  "sursa": {
+   "act": "Legea nr. 500/2002 privind finanțele publice",
+   "articol": "art. 26 lit. a), c) și d)",
+   "citat": "Legile bugetare cuprind: a) la venituri, estimările anului bugetar; b) la cheltuieli, creditele de angajament și creditele bugetare determinate de autorizările conținute în legi specifice, în structură funcțională și economică a acestora*); [...] c) deficitul sau excedentul bugetar, după caz; d) reglementări specifice exercițiului bugetar.",
+   "fisier": "10_Legea_500-2002_finantele_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98E-008",
+  "tip": "multiplu",
+  "test": 22,
+  "intrebare": "Care dintre următoarele constituie obligații ale autorității contractante la atribuirea contractelor în cadrul unui sistem dinamic de achiziții, potrivit art. 124 din Legea nr. 98/2016?",
+  "variante": [
+   "De a limita numărul candidaților admiși în sistemul dinamic de achiziții, cu condiția asigurării unui număr minim de 5 candidați.",
+   "De a indica orice împărțire pe categorii de produse, lucrări sau servicii și caracteristicile care le definesc.",
+   "De a publica un anunț de participare în care se precizează în mod clar faptul că pentru atribuirea contractelor se utilizează un sistem dinamic de achiziții.",
+   "De a indica în documentele achiziției cel puțin natura și cantitatea estimată a achizițiilor avute în vedere."
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 124 lit. a)-c) enumeră obligațiile de transparență specifice sistemului dinamic de achiziții: anunț de participare care menționează explicit utilizarea sistemului (lit. a)), indicarea în documentele achiziției a naturii și cantității estimate, precum și a informațiilor privind funcționarea sistemului și conectarea electronică (lit. b)), respectiv indicarea eventualei împărțiri pe categorii (lit. c)). Art. 124 lit. d) adaugă accesul nerestricționat, direct și complet la documentele achiziției pe toată perioada de valabilitate a sistemului. Varianta cu limitarea numărului de candidați admiși, cu un minim de 5, preia regula licitației restrânse (art. 78 alin. (2) și (4)). Ea este greșită: potrivit art. 121 alin. (2), toți candidații care îndeplinesc criteriile de calificare și selecție sunt admiși în sistem, autoritatea contractantă neavând dreptul de a limita numărul acestora, spre deosebire de art. 78 alin. (2) și art. 82 alin. (2), care permit limitarea la licitația restrânsă și la negocierea competitivă.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 124 lit. a)-c)",
+   "citat": "La atribuirea contractelor în cadrul unui sistem dinamic de achiziții, autoritatea contractantă are următoarele obligații: a) de a publica un anunț de participare în care se precizează în mod clar faptul că pentru atribuirea contractului/contractelor de achiziție publică se utilizează un sistem dinamic de achiziții; b) de a indica în documentele achiziției cel puțin natura și cantitatea estimată a achizițiilor avute în vedere [...] c) de a indica orice împărțire pe categorii de produse, lucrări sau servicii și caracteristicile care le definesc;",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ }
+]

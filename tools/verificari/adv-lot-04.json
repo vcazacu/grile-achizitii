@@ -1,0 +1,711 @@
+[
+ {
+  "id": "L98-proceduri-atribuire",
+  "tip": "multiplu",
+  "test": 13,
+  "intrebare": "Care dintre următoarele sunt proceduri de atribuire reglementate de Legea nr. 98/2016?",
+  "variante": [
+   "Parteneriatul pentru inovare",
+   "Achiziția directă",
+   "Negocierea competitivă",
+   "Cererea de oferte"
+  ],
+  "corecte": [
+   0,
+   2
+  ],
+  "explicatie": "Art. 68 alin. (1) din Legea nr. 98/2016 enumeră nouă proceduri de atribuire: licitația deschisă, licitația restrânsă, negocierea competitivă, dialogul competitiv, parteneriatul pentru inovare, negocierea fără publicare prealabilă, concursul de soluții, procedura pentru servicii sociale și alte servicii specifice și procedura simplificată. Achiziția directă NU este procedură de atribuire — este o modalitate simplă de cumpărare permisă sub pragurile art. 7 alin. (5), iar art. 68 alin. (1) se aplică tocmai achizițiilor egale sau mai mari decât aceste praguri. „Cererea de oferte” era o procedură din vechea O.U.G. nr. 34/2006, abrogată — a fost înlocuită conceptual de procedura simplificată.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 68 alin. (1)",
+   "citat": "Procedurile de atribuire reglementate de prezenta lege [...] sunt următoarele: a) licitația deschisă; b) licitația restrânsă; c) negocierea competitivă; d) dialogul competitiv; e) parteneriatul pentru inovare; f) negocierea fără publicare prealabilă; [...] g) concursul de soluții; h) procedura de atribuire aplicabilă în cazul serviciilor sociale și al altor servicii specifice; i) procedura simplificată.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395A-064",
+  "tip": "multiplu",
+  "test": 13,
+  "intrebare": "Care dintre următoarele afirmații sunt corecte cu privire la contul de disponibil deschis atunci când garanția de bună execuție se constituie prin rețineri succesive din sumele datorate pentru facturi parțiale?",
+  "variante": [
+   "Contul de disponibil este purtător de dobândă în favoarea contractantului",
+   "Contul de disponibil se deschide la o instituție de credit desemnată unilateral de autoritatea contractantă, fără a fi necesar acordul contractantului",
+   "Suma inițială depusă de contractant în contul de disponibil nu trebuie să fie mai mică de 0,5% din prețul contractului de achiziție publică/contractului subsecvent, fără TVA",
+   "Atunci când autoritatea contractantă este autoritate publică, instituție publică sau operator economic cu capital integral ori majoritar de stat, contul se deschide la unitatea Trezoreriei Statului din cadrul organului fiscal competent în administrarea contractantului"
+  ],
+  "corecte": [
+   0,
+   2,
+   3
+  ],
+  "explicatie": "Art. 40 alin. (6) fixează depunerea inițială la minimum 0,5% din prețul contractului sau al contractului subsecvent, fără TVA; ulterior, autoritatea contractantă alimentează contul prin rețineri succesive din sumele datorate contractantului, până la concurența cuantumului stabilit ca garanție de bună execuție, înștiințându-l despre fiecare vărsământ și despre destinația lui (alin. (7)). Alin. (9) prevede că dobânda contului revine contractantului, iar alin. (5) impune Trezoreria Statului atunci când autoritatea contractantă face parte din sectorul public. Afirmația privind desemnarea unilaterală a băncii este falsă: art. 40 alin. (4) cere ca instituția de credit bancară să fie agreată de ambele părți — de altfel, nedeschiderea acestui cont de către ofertantul câștigător atrage reținerea garanției de participare (art. 37 alin. (1) lit. b^1)). Atenție să nu confundați cei 0,5% cu plafonul de 1% al garanției de participare (art. 154 alin. (2) din Legea nr. 98/2016).",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 40 alin. (5), (6) și (9)",
+   "citat": "În cazul în care autoritatea contractantă are calitatea de autoritate publică, instituție publică sau operator economic cu capital integral sau majoritar de stat, contractantul are obligația de a deschide contul la dispoziția autorității contractante, prevăzut la alin (4), la unitatea Trezoreriei Statului din cadrul organului fiscal competent în administrarea acestuia. [...] Suma inițială care se depune de către contractant în contul de disponibil astfel deschis potrivit alin. (4) și (5) nu trebuie să fie mai mică de 0,5% din prețul contractului de achiziție publică/contractului subsecvent, fără TVA. [...] Contul de disponibil prevăzut la alin. (4) și (5) este purtător de dobândă în favoarea contractantului.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-016",
+  "tip": "unic",
+  "test": 13,
+  "intrebare": "Care sunt procedurile de atribuire pe care autoritatea contractantă le aplică de regulă (fără a fi necesară încadrarea într-un caz de excepție) atunci când valoarea estimată este mai mare sau egală cu pragurile prevăzute la art. 7 alin. (1) din Legea nr. 98/2016?",
+  "variante": [
+   "Licitația deschisă sau procedura simplificată",
+   "Licitația deschisă sau negocierea competitivă",
+   "Licitația deschisă sau licitația restrânsă",
+   "Oricare dintre cele nouă proceduri reglementate de lege, la alegerea autorității contractante"
+  ],
+  "corecte": [
+   2
+  ],
+  "explicatie": "Art. 69 alin. (1) stabilește regula: peste pragurile de la art. 7 alin. (1), contractele se atribuie prin licitație deschisă sau licitație restrânsă — ambele fiind proceduri „de drept comun”, între care autoritatea poate alege liber. Toate celelalte proceduri sunt excepții condiționate: negocierea competitivă și dialogul competitiv numai în cazurile de la art. 70, negocierea fără publicare prealabilă exclusiv în cazurile de la art. 104, concursul de soluții și serviciile sociale în condițiile lor specifice; parteneriatul pentru inovare este permis prin excepție în condițiile art. 95-103. Procedura simplificată se aplică tocmai SUB pragurile de la art. 7 alin. (1), nu peste ele — capcana clasică a variantei cu procedura simplificată.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 69 alin. (1)",
+   "citat": "Autoritatea contractantă atribuie contractele de achiziție publică/acordurile-cadru, în cazul în care valoarea estimată este mai mare sau egală cu pragurile valorice prevăzute la art. 7 alin. (1), prin aplicarea procedurilor de licitație deschisă sau licitație restrânsă.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N114",
+  "tip": "unic",
+  "test": 14,
+  "intrebare": "Potrivit Legii nr. 98/2016, în cadrul procedurii de licitație deschisă:",
+  "variante": [
+   "numai operatorii economici invitați de autoritatea contractantă au dreptul de a depune ofertă",
+   "orice operator economic are dreptul de a depune o solicitare de participare, urmând ca numai candidații care îndeplinesc criteriile de calificare și selecție să depună oferte",
+   "autoritatea contractantă are dreptul de a nu publica anunț de participare dacă invită exclusiv ofertanții care au îndeplinit criteriile de calificare într-o procedură anterioară",
+   "orice operator economic are dreptul de a depune ofertă în urma publicării unui anunț de participare"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 71 din Legea nr. 98/2016 definește licitația deschisă ca procedura în care orice operator economic are dreptul de a depune ofertă în urma publicării unui anunț de participare; ea se desfășoară într-o singură etapă obligatorie (art. 73 alin. (1)). Depunerea mai întâi a solicitărilor de participare și accesul la etapa ofertelor numai pentru candidații care îndeplinesc criteriile de calificare și selecție caracterizează licitația restrânsă, potrivit art. 76. Participarea doar pe bază de invitație trimite la negocierea fără publicare prealabilă, în care candidatul este cel invitat de autoritatea contractantă (art. 3 alin. (1) lit. g)). Dreptul de a nu publica anunț de participare când se invită exclusiv ofertanții calificați dintr-o procedură anterioară este prevăzut la art. 70 alin. (3), pentru negocierea competitivă sau dialogul competitiv organizate după o licitație în care s-au depus numai oferte neconforme sau inacceptabile.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 71",
+   "citat": "În cadrul procedurii de licitație deschisă orice operator economic are dreptul de a depune ofertă în urma publicării unui anunț de participare.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395B-001",
+  "tip": "unic",
+  "test": 14,
+  "intrebare": "În aplicarea art. 7 alin. (7) lit. b) și c) din Legea nr. 98/2016 (achiziția directă), cum se poate realiza consultarea operatorilor economici în vederea obținerii ofertelor, potrivit Normelor metodologice?",
+  "variante": [
+   "Exclusiv prin intermediul catalogului electronic pus la dispoziție de SEAP",
+   "Atât prin intermediul catalogului electronic pus la dispoziție de SEAP, cât și prin orice alte modalități identificate de autoritatea contractantă",
+   "Numai prin solicitare scrisă transmisă la cel puțin trei operatori economici",
+   "Exclusiv prin publicarea unui anunț de participare simplificat în SEAP"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 45 alin. (3) permite explicit ambele căi: catalogul electronic SEAP sau orice alte modalități identificate de autoritatea contractantă. Varianta care impune exclusiv catalogul electronic SEAP este capcana clasică — mulți cred că achiziția directă se face obligatoriu prin catalog, dar norma este flexibilă. Nu există obligația unui anunț de participare simplificat (acesta ține de procedura simplificată). Atenție însă: un număr minim de trei operatori consultați EXISTĂ, dar el vine din lege, nu din norme — art. 7 alin. (7) lit. b) din Legea nr. 98/2016 impune consultarea a minimum trei operatori economici pentru achizițiile între 140.000 și 200.000 lei (produse și servicii), respectiv între 300.000 și 560.000 lei (lucrări); varianta care admite numai solicitarea scrisă este totuși greșită pentru că prezintă solicitarea scrisă către trei operatori drept singura modalitate de consultare. Capcană conexă: articolele 43, 44 și 46 din norme, care detaliau anterior achiziția directă, au fost ABROGATE (art. 44 în 2018, art. 43 și 46 în 2023), astfel încât din vechea secțiune a rămas în vigoare practic doar art. 45 privind cataloagele electronice.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 45 alin. (3)",
+   "citat": "consultarea operatorilor economici în vederea obținerii ofertelor/ofertei se poate face atât prin intermediul catalogului electronic pus la dispoziție de SEAP, cât și prin orice alte modalități identificate de către autoritatea contractantă.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N201",
+  "tip": "unic",
+  "test": 14,
+  "intrebare": "Potrivit Legii nr. 98/2016, procedura de licitație deschisă se inițiază prin:",
+  "variante": [
+   "Transmiterea spre publicare a unui anunț de intenție, care ține loc de anunț de participare dacă a fost publicat cu cel puțin 35 de zile înainte",
+   "Transmiterea spre publicare a unui anunț de participare prin care autoritatea contractantă solicită operatorilor economici depunerea de oferte",
+   "Transmiterea spre publicare a unui anunț de participare prin care autoritatea contractantă solicită operatorilor economici depunerea de solicitări de participare, în vederea calificării și selecției",
+   "Transmiterea simultană a unei invitații de participare către operatorii economici pe care autoritatea contractantă îi consideră apți"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 72 prevede că licitația deschisă se inițiază prin transmiterea spre publicare a unui anunț de participare, conform art. 144 alin. (2) și (3), prin care autoritatea contractantă solicită direct depunerea de oferte; în această procedură orice operator economic are dreptul de a depune ofertă (art. 71). Solicitarea de «solicitări de participare» este formula de inițiere a licitației restrânse (art. 77), a negocierii competitive (art. 81), a dialogului competitiv (art. 87) și a parteneriatului pentru inovare (art. 96), proceduri cu etapă de selecție. Anunțul de intenție nu înlocuiește anunțul de participare la licitația deschisă: el permite doar reducerea perioadei de depunere a ofertelor la cel puțin 15 zile, dacă a fost transmis cu 35 de zile până la 12 luni înainte (art. 74 alin. (2)). Invitația de participare transmisă simultan candidaților selectați apare abia la etapa a doua a procedurilor cu selecție (de exemplu, art. 78 alin. (6)), nu la inițierea licitației deschise. Obligația de a publica anunț de participare la inițierea licitației deschise rezultă și din art. 144 alin. (1) lit. a).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 72",
+   "citat": "Licitația deschisă se inițiază prin transmiterea spre publicare a unui anunț de participare, în conformitate cu prevederile art. 144 alin. (2) și (3), prin care autoritatea contractantă solicită operatorilor economici depunerea de oferte.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395B-002",
+  "tip": "multiplu",
+  "test": 14,
+  "intrebare": "Care dintre următoarele îi sunt INTERZISE ofertantului/candidatului în cadrul aceleiași proceduri de atribuire, potrivit art. 47 din Normele metodologice, sub sancțiunea excluderii?",
+  "variante": [
+   "Să oferteze pe mai multe loturi diferite",
+   "Să depună două sau mai multe candidaturi/oferte individuale și/sau comune",
+   "Să depună ofertă alternativă, atunci când documentația de atribuire permite acest lucru",
+   "Să depună ofertă individuală/comună și să fie nominalizat ca subcontractant în cadrul unei alte oferte"
+  ],
+  "corecte": [
+   1,
+   3
+  ],
+  "explicatie": "Art. 47 interzice cumulul de oferte: depunerea a două sau mai multe candidaturi/oferte atrage excluderea tuturor ofertelor în cauză, iar cumulul ofertant + subcontractant nominalizat în altă ofertă atrage excluderea ofertei individuale sau, după caz, a celei în care este ofertant asociat. Chiar în partea introductivă a articolului se precizează că interdicțiile NU afectează posibilitatea de a depune ofertă alternativă și nici de a oferta pe mai multe loturi diferite — acestea sunt distractorii. Atenție: sancțiunea este excluderea potrivit procedurii de la art. 167 din Lege.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 47",
+   "citat": "fără a afecta posibilitatea operatorilor economici de a depune ofertă alternativă sau de a oferta pe mai multe loturi diferite, ofertantul/candidatul nu are dreptul ca în cadrul aceleiași proceduri de atribuire: a) să depună două sau mai multe candidaturi/oferte individuale și/sau comune, sub sancțiunea excluderii din competiție a tuturor candidaturilor/ofertelor în cauză; b) să depună ofertă individuală/comună și să fie nominalizat ca subcontractant în cadrul unei alte oferte",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-019",
+  "tip": "unic",
+  "test": 14,
+  "intrebare": "La licitația deschisă, care este perioada minimă între data transmiterii anunțului de participare spre publicare în Jurnalul Oficial al Uniunii Europene și data-limită de depunere a ofertelor, și cu cât poate fi redusă dacă autoritatea acceptă depunerea ofertelor prin mijloace electronice?",
+  "variante": [
+   "20 de zile, fără posibilitate de reducere",
+   "45 de zile, cu reducere de 15 zile pentru oferte electronice",
+   "30 de zile, cu reducere de 10 zile pentru oferte electronice",
+   "35 de zile, cu reducere de 5 zile pentru oferte electronice"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 74 alin. (1) fixează termenul minim la cel puțin 35 de zile de la transmiterea anunțului spre publicare în JOUE, iar alin. (4) permite reducerea cu 5 zile (deci până la 30 de zile) când se acceptă depunerea ofertelor prin mijloace electronice. Valoarea de 30 de zile din varianta cu reducere de 10 zile este reală, dar cu alt rol: este termenul minim pentru solicitările de participare și pentru oferte la licitația restrânsă (art. 79). Nu există termen de 45 sau 20 de zile la licitația deschisă. Capcane conexe: termenul se poate reduce la cel puțin 15 zile dacă s-a publicat un anunț de intenție (alin. (2)) sau în situații de urgență demonstrate corespunzător (alin. (3)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 74 alin. (1) și (4)",
+   "citat": "Perioada cuprinsă între data transmiterii anunțului de participare spre publicare în Jurnalul Oficial al Uniunii Europene și data-limită de depunere a ofertelor este de cel puțin 35 de zile. [...] Autoritatea contractantă are dreptul de a reduce cu 5 zile perioada pentru depunerea ofertelor prevăzută la alin. (1) în cazul în care acceptă depunerea ofertelor prin mijloace electronice",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L101C-003",
+  "tip": "multiplu",
+  "test": 14,
+  "intrebare": "Care dintre următoarele afirmații privind repartizarea contestațiilor și actele completelor de soluționare din cadrul Consiliului sunt corecte, potrivit Legii nr. 101/2016?",
+  "variante": [
+   "În exercitarea atribuțiilor sale Consiliul, prin completele de soluționare a contestațiilor, adoptă decizii și încheieri.",
+   "Contestațiile se distribuie spre soluționare completurilor în mod aleatoriu.",
+   "Completul de soluționare a contestației este independent, hotărârile pronunțate fiind bazate pe stricta aplicare și respectare a legii.",
+   "Contestațiile se repartizează de președintele Consiliului, în ordinea înregistrării lor, completului cu cea mai mică încărcătură de dosare."
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Art. 14 alin. (1)-(3) stabilește trei reguli: distribuirea aleatorie a contestațiilor (cu aplicarea corespunzătoare a art. 13 alin. (3) privind informațiile clasificate și a art. 17 alin. (1) și (2) privind soluția unitară pe aceeași procedură), competența completelor de a adopta atât decizii, cât și încheieri, și independența completului. Varianta repartizării de către președinte este falsă și inversează chiar rațiunea aleatorietății: repartizarea discreționară de către președinte, pe criteriul încărcăturii, ar anula garanția de imparțialitate. Capcană conexă de reținut: aleatoriu NU înseamnă complet diferit de fiecare dată — art. 17 alin. (1) impune ca, în aceeași etapă a aceleiași proceduri, contestațiile să meargă la ACELAȘI complet. Distincția decizie/încheiere este detaliată de art. 27 alin. (1) și (2): decizia soluționează contestația sau dezînvestește Consiliul, restul hotărârilor sunt încheieri.",
+  "sursa": {
+   "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+   "articol": "art. 14 alin. (1), (2) și (3)",
+   "citat": "(1) Contestațiile se distribuie spre soluționare completurilor în mod aleatoriu, cu aplicarea în mod corespunzător a prevederilor art. 13 alin. (3) și art. 17 alin. (1) și (2). [...] (2) În exercitarea atribuțiilor sale Consiliul, prin completele de soluționare a contestațiilor, adoptă decizii și încheieri. (3) Completul de soluționare a contestației este independent, hotărârile pronunțate fiind bazate pe stricta aplicare și respectare a legii.",
+   "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395B-003",
+  "tip": "unic",
+  "test": 14,
+  "intrebare": "Ce statut au, potrivit Normelor metodologice, subcontractanții pe ale căror capacități se bazează ofertantul/candidatul pentru demonstrarea îndeplinirii anumitor criterii de calificare și selecție?",
+  "variante": [
+   "Trebuie excluși din procedură, deoarece cumulul de calități este interzis",
+   "Sunt considerați și terți susținători, caz în care acordul de subcontractare reprezintă, în același timp, și angajamentul ferm",
+   "Sunt considerați simpli subcontractanți, fără vreo obligație suplimentară",
+   "Devin automat ofertanți asociați, cu răspundere solidară"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 48 alin. (1) asimilează subcontractanții pe capacitățile cărora se sprijină ofertantul cu terții susținători, iar acordul de subcontractare ține loc de angajament ferm. Varianta potrivit căreia sunt simpli subcontractanți ignoră tocmai această dublă calitate. Cumulul subcontractant + terț susținător nu este interzis (interdicția de la art. 47 vizează cumulul ofertant + subcontractant în altă ofertă). Asocierea cu răspundere solidară este o instituție diferită (participarea în comun la procedură), care nu se naște automat din subcontractare.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 48 alin. (1)",
+   "citat": "Subcontractanții pe a căror capacități ofertantul/candidatul se bazează pentru demonstrarea îndeplinirii anumitor criterii de calificare și selecție sunt considerați și terți susținători, caz în care acordul de subcontractare reprezintă, în același timp, și angajamentul ferm.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N202",
+  "tip": "unic",
+  "test": 14,
+  "intrebare": "Potrivit Legii nr. 98/2016, în procedura de licitație deschisă, ofertantul depune oferta însoțită de documentele sau de documentul unic de achiziție european (DUAE), după caz, care demonstrează îndeplinirea:",
+  "variante": [
+   "Criteriilor de calificare stabilite de autoritatea contractantă",
+   "Nivelurilor de performanță și costurilor maxime convenite între autoritatea contractantă și participanți",
+   "Necesităților și cerințelor definite de autoritatea contractantă în documentul descriptiv",
+   "Cerințelor minime stabilite de autoritatea contractantă în documentația de atribuire, care nu pot face obiect al negocierilor"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 75 prevede că, la licitația deschisă, oferta este însoțită de documentele sau de DUAE, conform art. 193-197, care demonstrează îndeplinirea criteriilor de calificare stabilite de autoritatea contractantă; licitația deschisă se desfășoară într-o singură etapă (art. 73 alin. (1)), de aceea documentele de calificare sau DUAE însoțesc chiar oferta, fără o etapă separată de solicitări de participare. Cerințele minime care nu pot fi negociate sunt specifice negocierii competitive (art. 83 alin. (2) și art. 85 alin. (2)) și se raportează la conținutul ofertei, nu la calificare. Nivelurile de performanță și costurile maxime convenite cu participanții țin de parteneriatul pentru inovare (art. 100). Documentul descriptiv care definește necesitățile și cerințele este instrumentul dialogului competitiv (art. 90 alin. (1)). Potrivit art. 193 alin. (1), DUAE este acceptat ca dovadă preliminară în locul certificatelor eliberate de autoritățile publice sau de terți.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 75",
+   "citat": "Ofertantul depune oferta elaborată în conformitate cu informațiile și cerințele prevăzute în documentele achiziției, însoțită de documentele sau de documentul unic de achiziție european, în conformitate cu dispozițiile art. 193-197, după caz, care demonstrează îndeplinirea criteriilor de calificare stabilite de autoritatea contractantă.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-022",
+  "tip": "unic",
+  "test": 14,
+  "intrebare": "În cadrul procedurii de licitație restrânsă, cine are dreptul de a depune ofertă în etapa a doua?",
+  "variante": [
+   "Numai candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă",
+   "Numai primii trei candidați clasați în ordinea prețului estimat",
+   "Orice operator economic interesat, în urma publicării anunțului de participare",
+   "Orice operator economic care a achiziționat documentația de atribuire"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 76 descrie mecanismul licitației restrânse: orice operator economic poate depune o SOLICITARE DE PARTICIPARE în prima etapă, dar numai candidații care îndeplinesc criteriile de calificare și selecție au dreptul să depună OFERTA în etapa ulterioară. Varianta potrivit căreia orice operator economic interesat poate depune ofertă descrie licitația deschisă (art. 71), unde orice operator depune direct ofertă. Clasamentul după preț estimat nu există ca mecanism de selecție, iar achiziționarea documentației nu mai este o condiție de participare (documentația este disponibilă gratuit în SEAP). Capcană conexă: autoritatea nu poate invita în etapa a doua un operator care nu a depus solicitare de participare în prima etapă (art. 78 alin. (9)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 76",
+   "citat": "În cadrul procedurii de licitație restrânsă orice operator economic are dreptul de a depune o solicitare de participare în urma publicării unui anunț de participare, urmând ca numai candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă să aibă dreptul de a depune oferta în etapa ulterioară.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395-N104",
+  "tip": "unic",
+  "test": 14,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în ce condiții poate autoritatea contractantă să solicite terțului susținător documente și informații suplimentare în legătură cu angajamentul dat sau cu documentele prezentate?",
+  "variante": [
+   "Numai pe parcursul executării contractului, dacă contractantul întâmpină dificultăți, iar susținerea vizează situația economică și financiară și/sau capacitatea tehnică și profesională",
+   "Numai dacă terțul susținător este și subcontractant, caz în care acordul de subcontractare reprezintă și angajamentul ferm",
+   "Numai după ce ofertantul clasat pe primul loc nu demonstrează îndeplinirea integrală a criteriilor de calificare, odată cu solicitarea documentelor de la ofertantul clasat pe locul următor",
+   "Oricând pe parcursul procesului de evaluare, dacă există rezerve privind corectitudinea informațiilor sau documentelor prezentate ori privind posibilitatea de executare a obligațiilor asumate prin angajament"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 49 din Norme permite autorității contractante, pentru verificarea criteriilor de calificare și selecție de către terțul susținător, în condițiile art. 183 alin. (1) din Lege, să îi solicite documente și informații suplimentare oricând pe parcursul procesului de evaluare, dacă există rezerve privind corectitudinea informațiilor sau documentelor ori posibilitatea de executare a angajamentului. Dificultățile întâmpinate de contractant pe parcursul executării contractului sunt situația reglementată de art. 50 alin. (1), care duce la garantarea materializării angajamentului ferm, nu la cererea de documente suplimentare. Regula potrivit căreia acordul de subcontractare reprezintă și angajament ferm apare la art. 48 alin. (1), dar art. 49 nu limitează verificarea la terții care sunt și subcontractanți. Solicitarea documentelor de la ofertantul clasat pe locul următor este mecanismul art. 66 alin. (1), care privește ofertanții, nu terții susținători. Singura condiție pusă de art. 49 este existența rezervelor privind corectitudinea documentelor sau executarea angajamentului.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 49",
+   "citat": "autoritatea contractantă poate solicita terțului/terților susținător(i), oricând pe parcursul procesului de evaluare, documente și informații suplimentare în legătură cu angajamentul dat sau cu documentele prezentate, în cazul în care există rezerve în ceea ce privește corectitudinea informațiilor sau documentelor prezentate sau cu privire la posibilitatea de executare a obligațiilor asumate prin respectivul angajament.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N203",
+  "tip": "unic",
+  "test": 14,
+  "intrebare": "Potrivit Legii nr. 98/2016, prin anunțul de participare cu care se inițiază licitația restrânsă, autoritatea contractantă solicită operatorilor economici depunerea de solicitări de participare în vederea:",
+  "variante": [
+   "Prezentării propunerii tehnice și a propunerii financiare, evaluate prin aplicarea criteriului de atribuire și a factorilor de evaluare",
+   "Identificării, prin dialog, a soluției apte să răspundă necesităților autorității contractante",
+   "Confirmării angajamentelor financiare și a altor termeni incluși în ofertă, în vederea stabilirii clauzelor contractului",
+   "Furnizării informațiilor și documentelor pentru calificare și selecție stabilite de autoritatea contractantă"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 77 prevede că licitația restrânsă se inițiază prin anunț de participare prin care se solicită depunerea de solicitări de participare «în vederea furnizării informațiilor și documentelor pentru calificare și selecție», iar numai candidații care îndeplinesc aceste criterii pot depune oferte ulterior (art. 76). Depunerea ofertelor și evaluarea lor prin aplicarea criteriului de atribuire și a factorilor de evaluare au loc abia în etapa a doua, numai pentru candidații selectați (art. 78 alin. (1) lit. b)). Identificarea soluției prin dialog cu candidații selectați este etapa specifică dialogului competitiv (art. 88 alin. (1) lit. b)). Negocierile pentru confirmarea angajamentelor financiare în vederea stabilirii clauzelor contractului se pot purta, în dialogul competitiv, cu ofertantul a cărui ofertă finală a fost desemnată câștigătoare (art. 93 alin. (2)). Capcana de examen este confuzia cu licitația deschisă, unde anunțul solicită direct depunerea de oferte (art. 72).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 77",
+   "citat": "Licitația restrânsă se inițiază prin transmiterea spre publicare a unui anunț de participare, în conformitate cu prevederile art. 144 alin. (2) și (3), prin care autoritatea contractantă solicită operatorilor economici depunerea de solicitări de participare în vederea furnizării informațiilor și documentelor pentru calificare și selecție stabilite de autoritatea contractantă.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L101A-021",
+  "tip": "multiplu",
+  "test": 15,
+  "intrebare": "Care dintre următoarele principii guvernează, potrivit art. 15 alin. (1) din Legea nr. 101/2016, procedura de soluționare a contestațiilor de către CNSC? (selectați toate variantele corecte)",
+  "variante": [
+   "Publicitatea ședinței de judecată",
+   "Contradictorialitatea",
+   "Imparțialitatea",
+   "Celeritatea"
+  ],
+  "corecte": [
+   1,
+   2,
+   3
+  ],
+  "explicatie": "Art. 15 alin. (1) enumeră principiile procedurii în fața Consiliului: legalitatea, celeritatea, contradictorialitatea, asigurarea dreptului la apărare, imparțialitatea și independența activității administrativ-jurisdicționale. Publicitatea ședinței NU figurează printre ele și ar fi incompatibilă cu specificul procedurii: potrivit art. 21 alin. (1), procedura în fața Consiliului este scrisă, părțile fiind audiate numai dacă completul consideră necesar. A nu se confunda cu principiile atribuirii din Legea nr. 98/2016 (nediscriminare, tratament egal, recunoaștere reciprocă, transparență, proporționalitate, asumarea răspunderii).",
+  "sursa": {
+   "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+   "articol": "art. 15 alin. (1)",
+   "citat": "Procedura de soluționare a contestațiilor se desfășoară cu respectarea principiilor legalității, celerității, contradictorialității, asigurării dreptului la apărare, imparțialității și independenței activității administrativ-jurisdicționale.",
+   "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395-N105",
+  "tip": "unic",
+  "test": 15,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, pentru situația în care contractantul întâmpină dificultăți pe parcursul executării contractului, iar susținerea terțului vizează situația economică și financiară și/sau capacitatea tehnică și profesională, ce trebuie să includă autoritatea contractantă în contract?",
+  "variante": [
+   "Clauze prin care cerința privind autorizațiile specifice se consideră îndeplinită dacă unul dintre membrii asocierii deține autorizația solicitată",
+   "Clauze specifice care să îi permită să urmărească orice pretenție la daune a contractantului împotriva terțului susținător pentru nerespectarea angajamentului ferm, de exemplu printr-o cesiune a drepturilor contractantului către autoritatea contractantă, cu titlu de garanție",
+   "Clauze care să îi permită să atribuie contractul ofertantului clasat pe locul următor, dacă acesta îndeplinește toate criteriile de calificare",
+   "Clauze prin care terțul susținător devine subcontractant nominalizat, acordul de subcontractare ținând loc de angajament ferm"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 50 alin. (2) din Norme obligă autoritatea contractantă să includă în contract clauze specifice care să îi permită să urmărească orice pretenție la daune a contractantului împotriva terțului susținător pentru nerespectarea angajamentului ferm, cum ar fi o cesiune a drepturilor contractantului către autoritatea contractantă, cu titlu de garanție. Tot în această situație, art. 50 alin. (1) prevede că ofertantul/candidatul trebuie să garanteze, prin actul încheiat cu terțul, materializarea aspectelor ce fac obiectul angajamentului ferm. Atribuirea contractului ofertantului clasat pe locul următor este soluția art. 66 alin. (2), aplicabilă în evaluare, când ofertantul clasat primul nu demonstrează îndeplinirea criteriilor de calificare. Regula că acordul de subcontractare reprezintă și angajament ferm vine din art. 48 alin. (1) și privește subcontractanții pe capacitatea cărora se bazează ofertantul, nu transformarea terțului în subcontractant prin contract. Îndeplinirea cerinței privind autorizațiile specifice de către un membru al asocierii este reglementată de art. 51 alin. (1) și nu privește executarea angajamentului terțului susținător.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 50",
+   "citat": "În cazul în care contractantul întâmpină dificultăți pe parcursul executării contractului de achiziție publică/acordului-cadru [...] Autoritatea contractantă va trebui, de asemenea, să includă în contract clauze specifice care să permită autorității contractante să urmărească orice pretenție la daune pe care contractantul ar putea să o aibă împotriva terțului/terților susținător/susținători pentru nerespectarea obligațiilor asumate prin angajamentul ferm, cum ar fi, dar fără a se limita la, printr-o cesiune a drepturilor contractantului către autoritatea contractantă, cu titlu de garanție.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L500-023",
+  "tip": "multiplu",
+  "test": 15,
+  "intrebare": "Care dintre următoarele atribuții sunt asigurate de Guvern, potrivit art. 18 din Legea nr. 500/2002?",
+  "variante": [
+   "Supunerea spre adoptare Parlamentului a proiectelor legilor de rectificare și a contului general anual de execuție.",
+   "Aprobarea clasificațiilor bugetare, precum și a modificărilor acestora.",
+   "Utilizarea fondului de rezervă bugetară și a fondului de intervenție la dispoziția sa, pe bază de hotărâri.",
+   "Elaborarea proiectelor legilor bugetare anuale și transmiterea acestora spre adoptare Parlamentului, în cadrul termenului limită prevăzut de lege."
+  ],
+  "corecte": [
+   0,
+   2,
+   3
+  ],
+  "explicatie": "Art. 18 alin. (2) lit. b), d) și e) atribuie Guvernului elaborarea și transmiterea proiectelor legilor bugetare anuale, supunerea spre adoptare a legilor de rectificare și a contului general anual de execuție, precum și utilizarea, pe bază de hotărâri, a fondului de rezervă bugetară și a fondului de intervenție aflate la dispoziția sa. Aprobarea clasificațiilor bugetare și a modificărilor acestora nu aparține Guvernului, ci Ministerului Finanțelor Publice — este o atribuție reală, dar prevăzută la art. 19 lit. f). Capcana tipică a acestei materii este confuzia dintre rolul Guvernului (art. 18) și rolul Ministerului Finanțelor Publice (art. 19): ministerul pregătește și analizează, Guvernul își asumă politic și transmite Parlamentului.",
+  "sursa": {
+   "act": "Legea nr. 500/2002 privind finanțele publice",
+   "articol": "art. 18 alin. (2) lit. b), d) și e)",
+   "citat": "b) elaborarea proiectelor legilor bugetare anuale și transmiterea acestora spre adoptare Parlamentului, în cadrul termenului limita prevăzut de prezenta lege; [...] d) supunerea spre adoptare Parlamentului a proiectelor legilor de rectificare și a contului general anual de execuție; [...] e) utilizarea fondului de rezerva bugetară și a fondului de intervenție la dispoziția sa, pe baza de hotărâri.",
+   "fisier": "10_Legea_500-2002_finantele_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395B-006",
+  "tip": "multiplu",
+  "test": 15,
+  "intrebare": "Atunci când, în mod excepțional, nu sunt folosite mijloace electronice de comunicare, prin ce mijloace se poate realiza comunicarea, potrivit art. 52 alin. (2) din Normele metodologice?",
+  "variante": [
+   "Prin comunicare telefonică, cu confirmare verbală",
+   "Prin intermediul serviciilor poștale",
+   "Prin fax",
+   "Prin poștă electronică simplă, fără semnătură electronică"
+  ],
+  "corecte": [
+   1,
+   2
+  ],
+  "explicatie": "Art. 52 alin. (2) enumeră limitativ: serviciile poștale, faxul sau o combinație între cele două. Telefonul nu este menționat ca mijloc de comunicare valid în acest context, iar e-mailul este el însuși un mijloc electronic — tocmai categoria de la care se derogă. Rețineți contextul: derogarea de la comunicarea electronică este permisă doar în situațiile expres prevăzute la alin. (1) (natura specializată a achiziției, formate de fișiere neprocesabile, echipamente specializate, mostre/machete netransmisibile electronic, protecția informațiilor sensibile), iar motivele concrete trebuie indicate în raportul procedurii (alin. (3)).",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 52 alin. (2)",
+   "citat": "comunicarea se poate realiza prin: a) intermediul serviciilor poștale; b) fax; c) combinație între lit. a) și b).",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-027",
+  "tip": "unic",
+  "test": 15,
+  "intrebare": "În cazul unei situații de urgență, demonstrată în mod corespunzător, la licitația restrânsă autoritatea contractantă poate stabili perioade reduse care nu pot fi mai mici de:",
+  "variante": [
+   "6 zile pentru depunerea solicitărilor de participare și 9 zile pentru depunerea ofertelor",
+   "10 zile pentru depunerea solicitărilor de participare și 15 zile pentru depunerea ofertelor",
+   "15 zile pentru depunerea solicitărilor de participare și 15 zile pentru depunerea ofertelor",
+   "15 zile pentru depunerea solicitărilor de participare și 10 zile pentru depunerea ofertelor"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 79 alin. (5) prevede, pentru situația de urgență la licitația restrânsă: minimum 15 zile pentru solicitările de participare (de la transmiterea spre publicare a anunțului) și minimum 10 zile pentru oferte (de la transmiterea invitației la etapa a doua). Varianta cu 10 zile pentru solicitări și 15 zile pentru oferte inversează valorile — capcană tipică. Varianta 15/15 confundă termenul de urgență de la licitația deschisă (15 zile, art. 74 alin. (3)) cu cel pentru oferte de aici. Valorile 6/9 zile sunt reale, dar aparțin procedurii simplificate în caz de urgență (art. 113 alin. (10): 6 zile pentru servicii/produse, 9 zile pentru lucrări). Aceleași reduceri de urgență 15/10 se aplică și negocierii competitive (art. 84 alin. (5)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 79 alin. (5)",
+   "citat": "a) o perioadă redusă pentru depunerea solicitărilor de participare, care nu poate fi mai mică de 15 zile de la data transmiterii spre publicare a anunțului de participare; b) o perioadă redusă pentru depunerea ofertelor, care nu poate fi mai mică de 10 zile de la data transmiterii invitației de participare la etapa a doua a procedurii de atribuire.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N204",
+  "tip": "unic",
+  "test": 15,
+  "intrebare": "Potrivit Legii nr. 98/2016, în cadrul procedurii de negociere competitivă, autoritatea contractantă derulează negocieri, în vederea îmbunătățirii lor, pe baza:",
+  "variante": [
+   "Cerințelor minime, criteriului de atribuire și factorilor de evaluare stabiliți în documentația de atribuire",
+   "Soluțiilor propuse de fiecare candidat selectat, până la identificarea celei apte să satisfacă necesitățile autorității contractante",
+   "Ofertelor finale depuse de ofertanții rămași în competiție",
+   "Ofertelor inițiale depuse de candidații care îndeplinesc criteriile de calificare și selecție"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 80 prevede că, la negocierea competitivă, numai candidații care îndeplinesc criteriile de calificare și selecție au dreptul de a depune oferte inițiale, pe baza cărora autoritatea contractantă derulează negocieri în vederea îmbunătățirii acestora. Ofertele finale nu se negociază: art. 85 alin. (1) exceptează expres ofertele finale, iar acestea se depun după încheierea negocierilor și se evaluează (art. 85 alin. (11)-(12)). Cerințele minime, criteriul de atribuire și factorii de evaluare nu pot face obiect al negocierilor (art. 85 alin. (2)). Discutarea soluțiilor cu fiecare candidat selectat până la identificarea celei potrivite descrie etapa de dialog din dialogul competitiv (art. 91 alin. (1) și art. 92 alin. (4)). Ca excepție, art. 82 alin. (10) permite atribuirea pe baza ofertelor inițiale fără negociere, dacă această posibilitate a fost rezervată prin anunțul de participare.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 80",
+   "citat": "În cadrul procedurii de negociere competitivă orice operator economic are dreptul de a depune o solicitare de participare în urma publicării unui anunț de participare, urmând ca numai candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă să aibă dreptul de a depune oferte inițiale în etapa ulterioară, pe baza cărora autoritatea contractantă va derula negocieri în vederea îmbunătățirii acestora.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N205",
+  "tip": "unic",
+  "test": 15,
+  "intrebare": "Potrivit Legii nr. 98/2016, prin anunțul de participare cu care se inițiază procedura de negociere competitivă, autoritatea contractantă solicită operatorilor economici:",
+  "variante": [
+   "Depunerea de oferte, însoțite de documentele sau de DUAE care demonstrează îndeplinirea criteriilor de calificare",
+   "Depunerea de oferte inițiale, pe baza cărora se vor derula negocieri în vederea îmbunătățirii acestora",
+   "Participarea la etapa de dialog, în vederea identificării soluției apte să răspundă necesităților autorității contractante",
+   "Depunerea de solicitări de participare, în vederea furnizării informațiilor și documentelor pentru calificare și selecție"
+  ],
+  "corecte": [
+   3
+  ],
+  "explicatie": "Art. 81 prevede că negocierea competitivă se inițiază prin anunț de participare prin care autoritatea contractantă solicită depunerea de solicitări de participare în vederea furnizării informațiilor și documentelor pentru calificare și selecție. Ofertele inițiale nu se cer prin anunț: ele se depun abia în etapa a doua, numai de candidații selectați, pe baza invitației transmise simultan acestora (art. 80 și art. 82 alin. (1) lit. b) și alin. (6)). Depunerea directă de oferte însoțite de documentele de calificare sau de DUAE caracterizează licitația deschisă (art. 72 și art. 75). Etapa de dialog pentru identificarea soluției este specifică dialogului competitiv și la ea participă numai candidații selectați (art. 88 alin. (1) lit. b) și art. 91 alin. (2)). Capcana tipică este confuzia dintre ceea ce se cere prin anunț (solicitări de participare) și ceea ce se cere prin invitația la etapa a doua (oferte inițiale), potrivit art. 82 alin. (1).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 81",
+   "citat": "Negocierea competitivă se inițiază prin transmiterea spre publicare a unui anunț de participare, în conformitate cu prevederile art. 144 alin. (2) și (3), prin care autoritatea contractantă solicită operatorilor economici depunerea de solicitări de participare în vederea furnizării informațiilor și documentelor pentru calificare și selecție stabilite de autoritatea contractantă.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-028",
+  "tip": "unic",
+  "test": 15,
+  "intrebare": "Poate autoritatea contractantă să atribuie contractul pe baza ofertelor inițiale, fără negociere, în cadrul procedurii de negociere competitivă?",
+  "variante": [
+   "Da, în cazul în care și-a rezervat această posibilitate prin anunțul de participare",
+   "Da, oricând, fără nicio condiție prealabilă",
+   "Nu, negocierea ofertelor inițiale este de esența procedurii și nu poate fi omisă niciodată",
+   "Da, dar numai cu acordul scris al tuturor ofertanților participanți"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 82 alin. (10) permite atribuirea contractului pe baza ofertelor inițiale, fără negociere, cu o singură condiție: autoritatea să își fi rezervat această posibilitate prin anunțul de participare. Varianta potrivit căreia negocierea ofertelor inițiale nu poate fi omisă niciodată este contrazisă expres de acest alineat, iar art. 85 alin. (1) confirmă că negocierea ofertelor are loc „cu excepția situației prevăzute la art. 82 alin. (10)”. Acordul ofertanților nu este cerut de lege, iar atribuirea fără negociere oricând, fără nicio condiție prealabilă, ar încălca cerința rezervării prealabile în anunț. Capcană conexă: ofertele FINALE nu se negociază niciodată (art. 85 alin. (1)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 82 alin. (10)",
+   "citat": "Autoritatea contractantă poate atribui contractul de achiziție publică/acordul-cadru pe baza ofertelor inițiale, fără negociere, în cazul în care și-a rezervat această posibilitate prin anunțul de participare.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395-N106",
+  "tip": "unic",
+  "test": 16,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, cum se transmit spre publicare către operatorul SEAP anunțurile prevăzute la art. 142 din Legea nr. 98/2016?",
+  "variante": [
+   "Prin transmiterea anunțului de către autoritatea contractantă direct Oficiului pentru Publicații al Uniunii Europene, operatorul SEAP preluându-l după primirea confirmării",
+   "Numai prin mijloace electronice, prin completarea formularelor specifice disponibile în SEAP, și numai de către autoritățile contractante înregistrate",
+   "Prin mijloace electronice sau, la alegerea autorității contractante, prin intermediul serviciilor poștale ori prin fax",
+   "Prin mijloace electronice, fie de către autoritatea contractantă înregistrată, fie de către furnizorul de servicii auxiliare achiziției contractat de aceasta"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 54 din Norme prevede că anunțurile prevăzute la art. 142 din Lege se transmit operatorului SEAP numai prin mijloace electronice, prin completarea formularelor specifice din SEAP, și numai de către autoritățile contractante înregistrate. Serviciile poștale și faxul sunt mijloacele prevăzute la art. 52 alin. (2) pentru comunicările care, în situațiile excepționale de la art. 52 alin. (1), nu se realizează electronic, nu pentru transmiterea anunțurilor. Furnizorii de servicii auxiliare achiziției pot sprijini autoritatea contractantă potrivit art. 2 alin. (6), însă art. 54 rezervă transmiterea anunțurilor autorităților contractante înregistrate. Transmiterea de către autoritatea contractantă spre JOUE, prin mijloace proprii, este soluția excepțională din art. 26, pentru cazul în care operatorul SEAP nu poate transmite anunțul din motive tehnice. Publicarea în SEAP după confirmarea Oficiului pentru Publicații al Uniunii Europene este o obligație a operatorului SEAP, prevăzută la art. 56.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 54",
+   "citat": "Transmiterea spre publicare a anunțurilor prevăzute la art. 142 din Lege către operatorul SEAP se realizează numai prin mijloace electronice, prin completarea formularelor specifice disponibile în SEAP [...] și numai de către autoritățile contractante înregistrate.",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N206",
+  "tip": "unic",
+  "test": 16,
+  "intrebare": "Potrivit Legii nr. 98/2016, în procedura de negociere competitivă, ce stabilește autoritatea contractantă în cadrul descrierii, din documentația de atribuire, a necesităților și caracteristicilor solicitate pentru produsele, lucrările sau serviciile care urmează a fi achiziționate?",
+  "variante": [
+   "Numărul maxim de oferte care pot fi negociate în fiecare rundă de negocieri",
+   "Cerințele minime în legătură cu acestea, pe care ofertele trebuie să le îndeplinească",
+   "Obiectivele intermediare care trebuie realizate de ofertanți și plata prețului în tranșe corespunzătoare",
+   "Un termen orientativ pentru desfășurarea procedurii de atribuire"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 83 alin. (1) și (2) prevede că, după ce definește obiectul achiziției prin descrierea necesităților și a caracteristicilor solicitate, autoritatea contractantă stabilește care sunt cerințele minime pe care ofertele trebuie să le îndeplinească; aceste cerințe minime nu pot face obiect al negocierilor și nici nu pot fi modificate pe parcursul acestora (art. 85 alin. (2) și (4)). Termenul orientativ pentru desfășurarea procedurii se stabilește în dialogul competitiv, prin anunțul de participare și/sau documentul descriptiv (art. 90 alin. (2)). Obiectivele intermediare și plata prețului în tranșe sunt specifice parteneriatului pentru inovare (art. 101 alin. (2)). Legea nu prevede un număr maxim de oferte pe rundă: negocierile în runde succesive se pot desfășura numai dacă opțiunea a fost indicată în anunț sau alt document al achiziției, iar reducerea numărului de oferte se face numai pe baza factorilor de evaluare (art. 85 alin. (8)-(10)). Conformitatea ofertelor inițiale cu aceste cerințe minime se evaluează în etapa a doua, potrivit art. 82 alin. (1) lit. b).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 83",
+   "citat": "În cuprinsul documentației de atribuire autoritatea contractantă definește obiectul achiziției prin descrierea necesităților autorității contractante și a caracteristicilor solicitate pentru produsele, lucrările sau serviciile care urmează a fi achiziționate [...] În cadrul descrierii elementelor prevăzute la alin. (1), autoritatea contractantă stabilește care sunt cerințele minime în legătură cu acestea pe care ofertele trebuie să le îndeplinească.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98B-029",
+  "tip": "multiplu",
+  "test": 16,
+  "intrebare": "În cadrul procedurii de negociere competitivă, care dintre următoarele elemente NU pot face obiect al negocierilor?",
+  "variante": [
+   "Factorii de evaluare",
+   "Criteriul de atribuire",
+   "Prețul din ofertele inițiale",
+   "Cerințele minime stabilite de autoritatea contractantă potrivit art. 83 alin. (2)"
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Art. 85 alin. (2) exclude expres de la negociere trei elemente: cerințele minime stabilite potrivit art. 83 alin. (2), criteriul de atribuire și factorii de evaluare. Prețul din ofertele inițiale, dimpotrivă, este un element tipic al negocierii — scopul procedurii este tocmai îmbunătățirea conținutului ofertelor inițiale și ulterioare (art. 85 alin. (1)), inclusiv sub aspect financiar; doar ofertele finale nu se mai negociază. Capcană conexă: autoritatea poate modifica specificațiile tehnice și alte documente ale achiziției pe parcursul negocierilor, informând în scris toți ofertanții rămași, dar cerințele minime rămân neatinse (art. 85 alin. (4)). Aceeași regulă există la parteneriatul pentru inovare (art. 103 alin. (2)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 85 alin. (2)",
+   "citat": "Cerințele minime stabilite de autoritatea contractantă potrivit art. 83 alin. (2), criteriul de atribuire și factorii de evaluare nu pot face obiect al negocierilor.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ALOP-019",
+  "tip": "multiplu",
+  "test": 16,
+  "intrebare": "Care dintre următoarele sunt condiții prevăzute expres de Normele metodologice ALOP pentru avizarea proiectelor de angajamente legale?",
+  "variante": [
+   "Respectarea de către proiectul de angajament legal a tuturor prevederilor legale care îi sunt aplicabile, în vigoare la data efectuării sale (controlul de legalitate)",
+   "Încadrarea proiectului de angajament legal în limitele angajamentului bugetar, stabilite potrivit legii",
+   "Existența creditelor bugetare disponibile la subdiviziunea corespunzătoare din bugetul aprobat",
+   "Obținerea prealabilă a avizului conform al Agenției Naționale pentru Achiziții Publice pentru orice proiect de angajament legal"
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Normele enumeră cinci condiții cumulative pentru avizare: prezentarea proiectului conform normelor metodologice, existența creditelor bugetare disponibile la subdiviziunea corespunzătoare, încadrarea în limitele angajamentului bugetar, respectarea prevederilor legale aplicabile în vigoare la data efectuării (controlul de legalitate) și respectarea ansamblului principiilor și regulilor procedurale și metodologice aplicabile categoriei de cheltuieli (controlul de regularitate). Varianta de la indicele 1 este falsă: avizul ANAP din procedurile de control ex ante privește procedurile de atribuire reglementate de O.U.G. nr. 98/2017, nu este o condiție a vizei de control financiar preventiv propriu prevăzută de Normele ALOP. Dacă aceste condiții nu sunt îndeplinite, persoana desemnată să exercite controlul financiar preventiv propriu poate refuza acordarea vizei.",
+  "sursa": {
+   "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+   "articol": "pct. 1 (angajarea cheltuielilor)",
+   "citat": "Avizarea proiectelor de angajamente legale se poate face după îndeplinirea următoarelor condiții: a) proiectul de angajament legal a fost prezentat în conformitate cu prezentele norme metodologice; [...] b) existenta creditelor bugetare disponibile la subdiviziunea corespunzătoare din bugetul aprobat; c) proiectul de angajament legal se încadrează în limitele angajamentului bugetar, stabilite potrivit legii; d) proiectul de angajament legal respecta toate prevederile legale care îi sunt aplicabile, în vigoare la data efectuării sale (controlul de legalitate); e) proiectul de angajament legal respecta sub toate aspectele ansamblul principiilor și regulilor procedurale și metodologice care sunt aplicabile categoriei de cheltuieli din care fac parte (controlul de regularitate).",
+   "fisier": "09_Norme_ALOP_1792-2002.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N207",
+  "tip": "unic",
+  "test": 16,
+  "intrebare": "Potrivit Legii nr. 98/2016, în cadrul procedurii de dialog competitiv, au dreptul de a depune oferte finale:",
+  "variante": [
+   "Candidații rămași la sfârșitul etapei de dialog",
+   "Numai candidatul a cărui soluție a fost declarată cea mai bună la încheierea etapei de dialog",
+   "Toți operatorii economici care au depus o solicitare de participare în urma publicării anunțului de participare",
+   "Toți ofertanții care au depus oferte inițiale conforme cu cerințele minime stabilite de autoritatea contractantă"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 86 prevede că, la dialogul competitiv, numai candidații care îndeplinesc criteriile de calificare și selecție participă la etapa de dialog, iar candidații rămași la sfârșitul acesteia au dreptul de a depune oferte finale; după încheierea dialogului, autoritatea contractantă transmite simultan tuturor candidaților rămași în competiție invitația de depunere a ofertelor finale (art. 88 alin. (10)). Nu toți operatorii care au depus solicitări de participare ajung să depună oferte, deoarece aceștia trec mai întâi prin selecție și prin etapa de dialog, iar autoritatea nu poate invita în etapa a doua un operator care nu a îndeplinit criteriile (art. 88 alin. (9)). Autoritatea contractantă nu alege un singur candidat la încheierea dialogului, ci îi invită pe fiecare dintre candidații rămași să depună oferte finale pe baza soluției sau soluțiilor prezentate (art. 92 alin. (5)). Ofertele inițiale evaluate față de cerințele minime aparțin negocierii competitive (art. 82 alin. (1) lit. b)), nu dialogului competitiv. Etapele dialogului competitiv sunt enumerate în art. 88 alin. (1).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 86",
+   "citat": "În cadrul procedurii de dialog competitiv orice operator economic are dreptul de a depune o solicitare de participare în urma publicării unui anunț de participare, urmând ca numai candidații care îndeplinesc criteriile de calificare și selecție stabilite de autoritatea contractantă să aibă dreptul de a participa la etapa de dialog, iar candidații rămași la sfârșitul etapei de dialog au dreptul de a depune oferte finale.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395-N107",
+  "tip": "unic",
+  "test": 16,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, ce obligație are operatorul SEAP în cazul unui anunț de intenție valabil în mod continuu, transmis de autoritatea contractantă în conformitate cu art. 111 alin. (1) lit. a) din Legea nr. 98/2016?",
+  "variante": [
+   "Să asigure publicarea acestuia în mod continuu în SEAP, dispozițiile art. 54-56 din Norme aplicându-se în mod corespunzător",
+   "Să îl publice în SEAP în cel mult două zile lucrătoare de la primirea acceptului de publicare, ca anunț de participare simplificat",
+   "Să asigure publicarea acestuia în mod continuu în SEAP, fără a i se aplica regulile privind transmiterea exclusiv electronică și anunțul de tip erată",
+   "Să îl publice în SEAP o singură dată, în cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege"
+  ],
+  "corecte": [
+   0
+  ],
+  "explicatie": "Art. 57 alin. (1) din Norme obligă operatorul SEAP să asigure publicarea în mod continuu în SEAP a anunțului de intenție valabil în mod continuu, transmis conform art. 111 alin. (1) lit. a) din Lege, iar alin. (2) extinde asupra acestuia, în mod corespunzător, dispozițiile art. 54-56. Prin urmare, i se aplică și transmiterea numai electronică (art. 54), și regulile privind anunțul de tip erată (art. 55), astfel că excluderea lor contrazice art. 57 alin. (2). Termenul de cel mult o zi lucrătoare după îndeplinirea condițiilor stabilite la art. 147 din Lege este prevăzut la art. 24 alin. (5) pentru publicarea anunțului, iar o publicare unică nu corespunde caracterului continuu cerut de art. 57 alin. (1). Termenul de cel mult două zile lucrătoare de la primirea acceptului de publicare privește, tot la art. 24 alin. (5), anunțul de participare simplificat, nu anunțul de intenție. Art. 57 alin. (1) folosește expres formula publicării anunțului în mod continuu în SEAP.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 57",
+   "citat": "În cazul unui anunț de intenție valabil în mod continuu, transmis spre publicare de autoritatea contractantă în conformitate cu dispozițiile art. 111 alin. (1) lit. a) din Lege, operatorul SEAP are obligația de a asigura publicarea acestuia în mod continuu în SEAP. [...] Dispozițiile art. 54-56 se aplică în mod corespunzător anunțului prevăzut la alin. (1).",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N208",
+  "tip": "multiplu",
+  "test": 16,
+  "intrebare": "Potrivit Legii nr. 98/2016, care dintre următoarele afirmații privind inițierea procedurii de dialog competitiv sunt corecte?",
+  "variante": [
+   "Procedura se inițiază prin transmiterea spre publicare a unui anunț de participare, în conformitate cu prevederile art. 144 alin. (2) și (3)",
+   "Prin anunțul de participare, autoritatea contractantă solicită operatorilor economici depunerea de solicitări de participare",
+   "Prin anunțul de participare, autoritatea contractantă solicită operatorilor economici depunerea directă a soluțiilor propuse, care vor fi discutate cu toți cei care au răspuns anunțului",
+   "Solicitările de participare au rolul de a furniza informațiile și documentele pentru calificare și selecție stabilite de autoritatea contractantă"
+  ],
+  "corecte": [
+   0,
+   1,
+   3
+  ],
+  "explicatie": "Art. 87 prevede că dialogul competitiv se inițiază prin transmiterea spre publicare a unui anunț de participare, în conformitate cu art. 144 alin. (2) și (3), prin care se solicită depunerea de solicitări de participare în vederea furnizării informațiilor și documentelor pentru calificare și selecție; toate cele trei elemente sunt deci corecte. Afirmația privind depunerea directă a soluțiilor este greșită: soluțiile se discută abia în etapa dialogului (art. 88 alin. (1) lit. b)), la care pot participa numai candidații selectați după etapa de calificare și selecție (art. 91 alin. (2)). Autoritatea contractantă desfășoară dialogul cu fiecare candidat selectat în parte, nu cu toți operatorii care au răspuns anunțului (art. 91 alin. (1)). Potrivit art. 144 alin. (1) lit. a), anunțul de participare este obligatoriu la inițierea dialogului competitiv.",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 87",
+   "citat": "Procedura de dialog competitiv se inițiază prin transmiterea spre publicare a unui anunț de participare, în conformitate cu prevederile art. 144 alin. (2) și (3), prin care autoritatea contractantă solicită operatorilor economici depunerea de solicitări de participare în vederea furnizării informațiilor și documentelor pentru calificare și selecție stabilite de autoritatea contractantă.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98-N504",
+  "tip": "multiplu",
+  "test": 17,
+  "intrebare": "Potrivit Legii nr. 98/2016, prin care dintre următoarele informații și documente face, de regulă, operatorul economic dovada îndeplinirii cerințelor privind situația economică și financiară?",
+  "variante": [
+   "O declarație privind cifra totală de afaceri pentru cel mult ultimele trei exerciții financiare disponibile",
+   "Declarații sau extrase bancare corespunzătoare ori, acolo unde este cazul, dovada asigurării de risc profesional",
+   "Situațiile financiare sau extrase din acestea, în cazul în care publicarea lor este prevăzută de legislația țării în care este stabilit operatorul economic",
+   "O listă a principalelor livrări de produse efectuate în cursul unei perioade care acoperă cel mult ultimii 3 ani"
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Art. 177 alin. (1) din Legea nr. 98/2016 enumeră la lit. a) declarațiile sau extrasele bancare ori dovada asigurării de risc profesional, la lit. b) situațiile financiare sau extrasele din acestea, dacă publicarea lor este prevăzută de legislația țării de stabilire, și la lit. c) declarația privind cifra totală de afaceri pentru cel mult ultimele trei exerciții financiare disponibile. Lista principalelor livrări de produse din cel mult ultimii 3 ani este un mijloc de probă pentru capacitatea tehnică și profesională, prevăzut la art. 179 lit. b), nu pentru situația economică și financiară. Capcana constă în confuzia dintre „ultimele trei exerciții financiare” (cifra de afaceri) și „ultimii 3 ani” (livrări și servicii). Dacă, din motive obiective și justificate, operatorul nu poate prezenta aceste documente, poate folosi orice alt document considerat adecvat de autoritatea contractantă, potrivit art. 177 alin. (2).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 177 alin. (1)",
+   "citat": "a) declarații sau extrase bancare corespunzătoare sau, acolo unde este cazul, dovada asigurării de risc profesional; b) prezentarea situațiilor financiare sau a extraselor din situațiile financiare, în cazul în care publicarea situațiilor financiare este prevăzută de legislația țării în care este stabilit operatorul economic; c) o declarație privind cifra totală de afaceri a operatorului economic [...] pentru cel mult ultimele trei exerciții financiare disponibile",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ }
+]

@@ -1,0 +1,182 @@
+[
+ {
+  "id": "N395B-012",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (Norme art. 58 alin. (2): „evaluarea conformității ofertelor cu specificațiile tehnice ... și aplicarea criteriului de atribuire se realizează anterior verificării îndeplinirii criteriilor de calificare și selecție”). Enunțul însă nu numește actul (SPEC §4.3), deși regula e în Norme, iar Legea (art. 208) doar deleagă stabilirea cazurilor prin norme. Explicația spune „mecanism preluat din art. 208 din Lege” — art. 208 nu conține mecanismul, ci trimite la norme („Prin normele metodologice ... se stabilesc cazurile și condițiile specifice”).",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în licitația deschisă, dacă după publicarea anunțului de participare autoritatea contractantă nu utilizează mijloacele electronice din motive tehnice imputabile operatorului SEAP, cum se realizează evaluarea?” Explicație: înlocuiește „mecanism preluat din art. 208 din Lege” cu „caz stabilit în aplicarea art. 208 din Lege, care deleagă normelor stabilirea acestor situații”."
+ },
+ {
+  "id": "L98-N209",
+  "verdict": "OK",
+  "motiv": "Art. 89: „cel puțin 30 de zile” între transmiterea anunțului în JOUE și data-limită a solicitărilor de participare; fără reducere prevăzută. Distractorii (35 – art. 74(1); 15 – art. 79(5)a/84(5)a; 10 – art. 79(3)) și trimiterile din explicație verificate.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-032",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 90 alin. (3): „cel mai bun raport calitate-preț sau cel mai bun raport calitate-cost, prevăzute la art. 187 alin. (3) lit. a) și b)”). Dar enunțul nu numește actul (SPEC §4.3), iar explicația invocă istoricul modificărilor („în forma modificată prin Legea nr. 208/2022”) — informație care apare doar într-o §NOTA§ și e interzisă de SPEC §4.6.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, care sunt criteriile de atribuire care pot fi utilizate în cazul procedurii de dialog competitiv?” Explicație: începe cu „Art. 90 alin. (3) limitează criteriile de atribuire la dialogul competitiv la...” (se elimină „în forma modificată prin Legea nr. 208/2022”)."
+ },
+ {
+  "id": "OUGB-026",
+  "verdict": "SUSPECT",
+  "motiv": "Cheile (3 corecte) corespund art. 6 alin. (2) lit. a) și b) din Normele H.G. nr. 419/2018 (JOUE „în cel mult o zi lucrătoare”, înregistrarea datei „ca probă privind momentul transmiterii”, SEAP „în cel mult 2 zile lucrătoare”). Probleme: enunțul nu numește actul (SPEC §4.3); distractorul cu „confirmare suplimentară în 24 de ore” e inventat, nu o valoare reală din act (SPEC §4.2); ultima frază a explicației e o concluzie generală, nu o trimitere la text (SPEC §4.8).",
+  "propunere": "Enunț: „Potrivit Normelor metodologice aprobate prin H.G. nr. 419/2018, după ce ANAP a emis acceptul de publicare pentru un anunț de tip erată, care dintre următoarele obligații revin operatorului SEAP?” Distractor nou: „Să emită autorității contractante aviz conform condiționat pentru anunțul de tip erată” (atribuție a ANAP, art. 6 alin. (1) lit. b), pentru cazul respingerii publicării). Explicația: „Emiterea avizului conform condiționat revine ANAP, și numai când respinge publicarea (art. 6 alin. (1) lit. b)), nu operatorului SEAP.”"
+ },
+ {
+  "id": "N395-N108",
+  "verdict": "OK",
+  "motiv": "Art. 61 Norme: operatorii economici depun oferta și documentele însoțitoare „la adresa prevăzută în anunțul de participare până la data și ora-limită”. Distractorii: art. 60(1) (depunere electronică + DUAE), art. 55(1) (erată ≥3 zile lucrătoare), art. 64(7) (oferta întârziată se returnează nedeschisă) — verificați.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-034",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 93 alin. (2): negocieri „la solicitarea autorității contractante ... având ca obiect confirmarea angajamentelor financiare sau a altor termeni sau condiții incluse în ofertă ... cu condiția ca aceste negocieri să nu conducă la modificări substanțiale ale aspectelor esențiale ... și să nu riște să denatureze concurența”). Enunțul nu numește actul (SPEC §4.3); distractorul cu „aprobarea prealabilă a Consiliului Concurenței” nu provine din Legea 98/2016 (SPEC §4.2), deci e ușor de eliminat.",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, după desemnarea ofertei finale care prezintă cel mai bun raport calitate-preț în cadrul dialogului competitiv, se mai pot desfășura negocieri cu ofertantul respectiv?” Distractor nou în locul celui cu Consiliul Concurenței: „Nu; autoritatea contractantă poate doar să solicite clarificări, precizări și îmbunătățiri ale ofertelor finale, înainte de evaluare” (valoare reală din art. 92 alin. (7), cu alt rol)."
+ },
+ {
+  "id": "L98B-035",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 94: „Autoritatea contractantă poate prevedea prime sau plăți pentru participanții la dialog în condițiile stabilite prin documentele achiziției”; v. și Norme art. 20 alin. (13)). Enunțul nu numește actul (SPEC §4.3); distractorul „avizul prealabil al Ministerului Finanțelor” nu are suport în lege (SPEC §4.2).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, poate autoritatea contractantă să acorde prime sau plăți participanților la etapa de dialog din cadrul dialogului competitiv?” Distractor nou: „Da, dar numai în cadrul unui concurs de soluții organizat ca procedură distinctă” (valoare reală din art. 105 lit. b), cu alt rol)."
+ },
+ {
+  "id": "N395-N109",
+  "verdict": "OK",
+  "motiv": "Art. 62 alin. (2)–(3) Norme: AC transmite solicitarea „la adresa/numărul de fax/adresa de e-mail menționate de ofertant”, ofertantul răspunde „la adresa și prin modalitatea prevăzute în anunțul de participare”. Distractorii (art. 62(1), inversarea, art. 52(2) lit. a)) verificați.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N210",
+  "verdict": "OK",
+  "motiv": "Art. 95: candidații calificați depun „oferte inițiale ..., pe baza cărora autoritatea contractantă va desfășura negocieri în vederea îmbunătățirii acestora”. Distractorii trimit corect la art. 82(10), art. 86, art. 78(1) lit. b); art. 103(1) nu are excepție similară art. 82(10).",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N110",
+  "verdict": "OK",
+  "motiv": "Art. 63 Norme: documentele se transmit „autorității contractante în forma și utilizându-se modalitatea de comunicare solicitate de aceasta”. Trimiterile din explicație (art. 5(3), art. 59(3), art. 68(3)) verificate.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N211",
+  "verdict": "OK",
+  "motiv": "Art. 96 (parteneriat pentru inovare) și art. 77 (licitație restrânsă) folosesc formula „solicită operatorilor economici depunerea de solicitări de participare”; art. 72 (licitație deschisă) cere „depunerea de oferte”; negocierea fără publicare – art. 69(4)/art. 104. 2/4 corecte, fără distractor apărabil.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-037",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia e corectă (art. 98 alin. (1)); distractorii trimit corect la art. 70(1) lit. d), art. 70(2), art. 104(5) lit. a). Singura problemă: enunțul nu numește actul (SPEC §4.3).",
+  "propunere": "Enunț: „Potrivit Legii nr. 98/2016, în ce situație aplică autoritatea contractantă parteneriatul pentru inovare?”"
+ },
+ {
+  "id": "L98-N212",
+  "verdict": "OK",
+  "motiv": "Art. 99: „cel puțin 30 de zile” între transmiterea anunțului în JOUE și data-limită de depunere a solicitărilor de participare. Distractorii: art. 74(1) (oferte, 35 zile), art. 84(2) (invitație etapa a doua – oferte inițiale, negociere competitivă), art. 74(2) lit. b) (35 zile–12 luni) – verificați.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N213",
+  "verdict": "OK",
+  "motiv": "Art. 100: achiziția ulterioară „cu condiția ca acestea să corespundă nivelurilor de performanță și costurilor maxime convenite între autoritatea contractantă și participanți”. Trimiterile la art. 98(1), (5), (6) și art. 101(3) verificate.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N111",
+  "verdict": "OK",
+  "motiv": "Art. 65 alin. (1)–(2) Norme: comisia „analizează DUAE în conformitate cu ... cap. IV secțiunea a 8-a din Lege” și verifică fiecare ofertă „atât din punctul de vedere al elementelor tehnice propuse, cât și ... al aspectelor financiare”. Alin. (3)–(4) abrogate; art. 64(6) și art. 66(1), (3) citate corect.",
+  "propunere": ""
+ },
+ {
+  "id": "OUGA-017",
+  "verdict": "SUSPECT",
+  "motiv": "Cheile corespund art. 12 alin. (1) lit. a)–c) din O.U.G. nr. 98/2017. Probleme: enunțul nu numește actul (SPEC §4.3); explicația are doar 3 propoziții (SPEC §4.4 cere 4–8) și reduce lit. d) la „documentele-suport ale câștigătorului”, deși textul vizează și „candidații ce urmează a fi selectați ... în cadrul procedurilor care prevăd etapă de preselecție”; trimiterea la art. 10 alin. (1) lit. a) ca excepție „expresă” e nuanțată în text („cu excepția studiului de fundamentare ... dacă nu este solicitat potrivit lit. i)”).",
+  "propunere": "Enunț: „Potrivit O.U.G. nr. 98/2017, pentru care dintre următoarele elemente emite ANAP aviz conform, o singură dată pe fiecare fază, în cadrul controlului ex ante al procesului de evaluare a ofertelor/candidaturilor?” Explicație: „...lit. d) adaugă documentele-suport ale candidaților care urmează a fi selectați, respectiv ale ofertantului care urmează a fi declarat câștigător, iar lit. e) concluziile finale privind neconformitățile neremediate. Studiul de fundamentare de la art. 229 din Legea nr. 98/2016 este exceptat de la verificarea documentației de atribuire (art. 6 alin. (2) lit. a)) și nu figurează printre fazele art. 12 alin. (1).”"
+ },
+ {
+  "id": "L500-031",
+  "verdict": "OK",
+  "motiv": "Art. 21 alin. (6) lit. a), c), e) din Legea nr. 500/2002 conțin exact cele trei excepții; cheltuielile de capital/investiții în continuare nu figurează. Trimiterile la art. 47 alin. (4) și art. 44 alin. (5) verificate.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N301",
+  "verdict": "OK",
+  "motiv": "Art. 102 alin. (1) și (3) susțin cele două chei; alin. (2) („Numai candidații selectați ...”) și alin. (5) („nu poate fi exprimat cu caracter general”) infirmă distractorii; art. 103(6)–(7) („fără acordul scris”) citat corect. 2/4 corecte.",
+  "propunere": ""
+ },
+ {
+  "id": "L101C-004",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia reproduce fidel art. 18 alin. (2) din Legea nr. 101/2016 („o copie a dosarului achiziției publice ... precum și dovada înaintării punctului de vedere către contestator și orice documente considerate edificatoare, cu excepția anunțurilor de participare publicate în SEAP și a documentației de atribuire, atunci când aceasta este disponibilă și poate fi descărcată direct din SEAP”). Enunțul nu numește actul (SPEC §4.3), iar varianta corectă este vizibil mai lungă și mai detaliată decât distractorii (indiciu de formă). Explicația ar trebui să precizeze termenul: 5 zile de la primirea contestației (art. 18 alin. (1)).",
+  "propunere": "Enunț: „Potrivit Legii nr. 101/2016, odată cu punctul de vedere asupra contestației, ce are obligația autoritatea contractantă să transmită Consiliului și ce excepție prevede expres legea?” Explicație, prima frază: „Art. 18 alin. (2) impune transmiterea, în termenul de 5 zile de la primirea contestației prevăzut la alin. (1), a copiei dosarului achiziției, ...”. Opțional, distractorii se lungesc la nivel similar."
+ },
+ {
+  "id": "N395-N112",
+  "verdict": "OK",
+  "motiv": "Art. 67 alin. (2) Norme: după publicarea anunțului, AC poate să nu utilizeze mijloacele electronice „atunci când acest lucru nu este posibil din motive tehnice imputabile operatorului SEAP”; spre deosebire de art. 58(2), fără inversarea ordinii evaluării. Trimiterile la art. 5(1), 67(1), 69(2) verificate.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N302",
+  "verdict": "OK",
+  "motiv": "Art. 103 alin. (1): AC „negociază cu ofertanții ofertele inițiale și toate ofertele ulterioare ..., cu excepția ofertelor finale”; alin. (2) exclude de la negociere cerințele minime, criteriul și factorii; alin. (4) exceptează cerințele minime de la modificare. Niciun distractor apărabil.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N303",
+  "verdict": "OK",
+  "motiv": "Art. 103 alin. (9): reducerea „se realizează numai pe baza factorilor de evaluare stabiliți prin anunțul de participare sau alt document al achiziției”. Trimiterile la art. 97(1) lit. a)–b), 97(5), 98(6), 103(2), (10) verificate.",
+  "propunere": ""
+ },
+ {
+  "id": "N395-N113",
+  "verdict": "OK",
+  "motiv": "Art. 68 alin. (3) Norme: AC „are obligația de a dispune anularea procedurii de atribuire, considerându-se, implicit, că se îndeplinesc condițiile prevăzute la art. 212 alin. (1) lit. c) din Lege”. Distractorii provin din art. 68(2), art. 55(1)–(2) Norme; paralela cu art. 59(3) corectă.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-039",
+  "verdict": "SUSPECT",
+  "motiv": "Cheile (lit. a)–c) ale art. 104 alin. (1)) și distractorul (art. 70 alin. (2): „au fost depuse numai oferte neconforme sau inacceptabile”) sunt corecte. Explicația însă se încheie cu istoric legislativ („fosta lit. d) a fost abrogată prin O.U.G. nr. 52/2024”) — informație din §NOTA§, interzisă de SPEC §4.6, iar ultima propoziție trebuie să fie o trimitere la textul în vigoare (SPEC §4.8). Fraza despre art. 70 alin. (3) e greu de urmărit (paranteză în paranteză).",
+  "propunere": "Înlocuiește ultima propoziție cu: „Distincția e dată de art. 215 alin. (5^1) și (6): oferta neadecvată este cea «lipsită de relevanță față de obiectul contractului», iar neconformitatea și inacceptabilitatea sunt definite separat la alin. (4) și (5).” Fraza cu art. 70: „Ofertele neconforme sau inacceptabile permit doar trecerea la negociere competitivă sau dialog competitiv (art. 70 alin. (2)), chiar fără anunț de participare în condițiile art. 70 alin. (3), dar nu la negocierea fără publicare prealabilă de la art. 104.”"
+ },
+ {
+  "id": "N395-N114",
+  "verdict": "OK",
+  "motiv": "Art. 69 alin. (1) și (3) Norme susțin cele două chei; alin. (2) cere depunerea solicitării „inclusiv DUAE” la adresa din anunț (infirmă amânarea DUAE); criptarea valorii este la art. 60(2) pentru licitația deschisă. Trimiterile la art. 70(1), 72(1) verificate. 2/4 corecte.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-040",
+  "verdict": "SUSPECT",
+  "motiv": "Cheile reproduc art. 104 alin. (2) lit. a)–c) (operă de artă/reprezentație artistică unică; „concurența lipsește din motive tehnice”; „protecția unor drepturi exclusive, inclusiv drepturi de proprietate intelectuală”). Enunțul citează „art. 104 alin. (2)” fără a numi actul (SPEC §4.3); explicația nu indică articolul de proveniență al distractorului cu prețul cel mai scăzut (SPEC §4.4) și se încheie cu o frază fără trimitere (SPEC §4.8).",
+  "propunere": "Enunț: „Potrivit art. 104 alin. (2) din Legea nr. 98/2016, care sunt motivele pentru care lucrările, produsele sau serviciile pot fi furnizate numai de către un anumit operator economic, justificând negocierea fără publicare prealabilă?” Explicație: „Prețul cel mai scăzut este un criteriu de atribuire (art. 187 alin. (3) lit. d)), nu un motiv de unicitate.” Ultima frază: „Motivele tehnice pot fi generate și de cerințe specifice de interoperabilitate (art. 104 alin. (3), teza finală).”"
+ },
+ {
+  "id": "OUG98-N101",
+  "verdict": "OK",
+  "motiv": "Art. 13 alin. (1) O.U.G. nr. 98/2017: ANAP „verifică documentele prin care se formalizează deciziile comisiei de evaluare cu privire la declararea drept admise/respinse ... pentru fiecare fază ..., inclusiv în ceea ce privește aplicarea criteriului de atribuire și stabilirea ofertantului/ofertanților câștigător”. Distractorii provin din art. 6(2) lit. a), art. 6(4), art. 12(1); art. 13(2) citat corect.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-051",
+  "verdict": "SUSPECT",
+  "motiv": "Cheile reproduc art. 104 alin. (8) lit. a), c), d); distractorul 50% nu figurează acolo. Enunțul citează „art. 104 alin. (8)” fără a numi actul (SPEC §4.3), iar explicația nu indică articolul de unde vine valoarea de 50% (SPEC §4.4) — textul: art. 221 alin. (1) lit. b) („în limita a maximum 50% din valoarea contractului inițial”) și lit. c) pct. (iii), respectiv alin. (4).",
+  "propunere": "Enunț: „... Care dintre următoarele condiții trebuie îndeplinite în mod cumulativ, potrivit art. 104 alin. (8) din Legea nr. 98/2016?” Explicație: „Plafonul de 50% din valoarea contractului inițial nu figurează aici: el limitează lucrările/serviciile/produsele adiționale în regimul modificării contractului, la art. 221 alin. (1) lit. b) și lit. c) pct. (iii) și alin. (4).”"
+ },
+ {
+  "id": "N395-N201",
+  "verdict": "OK",
+  "motiv": "Art. 71 Norme: „După aprobarea raportului intermediar prevăzut la art. 70 alin. (3), autoritatea contractantă are obligația de a comunica candidaților rezultatul etapei de selecție”. Trimiterile la art. 64(4), 66(3)/(5), 70(1), 72(5) verificate.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N304",
+  "verdict": "OK",
+  "motiv": "Art. 105: concursul se organizează „a) în cadrul unei proceduri de atribuire a unui contract de achiziție publică de servicii; b) ca o procedură de atribuire distinctă, cu premii sau plăți acordate participanților”. Trimiterile la art. 131(1) lit. a), 104(7), 68(1) lit. g) verificate.",
+  "propunere": ""
+ }
+]

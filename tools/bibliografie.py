@@ -29,9 +29,9 @@ BIB = {
  K395:  ("", "1-166"),
  KOUG:  ("", "1-25"),
  K419C: ("", "I, V"),                         # aprobarea normelor ex ante + modificarea Normelor H.G. 395 (SURSE.md, obs. b)
- K419:  ("", "1-21"),                        # fără preambul: doar titlul normelor
+ K419:  ("", "1-20"),                        # fără preambul (doar titlul) și fără art. 21 („anexele fac parte integrantă”)
  K101:  ("", "1-36^1"),
- KORD:  ("", "*"),
+ KORD:  ("", "1-2"),                         # fără preambul (temeiul legal) și art. 3 (formula de publicare): fără conținut de examen
  KALOP: ("", "preambul, pct. 1-4"),           # „fără elementele de contabilitate”: pct. 5 exclus
  K500:  ("", "1-37, 52, 62-70"),
 }
@@ -100,7 +100,7 @@ TEME = [
     ["Activitatea de control ex ante", "Metodologia de selecție", "Inițierea controlului ex ante",
      "Desfășurarea activității de control", "Avizul conform al ANAP", "Procedura de conciliere",
      "Controlul ex ante al procedurilor de negociere", "Controlul ex ante al modificărilor contractului"],
-    {KOUG: "1-25", K419C: "I", K419: "1-21"}),
+    {KOUG: "1-25", K419C: "I", K419: "1-20"}),
  _t(20, "remedii-contestatii-termen-efecte-solutionare", 2,
     ["Remedii și căi de atac în atribuirea contractelor de achiziție publică",
      "Contestațiile formulate pe cale administrativ-jurisdicțională",
@@ -109,7 +109,7 @@ TEME = [
     ["Soluții de pronunțare, căi de atac"], {K101: "26-36^1"}),
  _t(22, "fazele-cheltuielilor-publice", 3,
     ["Fazele pe care le parcurg cheltuielile din fondurile publice și definirea acestora"],
-    {KORD: "*", KALOP: "preambul, pct. 1-4"}),
+    {KORD: "1-2", KALOP: "preambul, pct. 1-4"}),
  _t(23, "venituri-si-cheltuieli", 4, ["Venituri și cheltuieli"], {K500: "1-15, 26-30, 62-70"}),
  _t(24, "ordonatorii-de-credite-aprobarea-bugetului", 4,
     ["Rolul și responsabilitatea ordonatorilor de credite", "Aprobarea bugetului de stat"],

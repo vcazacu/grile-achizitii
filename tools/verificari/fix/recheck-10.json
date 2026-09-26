@@ -1,0 +1,148 @@
+[
+ {
+  "id": "L500-046",
+  "tip": "multiplu",
+  "test": 33,
+  "intrebare": "Potrivit art. 35 din Legea nr. 500/2002 privind finanțele publice, care dintre următoarele afirmații privind etapele finale ale calendarului bugetar sunt corecte, ca regulă generală (în afara anilor în care alegerile generale parlamentare sunt organizate în ultimele 3 luni ale anului)?",
+  "variante": [
+   "Guvernul supune proiectele spre adoptare Parlamentului cel mai târziu până la data de 15 noiembrie a fiecărui an.",
+   "Ministerul Finanțelor Publice definitivează, pe baza prognozelor de toamnă ale Comisiei Naționale de Prognoză, proiectele de buget și proiectele legilor bugetare anuale și le depune la Guvern până la data de 1 noiembrie a fiecărui an.",
+   "Ministerul Finanțelor Publice depune la Guvern, pentru prima lectură, proiectele legilor bugetare și proiectele bugetelor până la data de 30 septembrie a fiecărui an.",
+   "Parlamentul are obligația de a adopta legile bugetare anuale până cel târziu la data de 30 noiembrie a fiecărui an."
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Etapele finale ale calendarului bugetar sunt reglementate, ca regulă generală, de art. 35: depunerea la Guvern pentru prima lectură până la 30 septembrie (alin. (1)), definitivarea pe baza prognozelor de toamnă și depunerea la Guvern până la 1 noiembrie (alin. (3^1)), transmiterea spre adoptare Parlamentului cel mai târziu la 15 noiembrie (alin. (4)). În anii în care alegerile generale parlamentare au loc în ultimele 3 luni ale anului, art. 35^1 înlocuiește aceste termene: depunerea la Guvern în 15 zile de la învestirea noului Guvern și transmiterea la Parlament în cel mult 20 de zile de la învestire, fără a depăși 31 decembrie. Afirmația privind obligația Parlamentului de a adopta legile bugetare până la 30 noiembrie este falsă: art. 35 nu stabilește un asemenea termen. Data de 30 noiembrie este termenul până la care se pot elabora legile de rectificare (art. 6 alin. (1)). Pentru situația în care Parlamentul nu adoptă bugetul în timp util, legea prevede solicitarea procedurii de urgență dacă legile bugetare nu au fost adoptate până la 15 decembrie (art. 17 alin. (2)) și regula 1/12 dacă nu au fost adoptate cu cel puțin 3 zile înainte de expirarea exercițiului bugetar (art. 37 alin. (1)).",
+  "sursa": {
+   "act": "Legea nr. 500/2002 privind finanțele publice",
+   "articol": "art. 35 alin. (1), (3^1) și (4)",
+   "citat": "pe care le depune la Guvern pentru prima lectură, până la data de 30 septembrie a fiecărui an. [...] Ministerul Finanțelor Publice, pe baza prognozelor de toamnă ale Comisiei Naționale de Prognoză, definitivează proiectele de buget ale ordonatorilor principali de credite și al bugetului propriu și proiectele legilor bugetare anuale, pe care le depune la Guvern, până la data de 1 noiembrie a fiecărui an. [...] acesta le supune spre adoptare Parlamentului, cel mai târziu până la data de 15 noiembrie a fiecărui an.",
+   "fisier": "10_Legea_500-2002_finantele_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "N395B-049",
+  "tip": "multiplu",
+  "test": 33,
+  "intrebare": "Potrivit Normelor metodologice aprobate prin H.G. nr. 395/2016, în care dintre următoarele situații o modificare a propunerii tehnice NU poate fi considerată abatere tehnică minoră a ofertei inițiale?",
+  "variante": [
+   "Când cuantificarea teoretică în valoare monetară a respectivei abateri/omisiuni depășește 1% din prețul total al ofertei.",
+   "Când, în urma corectării respectivei abateri/omisiuni, se constată că s-ar schimba clasamentul ofertanților.",
+   "Când modificarea ar presupune o diminuare calitativă în comparație cu oferta inițială.",
+   "Când abaterea/omisiunea a fost semnalată comisiei de evaluare printr-o sesizare formulată de un alt ofertant participant la procedură."
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Art. 134 alin. (9) enumeră limitativ situațiile care exclud calificarea drept abatere tehnică minoră: lit. a) - depășirea pragului de 1% din prețul total al ofertei prin cuantificarea teoretică a abaterii; lit. c) - schimbarea clasamentului ofertanților în urma corectării; lit. d) - diminuarea calitativă față de oferta inițială. La acestea se adaugă lit. b) - eludarea prevederilor legale care instituie obligații raportate la praguri valorice, și lit. e) - modificarea unei părți din ofertă pentru care documentația a exclus clar posibilitatea abaterii. Sesizarea formulată de un alt ofertant nu figurează printre aceste criterii: încadrarea se face obiectiv, prin raportare la efectele modificării, nu la sursa semnalării. A nu se confunda pragul de 1% (art. 134 alin. (9) lit. a)) cu pragul de 80% din valoarea estimată, care definește prețul aparent neobișnuit de scăzut, potrivit art. 136 alin. (4). Definiția pozitivă rămâne cea de la art. 134 alin. (8): abateri tehnice minore sunt omisiunile/abaterile care pot fi completate/corectate fără a conduce la depunerea unei noi oferte.",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+   "articol": "art. 134 alin. (9) lit. a)-d)",
+   "citat": "O modificare a propunerii tehnice nu poate fi considerată o abatere tehnică minoră a ofertei inițiale în următoarele situații: a) cuantificarea teoretică în valoare monetară a respectivei abateri/omisiuni depășește 1% din prețul total al ofertei; b) cuantificarea teoretică în valoare monetară a respectivei abateri/omisiuni conduce la eludarea aplicării acelor prevederi ale legii care instituie obligații ale autorității contractante în raport cu anumite praguri valorice; c) în urma corectării respectivei abateri/omisiuni, se constată că s-ar schimba clasamentul ofertanților; d) modificarea ar presupune o diminuare calitativă în comparație cu oferta inițială;",
+   "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L98D-008",
+  "tip": "multiplu",
+  "test": 34,
+  "intrebare": "În care dintre următoarele situații operatorii economici NU sunt obligați să prezinte documente justificative în sprijinul informațiilor declarate în DUAE, potrivit art. 197 din Legea nr. 98/2016? (selectați toate variantele corecte)",
+  "variante": [
+   "Operatorul economic a prezentat documentele într-o procedură anterioară organizată de o altă autoritate contractantă",
+   "Autoritatea contractantă poate obține certificatele sau informațiile relevante direct, prin accesarea unei baze de date naționale din orice stat membru, disponibile gratuit",
+   "Valoarea estimată a contractului se situează sub pragul achiziției directe",
+   "Autoritatea contractantă care a atribuit contractul este deja în posesia documentelor respective"
+  ],
+  "corecte": [
+   1,
+   3
+  ],
+  "explicatie": "Art. 197 prevede două excepții de la obligația prezentării documentelor justificative: alin. (1), când autoritatea contractantă poate obține certificatele sau informațiile direct, prin accesarea unei baze de date naționale din orice stat membru, disponibile în mod gratuit (de ex. un registru național al achizițiilor publice sau un dosar virtual al societăților); alin. (2), când autoritatea contractantă care a atribuit contractul sau a încheiat acordul-cadru este deja în posesia documentelor. Prezentarea documentelor la o ALTĂ autoritate contractantă nu exonerează: excepția de la art. 197 alin. (2) privește autoritatea contractantă care deține deja documentele. Art. 197 nu prevede nicio excepție legată de valoarea estimată; pragurile de la art. 7 alin. (5) privesc dreptul de a achiziționa direct, nu scutirea de documente justificative în sprijinul DUAE. Condiție conexă: bazele de date trebuie să fie accesibile tuturor autorităților contractante din toate statele membre și actualizate periodic (art. 197 alin. (3)).",
+  "sursa": {
+   "act": "Legea nr. 98/2016 privind achizițiile publice",
+   "articol": "art. 197 alin. (1) și (2)",
+   "citat": "operatorii economici nu sunt obligați să prezinte documente justificative sau alte probe în sprijinul informațiilor declarate în DUAE în cazul și în măsura în care autoritatea contractantă are posibilitatea de a obține certificatele sau informațiile relevante în mod direct, prin accesarea unei baze de date naționale din orice stat membru, disponibile în mod gratuit [...] operatorii economici nu sunt obligați să prezinte documente justificative în sprijinul informațiilor declarate în DUAE în cazul în care autoritatea contractantă care a atribuit contractul de achiziție publică sau a încheiat acordul-cadru este deja în posesia documentelor respective.",
+   "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "L101B-005",
+  "tip": "multiplu",
+  "test": 34,
+  "intrebare": "Potrivit Legii nr. 101/2016, care dintre următoarele afirmații privind soluționarea plângerii formulate împotriva deciziei CNSC sunt adevărate, ca regulă generală (în afara procedurilor privind infrastructura de transport de interes național)?",
+  "variante": [
+   "Instanța competentă este curtea de apel, secția de contencios administrativ și fiscal, în a cărei rază teritorială se află sediul autorității contractante",
+   "Completul este specializat în achiziții publice și format din 3 judecători",
+   "Plângerea se soluționează într-un termen ce nu va depăși 45 de zile de la data sesizării legale a instanței",
+   "Plângerea se taxează cu 2% din valoarea estimată a contractului"
+  ],
+  "corecte": [
+   0,
+   1,
+   2
+  ],
+  "explicatie": "Art. 32 alin. (1) din Legea nr. 101/2016 stabilește, ca regulă, competența curții de apel, secția de contencios administrativ și fiscal, în a cărei rază teritorială se află sediul autorității contractante, iar alin. (4) prevede soluționarea de urgență și cu precădere, în cel mult 45 de zile de la data sesizării legale a instanței, în complete specializate în achiziții publice formate din 3 judecători. Prin excepție, pentru procedurile de atribuire de servicii și/sau lucrări aferente infrastructurii de transport de interes național, competența aparține Curții de Apel București (art. 32 alin. (2)). Afirmația despre taxă este falsă: plângerea formulată împotriva deciziei Consiliului este scutită de plata oricărei taxe judiciare de timbru (art. 36^1). Taxa de 2% din valoarea estimată a contractului, dar nu mai mult de 100.000.000 lei, privește contestația introdusă la instanța judecătorească competentă (art. 52^1 alin. (1)).",
+  "sursa": {
+   "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+   "articol": "art. 32 alin. (1) și (4)",
+   "citat": "Instanța competentă să soluționeze plângerea formulată împotriva deciziei pronunțate de Consiliu este curtea de apel, secția de contencios administrativ și fiscal [...] într-un termen ce nu va depăși 45 de zile de la data sesizării legale a instanței, în complete specializate în achiziții publice, formate din 3 judecători",
+   "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "OUGC-006",
+  "tip": "multiplu",
+  "test": 36,
+  "intrebare": "Potrivit Normelor metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018), în care dintre următoarele situații este respinsă ca inadmisibilă, fără examinare pe fond, cererea de conciliere formulată de autoritatea contractantă?",
+  "variante": [
+   "Cererea nu a fost depusă în termenul de 2 zile lucrătoare de la data comunicării avizului conform condiționat.",
+   "Autoritatea contractantă nu s-a prezentat la ședința de clarificare solicitată de structura responsabilă cu funcția de conciliere.",
+   "Odată cu cererea, autoritatea contractantă a prezentat documente noi în susținerea poziției sale.",
+   "Cererea nu conține toate informațiile prevăzute de modelul de cerere de conciliere din anexa nr. 1.3 la normele metodologice."
+  ],
+  "corecte": [
+   0,
+   3
+  ],
+  "explicatie": "Art. 17 alin. (1) din normele metodologice enumeră două cazuri de respingere ca inadmisibilă, fără examinare pe fond: depunerea peste termenul de la art. 14 alin. (1), adică peste 2 zile lucrătoare de la comunicarea avizului conform condiționat, și lipsa informațiilor cerute de modelul din anexa nr. 1.3. Neprezentarea la ședința de clarificare nu este o cauză de inadmisibilitate: art. 16 alin. (3) prevede expres că ea nu împiedică soluționarea cererii, decizia urmând a fi adoptată pe baza informațiilor disponibile. Prezentarea de documente noi este într-adevăr interzisă - art. 17 alin. (4) prevede examinarea cererii pe baza informațiilor avute în vedere de verificatorii ex ante la momentul emiterii avizului conform condiționat, iar art. 16 alin. (2) interzice depunerea de documente noi în ședința de clarificare, cu excepția celor care au stat la baza documentelor verificate - dar această interdicție nu figurează printre cele două cazuri de inadmisibilitate enumerate la art. 17 alin. (1). Capcană conexă: autoritatea contractantă poate renunța la cele sesizate, informând ANAP, cererea rămânând fără obiect (art. 14 alin. (3)).",
+  "sursa": {
+   "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+   "articol": "art. 17 alin. (1) lit. a) și b)",
+   "citat": "Cererea de conciliere este respinsă ca inadmisibilă, fără examinare pe fond, în cazul în care: [...] a) nu a fost depusă în termenele prevăzute la art. 14 alin. (1); b) nu conține toate informațiile prevăzute de modelul de cerere de conciliere din anexa nr. 1.3.",
+   "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+  },
+  "status": "ok"
+ },
+ {
+  "id": "ORD1792-N101",
+  "tip": "unic",
+  "test": 25,
+  "intrebare": "Potrivit art. 1^1 din Ordinul M.F.P. nr. 1.792/2002, ce se poate stabili prin ordin al ministrului finanțelor?",
+  "variante": [
+   "Stabilirea acțiunilor și categoriilor de cheltuieli pentru care se pot acorda plăți în avans din fonduri publice",
+   "Desemnarea unor instituții publice pilot pentru aplicarea altor norme metodologice privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor bugetare decât cele aprobate prin art. 1 al ordinului",
+   "Delegarea calității de ordonator de credite către înlocuitorii de drept, secretarii generali sau alte persoane împuternicite",
+   "Includerea cheltuielilor care au făcut obiectul angajamentelor bugetare globale în categoria angajamentelor bugetare individuale, în cazul unor diferențe semnificative"
+  ],
+  "corecte": [
+   1
+  ],
+  "explicatie": "Art. 1^1 din Ordinul M.F.P. nr. 1.792/2002 prevede că prin ordin al ministrului finanțelor se pot desemna instituții publice pilot pentru aplicarea altor norme metodologice privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor bugetare decât cele prevăzute la art. 1, adică decât Normele metodologice aprobate prin ordin. Acțiunile și categoriile de cheltuieli pentru care se pot acorda plăți în avans din fonduri publice se stabilesc, potrivit pct. 4 din Normele ALOP, prin hotărâri ale Guvernului, nu prin ordin al ministrului. Delegarea calității de ordonator de credite către înlocuitorii de drept, secretarii generali sau alte persoane împuternicite o fac, potrivit preambulului Normelor, înșiși ordonatorii de credite, prin acte de delegare. Includerea în viitor a cheltuielilor din angajamentele bugetare globale în categoria angajamentelor bugetare individuale, în caz de diferențe semnificative, este hotărâtă, potrivit pct. 1 din Norme, de persoana desemnată să exercite controlul financiar preventiv propriu. Punerea în aplicare a ordinului revine, potrivit art. 2 din ordin, Direcției contabilității publice.",
+  "sursa": {
+   "act": "Ordinul M.F.P. nr. 1.792/2002 (ALOP)",
+   "articol": "art. 1^1",
+   "citat": "Prin ordin al ministrului finanțelor se pot desemna instituții publice pilot pentru aplicarea altor norme metodologice privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor bugetare decât cele prevăzute la art. 1.",
+   "fisier": "08_Ordinul_MFP_1792-2002_act_de_aprobare.txt"
+  },
+  "status": "ok"
+ }
+]
