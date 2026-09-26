@@ -3,8 +3,8 @@
   "use strict";
 
   var root = document.getElementById("app");
-  var NR_TESTE = 30;
-  var STORAGE_KEY = "grile-achizitii-scoruri";
+  var NR_TESTE = 39;
+  var STORAGE_KEY = "grile-achizitii-scoruri-v2";
 
   var state = {
     test: null,      // numărul testului curent (1..30)
@@ -209,7 +209,7 @@
     wrap.appendChild(card);
 
     wrap.appendChild(el("footer", null,
-      "Surse: formele consolidate de pe legislatie.just.ro (Portal Legislativ), din PDF-urile pachetului de studiu.<br>" +
+      "Surse: formele consolidate la zi de pe legislatie.just.ro (Portal Legislativ), descărcate în folderul legislatie/.<br>" +
       "Legea 98/2016 · H.G. 395/2016 · O.U.G. 98/2017 · H.G. 419/2018 · Legea 101/2016 · Ordinul M.F.P. 1.792/2002 (ALOP) · Legea 500/2002"));
     root.appendChild(wrap);
     window.scrollTo(0, 0);

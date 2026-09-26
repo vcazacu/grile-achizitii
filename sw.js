@@ -1,6 +1,6 @@
 /* Service worker — face aplicația disponibilă offline după prima deschidere.
    La fiecare modificare a întrebărilor, schimbă VERSIUNE ca să se reîmprospăteze cache-ul. */
-const VERSIUNE = "grile-achizitii-v2";
+const VERSIUNE = "grile-achizitii-v3";
 const FISIERE = [
   "./",
   "./index.html",
@@ -10,7 +10,11 @@ const FISIERE = [
   "./manifest.json",
   "./icon-192.png",
   "./icon-512.png",
-  "./apple-touch-icon.png"
+  "./apple-touch-icon.png",
+  /* TEMATICA-START */
+  /* TEMATICA-END */
+  /* LEGISLATIE-START */
+  /* LEGISLATIE-END */
 ];
 
 self.addEventListener("install", function (e) {

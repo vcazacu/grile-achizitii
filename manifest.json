@@ -1,7 +1,7 @@
 {
   "name": "Grile — Achiziții Publice",
   "short_name": "Grile Achiziții",
-  "description": "Baterie de 30 de teste pentru examenul de achiziții publice, pe legislația în formă consolidată.",
+  "description": "Baterie de 39 de teste pentru examenul de achiziții publice, pe legislația în formă consolidată.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

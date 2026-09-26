@@ -14,12 +14,19 @@ import glob, json, os, re, sys
 DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, DIR)
 from bibliografie import cheie
+import bibliografie as b
 from unitati import eticheta
 from valideaza import incarca, valideaza, grup, nr_teste_din_app
 
 # Cote-țintă pe grup (fisier[#anexa]); suma trebuie să fie teste × marime.
-COTE = {}
-ETICHETE = {}
+COTE = {   # 39 de teste × 20 = 780 = toate întrebările verificate (decizia din 27.09.2026: fiecare unitate din tematică are cel puțin o întrebare)
+ b.K98: 302, b.K395C: 3, b.K395: 195, b.KOUG: 45, b.K419C: 3, b.K419: 39,
+ b.K101: 68, b.KORD: 5, b.KALOP: 36, b.K500: 84,
+}
+ETICHETE = {
+ b.K98: "L98", b.K395C: "HG395", b.K395: "N395", b.KOUG: "OUG98", b.K419C: "HG419", b.K419: "N419",
+ b.K101: "L101", b.KORD: "ORD1792", b.KALOP: "ALOP", b.K500: "L500",
+}
 MAX_MULTI = 4
 ORDINE_CHEI = ["id", "tip", "test", "intrebare", "variante", "corecte", "explicatie", "sursa", "status"]
 

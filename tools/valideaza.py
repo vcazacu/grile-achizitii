@@ -63,7 +63,7 @@ def e_int(x):
     return isinstance(x, int) and not isinstance(x, bool)
 
 
-POZITIE = _re_poz.compile(r"(prima|a doua|a treia|a patra|ultima)\s+variant|variant(a|ele)\s+[A-D]\)|răspunsul\s+[A-D]\)", _re_poz.I)
+from check_semantic import referiri_pozitionale as _pozitionale   # detectorul unic (test_pozitionale.py)
 
 
 def valideaza(lista, nr_teste=None):
@@ -98,7 +98,7 @@ def valideaza(lista, nr_teste=None):
                     e("indexul corect %r nu există în variante." % (c,))
             if len(set(map(str, cor))) != len(cor): e("corecte conține indecși duplicați.")
         if not q.get("explicatie"): e("lipsește explicația.")
-        if POZITIE.search(str(q.get("explicatie",""))) or POZITIE.search(str(q.get("intrebare",""))): erori.append(loc + ": explicația/enunțul se referă la poziția variantelor (se amestecă la asamblare).")
+        if _pozitionale({"explicatie": str(q.get("explicatie", ""))}) or _pozitionale({"explicatie": str(q.get("intrebare", ""))}): erori.append(loc + ": explicația/enunțul se referă la poziția variantelor (se amestecă la asamblare).")
         s = q.get("sursa")
         if not isinstance(s, dict) or not s.get("act") or not s.get("articol") or not s.get("citat"):
             e("sursa trebuie să conțină act, articol și citat.")

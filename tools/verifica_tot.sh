@@ -22,8 +22,10 @@ echo "== 4. referiri poziționale ==";     python3 check_semantic.py --doar-pozi
 if [ ${#FISIERE[@]} -eq 1 ] && [ "${FISIERE[0]}" = "../intrebari.js" ]; then
   echo "== 5. distribuție pe teste =="; python3 asambleaza.py --raport-din ../intrebari.js || ok=1
 fi
+echo "== 6. acoperire ==";                 python3 acoperire.py "${FISIERE[@]}"      || ok=1
+echo "== 7. teme ↔ docx ==";               python3 test_teme.py                      || ok=1
 if [ $SEMANTIC -eq 1 ]; then
-  echo "== 6. poartă semantică (TypeSafe) =="
+  echo "== 8. poartă semantică (TypeSafe) =="
   "$PY_TS" check_semantic.py "${FISIERE[@]}" || ok=1
 fi
 [ $ok -eq 0 ] && echo "TOATE VERIFICĂRILE AUTOMATE: TREC" || echo "VERIFICĂRI EȘUATE — vezi mai sus"

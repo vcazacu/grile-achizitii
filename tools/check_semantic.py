@@ -65,18 +65,28 @@ PRAGURI = {
 # ---------- Verificare deterministă (fără apel de rețea) ----------
 # asambleaza.py amestecă variantele, deci orice trimitere la poziția unei variante
 # din explicație devine falsă în aplicație. Clasă întreagă de defecte, gratuit.
-_ORD = r"(?:prima|a\s+doua|a\s+treia|a\s+patra|ultima|primele\s+\w+|ultimele\s+\w+)"
+_ORD = r"(?:prima|primei|a\s+doua|a\s+treia|a\s+patra|(?:cea\s+)?de-a\s+(?:doua|treia|patra)|ultima|ultimei|primele\s+\w+|ultimele\s+\w+)"
 _POZITIE = re.compile(
-    r"\bvariant(?:a|ele)\s+" + _ORD                       # „varianta a patra”
-    + r"|\b" + _ORD + r"\s+variant(?:ă|a|e)"              # „a doua variantă”, „primele trei variante”
+    r"\bvariant(?:a|ele|ei|elor)\s+" + _ORD                       # „varianta a patra”
+    + r"|\b" + _ORD + r"\s+variant(?:ă|a|e|ei|elor)"              # „a doua variantă”, „primele trei variante”
     + r"|\b" + _ORD + r"\s+op[țt]iun(?:e|i)"
     + r"|\bvarianta\s+(?:de\s+la\s+)?litera\s+[A-D]\b"
     + r"|\br[ăa]spunsul\s+(?:de\s+la\s+)?litera\s+[A-D]\b", re.I)
+# Forme scăpate de tiparul de mai sus (găsite la repararea băncii, 27.09.2026): litera variantei
+# („varianta D”, „Varianta b)”, „răspunsul C)”, „variantele A și C”) și ordinalul fără substantiv
+# după „iar/și” („iar a treia definește...”). Majuscula e cerută la litera fără paranteză, ca
+# „varianta a fost” să nu fie o alarmă.
+_POZITIE_LITERA = re.compile(
+    r"\b(?:[Vv]ariant(?:a|ele)|[Rr][ăa]spuns(?:ul|urile))\s+(?:[A-D](?![\w])\)?|[a-d]\))"
+    r"|\b(?:iar|și|apoi)\s+(?:prima|a\s+doua|a\s+treia|a\s+patra|ultima)\s+"
+    r"(?!zi\b|zile|etap|rund|faz|lun|dat|oar|parte|teză|tez|liter|alin|pct|punct"
+    r"|(?:de|la|din|în|pe|cu|prin|pentru|după|până)\b)[a-zăâîșț]+")   # „iar a doua de la...” = alt substantiv subînțeles
 
 
 def referiri_pozitionale(q):
     """Fragmentele din explicație care trimit la poziția unei variante."""
-    return [m.group(0) for m in _POZITIE.finditer(q.get("explicatie") or "")]
+    t = q.get("explicatie") or ""
+    return [m.group(0) for m in _POZITIE.finditer(t)] + [m.group(0) for m in _POZITIE_LITERA.finditer(t)]
 
 
 # ---------- Starea: textul normativ relevant ----------
