@@ -1,0 +1,764 @@
+[
+ {
+  "loc": "Domeniul legii (art. 1) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Legea stabilește principiile, cadrul general și procedurile privind formarea, administrarea, angajarea și utilizarea fondurilor publice și responsabilitățile instituțiilor din procesul bugetar.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Se aplică bugetului de stat, bugetului asigurărilor sociale de stat, fondurilor speciale, trezoreriei, instituțiilor publice autonome și celor finanțate din aceste bugete sau din venituri proprii, creditelor externe garantate de stat și fondurilor externe nerambursabile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2181
+ },
+ {
+  "loc": "Definiții esențiale (art. 2) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Anul bugetar e anul calendaristic, de la 1 ianuarie la 31 decembrie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Angajamentul legal e actul juridic care creează sau constată obligația de plată pe seama fondurilor publice; angajamentul bugetar e actul administrativ care rezervă creditul bugetar pentru plata ei.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Arieratele sunt plățile restante de peste 90 de zile de la scadență.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5843
+ },
+ {
+  "loc": "Definiții esențiale (art. 2) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Creditul de angajament e limita maximă în care se pot încheia angajamente legale în anul bugetar.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Creditul bugetar e limita maximă până la care se pot ordonanța și plăti cheltuieli în anul bugetar.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 5418
+ },
+ {
+  "loc": "Definiții esențiale (art. 2) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Lichidarea verifică dreptul creditorului, cuantumul și exigibilitatea obligației.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Ordonanțarea e dispoziția ordonatorului către compartimentul financiar-contabil de a plăti.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "text": "Plata e actul final prin care instituția își achită obligațiile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "3": {
+    "text": "Clasificația bugetară nu e bază legală pentru angajamente sau plăți.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 6210
+ },
+ {
+  "loc": "Autorizarea bugetară, legile bugetare și rectificarea (art.  / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Legea bugetară anuală prevede și autorizează veniturile și cheltuielile anului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Creditele de angajament și creditele bugetare sunt limite maxime; cheltuielile se angajează numai în limita creditelor de angajament și în scopurile aprobate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Depășirea sau folosirea în alte scopuri atrage răspunderea celor vinovați.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3522
+ },
+ {
+  "loc": "Autorizarea bugetară, legile bugetare și rectificarea (art.  / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Legile bugetare anuale sunt legile bugetului de stat și ale bugetului asigurărilor sociale de stat, cu rectificările lor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Rectificările se elaborează cel mai târziu până la 30 noiembrie; la o înrăutățire semnificativă a prognozei, rectificarea se poate face și în primul semestru.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Rezultatele exercițiului se aprobă prin legile contului general anual de execuție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3539
+ },
+ {
+  "loc": "Principiile bugetare (art. 8–13) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Universalitatea: veniturile și cheltuielile se includ în buget în totalitate, în sume brute; veniturile nu se afectează direct unei cheltuieli, cu excepția donațiilor și sponsorizărilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "sustine": 0.98,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   },
+   "1": {
+    "text": "Publicitatea: dezbaterea publică a bugetelor și a conturilor de execuție și publicarea lor în Monitorul Oficial.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "sustine": 0.98,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 3002
+ },
+ {
+  "loc": "Principiile bugetare (art. 8–13) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Unitatea: veniturile și cheltuielile se înscriu într-un singur document; e interzisă crearea de venituri extrabugetare, cu excepția art. 67.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Anualitatea: bugetul se aprobă pe un an, iar încasările și plățile unui an aparțin exercițiului acelui an.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2991
+ },
+ {
+  "loc": "Principiile bugetare (art. 8–13) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Specializarea bugetară: veniturile se înscriu pe surse, iar cheltuielile pe categorii, după clasificația bugetară.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.38,
+     "nu_spune": 0.01,
+     "sustine": 0.61
+    },
+    "confidence": 0.47
+   },
+   "1": {
+    "text": "Unitatea monetară: toate operațiunile se exprimă în moneda națională.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2968
+ },
+ {
+  "loc": "Reguli privind cheltuielile (art. 14–15) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Cheltuielile au destinație precisă și limitată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Nicio cheltuială nu se înscrie, nu se angajează și nu se efectuează fără bază legală și fără prevederi bugetare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.95,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.05
+    },
+    "confidence": 0.93
+   }
+  },
+  "usage": 2842
+ },
+ {
+  "loc": "Reguli privind cheltuielile (art. 14–15) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Propunerile care micșorează veniturile sau măresc cheltuielile se însoțesc de o fișă financiară, cu efectele pe anul curent și următorii 4 ani și cu măsurile de acoperire.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Pentru propunerile legislative, Guvernul transmite fișa în 45 de zile de la solicitare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2870
+ },
+ {
+  "loc": "Elaborarea bugetului, plățile restante și structura bugetelo / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Guvernul elaborează proiectele prin Ministerul Finanțelor Publice, pe baza prognozelor pentru anul bugetar și următorii 3 ani, a politicilor fiscale, a propunerilor ordonatorilor principali și a programelor lor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3005
+ },
+ {
+  "loc": "Elaborarea bugetului, plățile restante și structura bugetelo / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Ordonatorii achită întâi plățile restante; noi angajamente legale se pot face numai după stingerea restanțelor de la finele anului anterior și a arieratelor anului curent, cu excepția proiectelor cu fonduri externe nerambursabile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Dacă instituția are arierate, trezoreria nu mai face plăți din conturile ei, cu excepția salariilor, a stingerii arieratelor și a datoriei publice.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3440
+ },
+ {
+  "loc": "Elaborarea bugetului, plățile restante și structura bugetelo / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Veniturile se structurează pe capitole și subcapitole, iar cheltuielile pe părți, capitole, subcapitole, titluri, articole și alineate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.98,
+     "contrazice": 0.02,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.97
+   },
+   "1": {
+    "text": "Numărul maxim de posturi aprobat nu poate fi depășit.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.98,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 3385
+ },
+ {
+  "loc": "Fondurile la dispoziția Guvernului (art. 30) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Bugetul de stat include Fondul de rezervă bugetară și Fondul de intervenție la dispoziția Guvernului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Fondul de rezervă finanțează cheltuieli urgente sau neprevăzute; Fondul de intervenție finanțează înlăturarea efectelor calamităților naturale și sprijinirea sinistraților.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Ambele se repartizează prin hotărâri ale Guvernului, iar Fondul de intervenție poate fi majorat din Fondul de rezervă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2989
+ },
+ {
+  "loc": "Finanțarea instituțiilor publice și veniturile proprii (art. / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Instituțiile publice se finanțează integral de la buget, din venituri proprii și subvenții sau integral din venituri proprii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Cele finanțate integral de la buget varsă integral veniturile realizate la bugetul din care se finanțează.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Pot folosi donații și sponsorizări, potrivit legii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4123
+ },
+ {
+  "loc": "Finanțarea instituțiilor publice și veniturile proprii (art. / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Excedentele instituțiilor finanțate din venituri proprii și subvenții se regularizează la sfârșitul anului cu bugetul finanțator, în limita sumelor primite.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Excedentele celor finanțate integral din venituri proprii se reportează în anul următor, cu aceeași destinație.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3745
+ },
+ {
+  "loc": "Finanțarea instituțiilor publice și veniturile proprii (art. / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru activitățile finanțate integral din venituri proprii, cheltuielile se fac în limita veniturilor realizate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Instituțiile nou înființate pot primi de la ordonatorul principal împrumuturi fără dobândă, rambursabile în 6 luni.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.98,
+     "nu_spune": 0.0,
+     "contrazice": 0.02,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 3730
+ },
+ {
+  "loc": "Execuția de casă prin trezorerie (art. 70) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Toate instituțiile publice își fac încasările și plățile prin unitățile teritoriale ale trezoreriei; e interzisă folosirea băncilor comerciale pentru aceste operațiuni.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Bugetul aprobat se transmite trezoreriei în 10 zile de la aprobare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2476
+ },
+ {
+  "loc": "Execuția de casă prin trezorerie (art. 70) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă bugetul nu e transmis la timp, instituția poate plăti în limita a 1/12 din ultimul buget aprobat, fără investiții noi, timp de 45 de zile de la expirarea termenului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Apoi trezoreria nu mai acceptă documente de plată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2477
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Creditul de angajament limitează încheierea angajamentelor legale; creditul bugetar limitează ordonanțarea și plata în anul bugetar.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15907
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Arieratele sunt plăți restante de peste 90 de zile de la scadență; noi angajamente legale se pot face doar după stingerea lor, cu excepția fondurilor externe nerambursabile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15916
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Universalitatea: venituri și cheltuieli în sume brute; veniturile nu se afectează direct unei cheltuieli, cu excepția donațiilor și sponsorizărilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15916
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Anualitatea: încasările și plățile unui an aparțin exercițiului acelui an.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15891
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Rectificările bugetare se elaborează cel târziu până la 30 noiembrie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.03,
+     "sustine": 0.97,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 15891
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Clasificația bugetară nu e bază legală pentru angajamente sau plăți.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15887
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Încasările și plățile instituțiilor publice se fac doar prin trezorerie, nu prin bănci comerciale; bugetul aprobat se transmite trezoreriei în 10 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 15914
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Excedentele instituțiilor finanțate integral din venituri proprii se reportează; ale celor cu subvenții se regularizează cu bugetul.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15907
+ }
+]
