@@ -113,6 +113,18 @@ trimiteri** care duceau la textul greșit (un „alin. (1)” din Normele modifi
 id-uri unice și trimiteri spre ținte existente pe toate cele 10 pagini, iar build-ul se oprește la
 id-uri duplicate.
 
+### D4. Linkurile spre alt act din panoul „Temei legal” nu se încărcau — **reparat** (28.09.2026, după redesign)
+
+Panoul din aplicație copiază articolul întreg din pagina de legislație. Se rescriau doar trimiterile
+interne (`#art-5`); cele spre alt act (ex. în Normele H.G. 395: `01-legea-98-2016-….html#art-216`) rămâneau
+relative și porneau de la rădăcina aplicației, fără `legislatie/` — pagina nu exista. Parcurgerea tuturor
+celor 780 de întrebări a găsit **166 de linkuri rupte** (spre Legea 98, O.U.G. 98, Legea 101, Legea 500).
+Acum toate linkurile articolului se rezolvă față de pagina legii din care vine: 791 de linkuri, 0 rupte
+(`tools/linkuri_panou.js`). Paginile statice (aplicația, 24 de teme, 10 acte, indexurile) erau corecte;
+`tools/test_linkuri.py` le verifică acum pe toate în `verifica_tot.sh` (fișier existent, ancoră existentă,
+id-urile din „Exersează tema” prezente în bancă). Chenarele din paginile de legislație nu au problema:
+actul adus stă în același folder, iar trimiterile `#…` se rescriu deja.
+
 ## E. Tematica
 
 Porțile (citat verbatim, audit determinist, TypeSafe cu pragul 0,90 și banda de triaj ≥ 0,50) au

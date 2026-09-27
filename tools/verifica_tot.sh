@@ -35,6 +35,7 @@ if [ -n "$TEME_NN" ]; then
   rm -f /tmp/audit-tematica-$$.txt
 fi
 echo "== 11. pagini de legislație ==";     python3 test_legislatie.py | tail -1; [ ${PIPESTATUS[0]} -eq 0 ] || ok=1
+echo "== 12. linkuri în pagini ==";        python3 test_linkuri.py | tail -3; [ ${PIPESTATUS[0]} -eq 0 ] || ok=1
 if [ $SEMANTIC -eq 1 ]; then
   echo "== 8. poartă semantică (TypeSafe) =="
   "$PY_TS" check_semantic.py "${FISIERE[@]}" || ok=1

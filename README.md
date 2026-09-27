@@ -165,9 +165,12 @@ sursa de adevăr pentru toate uneltele.
     `index.html`, iar toate stilurile (și ale paginilor generate) sunt în `style.css`
   - `verifica_sw.py` — lista cache-ului offline = fișierele reale
   - `verifica_tot.sh` — toate verificările deterministe într-un pas (banca, acoperirea, cache-ul offline,
-    temele fără scrieri, paginile de legislație: id-uri unice și trimiteri spre ținte existente); cu `--semantic` adaugă poarta
+    temele fără scrieri, paginile de legislație: id-uri unice și trimiteri spre ținte existente, linkurile tuturor
+    paginilor statice prin `test_linkuri.py`); cu `--semantic` adaugă poarta
     TypeSafe (cere `TYPESAFE_API_KEY` și mediul `tools/.venv-ts` cu `typesafe-sdk` 0.7.0)
   - `test_*.py` — testele uneltelor (stdlib, `python3 test_<nume>.py`)
+  - `sweep.js`, `linkuri_panou.js` — verificări în browser (se lipesc în pagină, la `index.html` servit prin http):
+    toate testele cu cheile corecte (scor 100%); linkurile din panoul „Temei legal” (lățime ≥ 1024 px)
   - `SPEC.md` (contractul schemei), `SURSE.md` (sursele), `CALIBRARE-typesafe.md` (cifrele porții semantice)
   - `nou/` — întrebările brute înainte de asamblare (neversionate)
 
@@ -244,7 +247,8 @@ textul la zi, plus 182 de întrebări noi pentru unitățile neacoperite.
    toate alarme false, dar verificarea a găsit alte 2 defecte reale, reparate.
 
 În plus, aplicația a fost parcursă automat în browser pe toate cele 39 de teste
-(`tools/sweep.js`): **39/39 cu scor 100%**, fără erori, iar toate cele 37 de pagini (aplicația,
+(`tools/sweep.js`): **39/39 cu scor 100%**, fără erori; linkurile din panoul „Temei legal” au fost
+verificate pe toate cele 780 de întrebări (`tools/linkuri_panou.js`: 791 de linkuri, 0 rupte), iar toate cele 37 de pagini (aplicația,
 indexurile, 24 de teme, 10 acte) încap pe lățimea de 375 px a unui telefon.
 
 Ce a apărut pe parcurs, inclusiv alarmele false și limitele cunoscute, e descris în
