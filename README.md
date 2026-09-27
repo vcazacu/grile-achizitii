@@ -80,12 +80,18 @@ Conținutul unei teme stă în `tools/tematica/NN.json`. `tools/tematica_build.p
 citat contra `../legislatie/*.txt`, generează paginile și indexul și actualizează lista din `sw.js`.
 Fiecare temă a trecut prin trei porți înainte de publicare:
 
-1. **Citatele** — fiecare temei apare verbatim în lege, într-o singură unitate (build-ul se oprește altfel).
-2. **Auditul determinist** (`tools/audit_tematica.py`) — orice cifră din paragrafe apare în citatele
-   secțiunii, orice articol pomenit are temeiul în secțiune, orice id de întrebare există.
+1. **Citatele** — fiecare temei apare verbatim, în întregime, în unitatea declarată de eticheta lui
+   (aceeași regulă ca `check_articol.py` la întrebări); o etichetă nerecunoscută e eroare. Dacă un
+   singur citat nu trece, `tematica_build.py` nu scrie nimic.
+2. **Auditul determinist** (`tools/audit_tematica.py`, cod de ieșire 1 la orice problemă) — orice cifră
+   și orice articol din paragrafe apar în citatele secțiunii; din rezumat și din capcane, în citatele
+   temei; orice id de întrebare există.
 3. **Poarta semantică** (`tools/check_tematica.py`, TypeSafe) — fiecare frază e judecată contra
    articolelor citate în secțiunea ei; pragul automat „contrazice” e 0,90, iar orice frază cu
    p ≥ 0,50 se verifică manual în lege (`tools/triaj_tema.py`, `tools/poarta_tema.sh NN`).
+
+Primele două porți rulează și în `verifica_tot.sh`, pe toate temele, fără să scrie fișiere
+(`tematica_build.py --verifica`); poarta semantică rulează doar la cerere, fiindcă folosește API-ul.
 
 O întrebare se leagă de tema care conține articolul ei; dacă articolul e în mai multe teme (doar
 art. 7 din Legea 98/2016), câștigă tema cu intervalul cel mai specific (tema 13, Achiziția directă).
@@ -141,7 +147,8 @@ sursa de adevăr pentru toate uneltele.
     `text_tema.py`, `scrie_tema.py`, `intrebari_tema.py` — paginile de tematică și porțile lor
   - `legislatie_build.py`, `trimiteri.py` — paginile de legislație
   - `verifica_sw.py` — lista cache-ului offline = fișierele reale
-  - `verifica_tot.sh` — toate verificările deterministe într-un pas; cu `--semantic` adaugă poarta
+  - `verifica_tot.sh` — toate verificările deterministe într-un pas (banca, acoperirea, cache-ul offline,
+    temele fără scrieri, paginile de legislație: id-uri unice și trimiteri spre ținte existente); cu `--semantic` adaugă poarta
     TypeSafe (cere `TYPESAFE_API_KEY` și mediul `tools/.venv-ts` cu `typesafe-sdk` 0.7.0)
   - `test_*.py` — testele uneltelor (stdlib, `python3 test_<nume>.py`)
   - `SPEC.md` (contractul schemei), `SURSE.md` (sursele), `CALIBRARE-typesafe.md` (cifrele porții semantice)

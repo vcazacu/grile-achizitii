@@ -2,13 +2,15 @@
 """Construiește paginile de sinteză pe teme (quiz-app/tematica/*.html) din fișierele
 de conținut tools/tematica/NN.json și verifică fiecare citat contra legislației.
 
-Utilizare: python3 tematica_build.py            (construiește + verifică; exit 1 la citat neconfirmat)
+Utilizare: python3 tematica_build.py            (verifică; dacă totul e confirmat, construiește; altfel exit 1, nimic scris)
+           python3 tematica_build.py --verifica (doar verificarea, fără scrieri — folosit de verifica_tot.sh)
 Fișier de conținut (NN.json): {nr, titlu, rezumat, sectiuni:[{titlu, paragrafe:[…],
 temei:[{act, articol, citat, fisier, anexa?}]}], capcane:[…], intrebari:[id-uri]}.
 Scrie și lista fișierelor în sw.js între marcajele /* TEMATICA-START */ … /* TEMATICA-END */.
 """
 import json, os, re, sys, html, glob
 from normalizare import normalizeaza, fragmente_citat, linii_zona
+from check_articol import corpus_cu_santinele, potriveste_articol
 from bibliografie import tematica as bib_tematica
 from legislatie_build import ACTE, ancora
 import unitati
@@ -50,17 +52,20 @@ def sablon(titlu, corp, subtitlu="", adancime=1):
 <footer>Surse: formele consolidate la zi de pe legislatie.just.ro; citatele sunt verificate automat contra textului.</footer>
 </div></body></html>"""
 
+_CACHE_CORPUS = {}
+
 def verifica_temei(t):
-    """Întoarce (ok, mesaj). Citatul trebuie găsit verbatim (normalizat) în zona declarată."""
+    """Întoarce (ok, mesaj). Citatul trebuie găsit verbatim (normalizat), în întregime, în unitatea
+    declarată de `articol` (aceeași regulă ca check_articol pentru întrebări); eticheta trebuie recunoscută."""
     L = linii_zona(os.path.join(LEG, t["fisier"]), t.get("anexa", ""))
     if L is None: return False, "fișier lipsă: " + t["fisier"]
-    corp = normalizeaza(" ".join(l for _, l in L))
-    poz = 0
-    for f in fragmente_citat(t["citat"]):
-        i = corp.find(f, poz)
-        if i < 0: return False, "fragment negăsit: „%s”" % f[:70]
-        poz = i + len(f)
-    return True, ""
+    e = unitati.eticheta(t["articol"])
+    if not e: return False, "etichetă nerecunoscută: „%s”" % t["articol"]
+    fragmente = fragmente_citat(t["citat"])
+    if not fragmente: return False, "citat gol"
+    corpus = corpus_cu_santinele(t["fisier"], t.get("anexa", ""), _CACHE_CORPUS)
+    eroare = potriveste_articol(corpus, fragmente, e)
+    return (False, eroare) if eroare else (True, "")
 
 def in_tematica(t):
     e = unitati.eticheta(t["articol"])
@@ -133,9 +138,11 @@ def index_html(gata):
             '<div class="card">%s</div>' % "".join(blocuri))
     return sablon("Tematica", corp, "Sinteze pe teme, cu temei legal")
 
-def main():
-    os.makedirs(OUT, exist_ok=True)
-    gata, erori, fisiere = set(), 0, ["./tematica/index.html"]
+def main(argv=()):
+    """Fără argumente: verifică toate temeiurile și, doar dacă nu există erori, scrie paginile,
+    indexul și lista din sw.js. Cu --verifica: numai verificarea, fără nicio scriere."""
+    doar_verifica = "--verifica" in argv
+    gata, erori, fisiere, pagini = set(), 0, ["./tematica/index.html"], []
     for cale in sorted(glob.glob(os.path.join(DIR, "tematica", "[0-9][0-9].json"))):
         d = json.load(open(cale, encoding="utf-8"))
         nr = d["nr"]; slug = next(t["slug"] for t in TEME if t["nr"] == nr)
@@ -147,9 +154,14 @@ def main():
                 else: erori += 1; print("  EROARE tema %d, secțiunea „%s”, %s: %s" % (nr, s["titlu"], t["articol"], msg))
                 if in_tematica(t) is False: print("  ATENȚIE tema %d: %s din %s nu e în bibliografie (doar context)" % (nr, t["articol"], t["fisier"]))
         nume = "%02d-%s.html" % (nr, slug)
-        open(os.path.join(OUT, nume), "w", encoding="utf-8").write(pagina(d, slug))
-        gata.add(nr); fisiere.append("./tematica/" + nume)
+        pagini.append((nume, d, slug)); gata.add(nr); fisiere.append("./tematica/" + nume)
         print("tema %d: %d secțiuni, %d/%d citate confirmate → tematica/%s" % (nr, len(d["sectiuni"]), n_ok, n_tot, nume))
+    if doar_verifica or erori:
+        print("teme: %d/%d; erori de citat: %d%s" % (len(gata), len(TEME), erori, "" if doar_verifica else " — nimic scris"))
+        sys.exit(1 if erori else 0)
+    os.makedirs(OUT, exist_ok=True)
+    for nume, d, slug in pagini:
+        open(os.path.join(OUT, nume), "w", encoding="utf-8").write(pagina(d, slug))
     open(os.path.join(OUT, "index.html"), "w", encoding="utf-8").write(index_html(gata))
     sw = os.path.join(DIR, "..", "sw.js"); s = open(sw, encoding="utf-8").read()
     bloc = "/* TEMATICA-START */\n" + "".join('  "%s",\n' % f for f in fisiere) + "  /* TEMATICA-END */"
@@ -159,4 +171,4 @@ def main():
     sys.exit(1 if erori else 0)
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv[1:])

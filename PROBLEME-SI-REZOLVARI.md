@@ -102,6 +102,17 @@ din `trimiteri._EXTERN`, trimiterile din Norme către Lege au crescut **de la 1 
 Textele copiate din unelte („grile de salarizare”, „Cele nouă acte”, antetul RU) au fost scoase, iar
 `test_fara_ru.py` blochează orice revenire.
 
+### D3. Textul citat din H.G. 419 devenea alineate și ținte de trimiteri — **reparat** (revizuirea finală)
+
+Art. II–VI din H.G. 419/2018 modifică alte acte și citează textul modificat („(3) Strategia de
+contractare …”, „a) etapa de planificare”). Regula `DOAR_ROMANE` oprea doar „Articolul 26” citat, nu și
+rândurile „(N)” și „x)”: ele deveneau alineatele art. IV–V, cu **24 de id-uri duplicate** și **49 de
+trimiteri** care duceau la textul greșit (un „alin. (1)” din Normele modificate deschidea „art. V alin.
+(1)”). Acum articolele romane care conțin formule de modificare își redau conținutul ca text simplu
+(art. VII și VIII, cu alineate și litere proprii, rămân structurate). `test_legislatie.py` verifică
+id-uri unice și trimiteri spre ținte existente pe toate cele 10 pagini, iar build-ul se oprește la
+id-uri duplicate.
+
 ## E. Tematica
 
 Porțile (citat verbatim, audit determinist, TypeSafe cu pragul 0,90 și banda de triaj ≥ 0,50) au
@@ -123,6 +134,15 @@ lipsă a arătat că paragraful trimitea la art. 7 alin. (1), deși art. 113 ali
   „nu au fost transmise în timp util”, ceea ce contrazice alin. (1) lit. a). Acum e redat exact, cu
   contradicția semnalată. Poarta nu avea cum să prindă asta: parafraza era plauzibilă și consistentă
   cu scopul normei.
+
+**Porțile erau mai slabe decât le descria README-ul — reparat (revizuirea finală).** Citatul era căutat
+în toată zona actului, nu în unitatea declarată; build-ul scria paginile chiar cu citate eșuate;
+auditul ieșea mereu cu 0 și nu privea rezumatul și capcanele; `poarta_tema.sh` pierdea codurile de ieșire
+prin `grep`/`tail`, iar `verifica_tot.sh` nu verifica temele deloc. Conținutul publicat era curat (toate
+cele 605 citate stau în unitatea declarată), dar o editare viitoare ar fi trecut tăcut. Acum: citatul se
+verifică în unitatea declarată (regula `check_articol`), o etichetă nerecunoscută e eroare, build-ul nu
+scrie nimic la erori, auditul acoperă rezumatul și capcanele și iese cu 1, iar `verifica_tot.sh` rulează
+ambele porți pe toate temele (testat și pe o temă stricată deliberat: ambele erori prinse).
 
 **Alarme false verificate în lege (bandă ≥ 0,50):** 5 în versiunile finale, toate corecte. Una dintre
 ele (0,50, tema 9) reflectă ambiguitatea reală a art. 154 alin. (3).

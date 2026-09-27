@@ -25,6 +25,16 @@ fi
 echo "== 6. acoperire ==";                 python3 acoperire.py "${FISIERE[@]}"      || ok=1
 echo "== 7. teme ↔ docx ==";               python3 test_teme.py                      || ok=1
 echo "== 9. cache offline ==";             python3 verifica_sw.py                    || ok=1
+echo "== 10. tematica (citate în unitate, audit) =="
+TEM_OUT=$(python3 tematica_build.py --verifica) || ok=1
+echo "$TEM_OUT" | grep -E "EROARE" | head -10; echo "$TEM_OUT" | tail -1
+TEME_NN=$(ls tematica/[0-9][0-9].json 2>/dev/null | sed 's#.*/\([0-9][0-9]\)\.json#\1#')
+if [ -n "$TEME_NN" ]; then
+  python3 audit_tematica.py $TEME_NN > /tmp/audit-tematica-$$.txt && echo "audit: $(echo $TEME_NN | wc -w | tr -d ' ') teme curate" \
+    || { grep -v "^$" /tmp/audit-tematica-$$.txt | grep -v " 0 cifre netrasabile, 0 articole fără temei, 0 id-uri lipsă" | head -20; ok=1; }
+  rm -f /tmp/audit-tematica-$$.txt
+fi
+echo "== 11. pagini de legislație ==";     python3 test_legislatie.py | tail -1; [ ${PIPESTATUS[0]} -eq 0 ] || ok=1
 if [ $SEMANTIC -eq 1 ]; then
   echo "== 8. poartă semantică (TypeSafe) =="
   "$PY_TS" check_semantic.py "${FISIERE[@]}" || ok=1
