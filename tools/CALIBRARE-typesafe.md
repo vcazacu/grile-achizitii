@@ -78,11 +78,11 @@ Rezultatele salvate (`tematica/NN-ts.json`), reclasificate cu `check_tematica.py
 
 | | afirmații |
 |---|---|
-| susținute | 1078 |
+| susținute | 1079 |
 | absență corectă | 1 (tema 1) |
 | neverificabile | 1 (tema 2: sfat de studiu despre distractori, nu afirmație de drept) |
 | contrazise (≥ 0,90) | **0** |
-| **total** | **1080** |
+| **total** | **1081** |
 
 **Banda de triaj (≥ 0,50) în versiunile finale: 5 afirmații, toate verificate în lege și corecte** — tema 1 (0,56,
 formularea deja corectată), tema 5 (0,58, art. 85 alin. (1)–(2) L98), tema 9 (0,65 semnătura electronică — Norme 395
@@ -92,6 +92,9 @@ tema 10 (0,52, art. 166 L98).
 **Ce a prins banda pe parcurs (înainte de commit):**
 - tema 9 (0,55): prima formulare inversa excepția negocierii fără publicare de la renunțarea la garanția de bună execuție
   — eroare reală, corectată; a dus și la corectarea explicației întrebării L98C-035 din bancă (cheia neschimbată);
+- tema 8 (la redactarea README): parafraza art. 153 alin. (4) L98 („informații necerute la timp”) nu era textul legii
+  („nu au fost transmise în timp util”, care contrazice alin. (1) lit. a)); înlocuită cu formularea exactă și semnalarea
+  contradicției — prinsă la recitire, nu de poartă (parafraza era plauzibilă);
 - tema 18 (0,97, CONTRAZIS): „pragurile *mai mici* de la art. 7 alin. (5)” — comparația venea din Lege, nu din Normele
   citate; reformulată fără comparație.
 
