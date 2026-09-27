@@ -25,6 +25,7 @@ const FISIERE = [
   "./tematica/10-criterii-de-calificare-si-selectie.html",
   "./tematica/11-criterii-de-atribuire.html",
   "./tematica/12-garantii-de-participare-si-buna-executie.html",
+  "./tematica/13-achizitia-directa.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",

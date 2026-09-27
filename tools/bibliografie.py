@@ -200,9 +200,15 @@ def articole_tema(nr):
 
 _CACHE_TEME = {}
 def tema_articol(cheie_bib, eticheta):
-    """Prima temă (în ordinea TEME) care conține unitatea; None dacă niciuna."""
+    """Tema care conține unitatea; None dacă niciuna. Dacă unitatea apare în mai multe teme,
+    câștigă tema cu intervalul cel mai specific pe acel act (cele mai puține unități), apoi
+    prima în ordinea TEME — ex. art. 7 L98: tema 1 („1-8") vs. tema 13 („7") → tema 13."""
     if not _CACHE_TEME:
+        cand = {}
         for t in TEME:
             for k, arts in articole_tema(t["nr"]).items():
-                for a in arts: _CACHE_TEME.setdefault((k, a), t["nr"])
+                for a in arts:
+                    c = (len(arts), t["nr"])
+                    if (k, a) not in cand or c < cand[(k, a)]: cand[(k, a)] = c
+        _CACHE_TEME.update({ka: c[1] for ka, c in cand.items()})
     return _CACHE_TEME.get((cheie_bib, eticheta))

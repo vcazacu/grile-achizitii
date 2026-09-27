@@ -1,0 +1,121 @@
+{
+ "nr": 13,
+ "titlu": "Achiziția directă",
+ "rezumat": "Art. 7 stabilește trei niveluri: de la pragurile de la alin. (1) în sus, publicarea în JOUE e obligatorie; sub ele se aplică procedura simplificată; sub pragurile de la alin. (5), autoritatea poate cumpăra direct. Achiziția directă e permisă sub 270.120 lei la produse și servicii și sub 900.400 lei la lucrări, fără TVA. Obligațiile cresc cu valoarea: plată directă sub 9.000 lei, o singură ofertă până la 140.000 lei, respectiv 300.000 lei, cel puțin trei operatori consultați peste aceste valori, iar peste 200.000 lei, respectiv 560.000 lei, catalogul electronic SEAP sau un anunț publicat. Trimestrial, achizițiile directe se notifică în SEAP.",
+ "sectiuni": [
+  {
+   "titlu": "Pragurile de publicare în JOUE (art. 7 alin. (1))",
+   "paragrafe": [
+    "Anunțul de participare sau de atribuire se publică obligatoriu în JOUE pentru achizițiile cu valoarea estimată, fără TVA, de cel puțin: 26 960 556 lei la lucrări; 698 460 lei la produse și servicii; 1 077 624 lei la produse și servicii atribuite de consiliile județene și locale, Consiliul General al Municipiului București și instituțiile subordonate lor; 3 741 750 lei la serviciile sociale și alte servicii specifice din anexa nr. 2."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 7 alin. (1)",
+     "citat": "Autoritatea contractantă are obligația publicării unui anunț de participare și/sau de atribuire în Jurnalul Oficial al Uniunii Europene în cazul achizițiilor a căror valoare estimată, fără TVA, este egală sau mai mare decât următoarele praguri valorice: a) 26 960 556 lei, pentru contractele de achiziție publică/ acordurile-cadru de lucrări;* b) 698 460 lei, pentru contractele de achiziție publică/ acordurile-cadru de produse și de servicii;* c) 1 077 624 lei, pentru contractele de achiziții publice/ acordurile-cadru de produse și de servicii atribuite de consiliul județean, consiliul local, Consiliul General al Municipiului București, precum și de instituțiile publice aflate în subordinea acestora;* d) 3 741 750 lei, pentru contractele de achiziție publică/ acordurile-cadru de servicii care au ca obiect servicii sociale și alte servicii specifice, prevăzute în anexa nr. 2.*",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Procedura simplificată sub praguri (art. 7 alin. (2) și (4))",
+   "paragrafe": [
+    "Sub pragurile de la alin. (1), contractele și concursurile de soluții se atribuie prin procedură simplificată, cu respectarea principiilor legii. Procedura simplificată are cel puțin termene mai scurte și formalități reduse față de procedurile de peste praguri."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 7 alin. (2) și (4)",
+     "citat": "Autoritatea contractantă are obligația de a atribui contractele de achiziție publică/acordurile-cadru și de a organiza concursurile de soluții care privesc achiziții publice a căror valoare estimată este mai mică decât pragurile corespunzătoare prevăzute la alin. (1) prin aplicarea unei proceduri simplificate, cu respectarea principiilor prevăzute la art. 2 alin. (2). [...] (4) Condițiile și modalitățile de aplicare a procedurii simplificate prevăzute la alin. (2) presupun cel puțin termene mai scurte decât cele prevăzute în cuprinsul prezentei legi și formalități procedurale reduse",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Pragurile achiziției directe și forma angajamentului (art. 7 alin. (5)–(6))",
+   "paragrafe": [
+    "Autoritatea are dreptul să cumpere direct produse sau servicii cu valoarea estimată, fără TVA, mai mică de 270.120 lei și lucrări cu valoarea mai mică de 900.400 lei.",
+    "Angajamentul legal poate fi un contract, o comandă sau alt document încheiat potrivit legii, inclusiv la plățile fără numerar prin carduri sau portofele electronice."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 7 alin. (5)",
+     "citat": "Autoritatea contractantă are dreptul de a achiziționa direct produse sau servicii în cazul în care valoarea estimată a achiziției, fără TVA, este mai mică de 270.120 lei, respectiv lucrări, în cazul în care valoarea estimată a achiziției, fără TVA, este mai mică de 900.400 lei.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 7 alin. (6)",
+     "citat": "Angajamentul legal prin care se angajează cheltuielile aferente achiziției directe poate lua forma unui contract de achiziție publică sau a unei comenzi ori a altui tip de document încheiat în condițiile legii, inclusiv în cazul achizițiilor inițiate prin intermediul instrumentelor de plată ce permit posesorului să le utilizeze în relația cu comercianții în vederea efectuării de plăți, fără numerar",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Obligațiile, în trepte de valoare (art. 7 alin. (7))",
+   "paragrafe": [
+    "Peste 200.000 lei la produse și servicii, respectiv 560.000 lei la lucrări, autoritatea folosește catalogul electronic SEAP sau publică un anunț cu descrierea achiziției, pe site-ul propriu sau în SEAP.",
+    "Peste 140.000 lei la produse și servicii, respectiv 300.000 lei la lucrări, până la pragul anterior, consultă cel puțin trei operatori; dacă primește o singură ofertă valabilă, poate cumpăra.",
+    "Până la 140.000 lei, respectiv 300.000 lei inclusiv, poate cumpăra pe baza unei singure oferte. Sub 9.000 lei poate plăti direct, pe baza angajamentului legal, fără acceptarea prealabilă a unei oferte. Toate valorile sunt fără TVA."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 7 alin. (7) lit. a)–b)",
+     "citat": "a) are obligația de a utiliza catalogul electronic pus la dispoziție de SEAP sau de a publica un anunț într-o secțiune dedicată a website-ului propriu sau al SEAP, însoțit de descrierea produselor, serviciilor sau a lucrărilor care urmează a fi achiziționate, pentru achizițiile a căror valoare estimată este mai mare de 200.000 lei, fără TVA, pentru produse și servicii, respectiv 560.000 lei, fără TVA, pentru lucrări; b) are obligația de a consulta minimum trei operatori economici pentru achizițiile a căror valoare estimată este mai mare de 140.000 lei, fără TVA, pentru produse și servicii, respectiv 300.000 lei, fără TVA, pentru lucrări, dar mai mică sau egală cu valoarea menționată la lit. a); dacă în urma consultării autoritatea contractantă primește doar o ofertă valabilă din punctul de vedere al cerințelor solicitate, achiziția poate fi realizată;",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 7 alin. (7) lit. c)–d)",
+     "citat": "c) are dreptul de a achiziționa pe baza unei singure oferte dacă valoarea estimată a achiziției este mai mică sau egală cu 140.000 lei, fără TVA, pentru produse și servicii, respectiv 300.000 lei, fără TVA, pentru lucrări; d) are dreptul de a plăti direct, pe baza angajamentului legal, fără acceptarea prealabilă a unei oferte, dacă valoarea estimată a achiziției este mai mică de 9.000 lei, fără TVA.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Notificarea trimestrială și catalogul SEAP (Lege art. 7 alin. (8); Norme art. 45)",
+   "paragrafe": [
+    "Trimestrial, autoritatea transmite în SEAP o notificare privind achizițiile directe, grupate pe necesitate, cu cel puțin obiectul, cantitatea, valoarea și codul CPV. Achizițiile făcute prin catalogul electronic SEAP nu se notifică.",
+    "În SEAP, operatorii înregistrați își pot publica un catalog cu produsele, serviciile sau lucrările oferite, inclusiv prețul, actualizat permanent. Consultarea operatorilor pentru achiziția directă se poate face prin catalog sau prin orice altă modalitate aleasă de autoritate."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 7 alin. (8)",
+     "citat": "Autoritatea contractantă are obligația trimestrial de a transmite în SEAP o notificare cu privire la achizițiile directe, grupate pe necesitate, care să cuprindă cel puțin obiectul, cantitatea achiziționată, valoarea și codul CPV, cu excepția achizițiilor realizate prin utilizarea catalogului electronic SEAP, în baza prevederilor alin. (7) lit. a).",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 45 alin. (2)–(3)",
+     "citat": "În cadrul SEAP, operatorii economici înregistrați în SEAP au posibilitatea de a publica un catalog cuprinzând produsele, serviciile sau lucrările pe care le oferă, inclusiv prețul. [...] (3) În aplicarea prevederilor art. 7 alin. (7) lit. b) și c) din Lege, consultarea operatorilor economici în vederea obținerii ofertelor/ofertei se poate face atât prin intermediul catalogului electronic pus la dispoziție de SEAP, cât și prin orice alte modalități identificate de către autoritatea contractantă.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Achiziția directă: sub 270.120 lei la produse și servicii, sub 900.400 lei la lucrări; pragurile sunt „mai mic de”, fără TVA.",
+  "Plata directă, fără ofertă, e permisă doar sub 9.000 lei fără TVA.",
+  "O singură ofertă e suficientă până la 140.000 lei inclusiv (produse și servicii), respectiv 300.000 lei (lucrări).",
+  "Peste 140.000 lei, respectiv 300.000 lei, se consultă minimum trei operatori, dar o singură ofertă valabilă primită permite totuși achiziția.",
+  "Peste 200.000 lei, respectiv 560.000 lei: catalog electronic SEAP sau anunț publicat.",
+  "Notificarea în SEAP e trimestrială; achizițiile prin catalogul electronic SEAP sunt exceptate.",
+  "Pragul de la art. 7 alin. (1) lit. c) (1 077 624 lei) privește doar autoritățile locale și instituțiile subordonate lor."
+ ],
+ "intrebari": [
+  "L98-prag-achizitie-directa",
+  "L98A-015",
+  "L98A-016",
+  "L98A-017",
+  "L98A-018",
+  "L98A-019",
+  "L98A-020",
+  "L98A-021",
+  "L98A-022",
+  "OUGB-007",
+  "N395B-001"
+ ]
+}

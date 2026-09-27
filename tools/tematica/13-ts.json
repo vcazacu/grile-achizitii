@@ -1,0 +1,318 @@
+[
+ {
+  "loc": "Pragurile de publicare în JOUE (art. 7 alin. (1)) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Anunțul de participare sau de atribuire se publică obligatoriu în JOUE pentru achizițiile cu valoarea estimată, fără TVA, de cel puțin: 26 960 556 lei la lucrări; 698 460 lei la produse și servicii; 1 077 624 lei la produse și servicii atribuite de consiliile județene și locale, Consiliul General al Municipiului București și instituțiile subordonate lor; 3 741 750 lei la serviciile sociale și alte servicii specifice din anexa nr. 2.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3076
+ },
+ {
+  "loc": "Procedura simplificată sub praguri (art. 7 alin. (2) și (4)) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Sub pragurile de la alin. (1), contractele și concursurile de soluții se atribuie prin procedură simplificată, cu respectarea principiilor legii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Procedura simplificată are cel puțin termene mai scurte și formalități reduse față de procedurile de peste praguri.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3377
+ },
+ {
+  "loc": "Pragurile achiziției directe și forma angajamentului (art. 7 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea are dreptul să cumpere direct produse sau servicii cu valoarea estimată, fără TVA, mai mică de 270.120 lei și lucrări cu valoarea mai mică de 900.400 lei.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2891
+ },
+ {
+  "loc": "Pragurile achiziției directe și forma angajamentului (art. 7 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Angajamentul legal poate fi un contract, o comandă sau alt document încheiat potrivit legii, inclusiv la plățile fără numerar prin carduri sau portofele electronice.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2878
+ },
+ {
+  "loc": "Obligațiile, în trepte de valoare (art. 7 alin. (7)) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Peste 200.000 lei la produse și servicii, respectiv 560.000 lei la lucrări, autoritatea folosește catalogul electronic SEAP sau publică un anunț cu descrierea achiziției, pe site-ul propriu sau în SEAP.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3137
+ },
+ {
+  "loc": "Obligațiile, în trepte de valoare (art. 7 alin. (7)) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Peste 140.000 lei la produse și servicii, respectiv 300.000 lei la lucrări, până la pragul anterior, consultă cel puțin trei operatori; dacă primește o singură ofertă valabilă, poate cumpăra.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3135
+ },
+ {
+  "loc": "Obligațiile, în trepte de valoare (art. 7 alin. (7)) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Până la 140.000 lei, respectiv 300.000 lei inclusiv, poate cumpăra pe baza unei singure oferte.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Sub 9.000 lei poate plăti direct, pe baza angajamentului legal, fără acceptarea prealabilă a unei oferte.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3516
+ },
+ {
+  "loc": "Notificarea trimestrială și catalogul SEAP (Lege art. 7 alin / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Trimestrial, autoritatea transmite în SEAP o notificare privind achizițiile directe, grupate pe necesitate, cu cel puțin obiectul, cantitatea, valoarea și codul CPV.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Achizițiile făcute prin catalogul electronic SEAP nu se notifică.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.97,
+     "absenta_corecta": 0.03,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.96
+   }
+  },
+  "usage": 3955
+ },
+ {
+  "loc": "Notificarea trimestrială și catalogul SEAP (Lege art. 7 alin / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "În SEAP, operatorii înregistrați își pot publica un catalog cu produsele, serviciile sau lucrările oferite, inclusiv prețul, actualizat permanent.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Consultarea operatorilor pentru achiziția directă se poate face prin catalog sau prin orice altă modalitate aleasă de autoritate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3965
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Achiziția directă: sub 270.120 lei la produse și servicii, sub 900.400 lei la lucrări; pragurile sunt „mai mic de”, fără TVA.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4943
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Plata directă, fără ofertă, e permisă doar sub 9.000 lei fără TVA.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4918
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "O singură ofertă e suficientă până la 140.000 lei inclusiv (produse și servicii), respectiv 300.000 lei (lucrări).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4942
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Peste 140.000 lei, respectiv 300.000 lei, se consultă minimum trei operatori, dar o singură ofertă valabilă primită permite totuși achiziția.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4949
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Peste 200.000 lei, respectiv 560.000 lei: catalog electronic SEAP sau anunț publicat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4928
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Notificarea în SEAP e trimestrială; achizițiile prin catalogul electronic SEAP sunt exceptate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4919
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Pragul de la art. 7 alin. (1) lit. c) (1 077 624 lei) privește doar autoritățile locale și instituțiile subordonate lor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "sustine": 0.87,
+     "nu_spune": 0.0,
+     "contrazice": 0.12
+    },
+    "confidence": 0.82
+   }
+  },
+  "usage": 5046
+ }
+]
