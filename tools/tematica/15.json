@@ -1,0 +1,295 @@
+{
+ "nr": 15,
+ "titlu": "Comisia de evaluare și modul de lucru al acesteia. Procesul de verificare și evaluare",
+ "rezumat": "Ofertele se evaluează de o comisie desemnată de autoritate, care poate fi ajutată de experți cooptați fără drept de vot. Membrii semnează o declarație de confidențialitate și imparțialitate și decid cu votul a cel puțin 2/3 dintre membrii cu drept de vot. Comisia verifică DUAE, cere clarificări, corectează erorile aritmetice și viciile de formă și analizează prețurile aparent neobișnuit de scăzute, sub 80% din valoarea estimată. Respinge ofertele inacceptabile și neconforme, iar dintre cele admisibile stabilește câștigătoarea după criteriul de atribuire. Prețurile se compară întotdeauna fără TVA.",
+ "sectiuni": [
+  {
+   "titlu": "Constituirea comisiei de evaluare (Norme art. 126)",
+   "paragrafe": [
+    "Autoritatea desemnează persoanele care evaluează ofertele și solicitările de participare, constituite într-o comisie. Pot face parte membri din compartimentele autorității, ai entității finanțatoare, la cerere motivată, și ai autorității beneficiare, când aceasta e alta. Pentru expertiză aprofundată, se pot desemna specialiști externi, numiți experți cooptați.",
+    "Președintele poate avea doar rol de organizare și reprezentare, caz în care nu votează. Membrii nu trebuie să fie în relații de subordonare între ei, dacă structura permite. Se pot numi membri de rezervă; înlocuirea se face doar dacă membrul nu își mai poate îndeplini atribuțiile."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 126 alin. (1)",
+     "citat": "Autoritatea contractantă are obligația de a desemna, pentru atribuirea contractelor de achiziție publică/acordurilor-cadru, persoane responsabile pentru evaluarea ofertelor și, după caz, a solicitărilor de participare, care se constituie într-o comisie de evaluare.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 126 alin. (3)",
+     "citat": "autoritatea contractantă poate desemna, pe lângă comisia de evaluare, specialiști externi numiți experți cooptați.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 126 alin. (7)–(10)",
+     "citat": "Președintele comisiei de evaluare poate fi limitat numai la aspectele de organizare și reprezentare, în acest din urmă caz neavând drept de vot. (8) Persoanele care constituie comisia de evaluare nu trebuie să fie în relații de subordonare ierarhică unele față de altele, în măsura în care structura organizatorică permite acest lucru. (9) Autoritatea contractantă are dreptul de a nominaliza membri de rezervă pentru membrii comisiei de evaluare. (10) Autoritatea contractantă are dreptul de a înlocui un membru al comisiei de evaluare cu un membru de rezervă numai dacă persoana care urmează să fie înlocuită nu are posibilitatea de a-și îndeplini atribuțiile care rezultă din calitatea de membru al comisiei de evaluare.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Atribuțiile comisiei și aprobarea raportului (Norme art. 127)",
+   "paragrafe": [
+    "Comisia deschide ofertele, verifică calificarea, face selecția, poartă dialogul sau negocierile, verifică propunerile tehnice și financiare, cere clarificări, stabilește ofertele respinse și pe cele admisibile, aplică criteriul de atribuire, stabilește câștigătorul sau propune anularea și întocmește procesele-verbale și rapoartele.",
+    "Președintele înaintează rapoartele conducătorului autorității, spre aprobare. Dacă nu aprobă raportul procedurii, conducătorul își motivează în scris decizia. Poate returna raportul, o singură dată, pentru corectare sau reevaluare parțială, ori poate cere o reevaluare completă, cu o nouă comisie."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 127 alin. (1) lit. j)–n)",
+     "citat": "j) stabilirea solicitărilor de participare neadecvate, a ofertelor inacceptabile și/sau neconforme, precum și a motivelor care stau la baza încadrării acestora în fiecare din aceste categorii; k) stabilirea ofertelor admisibile; l) aplicarea criteriului de atribuire și a factorilor de evaluare, astfel cum a fost prevăzut în anunțul de participare/simplificat/de concurs; m) stabilirea ofertei/ofertelor câștigătoare sau, după caz, formularea propunerii de anulare a procedurii; n) elaborarea proceselor-verbale aferente fiecărei ședințe, a rapoartelor intermediare aferente fiecărei etape în cazul procedurilor cu mai multe etape și a raportului procedurii de atribuire.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 127 alin. (2)–(3)",
+     "citat": "Rapoartele intermediare și raportul procedurii de atribuire se înaintează de către președintele comisiei de evaluare conducătorului autorității contractante spre aprobare. (3) În cazul în care nu aprobă raportul procedurii, conducătorul autorității contractante va motiva în scris decizia sa și poate, după caz: a) returna raportul, o singură dată, comisiei de evaluare spre corectare sau reevaluare parțială; b) solicita o reevaluare completă, caz în care o nouă comisie de evaluare va fi numită.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Experții cooptați (Norme art. 128)",
+   "paragrafe": [
+    "Experții cooptați pot fi desemnați de la început sau pe parcurs, cu atribuțiile precizate în decizia de desemnare. Nu au drept de vot, dar întocmesc rapoarte de specialitate, pentru care răspund profesional.",
+    "Membrii care nu sunt de acord cu raportul expertului își prezintă punctul de vedere într-o notă individuală, anexă la raportul procedurii. Raportul de specialitate se atașează la raportul procedurii și intră în dosarul achiziției."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 128 alin. (3)–(4)",
+     "citat": "Experții cooptați nu au drept de vot în cadrul comisiei de evaluare, însă în îndeplinirea atribuțiilor ce le revin potrivit legii și a mandatului primit în baza deciziei de desemnare, precum și a competențelor personale, aceștia procedează la întocmirea unor rapoarte de specialitate asupra cărora își exprimă punctul de vedere, pe baza propriei expertize pe care o dețin. (4) În sensul prevederilor alin. (3), expertul cooptat este responsabil din punct de vedere profesional pentru acuratețea și realitatea informațiilor consemnate în cadrul raportului de specialitate.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 128 alin. (6)–(7)",
+     "citat": "Membrii comisiei de evaluare care nu sunt de acord cu raportul de specialitate al expertului cooptat prevăzut la alin. (3) au obligația de a-și prezenta punctul de vedere în scris, elaborând în acest sens o notă individuală care devine anexă la raportul procedurii de atribuire. [...] (7) Raportul de specialitate se atașează la raportul procedurii de atribuire și devine parte a dosarului achiziției publice.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Confidențialitate, imparțialitate, conflict de interese (Norme art. 129–130)",
+   "paragrafe": [
+    "Membrii comisiei și experții păstrează confidențialitatea ofertelor. La întrunirile comisiei participă doar membrii, experții și persoanele împuternicite de ANAP; excepția e ședința de deschidere, la care pot participa și alte persoane.",
+    "Toți semnează pe propria răspundere o declarație de confidențialitate și imparțialitate, după termenul-limită de depunere și înainte de a-și prelua atribuțiile. Cel care constată că e în conflict de interese cere de îndată înlocuirea. Conflictele pot fi sesizate și de terți, iar autoritatea le verifică."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 129 alin. (1) și (3)",
+     "citat": "Pe parcursul desfășurării procesului de evaluare, membrii comisiei de evaluare și experții cooptați au obligația de a păstra confidențialitatea asupra conținutului ofertelor/solicitărilor de participare, precum și asupra oricăror alte informații prezentate de către candidați/ofertanți în procedura de atribuire. [...] (3) Cu excepția ședinței de deschidere a ofertelor la care au dreptul de a participa și alte persoane, la întrunirile comisiei de evaluare au dreptul de a participa numai membrii acesteia și, după caz, experții cooptați, precum și persoanele împuternicite de către ANAP.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 130 alin. (2)–(3)",
+     "citat": "trebuie semnată de membrii comisiei de evaluare înainte de preluarea atribuțiilor specifice, după data și ora-limită pentru depunerea solicitărilor de participare/ofertelor [...] (3) În cazul în care unul dintre membrii desemnați în comisia de evaluare sau unul dintre experții cooptați constată că se află într-o situație de conflict de interese, atunci acesta are obligația de a solicita de îndată înlocuirea sa din componența comisiei respective cu o altă persoană. (4) Situațiile privind conflictul de interese pot fi sesizate autorității contractante și de către terți.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Luarea deciziilor (Norme art. 131)",
+   "paragrafe": [
+    "Deciziile se iau cu votul a cel puțin 2/3 dintre membrii cu drept de vot, fiecare fundamentată pe elemente concrete ale ofertelor. La divergențe sau diferențe mari de punctaj, președintele cere reanalizarea, consemnată într-un proces-verbal.",
+    "Dacă nici după reanalizare nu se ajunge la acord, decizia se ia cu votul majorității. Membrii care nu sunt de acord își prezintă punctul de vedere într-o notă individuală, anexă la raportul procedurii."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 131 alin. (3)–(4)",
+     "citat": "Deciziile comisiei de evaluare se iau cu votul a cel puțin 2/3 dintre membrii săi cu drept de vot. (4) Fiecare decizie a comisiei de evaluare este fundamentată prin identificarea elementelor concrete ale solicitării de participare/ofertelor în raport cu cerințele definite prin documentele achiziției și prevederile legale.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 131 alin. (6)–(8)",
+     "citat": "președintele comisiei de evaluare va solicita reanalizarea punctelor de divergență, în scopul finalizării în timp util a etapei de evaluare a ofertelor și de stabilire a ofertei câștigătoare. (7) Procesul de reanalizare a punctelor de divergență se consemnează într-un proces-verbal, justificându-se opiniile contrare. (8) În cazul în care, în situația prevăzută la alin. (6), comisia de evaluare nu ajunge la un acord după reanalizarea punctelor de divergență, decizia finală se adoptă cu votul majorității membrilor săi.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Verificarea calificării și a ofertelor (Norme art. 132–133)",
+   "paragrafe": [
+    "Comisia verifică criteriile de calificare și selecție analizând DUAE fiecărui ofertant și cere documentele doveditoare ofertantului clasat pe primul loc.",
+    "Neconcordanțele privind forma, cuantumul sau valabilitatea garanției de participare se clarifică la cererea comisiei, făcută într-o zi lucrătoare de la termenul de depunere. Ofertantul are 3 zile pentru răspuns, sub sancțiunea respingerii ofertei ca inacceptabilă.",
+    "Propunerea tehnică trebuie să respecte cerințele minime din caietul de sarcini. Propunerea financiară trebuie să se încadreze în fondurile disponibile, să fie corelată cu cea tehnică și să nu aibă un preț neobișnuit de scăzut."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 132 alin. (1)–(3)",
+     "citat": "comisia de evaluare are obligația verificării modului de îndeplinire a acestora de către fiecare ofertant/candidat în parte prin analizarea conținutului DUAE. (2) Comisia de evaluare are obligația solicitării documentelor doveditoare privind îndeplinirea criteriilor de calificare ofertantului clasat pe primul loc în urma aplicării criteriului de atribuire. (3) În condițiile art. 215 alin. (4) din Lege, comisia de evaluare solicită clarificări, în termen de o zi lucrătoare de la data-limită de depunere a ofertelor, privind eventualele neconcordanțe referitoare la îndeplinirea condițiilor de formă ale garanției de participare, precum și la cuantumul sau valabilitatea acesteia, acordând ofertantului un termen de 3 zile pentru a răspunde la solicitarea de clarificare, sub sancțiunea respingerii ofertei ca inacceptabilă.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 133 alin. (2)–(3)",
+     "citat": "Propunerea tehnică trebuie să corespundă cerințelor minime prevăzute în caietul de sarcini sau în documentul descriptiv. (3) Propunerea financiară trebuie să se încadreze în fondurile care pot fi disponibilizate pentru îndeplinirea contractului de achiziție publică, respectiv să fie corelată cu elementele propunerii tehnice pentru a evita executarea defectuoasă a contractului, să nu se afle în situația prevăzută la art. 210 din Lege",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Clarificările, abaterile tehnice minore și erorile aritmetice (Norme art. 134)",
+   "paragrafe": [
+    "Termenul pentru clarificări se stabilește doar în zile lucrătoare, fără o oră anume, în funcție de volumul și complexitatea lor. Dacă ofertantul nu răspunde la timp sau răspunsul nu e concludent, oferta e inacceptabilă. Tot inacceptabilă e oferta al cărei conținut tehnic sau financiar e modificat prin răspuns.",
+    "Excepții: viciile de formă și abaterile tehnice minore, care nu ar schimba clasamentul. O abatere nu mai e minoră dacă valorează teoretic peste 1% din prețul total, dacă ar eluda pragurile legii, ar schimba clasamentul, ar scădea calitatea sau privește o cerință de la care documentația nu permitea abateri.",
+    "Erorile aritmetice se corectează, cu refacerea prețului total. Dacă ofertantul nu acceptă corectarea, oferta e inacceptabilă."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 134 alin. (1)",
+     "citat": "termenul-limită neputând fi stabilit decât la nivel de zile lucrătoare, fără a fi precizată o oră anume în cadrul acestuia.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 134 alin. (5)–(6)",
+     "citat": "iar candidatul/ofertantul nu transmite în termenul precizat de comisia de evaluare clarificările/completările solicitate sau clarificările/completările transmise nu sunt concludente, oferta sa va fi considerată inacceptabilă. (6) În cazul în care ofertantul modifică prin răspunsurile pe care le prezintă comisiei de evaluare potrivit dispozițiilor alin. (1) conținutul propunerii tehnice sau propunerii financiare, oferta sa va fi considerată inacceptabilă.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 134 alin. (9)",
+     "citat": "a) cuantificarea teoretică în valoare monetară a respectivei abateri/omisiuni depășește 1% din prețul total al ofertei; b) cuantificarea teoretică în valoare monetară a respectivei abateri/omisiuni conduce la eludarea aplicării acelor prevederi ale legii care instituie obligații ale autorității contractante în raport cu anumite praguri valorice; c) în urma corectării respectivei abateri/omisiuni, se constată că s-ar schimba clasamentul ofertanților; d) modificarea ar presupune o diminuare calitativă în comparație cu oferta inițială; e) modificarea vizează o parte din ofertă pentru care documentația de atribuire a exclus în mod clar posibilitatea ca ofertanții să se abată de la cerințele exacte ale respectivei documentații",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 134 alin. (11)",
+     "citat": "În cazul în care ofertantul nu este de acord cu îndreptarea erorilor aritmetice oferta sa va fi considerată inacceptabilă.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Viciile de formă (Norme art. 135)",
+   "paragrafe": [
+    "Viciile de formă sunt erori sau omisiuni a căror corectare e susținută neechivoc de alte informații din ofertă ori are rol de clarificare sau confirmare, fără a crea un avantaj incorect. Comisia poate cere corectarea lor; dacă ofertantul refuză, oferta e inacceptabilă."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 135",
+     "citat": "(1) În condițiile art. 209 din Lege, comisia de evaluare are dreptul de a solicita ofertantului corectarea viciilor de formă cu privire la oferta acestuia. (2) În cazul în care ofertantul nu este de acord cu îndreptarea viciilor de formă, în condițiile prevăzute la alin. (1), oferta sa va fi considerată inacceptabilă. (3) În sensul dispozițiilor alin. (1), viciile de formă reprezintă acele erori sau omisiuni din cadrul unui document a căror corectare/completare este susținută în mod neechivoc de sensul și de conținutul altor informații existente inițial în alte documente prezentate de ofertant sau a căror corectare/completare are rol de clarificare sau de confirmare, nefiind susceptibile de a produce un avantaj incorect în raport cu ceilalți participanți la procedura de atribuire.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Prețul aparent neobișnuit de scăzut (Norme art. 136)",
+   "paragrafe": [
+    "Un preț e aparent neobișnuit de scăzut când, fără TVA, reprezintă mai puțin de 80% din valoarea estimată. Comisia cere atunci ofertantului explicații, însoțite de dovezi concludente. Dacă ele lipsesc sau nu justifică prețul, oferta e neconformă."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 136 alin. (3)–(4)",
+     "citat": "În cazul în care ofertantul nu prezintă comisiei de evaluare informațiile și/sau documentele solicitate sau acestea nu justifică în mod corespunzător nivelul scăzut al prețului sau al costurilor propuse, oferta va fi considerată neconformă. (4) În sensul prevederilor art. 210 alin. (1) din Lege, o ofertă prezintă un preț aparent neobișnuit de scăzut în raport cu ceea ce urmează a fi furnizat, executat sau prestat atunci când prețul ofertat, fără TVA, reprezintă mai puțin de 80% din valoarea estimată a contractului respectiv.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Oferte inacceptabile, neconforme, admisibile (Norme art. 137)",
+   "paragrafe": [
+    "Comisia respinge ofertele inacceptabile, neconforme și neadecvate. Inacceptabilă e, între altele, oferta: a unui ofertant necalificat; alternativă nepermisă; cu preț peste valoarea estimată, fără fonduri suplimentare; cu refuzul prelungirii valabilității; nesemnată cu semnătură electronică extinsă; fără una dintre cele două componente.",
+    "Neconformă e oferta care nu satisface cerințele caietului de sarcini, propune clauze evident dezavantajoase și nu renunță la ele, are prețuri nejustificabile, nu corelează propunerea financiară cu cea tehnică sau are un preț neobișnuit de scăzut care nu garantează execuția.",
+    "Ofertele nerespinse sunt admisibile, iar câștigătoarea se stabilește dintre acestea."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 137 alin. (2) lit. b), e), i)–j)",
+     "citat": "b) a fost depusă de un ofertant care nu îndeplinește unul sau mai multe dintre criteriile de calificare stabilite în documentația de atribuire sau nu a completat DUAE în conformitate cu cerințele stabilite de autoritatea contractantă; [...] e) prețul, fără TVA, inclus în propunerea financiară depășește valoarea estimată comunicată prin anunțul de participare și nu există posibilitatea disponibilizării de fonduri suplimentare pentru îndeplinirea contractului de achiziție publică respectiv; [...] i) ofertantul refuză să prelungească perioada de valabilitate a ofertei și a garanției de participare; j) oferta și documentele care o însoțesc nu sunt semnate cu semnătură electronică extinsă",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 137 alin. (3) lit. a)–b)",
+     "citat": "a) nu satisface în mod corespunzător cerințele caietului de sarcini; b) conține propuneri de modificare a clauzelor contractuale pe care le-a stabilit autoritatea contractantă în cadrul documentației de atribuire, care sunt în mod evident dezavantajoase pentru aceasta din urmă, iar ofertantul, deși a fost informat cu privire la respectiva situație, nu acceptă renunțarea la clauzele respective.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 137 alin. (4)–(5)",
+     "citat": "Ofertele care nu au fost respinse de comisia de evaluare în urma verificării și evaluării reprezintă oferte admisibile. (5) Comisia de evaluare are obligația de a stabili oferta câștigătoare dintre ofertele admisibile.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Clasamentul și departajarea (Norme art. 138–141)",
+   "paragrafe": [
+    "La prețul cel mai scăzut, clasamentul e crescător după preț. La egalitate pe primul loc, se cer noi propuneri financiare, iar câștigă prețul cel mai mic.",
+    "La raportul calitate-preț sau calitate-cost, clasamentul e descrescător după punctaj. La egalitate, se departajează după punctajele factorilor, în ordinea descrescătoare a ponderilor; dacă egalitatea persistă, se pot cere noi propuneri financiare.",
+    "La costul cel mai scăzut, egalitatea pe primul loc se departajează prin noi propuneri financiare. Oricare ar fi criteriul, prețurile se compară fără TVA."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 138 alin. (1)–(2)",
+     "citat": "clasamentul ofertelor se stabilește prin ordonarea crescătoare a prețurilor respective, oferta câștigătoare fiind cea de pe primul loc, respectiv cea cu prețul cel mai scăzut. (2) În cazul în care două sau mai multe oferte sunt situate pe primul loc, autoritatea contractantă solicită ofertanților o nouă propunere financiară, iar contractul va fi atribuit ofertantului a cărui nouă propunere financiară are prețul cel mai scăzut.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 139 alin. (2)–(3)",
+     "citat": "se stabilește clasamentul ofertelor prin ordonarea descrescătoare a punctajelor respective, oferta câștigătoare fiind cea de pe primul loc, respectiv cea cu cel mai mare punctaj. (3) În cazul în care două sau mai multe oferte sunt clasate pe primul loc, cu punctaje egale, departajarea se va face având în vedere punctajul obținut la factorii de evaluare în ordinea descrescătoare a ponderilor acestora. În situația în care egalitatea se menține, autoritatea contractantă are dreptul să solicite noi propuneri financiare, și oferta câștigătoare va fi desemnată cea cu propunerea financiară cea mai mică.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 140 alin. (3)",
+     "citat": "În cazul în care două sau mai multe oferte sunt clasate pe primul loc, departajarea se va face prin solicitarea de noi propuneri financiare, și oferta câștigătoare va fi desemnată cea care va prezenta prețul cel mai scăzut.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 141",
+     "citat": "Indiferent de criteriul aplicat pentru atribuirea contractului, compararea prețurilor prevăzute în propunerile financiare ale ofertanților se realizează la valoarea fără TVA.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Deciziile comisiei: cel puțin 2/3 din membrii cu drept de vot; după reanalizarea divergențelor fără acord, majoritatea.",
+  "Experții cooptați și președintele limitat la organizare nu votează.",
+  "Declarația de confidențialitate și imparțialitate se semnează după termenul-limită de depunere, înainte de preluarea atribuțiilor.",
+  "Conducătorul poate returna raportul procedurii o singură dată comisiei; reevaluarea completă înseamnă o comisie nouă.",
+  "Prețul aparent neobișnuit de scăzut: sub 80% din valoarea estimată, fără TVA; nejustificat, face oferta neconformă, nu inacceptabilă.",
+  "O abatere tehnică nu e minoră dacă valorează teoretic peste 1% din prețul total al ofertei.",
+  "Refuzul corectării erorilor aritmetice sau a viciilor de formă face oferta inacceptabilă.",
+  "Garanția de participare: clarificări cerute într-o zi lucrătoare de la termenul de depunere, răspuns în 3 zile.",
+  "Termenul pentru clarificări se stabilește doar în zile lucrătoare, fără oră."
+ ],
+ "intrebari": [
+  "N395B-044",
+  "N395-N407",
+  "N395-N408",
+  "N395B-045",
+  "N395-N409",
+  "N395-N410",
+  "N395B-046",
+  "N395B-047",
+  "N395B-048",
+  "N395-N411",
+  "N395B-049",
+  "N395B-050",
+  "N395-pret-neobisnuit-scazut",
+  "N395B-051",
+  "N395B-052",
+  "N395C-001",
+  "N395-N412",
+  "N395B-053"
+ ]
+}

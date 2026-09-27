@@ -1,0 +1,849 @@
+[
+ {
+  "loc": "Constituirea comisiei de evaluare (Norme art. 126) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea desemnează persoanele care evaluează ofertele și solicitările de participare, constituite într-o comisie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Pot face parte membri din compartimentele autorității, ai entității finanțatoare, la cerere motivată, și ai autorității beneficiare, când aceasta e alta.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Pentru expertiză aprofundată, se pot desemna specialiști externi, numiți experți cooptați.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3355
+ },
+ {
+  "loc": "Constituirea comisiei de evaluare (Norme art. 126) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Președintele poate avea doar rol de organizare și reprezentare, caz în care nu votează.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Membrii nu trebuie să fie în relații de subordonare între ei, dacă structura permite.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Se pot numi membri de rezervă; înlocuirea se face doar dacă membrul nu își mai poate îndeplini atribuțiile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3321
+ },
+ {
+  "loc": "Atribuțiile comisiei și aprobarea raportului (Norme art. 127 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Comisia deschide ofertele, verifică calificarea, face selecția, poartă dialogul sau negocierile, verifică propunerile tehnice și financiare, cere clarificări, stabilește ofertele respinse și pe cele admisibile, aplică criteriul de atribuire, stabilește câștigătorul sau propune anularea și întocmește procesele-verbale și rapoartele.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2494
+ },
+ {
+  "loc": "Atribuțiile comisiei și aprobarea raportului (Norme art. 127 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Președintele înaintează rapoartele conducătorului autorității, spre aprobare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă nu aprobă raportul procedurii, conducătorul își motivează în scris decizia.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Poate returna raportul, o singură dată, pentru corectare sau reevaluare parțială, ori poate cere o reevaluare completă, cu o nouă comisie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3238
+ },
+ {
+  "loc": "Experții cooptați (Norme art. 128) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Experții cooptați pot fi desemnați de la început sau pe parcurs, cu atribuțiile precizate în decizia de desemnare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Nu au drept de vot, dar întocmesc rapoarte de specialitate, pentru care răspund profesional.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2616
+ },
+ {
+  "loc": "Experții cooptați (Norme art. 128) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Membrii care nu sunt de acord cu raportul expertului își prezintă punctul de vedere într-o notă individuală, anexă la raportul procedurii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Raportul de specialitate se atașează la raportul procedurii și intră în dosarul achiziției.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2628
+ },
+ {
+  "loc": "Confidențialitate, imparțialitate, conflict de interese (Nor / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Membrii comisiei și experții păstrează confidențialitatea ofertelor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La întrunirile comisiei participă doar membrii, experții și persoanele împuternicite de ANAP; excepția e ședința de deschidere, la care pot participa și alte persoane.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2755
+ },
+ {
+  "loc": "Confidențialitate, imparțialitate, conflict de interese (Nor / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Toți semnează pe propria răspundere o declarație de confidențialitate și imparțialitate, după termenul-limită de depunere și înainte de a-și prelua atribuțiile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.18,
+     "sustine": 0.82,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.76
+   },
+   "1": {
+    "text": "Cel care constată că e în conflict de interese cere de îndată înlocuirea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Conflictele pot fi sesizate și de terți, iar autoritatea le verifică.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3152
+ },
+ {
+  "loc": "Luarea deciziilor (Norme art. 131) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Deciziile se iau cu votul a cel puțin 2/3 dintre membrii cu drept de vot, fiecare fundamentată pe elemente concrete ale ofertelor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La divergențe sau diferențe mari de punctaj, președintele cere reanalizarea, consemnată într-un proces-verbal.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2604
+ },
+ {
+  "loc": "Luarea deciziilor (Norme art. 131) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă nici după reanalizare nu se ajunge la acord, decizia se ia cu votul majorității.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Membrii care nu sunt de acord își prezintă punctul de vedere într-o notă individuală, anexă la raportul procedurii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2597
+ },
+ {
+  "loc": "Verificarea calificării și a ofertelor (Norme art. 132–133) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Comisia verifică criteriile de calificare și selecție analizând DUAE fiecărui ofertant și cere documentele doveditoare ofertantului clasat pe primul loc.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2249
+ },
+ {
+  "loc": "Verificarea calificării și a ofertelor (Norme art. 132–133) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Neconcordanțele privind forma, cuantumul sau valabilitatea garanției de participare se clarifică la cererea comisiei, făcută într-o zi lucrătoare de la termenul de depunere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Ofertantul are 3 zile pentru răspuns, sub sancțiunea respingerii ofertei ca inacceptabilă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2664
+ },
+ {
+  "loc": "Verificarea calificării și a ofertelor (Norme art. 132–133) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Propunerea tehnică trebuie să respecte cerințele minime din caietul de sarcini.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Propunerea financiară trebuie să se încadreze în fondurile disponibile, să fie corelată cu cea tehnică și să nu aibă un preț neobișnuit de scăzut.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.93,
+     "nu_spune": 0.01,
+     "contrazice": 0.05
+    },
+    "confidence": 0.91
+   }
+  },
+  "usage": 2649
+ },
+ {
+  "loc": "Clarificările, abaterile tehnice minore și erorile aritmetic / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Termenul pentru clarificări se stabilește doar în zile lucrătoare, fără o oră anume, în funcție de volumul și complexitatea lor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă ofertantul nu răspunde la timp sau răspunsul nu e concludent, oferta e inacceptabilă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Tot inacceptabilă e oferta al cărei conținut tehnic sau financiar e modificat prin răspuns.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.25,
+     "sustine": 0.75,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.67
+   }
+  },
+  "usage": 3793
+ },
+ {
+  "loc": "Clarificările, abaterile tehnice minore și erorile aritmetic / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Excepții: viciile de formă și abaterile tehnice minore, care nu ar schimba clasamentul.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "O abatere nu mai e minoră dacă valorează teoretic peste 1% din prețul total, dacă ar eluda pragurile legii, ar schimba clasamentul, ar scădea calitatea sau privește o cerință de la care documentația nu permitea abateri.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3417
+ },
+ {
+  "loc": "Clarificările, abaterile tehnice minore și erorile aritmetic / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Erorile aritmetice se corectează, cu refacerea prețului total.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă ofertantul nu acceptă corectarea, oferta e inacceptabilă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3357
+ },
+ {
+  "loc": "Viciile de formă (Norme art. 135) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Viciile de formă sunt erori sau omisiuni a căror corectare e susținută neechivoc de alte informații din ofertă ori are rol de clarificare sau confirmare, fără a crea un avantaj incorect.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Comisia poate cere corectarea lor; dacă ofertantul refuză, oferta e inacceptabilă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2093
+ },
+ {
+  "loc": "Prețul aparent neobișnuit de scăzut (Norme art. 136) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Un preț e aparent neobișnuit de scăzut când, fără TVA, reprezintă mai puțin de 80% din valoarea estimată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Comisia cere atunci ofertantului explicații, însoțite de dovezi concludente.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Dacă ele lipsesc sau nu justifică prețul, oferta e neconformă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2674
+ },
+ {
+  "loc": "Oferte inacceptabile, neconforme, admisibile (Norme art. 137 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Comisia respinge ofertele inacceptabile, neconforme și neadecvate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.98,
+     "nu_spune": 0.0,
+     "contrazice": 0.02
+    },
+    "confidence": 0.97
+   },
+   "1": {
+    "text": "Inacceptabilă e, între altele, oferta: a unui ofertant necalificat; alternativă nepermisă; cu preț peste valoarea estimată, fără fonduri suplimentare; cu refuzul prelungirii valabilității; nesemnată cu semnătură electronică extinsă; fără una dintre cele două componente.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 3531
+ },
+ {
+  "loc": "Oferte inacceptabile, neconforme, admisibile (Norme art. 137 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Neconformă e oferta care nu satisface cerințele caietului de sarcini, propune clauze evident dezavantajoase și nu renunță la ele, are prețuri nejustificabile, nu corelează propunerea financiară cu cea tehnică sau are un preț neobișnuit de scăzut care nu garantează execuția.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3139
+ },
+ {
+  "loc": "Oferte inacceptabile, neconforme, admisibile (Norme art. 137 / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Ofertele nerespinse sunt admisibile, iar câștigătoarea se stabilește dintre acestea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3073
+ },
+ {
+  "loc": "Clasamentul și departajarea (Norme art. 138–141) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "La prețul cel mai scăzut, clasamentul e crescător după preț.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La egalitate pe primul loc, se cer noi propuneri financiare, iar câștigă prețul cel mai mic.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3230
+ },
+ {
+  "loc": "Clasamentul și departajarea (Norme art. 138–141) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "La raportul calitate-preț sau calitate-cost, clasamentul e descrescător după punctaj.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La egalitate, se departajează după punctajele factorilor, în ordinea descrescătoare a ponderilor; dacă egalitatea persistă, se pot cere noi propuneri financiare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3256
+ },
+ {
+  "loc": "Clasamentul și departajarea (Norme art. 138–141) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "La costul cel mai scăzut, egalitatea pe primul loc se departajează prin noi propuneri financiare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Oricare ar fi criteriul, prețurile se compară fără TVA.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3227
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Deciziile comisiei: cel puțin 2/3 din membrii cu drept de vot; după reanalizarea divergențelor fără acord, majoritatea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15148
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Experții cooptați și președintele limitat la organizare nu votează.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15133
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Declarația de confidențialitate și imparțialitate se semnează după termenul-limită de depunere, înainte de preluarea atribuțiilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15152
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Conducătorul poate returna raportul procedurii o singură dată comisiei; reevaluarea completă înseamnă o comisie nouă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15150
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Prețul aparent neobișnuit de scăzut: sub 80% din valoarea estimată, fără TVA; nejustificat, face oferta neconformă, nu inacceptabilă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15154
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "O abatere tehnică nu e minoră dacă valorează teoretic peste 1% din prețul total al ofertei.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15141
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Refuzul corectării erorilor aritmetice sau a viciilor de formă face oferta inacceptabilă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15137
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Garanția de participare: clarificări cerute într-o zi lucrătoare de la termenul de depunere, răspuns în 3 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15150
+ },
+ {
+  "loc": "capcana 9",
+  "afirmatii": {
+   "0": {
+    "text": "Termenul pentru clarificări se stabilește doar în zile lucrătoare, fără oră.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15134
+ }
+]

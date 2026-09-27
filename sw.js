@@ -27,6 +27,7 @@ const FISIERE = [
   "./tematica/12-garantii-de-participare-si-buna-executie.html",
   "./tematica/13-achizitia-directa.html",
   "./tematica/14-instrumente-si-tehnici-specifice.html",
+  "./tematica/15-comisia-de-evaluare-verificare-si-evaluare.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",
