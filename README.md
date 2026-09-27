@@ -6,7 +6,16 @@ PDF-urile pachetului de studiu din folderul părinte au rămas neatinse și nu m
 
 Bateria are **39 de teste a câte 20 de întrebări** (780 în total, dintre care maximum 4 cu
 răspunsuri multiple pe test). Scorul cel mai bun al fiecărui test se salvează local în browser
-(localStorage, cheia `grile-achizitii-scoruri-v2`) și apare pe grila de teste.
+(localStorage, cheia `grile-achizitii-scoruri-v2`) și apare pe grila de teste. Tot local se mai
+păstrează testul început și neterminat (`grile-achizitii-in-lucru-v1`, reluat din cardul „Continuă”),
+ultimul rezultat la fiecare întrebare (`grile-achizitii-istoric-v1`, din care ies procentele pe acte
+de la „De recapitulat”) și întrebările puse deoparte (`grile-achizitii-marcate-v1`). Toate se
+păstrează pe id-ul întrebării, așa că supraviețuiesc regenerării lui `intrebari.js`.
+
+În timpul unui test: <kbd>1</kbd>–<kbd>4</kbd> (sau A–D) alegi varianta, <kbd>Enter</kbd> verifici și
+apoi treci mai departe. Pe ecrane late (≥ 1024 px), după verificare, articolul întreg din lege apare
+în dreapta, cu alineatul citat evidențiat; pe telefon, sub butonul „Arată tot articolul”. Articolul
+se citește din `legislatie/*.html`, deci doar prin adresa publicată (http), nu la deschiderea din fișier.
 
 Tematica oficială (`Tematică ofițer achiziții.docx`, în folderul părinte) are 54 de subiecte,
 grupate aici în **24 de teme** și 5 grupe, acoperite din 10 fișiere de legislație. Lista exactă

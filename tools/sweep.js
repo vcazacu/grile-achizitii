@@ -22,7 +22,7 @@
       const next = [...document.querySelectorAll("button.btn-primary")].pop();
       next.click(); await pauza();
     }
-    const big = document.querySelector(".score-ring .big");
+    const big = document.querySelector(".rezultat-pct");
     out.teste.push({ t, pct: big ? big.textContent : "?" });
     const toate = buton("Toate testele"); if (toate) { toate.click(); await pauza(); }
   }
