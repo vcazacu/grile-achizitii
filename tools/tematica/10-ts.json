@@ -1,0 +1,878 @@
+[
+ {
+  "loc": "Cele două categorii de criterii; calificare vs. selecție (Le / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea poate aplica numai criterii referitoare la motivele de excludere și la capacitatea candidatului sau ofertantului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2530
+ },
+ {
+  "loc": "Cele două categorii de criterii; calificare vs. selecție (Le / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Criteriile de calificare arată potențialul tehnic, financiar și organizatoric al fiecărui operator de a executa contractul și se pot folosi la orice procedură.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Criteriile de selecție servesc doar la limitarea numărului de candidați calificați invitați în etapa a doua a procedurilor în mai multe etape.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.13,
+     "sustine": 0.87,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.82
+   },
+   "2": {
+    "text": "Selecția urmează calificării și se face prin punctaj.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3363
+ },
+ {
+  "loc": "Cele două categorii de criterii; calificare vs. selecție (Le / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Criteriile de selecție privesc numai situația economică și financiară și capacitatea tehnică și profesională.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.07,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 0.93
+    },
+    "confidence": 0.9
+   },
+   "1": {
+    "text": "Criteriile de calificare și selecție se includ în anunț; cele care apar doar în caietul de sarcini sau în documentația descriptivă sunt clauze nescrise.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2961
+ },
+ {
+  "loc": "Excluderea pentru condamnări (art. 164) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea exclude operatorul condamnat definitiv pentru: grup infracțional organizat, corupție și infracțiuni asimilate, infracțiuni contra intereselor financiare ale UE, terorism, spălarea banilor sau finanțarea terorismului, traficul și exploatarea persoanelor vulnerabile și fraudă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2501
+ },
+ {
+  "loc": "Excluderea pentru condamnări (art. 164) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Excluderea se aplică și dacă persoana condamnată e membru în organul de administrare, conducere sau supraveghere al operatorului ori are putere de reprezentare, decizie sau control în cadrul lui.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2473
+ },
+ {
+  "loc": "Excluderea pentru datorii la buget (art. 165–166) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Operatorul se exclude dacă și-a încălcat obligațiile de plată a impozitelor, taxelor sau contribuțiilor, stabilite printr-o hotărâre sau decizie definitivă, ori dacă autoritatea poate dovedi încălcarea prin orice mijloace adecvate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3205
+ },
+ {
+  "loc": "Excluderea pentru datorii la buget (art. 165–166) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Nu se exclude dacă plătește sau stinge datoriile înainte de decizia de excludere ori beneficiază de eșalonare sau alte facilități.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Nu se exclude nici când datoriile restante sunt mai mici de 10.000 lei.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3567
+ },
+ {
+  "loc": "Excluderea pentru datorii la buget (art. 165–166) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru condamnările de la art. 164, autoritatea poate, excepțional, să nu excludă operatorul pentru motive imperative de interes general, precum sănătatea publică sau protecția mediului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3186
+ },
+ {
+  "loc": "Celelalte motive de excludere (art. 167) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Se exclude și operatorul care: a încălcat obligațiile de mediu, sociale și de muncă de la art. 51; e în insolvență, lichidare, supraveghere judiciară sau încetarea activității; a comis o abatere profesională gravă; are acorduri de denaturare a concurenței; e în conflict de interese neremediabil; a distorsionat concurența prin participarea la pregătire; a încălcat grav sau repetat un contract anterior, cu reziliere, daune sau sancțiuni comparabile; a dat declarații false; a încercat să influențeze nelegal decizia autorității.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 4271
+ },
+ {
+  "loc": "Celelalte motive de excludere (art. 167) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Operatorul în insolvență nu se exclude dacă se află în perioada de observație, cu un plan de reorganizare fezabil, ori în reorganizare judiciară, respectând graficul aprobat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Se exclude obligatoriu societatea pe acțiuni cu acțiuni la purtător care nu dovedește identitatea deținătorilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4566
+ },
+ {
+  "loc": "Celelalte motive de excludere (art. 167) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Legea dă exemple de indicii de înțelegere anticoncurențială, precum asemănări semnificative între oferte sau un ofertant care e și subcontractant în altă ofertă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Înainte de excluderea pe acest temei, autoritatea cere în scris punctul de vedere al Consiliului Concurenței, dat în maximum 15 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4564
+ },
+ {
+  "loc": "Momentul excluderii, dovezile și subcontractanții (art. 168– / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea exclude operatorul în orice moment al procedurii în care află că se încadrează într-un motiv de excludere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Pentru operatorii străini, acceptă documentele edificatoare din țara de origine sau, dacă acestea nu există, o declarație pe propria răspundere ori una autentică.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2898
+ },
+ {
+  "loc": "Momentul excluderii, dovezile și subcontractanții (art. 168– / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea verifică motivele de excludere și la subcontractanții propuși.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă un subcontractant se află într-o situație de excludere, cere ofertantului o singură dată să îl înlocuiască.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2876
+ },
+ {
+  "loc": "Măsurile de remediere și durata excluderii (art. 171) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Operatorul aflat în situațiile de la art. 164 și 167 poate dovedi că a luat măsuri suficiente pentru a-și demonstra credibilitatea: despăgubiri, cooperare cu anchetatorii, măsuri tehnice, organizatorice și de personal.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă autoritatea le consideră suficiente, nu îl exclude; dacă nu, îi comunică motivele excluderii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3317
+ },
+ {
+  "loc": "Măsurile de remediere și durata excluderii (art. 171) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Remedierea nu e posibilă cât timp operatorul are o interdicție de participare stabilită printr-o hotărâre definitivă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Fără o asemenea interdicție, excluderea nu mai operează după 5 ani de la condamnarea definitivă (art. 164) sau după 3 ani de la faptă ori eveniment (art. 167).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3310
+ },
+ {
+  "loc": "Criteriile de capacitate (Lege art. 172–173, 181; Norme art. / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Capacitatea privește numai exercitarea activității profesionale, situația economică și financiară și capacitatea tehnică și profesională.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "contrazice": 0.07,
+     "sustine": 0.92,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.89
+   },
+   "1": {
+    "text": "Cerințele trebuie să fie necesare, adecvate, legate de obiectul contractului și proporționale; altele nu se pot impune.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3462
+ },
+ {
+  "loc": "Criteriile de capacitate (Lege art. 172–173, 181; Norme art. / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru subcontractanți nu se pot stabili cerințe de participare, dar se ține seama de capacitatea lor pentru partea pe care o execută.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Criteriile de capacitate, cerințele minime și mijloacele de probă se prevăd în anunțul de participare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3456
+ },
+ {
+  "loc": "Criteriile de capacitate (Lege art. 172–173, 181; Norme art. / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Normele interzic criteriile minime irelevante sau disproporționate față de natura și complexitatea contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.01,
+     "contrazice": 0.01,
+     "sustine": 0.98,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.96
+   },
+   "1": {
+    "text": "Indicatorii financiari se pot cere doar dacă au legătură concretă cu riscul de neexecutare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3440
+ },
+ {
+  "loc": "Situația economică și financiară (art. 175–177) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Se pot cere o cifră de afaceri minimă anuală, alți indicatori, precum lichiditatea, și asigurarea de risc profesional.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Cifra de afaceri minimă nu poate depăși de două ori valoarea estimată a contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.31,
+     "sustine": 0.69,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.58
+   },
+   "2": {
+    "text": "Limita poate fi depășită doar în cazuri temeinic justificate, cu motivele indicate în documente.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3983
+ },
+ {
+  "loc": "Situația economică și financiară (art. 175–177) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "La acordul-cadru cu reluarea competiției și la sistemul dinamic, cifra de afaceri se raportează la valoarea maximă a contractelor subsecvente executate în același timp sau, dacă nu se cunoaște, la cel mai mare contract subsecvent.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.87,
+     "nu_spune": 0.0,
+     "contrazice": 0.13
+    },
+    "confidence": 0.82
+   }
+  },
+  "usage": 3208
+ },
+ {
+  "loc": "Situația economică și financiară (art. 175–177) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Dovada se face prin extrase bancare, situații financiare sau o declarație privind cifra de afaceri pentru cel mult ultimele trei exerciții financiare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.98,
+     "contrazice": 0.02,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Dacă operatorul nu le poate prezenta din motive obiective, poate folosi alt document considerat adecvat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3586
+ },
+ {
+  "loc": "Capacitatea tehnică și profesională; loturi (art. 178–180) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Cerințele tehnice și profesionale vizează resursele umane și tehnice și experiența, mai ales contractele executate anterior.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.01,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3125
+ },
+ {
+  "loc": "Capacitatea tehnică și profesională; loturi (art. 178–180) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Experiența se dovedește cu lucrările din cel mult ultimii 5 ani, însoțite de certificate de bună execuție, și cu livrările sau serviciile din cel mult ultimii 3 ani.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.96,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.04
+    },
+    "confidence": 0.95
+   },
+   "1": {
+    "text": "Pentru o concurență adecvată, autoritatea poate lua în calcul și experiență mai veche.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Calificările personalului se pot cere dacă nu sunt factori de evaluare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3949
+ },
+ {
+  "loc": "Capacitatea tehnică și profesională; loturi (art. 178–180) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "La loturi, cerințele se aplică pe fiecare lot.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Cifra de afaceri și resursele tehnice sau profesionale se pot raporta la grupuri de loturi atribuite aceluiași ofertant și executate simultan.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3525
+ },
+ {
+  "loc": "Susținerea terțului și asocierea (art. 182–186; Norme art. 3 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Operatorul poate invoca susținerea unui terț pentru situația economică și financiară sau capacitatea tehnică și profesională, indiferent de relația juridică cu acesta.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Pentru calificări sau experiență, terțul trebuie să execute efectiv lucrările sau serviciile respective.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Operatorul prezintă angajamentul de susținere și documentele care arată cum va fi pus în practică.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5035
+ },
+ {
+  "loc": "Susținerea terțului și asocierea (art. 182–186; Norme art. 3 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea verifică terțul; dacă nu îndeplinește criteriile sau se află într-un motiv de excludere, cere o singură dată înlocuirea lui.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La susținerea financiară, operatorul și terțul răspund solidar pentru executarea contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4615
+ },
+ {
+  "loc": "Susținerea terțului și asocierea (art. 182–186; Norme art. 3 / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "La ofertele comune, criteriile se demonstrează prin cumularea resurselor membrilor, care răspund solidar.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.02,
+     "absenta_corecta": 0.0,
+     "sustine": 0.98,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Autoritatea poate cere fiecărui asociat un nivel proporțional cu cota lui de implicare și poate impune ca anumite sarcini esențiale să fie realizate direct de ofertant sau de un anumit asociat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4630
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Doar două categorii de criterii: motive de excludere și capacitate (art. 163).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.02,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 0.98
+    },
+    "confidence": 0.96
+   },
+   "1": {
+    "text": "Criteriile de selecție privesc doar situația economico-financiară și capacitatea tehnică și profesională.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 20901
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Datoriile la buget sub 10.000 lei nu duc la excludere; nici plata sau eșalonarea înainte de decizia de excludere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.04,
+     "sustine": 0.96,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 20497
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Excepția pentru interes general (sănătate publică, mediu) privește doar condamnările de la art. 164.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "nu_spune": 0.01,
+     "contrazice": 0.52,
+     "sustine": 0.41,
+     "absenta_corecta": 0.06
+    },
+    "confidence": 0.35
+   }
+  },
+  "usage": 20495
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Durata excluderii fără interdicție judecătorească: 5 ani de la condamnarea definitivă (art. 164), 3 ani de la faptă ori eveniment (art. 167).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 20516
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Excluderea pentru înțelegeri anticoncurențiale cere întâi punctul de vedere al Consiliului Concurenței, dat în maximum 15 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.97,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.03
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 20501
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Cifra de afaceri minimă: cel mult de două ori valoarea estimată, cu excepții temeinic justificate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 20491
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Experiența: lucrări din ultimii 5 ani; livrări și servicii din ultimii 3 ani.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 20491
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Terțul susținător se înlocuiește o singură dată; la susținerea financiară răspunderea e solidară.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.02,
+     "sustine": 0.98,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 20499
+ },
+ {
+  "loc": "capcana 9",
+  "afirmatii": {
+   "0": {
+    "text": "Criteriile prevăzute doar în caietul de sarcini, nu și în anunț, sunt clauze nescrise.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.01,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 20492
+ }
+]

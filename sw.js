@@ -22,6 +22,7 @@ const FISIERE = [
   "./tematica/07-etapele-consultarea-pietei-loturi.html",
   "./tematica/08-publicitate-si-transparenta.html",
   "./tematica/09-documentatia-oferte-alternative-duae.html",
+  "./tematica/10-criterii-de-calificare-si-selectie.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",
