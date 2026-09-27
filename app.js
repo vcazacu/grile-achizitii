@@ -73,8 +73,10 @@
   var indexDupaId = {};
   function idx(id) { return Object.prototype.hasOwnProperty.call(indexDupaId, id) ? indexDupaId[id] : -1; }
 
-  /* Testul în lucru se păstrează pe id-uri, nu pe poziții: banca se poate regenera între două deschideri. */
+  /* Testul în lucru se păstrează pe id-uri, nu pe poziții: banca se poate regenera între două deschideri.
+     Se păstrează doar testele întregi; un set scurt de exersare nu înlocuiește un test lăsat la jumătate. */
   function salveazaInLucru(curent) {
+    if (!state.esteTestComplet) return;
     var r = {};
     Object.keys(state.raspunsuri).forEach(function (k) { r[INTREBARI[k].id] = state.raspunsuri[k]; });
     scrie(CHEIE_IN_LUCRU, {
@@ -187,6 +189,8 @@
     return amestecat(lista.length).map(function (p) { return lista[p]; });
   }
   function litera(i) { return String.fromCharCode(65 + i); }
+  /* „3 întrebări”, „20 de întrebări”, „110 întrebări” */
+  function nrCu(n, cuvant) { return n + " " + ((n % 100 === 0 && n) || n % 100 >= 20 ? "de " : "") + cuvant; }
   function ton(pct) { return pct >= PRAG_BUN ? "ok" : pct >= PRAG_MEDIU ? "mid" : "slab"; }
 
   function icon(nume, marime) {
@@ -331,16 +335,21 @@
       return g[k];
     });
   }
-  /* Un set de exersare pe un act: întâi cele greșite ultima dată, apoi cele nedate, apoi restul. */
-  function setExersare(grupa) {
+  /* Un set de exersare de cel mult 20: întâi cele greșite ultima dată, apoi cele nedate, apoi restul. */
+  function alegePentruExersare(indecsi) {
     var h = istoric(), gresite = [], nedate = [], stiute = [];
-    INTREBARI.forEach(function (q, i) {
-      if (actul(q).grupa !== grupa) return;
-      if (!Object.prototype.hasOwnProperty.call(h, q.id)) nedate.push(i);
-      else if (h[q.id]) stiute.push(i);
+    indecsi.forEach(function (i) {
+      var id = INTREBARI[i].id;
+      if (!Object.prototype.hasOwnProperty.call(h, id)) nedate.push(i);
+      else if (h[id]) stiute.push(i);
       else gresite.push(i);
     });
     return amestecaLista(gresite).concat(amestecaLista(nedate), amestecaLista(stiute)).slice(0, 20);
+  }
+  function setExersare(grupa) {
+    var lista = [];
+    INTREBARI.forEach(function (q, i) { if (actul(q).grupa === grupa) lista.push(i); });
+    return alegePentruExersare(lista);
   }
 
   /* ---------- Ecranul de start ---------- */
@@ -439,7 +448,7 @@
       var r = el("div", "rand-recap");
       r.innerHTML =
         '<div class="text"><div class="linie"><span class="nume">' + esc(info.nume) + '</span><span class="pct ton-' + ton(g.pct) + '">' + g.pct + "%</span></div>" +
-        '<div class="sub">' + esc(info.sub) + " · " + g.date + (g.date === 1 ? " întrebare dată" : g.date < 20 ? " întrebări date" : " de întrebări date") + "</div>" +
+        '<div class="sub">' + esc(info.sub) + " · " + (g.date === 1 ? "1 întrebare dată" : nrCu(g.date, "întrebări date")) + "</div>" +
         '<div class="bara"><i class="ton-' + ton(g.pct) + '" style="width:' + g.pct + '%"></i></div></div>';
       var ex = el("button", "btn-mic", "Exersează");
       ex.type = "button";
@@ -451,8 +460,8 @@
     });
     if (nrMarcate) {
       var rm = el("div", "rand-recap");
-      rm.innerHTML = '<div class="text"><span class="nume">Întrebări marcate</span><div class="sub">' + nrMarcate +
-        (nrMarcate === 1 ? " întrebare pusă" : " întrebări puse") + " deoparte în timpul testelor</div></div>";
+      rm.innerHTML = '<div class="text"><span class="nume">Întrebări marcate</span><div class="sub">' +
+        (nrMarcate === 1 ? "1 întrebare pusă" : nrCu(nrMarcate, "întrebări puse")) + " deoparte în timpul testelor</div></div>";
       var exM = el("button", "btn-mic", "Exersează");
       exM.type = "button";
       exM.setAttribute("aria-label", "Exersează întrebările marcate");
@@ -786,7 +795,7 @@
   function ecranScor() {
     document.body.classList.remove("in-test");
     tasteEcran = null;
-    scrie(CHEIE_IN_LUCRU, null);
+    if (state.esteTestComplet) scrie(CHEIE_IN_LUCRU, null);
     root.innerHTML = "";
     var wrap = el("div", "rezultat");
     var total = state.ordine.length;
@@ -939,4 +948,12 @@
   if (erori.length) erori.forEach(function (e) { console.warn("[validare]", e); });
   if (typeof INTREBARI !== "undefined") INTREBARI.forEach(function (q, i) { if (q && q.id) indexDupaId[q.id] = i; });
   ecranStart(erori);
+
+  /* index.html?titlu=Tema%207&intrebari=ID1,ID2,… — butonul „Exersează tema” din paginile de tematică */
+  var parametri = new URLSearchParams(location.search);
+  var dinTema = (parametri.get("intrebari") || "").split(",").map(idx).filter(function (i) { return i >= 0; });
+  if (dinTema.length) {
+    history.replaceState(null, "", location.pathname);   // o reîncărcare nu mai repornește exersarea
+    if (!erori.length) porneste(null, alegePentruExersare(dinTema), false, parametri.get("titlu") || "Exersare");
+  }
 })();

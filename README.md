@@ -82,10 +82,12 @@ principal apare un banner roșu cu problemele exacte, iar testul nu pornește.
 
 ## Tematica — sinteze pe teme
 
-Secțiunea **Tematica** (`tematica/index.html`, link în antet) are câte o pagină de sinteză pentru
+Secțiunea **Tematica** (`tematica/index.html`, din navigația aplicației) are câte o pagină de sinteză pentru
 fiecare dintre cele 24 de teme, grupate după cele 5 capitole ale tematicii oficiale. Fiecare pagină
 are un rezumat, secțiuni cu reguli, termene și excepții, fiecare cu **temeiul legal citat verbatim**
-din forma consolidată, o listă de capcane de examen și întrebările din bancă legate de temă.
+din forma consolidată, o listă de capcane de examen și butonul **Exersează tema**, care deschide
+aplicația cu până la 20 dintre întrebările din bancă legate de temă (`index.html?titlu=…&intrebari=ID,…`),
+întâi cele greșite și cele nedate. Un astfel de set nu înlocuiește un test întreg lăsat la jumătate.
 Fiecare pagină arată și data consolidării folosite.
 
 Conținutul unei teme stă în `tools/tematica/NN.json`. `tools/tematica_build.py` verifică fiecare
@@ -159,6 +161,8 @@ sursa de adevăr pentru toate uneltele.
   - `tematica_build.py`, `audit_tematica.py`, `check_tematica.py`, `triaj_tema.py`, `poarta_tema.sh`,
     `text_tema.py`, `scrie_tema.py`, `intrebari_tema.py` — paginile de tematică și porțile lor
   - `legislatie_build.py`, `trimiteri.py` — paginile de legislație
+  - `carcasa.py` — antetul, navigația și subsolul comune paginilor generate; navigația repetă pe cea din
+    `index.html`, iar toate stilurile (și ale paginilor generate) sunt în `style.css`
   - `verifica_sw.py` — lista cache-ului offline = fișierele reale
   - `verifica_tot.sh` — toate verificările deterministe într-un pas (banca, acoperirea, cache-ul offline,
     temele fără scrieri, paginile de legislație: id-uri unice și trimiteri spre ținte existente); cu `--semantic` adaugă poarta
