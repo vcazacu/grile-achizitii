@@ -145,6 +145,8 @@ sursa de adevăr pentru toate uneltele.
 - `index.html`, `app.js`, `style.css` — aplicația (nu se ating când adaugi întrebări)
 - `intrebari.js` — **banca de întrebări** (generată)
 - `sw.js` — service worker (offline + versiunea cache-ului; listele `TEMATICA` și `LEGISLATIE` sunt generate)
+- `actualizare.js` — încărcat de toate paginile: când noul service worker preia pagina, o reîncarcă (sau, cu o
+  întrebare pe ecran, arată bara „Reîncarcă”); la revenirea în aplicație cere verificarea versiunii
 - `tematica/`, `legislatie/` — paginile generate
 - `tools/` — lanțul de generare și verificare (Python standard, fără dependențe, cu excepția porții semantice):
   - `descarca.py` — formele consolidate de pe legislatie.just.ro în `../legislatie/`
@@ -192,7 +194,8 @@ tematică și de legislație, așa că de la a doua deschidere totul funcționea
 3. incrementează `VERSIUNE` în `sw.js`.
 
 Fără al treilea pas, dispozitivele care au deja aplicația rămân cu versiunea veche, pentru că
-service worker-ul servește din cache înaintea rețelei. Apoi:
+service worker-ul servește din cache înaintea rețelei. Cu el, prima deschidere după publicare pornește
+tot din cache-ul vechi, iar după câteva secunde `actualizare.js` trece pagina pe versiunea nouă. Apoi:
 
 ```bash
 git add -A && git commit -m "Actualizare" && git push
@@ -248,7 +251,7 @@ textul la zi, plus 182 de întrebări noi pentru unitățile neacoperite.
 
 În plus, aplicația a fost parcursă automat în browser pe toate cele 39 de teste
 (`tools/sweep.js`): **39/39 cu scor 100%**, fără erori; linkurile din panoul „Temei legal” au fost
-verificate pe toate cele 780 de întrebări (`tools/linkuri_panou.js`: 791 de linkuri, 0 rupte), iar toate cele 37 de pagini (aplicația,
+verificate pe toate cele 780 de întrebări (`tools/linkuri_panou.js`: 4080 de linkuri, 1154 distincte, 0 rupte), iar toate cele 37 de pagini (aplicația,
 indexurile, 24 de teme, 10 acte) încap pe lățimea de 375 px a unui telefon.
 
 Ce a apărut pe parcurs, inclusiv alarmele false și limitele cunoscute, e descris în

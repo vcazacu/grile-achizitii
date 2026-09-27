@@ -2,11 +2,11 @@
 // de legislație):
 // parcurge toate testele ca sweep.js, după „Verifică” așteaptă articolul și strânge linkurile, apoi
 // încarcă fiecare pagină-țintă și caută ancora. Rezultatul în window.__linkuri =
-// {intrebari, linkuri, rupte: [{id, href, motiv}], fara_articol: [id], erori: [str]}.
+// {intrebari, aparitii (linkuri văzute), linkuri (distincte), rupte: [{id, href, motiv}], fara_articol: [id], erori: [str]}.
 // Cere lățime ≥ 1024 px (acolo panoul aduce singur articolul) și pagina servită prin http.
 (async function () {
   const pauza = ms => new Promise(r => setTimeout(r, ms || 0));
-  const out = { intrebari: 0, linkuri: 0, rupte: [], fara_articol: [], erori: [] };
+  const out = { intrebari: 0, aparitii: 0, linkuri: 0, rupte: [], fara_articol: [], erori: [] };
   const buton = txt => [...document.querySelectorAll("button.btn")].find(b => b.textContent.trim().startsWith(txt));
   const gasite = new Map(); // href absolut -> primul id de întrebare
   const nrTeste = document.querySelectorAll(".test-btn").length;
@@ -22,15 +22,24 @@
       q.corecte.forEach(i => opt[i].click()); await pauza();
       const v = buton("Verifică"); if (v) { v.click(); await pauza(); }
       out.intrebari++;
-      let cutie = null;
-      for (let i = 0; i < 100; i++) {
-        cutie = document.querySelector(".articol-intreg");
-        if (cutie && !cutie.querySelector(".stare")) break;
-        if (cutie && /nu apare separat|nu s-a putut/.test(cutie.textContent)) break;
-        await pauza(20);
+      // Panoul trebuie să fie al întrebării curente (referința ei) și articolul încărcat — altfel am citi
+      // panoul vechi sau „Se încarcă…” și am sări linkuri fără să știm.
+      let stare = "neîncărcat", cutie = null;
+      for (let i = 0; i < 250 && stare === "neîncărcat"; i++) {
+        const ref = document.querySelector(".panou-lege .lege-act .ref");
+        cutie = document.querySelector(".panou-lege .articol-intreg");
+        if (ref && ref.textContent === q.sursa.articol && cutie) {
+          if (/nu apare separat|nu s-a putut/.test(cutie.textContent)) stare = "fără articol";
+          else if (cutie.firstElementChild && !cutie.querySelector(".stare")) stare = "gata";
+        }
+        if (stare === "neîncărcat") await pauza(20);
       }
-      if (!cutie || cutie.querySelector(".stare")) out.fara_articol.push(q.id);
-      else document.querySelectorAll(".panou-lege a[href]").forEach(a => { if (!gasite.has(a.href)) gasite.set(a.href, q.id); });
+      if (stare === "neîncărcat") out.erori.push(q.id + ": panoul întrebării nu s-a încărcat");
+      else if (stare === "fără articol") out.fara_articol.push(q.id);
+      else document.querySelectorAll(".panou-lege a[href]").forEach(a => {
+        out.aparitii++;
+        if (!gasite.has(a.href)) gasite.set(a.href, q.id);
+      });
       [...document.querySelectorAll("button.btn-primary")].pop().click(); await pauza();
     }
     const toate = buton("Toate testele"); if (toate) { toate.click(); await pauza(); }

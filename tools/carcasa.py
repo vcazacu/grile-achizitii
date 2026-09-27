@@ -49,4 +49,4 @@ def pagina(titlu, corp, activ, pe_index=False, subsol="", script="", cls=""):
 <title>{html.escape(titlu)} — Grile Achiziții Publice</title></head>
 <body><div class="shell">{nav(activ, pe_index)}
 <main class="continut lectura{' ' + cls if cls else ''}">{corp}
-<footer>{subsol}</footer></main></div>{'<script>' + script + '</script>' if script else ''}</body></html>"""
+<footer>{subsol}</footer></main></div><script src="../actualizare.js"></script>{'<script>' + script + '</script>' if script else ''}</body></html>"""

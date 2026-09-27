@@ -119,11 +119,31 @@ Panoul din aplicație copiază articolul întreg din pagina de legislație. Se r
 interne (`#art-5`); cele spre alt act (ex. în Normele H.G. 395: `01-legea-98-2016-….html#art-216`) rămâneau
 relative și porneau de la rădăcina aplicației, fără `legislatie/` — pagina nu exista. Parcurgerea tuturor
 celor 780 de întrebări a găsit **166 de linkuri rupte** (spre Legea 98, O.U.G. 98, Legea 101, Legea 500).
-Acum toate linkurile articolului se rezolvă față de pagina legii din care vine: 791 de linkuri, 0 rupte
-(`tools/linkuri_panou.js`). Paginile statice (aplicația, 24 de teme, 10 acte, indexurile) erau corecte;
+Acum toate linkurile articolului se rezolvă față de pagina legii din care vine: 4080 de linkuri, 1154
+distincte, 0 rupte (`tools/linkuri_panou.js`). Paginile statice (aplicația, 24 de teme, 10 acte, indexurile) erau corecte;
 `tools/test_linkuri.py` le verifică acum pe toate în `verifica_tot.sh` (fișier existent, ancoră existentă,
 id-urile din „Exersează tema” prezente în bancă). Chenarele din paginile de legislație nu au problema:
 actul adus stă în același folder, iar trimiterile `#…` se rescriu deja.
+
+### D5. „Reparat” pe server, dar încă rupt pe dispozitiv; verificarea care sărea panouri — **reparat** (28.09.2026)
+
+După publicarea D4 a apărut din nou un 404 (`01-legea-98-….html#art-3-al-1`, din art. 2 alin. (1) lit. e)
+O.U.G. 98/2017). Codul publicat era corect — verificarea pe site-ul live: 0 linkuri rupte. Cauza era
+versiunea: `sw.js` servește din cache înaintea rețelei, deci **prima deschidere după o actualizare rulează
+încă `app.js` vechi**; noul service worker se instalează în fundal, iar versiunea nouă apărea abia la
+deschiderea următoare. Verificarea de după D4 nu prindea asta: s-a uitat doar că GitHub Pages servește
+`app.js` nou (curl), nu la ce rulează un browser care avea deja aplicația. Reprodus în browser (actualizare
+simulată: după o deschidere pagina rula tot codul vechi). Acum `actualizare.js`, încărcat de toate paginile,
+reîncarcă pagina când noul service worker o preia (cu o întrebare pe ecran arată bara „Reîncarcă”, ca să nu
+se piardă răspunsul) și cere verificarea versiunii la revenirea în aplicație. Reverificat în același
+scenariu: după o singură deschidere pagina rulează codul nou; cu o întrebare deschisă apare bara, fără
+reîncărcare. `verifica_sw.py` cere ca fiecare pagină să încarce `actualizare.js`.
+
+Tot aici: `linkuri_panou.js` citea panoul fără să verifice că e al întrebării curente și că articolul s-a
+încărcat, deci putea sări panouri fără să spună (raportase 876 de linkuri distincte înainte de reparație și
+791 după; corect: 1264 și 1154). Acum așteaptă panoul întrebării curente și raportează orice panou
+neîncărcat ca eroare; rulat pe codul vechi găsește aceleași 166 de linkuri rupte, pe cel nou 0 — la fel de
+4080 de apariții în ambele rulări.
 
 ## E. Tematica
 
