@@ -71,3 +71,31 @@ subtilă iese mai jos.
 
 **Politica pentru temele 1–24:** pragul automat rămâne 0,90 (poarta pică), dar orice afirmație cu p(contrazice) ≥ **0,50**
 se verifică în lege înainte de commit (bandă de triaj manual).
+
+## Tematica — bilanțul celor 24 de teme (27.09.2026)
+
+Rezultatele salvate (`tematica/NN-ts.json`), reclasificate cu `check_tematica.py --din` după politica de mai sus:
+
+| | afirmații |
+|---|---|
+| susținute | 1078 |
+| absență corectă | 1 (tema 1) |
+| neverificabile | 1 (tema 2: sfat de studiu despre distractori, nu afirmație de drept) |
+| contrazise (≥ 0,90) | **0** |
+| **total** | **1080** |
+
+**Banda de triaj (≥ 0,50) în versiunile finale: 5 afirmații, toate verificate în lege și corecte** — tema 1 (0,56,
+formularea deja corectată), tema 5 (0,58, art. 85 alin. (1)–(2) L98), tema 9 (0,65 semnătura electronică — Norme 395
+art. 22 alin. (2); 0,50 garanția de bună execuție — ambiguitatea reală a art. 154 alin. (3), semnalată pe pagină),
+tema 10 (0,52, art. 166 L98).
+
+**Ce a prins banda pe parcurs (înainte de commit):**
+- tema 9 (0,55): prima formulare inversa excepția negocierii fără publicare de la renunțarea la garanția de bună execuție
+  — eroare reală, corectată; a dus și la corectarea explicației întrebării L98C-035 din bancă (cheia neschimbată);
+- tema 18 (0,97, CONTRAZIS): „pragurile *mai mici* de la art. 7 alin. (5)” — comparația venea din Lege, nu din Normele
+  citate; reformulată fără comparație.
+
+**Ce a prins auditul determinist (cifre/articole fără temei în secțiune):** 7 mențiuni de articol fără citat în secțiune
+(temele 5, 10, 14, 20, 23) — rezolvate prin adăugarea citatului; 1 paragraf sprijinit pe o notă a portalului (tema 13,
+§NOTA§ necitabilă) — eliminat. Poarta semantică a mai marcat „neverificabile” 4 fraze fără citatul lor în secțiune
+(temele 13, 14, 20, 23) — rezolvate la fel.
