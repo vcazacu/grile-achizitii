@@ -31,6 +31,7 @@ const FISIERE = [
   "./tematica/16-atribuirea-finalizarea-informarea-dosarul.html",
   "./tematica/17-executarea-subcontractarea-modificarea-contractului.html",
   "./tematica/18-programul-anual-al-achizitiilor-publice.html",
+  "./tematica/19-controlul-ex-ante.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",

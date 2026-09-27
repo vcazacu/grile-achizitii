@@ -1,0 +1,916 @@
+[
+ {
+  "loc": "Ce este controlul ex ante și cine îl exercită (O.U.G. art. 1 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "O.U.G. nr. 98/2017 reglementează controlul ex ante al atribuirii contractelor de achiziție publică, sectoriale și de concesiune, precum și al modificărilor lor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "H.G. nr. 419/2018 aprobă normele metodologice de aplicare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.01,
+     "sustine": 0.98
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 4467
+ },
+ {
+  "loc": "Ce este controlul ex ante și cine îl exercită (O.U.G. art. 1 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Controlul ex ante privește aspectele de calitate și de regularitate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Aspectele de calitate țin de dispoziții care se interpretează extensiv sau restrictiv după sectorul și piața contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Aspectele de regularitate privesc dispoziții cu interpretare literală sau cu interpretări oficiale ANAP, aplicabile de regulă tuturor procedurilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4861
+ },
+ {
+  "loc": "Ce este controlul ex ante și cine îl exercită (O.U.G. art. 1 / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "ANAP exercită controlul, pe bază de liste de verificare, selectiv, după o metodologie de selecție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Controlul e integral digitalizat, fără deplasări la autoritate, cu excepția procedurilor care nu se desfășoară electronic.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4452
+ },
+ {
+  "loc": "Ce se verifică (O.U.G. art. 6) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "ANAP verifică procesul de atribuire, de la încărcarea documentelor în SEAP sau de la invitația la negociere fără publicare până la rămânerea definitivă a comunicărilor privind rezultatul, precum și modificările contractelor selectate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2628
+ },
+ {
+  "loc": "Ce se verifică (O.U.G. art. 6) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Se verifică documentația de atribuire cu strategia de contractare, erata, propunerile de răspuns la clarificări, apoi deciziile din evaluare și atribuire.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Studiul de fundamentare de la art. 229 din Legea nr. 98/2016 nu se verifică.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.09,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 0.91
+    },
+    "confidence": 0.87
+   },
+   "2": {
+    "text": "La modificările contractuale, se verifică doar argumentele pentru încadrarea în art. 221 alin. (1) lit. b) și c) din Legea nr. 98/2016.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.04,
+     "sustine": 0.96
+    },
+    "confidence": 0.94
+   }
+  },
+  "usage": 3447
+ },
+ {
+  "loc": "Metodologia de selecție (O.U.G. art. 7; Norme art. 3) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Selecția ține seama de istoricul autorității, de strategia de contractare și, la modificări, de valoarea și complexitatea lor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Rezultatul nu trebuie să fie previzibil: selecția e parțial aleatorie, parțial bazată pe indicatori de risc.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5962
+ },
+ {
+  "loc": "Metodologia de selecție (O.U.G. art. 7; Norme art. 3) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Controlul privește cel mult 10% din procedurile care pot fi controlate, cu valoarea estimată peste pragul achiziției directe, cu accent pe cele cu riscul cel mai mare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5555
+ },
+ {
+  "loc": "Metodologia de selecție (O.U.G. art. 7; Norme art. 3) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Normele aplică metodologia în fiecare zi lucrătoare, pentru documentațiile din ziua precedentă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Indicatorii de risc sunt impactul financiar, complexitatea obiectului și istoricul autorității.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5938
+ },
+ {
+  "loc": "Calitate, regularitate și ce nu se verifică (Norme art. 4) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Aspectele de calitate privesc, între altele, alegerea procedurii, criteriile de calificare și selecție, criteriul de atribuire și ponderile, împărțirea pe loturi și alocarea riscurilor prin clauze.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Tot ce nu e aspect de calitate e aspect de regularitate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.96,
+     "nu_spune": 0.0,
+     "contrazice": 0.04
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 5210
+ },
+ {
+  "loc": "Calitate, regularitate și ce nu se verifică (Norme art. 4) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Nu se verifică aspectele de oportunitate sau tehnice, precum identificarea nevoii, analiza opțiunilor, stabilirea specificațiilor tehnice și durata activităților.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "sustine": 0.98,
+     "nu_spune": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.97
+   },
+   "1": {
+    "text": "Nu se verifică nici punctele de vedere ale autorității la contestații și comunicările rezultatului către ofertanți.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.91,
+     "contrazice": 0.06,
+     "absenta_corecta": 0.03
+    },
+    "confidence": 0.88
+   }
+  },
+  "usage": 5215
+ },
+ {
+  "loc": "Inițierea controlului și obligațiile autorității (O.U.G. art / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea selectată e înștiințată prin SEAP în 2 zile lucrătoare de la încărcarea documentației sau de la notificarea intenției de modificare ori de negociere fără publicare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.02,
+     "sustine": 0.98,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 3336
+ },
+ {
+  "loc": "Inițierea controlului și obligațiile autorității (O.U.G. art / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Ea pune la dispoziția ANAP documentele cerute: documentația, dacă nu e în SEAP, într-o zi lucrătoare; propunerile de răspuns la clarificări, înainte de a fi comunicate; rapoartele procedurii, înainte de aprobare, într-o zi lucrătoare; înștiințarea privind semnarea contractului, în 3 zile lucrătoare; alte documente cerute, în 3 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3397
+ },
+ {
+  "loc": "Controlul documentației, al eratei și al clarificărilor (O.U / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "ANAP verifică o singură dată documentația, înainte de publicarea anunțului, erata și propunerile de răspuns la clarificări.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.98,
+     "nu_spune": 0.0,
+     "contrazice": 0.02
+    },
+    "confidence": 0.97
+   },
+   "1": {
+    "text": "Documentația se verifică în 9 zile lucrătoare, cu 5 zile lucrătoare în plus pentru sectoarele stabilite prin ordin ANAP.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "text": "Anunțul trebuie publicat în maximum 60 de zile de la comunicarea avizului; altfel avizul nu mai produce efecte.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 5455
+ },
+ {
+  "loc": "Controlul documentației, al eratei și al clarificărilor (O.U / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru erată, ANAP dă acceptul de publicare sau respinge publicarea, cu aviz conform condiționat, în maximum două zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Propunerea de răspuns la clarificări se transmite ANAP cu cel puțin 4 zile lucrătoare înainte de termenul de răspuns și se verifică în 3 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "text": "După un aviz condiționat, ANAP comunică în 5 zile lucrătoare de la publicarea anunțului cum au fost implementate remedierile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "sustine": 0.98,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 5472
+ },
+ {
+  "loc": "Controlul evaluării ofertelor (O.U.G. art. 12; Norme art. 8– / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "La evaluare, ANAP emite o singură dată, pe fiecare fază, un aviz conform: comisia și calificarea după DUAE, propunerile tehnice, propunerile financiare, documentele-suport ale câștigătorului cu raportul procedurii și concluziile finale privind neconformitățile neremediate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3899
+ },
+ {
+  "loc": "Controlul evaluării ofertelor (O.U.G. art. 12; Norme art. 8– / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Termenele curg de la încărcarea deciziilor formalizate ale comisiei: 3 zile lucrătoare pentru prima fază, 1 zi lucrătoare dacă s-a folosit indicația globală în DUAE, 4 zile lucrătoare la propunerile tehnice, 2 la cele financiare, 3 la documentele-suport și 2 la concluziile finale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "ANAP verifică dacă concluziile comisiei sunt complete și corect fundamentate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4311
+ },
+ {
+  "loc": "Avizul conform și efectele lui (O.U.G. art. 14–15, 22–23) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Avizul conform e necondiționat, când nu se constată abateri, sau condiționat, când există abateri față de listele de verificare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Autoritatea poate publica anunțul și poate continua procedura cu sau fără remedierea abaterilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Avizul se publică automat în SEAP.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4818
+ },
+ {
+  "loc": "Avizul conform și efectele lui (O.U.G. art. 14–15, 22–23) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Controlul se limitează la aspectele verificate și nu exonerează autoritatea de răspundere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Avizele se pot ataca doar împreună cu actele autorității pentru care au fost emise, potrivit Legii nr. 101/2016, și nu afectează caracterul obligatoriu al deciziilor CNSC sau ale instanței.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.96,
+     "contrazice": 0.04,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 4467
+ },
+ {
+  "loc": "Nulitatea contractului după un aviz condiționat (O.U.G. art. / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă autoritatea a finalizat procedura fără să remedieze abaterile grave constatate prin avizul conform final condiționat, nulitatea absolută a contractului o constată instanța.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Abaterile grave sunt cele care încalcă principiile achizițiilor publice.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5081
+ },
+ {
+  "loc": "Nulitatea contractului după un aviz condiționat (O.U.G. art. / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "ANAP e obligată să ceară instanței constatarea nulității absolute în 3 luni de la data la care a aflat de semnarea contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Nu o cere dacă CNSC sau instanța au invalidat definitiv, în tot, constatările avizului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "text": "Nu o cere nici la negocierea fără publicare, dacă autoritatea a publicat avizul final cu anunțul de transparență și a respectat termenele de așteptare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.96,
+     "contrazice": 0.04,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 5505
+ },
+ {
+  "loc": "Procedura de conciliere (O.U.G. art. 16–19; Norme art. 14–18 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă are obiecții față de constatări sau de măsurile de remediere, autoritatea poate cere concilierea, în 2 zile lucrătoare de la comunicarea avizului condiționat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Concilierea e scrisă, cu excepția ședinței de clarificare, și e condusă de altă structură decât cea de control.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.47000000000000003,
+     "nu_spune": 0.33,
+     "absenta_corecta": 0.06,
+     "contrazice": 0.14
+    },
+    "confidence": 0.29
+   },
+   "2": {
+    "text": "Nu se pot depune documente noi.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4595
+ },
+ {
+  "loc": "Procedura de conciliere (O.U.G. art. 16–19; Norme art. 14–18 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Cererea tardivă sau incompletă se respinge ca inadmisibilă, fără examinare pe fond, prin decizie emisă în 2 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "sustine": 0.84,
+     "nu_spune": 0.02,
+     "contrazice": 0.13
+    },
+    "confidence": 0.79
+   },
+   "1": {
+    "text": "Pe fond, decizia se emite în 5–10 zile lucrătoare sau, dacă sunt necesare informații suplimentare, în 3–5 zile lucrătoare de la ultimele informații.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.92,
+     "nu_spune": 0.02,
+     "contrazice": 0.06
+    },
+    "confidence": 0.88
+   }
+  },
+  "usage": 4209
+ },
+ {
+  "loc": "Procedura de conciliere (O.U.G. art. 16–19; Norme art. 14–18 / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Decizia o ia un comitet decizional, cu majoritate simplă, fără abțineri.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Ea e finală față de constatările avizului inițial: fie le menține, fie le modifică printr-un nou aviz conform.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4173
+ },
+ {
+  "loc": "Controlul negocierii fără publicare (O.U.G. art. 20; Norme a / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea care vrea să negocieze fără publicare notifică ANAP cu 5 zile lucrătoare înainte de începerea negocierii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "ANAP emite avizul privind încadrarea în cazul legal și documentația în 3 zile lucrătoare, prelungibil excepțional cu 2 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3233
+ },
+ {
+  "loc": "Controlul negocierii fără publicare (O.U.G. art. 20; Norme a / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "După negociere, ANAP emite avizul în 5 zile lucrătoare de la primirea raportului și a documentelor, iar avizul final în 2 zile lucrătoare de la primirea raportului aprobat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2830
+ },
+ {
+  "loc": "Controlul modificărilor contractului (O.U.G. art. 21; Norme  / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru modificările după art. 221 alin. (1) lit. b) și c) din Legea nr. 98/2016, autoritatea notifică ANAP cu 5 zile lucrătoare înainte, cu argumentele de încadrare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La modificări, ANAP nu emite aviz conform, ci recomandări.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3334
+ },
+ {
+  "loc": "Controlul modificărilor contractului (O.U.G. art. 21; Norme  / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Recomandarea se emite în cele 5 zile lucrătoare de la înregistrarea notificării.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.96,
+     "nu_spune": 0.0,
+     "contrazice": 0.04
+    },
+    "confidence": 0.94
+   },
+   "1": {
+    "text": "Dacă autoritatea aduce justificări suplimentare, ANAP emite recomandarea finală în 3 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Verificatorii nu participă la negocierea propriu-zisă a modificării.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3710
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Controlul ex ante vizează cel mult 10% din procedurile controlabile peste pragul achiziției directe; selecția e parțial aleatorie, parțial după risc.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.08,
+     "sustine": 0.92,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.89
+   }
+  },
+  "usage": 25735
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Avizul conform poate fi necondiționat sau condiționat; autoritatea poate continua și fără remediere, dar ANAP cere nulitatea absolută în 3 luni de la aflarea semnării.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.01,
+     "sustine": 0.81,
+     "absenta_corecta": 0.01,
+     "contrazice": 0.17
+    },
+    "confidence": 0.75
+   }
+  },
+  "usage": 25736
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Avizul conform se atacă doar împreună cu actele autorității pentru care a fost emis.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 25712
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Negocierea fără publicare și modificările după art. 221 alin. (1) lit. b)–c) se notifică ANAP cu 5 zile lucrătoare înainte; la modificări ANAP dă recomandări, nu aviz conform.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 25753
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Concilierea se cere în 2 zile lucrătoare de la avizul condiționat, fără documente noi; decizia comitetului se ia cu majoritate simplă, fără abțineri.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 25733
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Documentația se verifică în 9 zile lucrătoare, plus 5 pentru sectoarele stabilite prin ordin; anunțul se publică în 60 de zile de la aviz, altfel avizul nu mai produce efecte.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.97,
+     "nu_spune": 0.0,
+     "contrazice": 0.03,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.96
+   }
+  },
+  "usage": 25748
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Propunerea de răspuns la clarificări ajunge la ANAP cu cel puțin 4 zile lucrătoare înainte de termenul de răspuns; ANAP o verifică în 3 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 25743
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Nu se verifică nevoia, analiza opțiunilor, specificațiile tehnice și studiul de fundamentare de la art. 229.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.03,
+     "sustine": 0.9,
+     "absenta_corecta": 0.07
+    },
+    "confidence": 0.87
+   }
+  },
+  "usage": 25722
+ }
+]

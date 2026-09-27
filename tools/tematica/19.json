@@ -1,0 +1,497 @@
+{
+ "nr": 19,
+ "titlu": "Activitatea de control ex ante. Metodologia de selecție. Inițierea și desfășurarea controlului. Avizul conform al ANAP. Procedura de conciliere. Controlul negocierilor fără publicare și al modificărilor contractului",
+ "rezumat": "ANAP exercită controlul ex ante selectiv, pe bază de liste de verificare, asupra aspectelor de calitate și de regularitate. Controlul e integral digitalizat și vizează cel mult 10% din procedurile de peste pragul achiziției directe, alese parțial aleatoriu, parțial după risc. Se verifică documentația, erata, răspunsurile la clarificări și fiecare fază a evaluării, iar constatările se dau prin aviz conform, condiționat sau necondiționat. Autoritatea poate continua și fără remediere, dar ANAP cere atunci instanței, în 3 luni, constatarea nulității absolute a contractului. Obiecțiile se rezolvă prin conciliere. Negocierile fără publicare și modificările după art. 221 alin. (1) lit. b)–c) se notifică ANAP cu 5 zile lucrătoare înainte.",
+ "sectiuni": [
+  {
+   "titlu": "Ce este controlul ex ante și cine îl exercită (O.U.G. art. 1–2, 5; H.G. art. I)",
+   "paragrafe": [
+    "O.U.G. nr. 98/2017 reglementează controlul ex ante al atribuirii contractelor de achiziție publică, sectoriale și de concesiune, precum și al modificărilor lor. H.G. nr. 419/2018 aprobă normele metodologice de aplicare.",
+    "Controlul ex ante privește aspectele de calitate și de regularitate. Aspectele de calitate țin de dispoziții care se interpretează extensiv sau restrictiv după sectorul și piața contractului. Aspectele de regularitate privesc dispoziții cu interpretare literală sau cu interpretări oficiale ANAP, aplicabile de regulă tuturor procedurilor.",
+    "ANAP exercită controlul, pe bază de liste de verificare, selectiv, după o metodologie de selecție. Controlul e integral digitalizat, fără deplasări la autoritate, cu excepția procedurilor care nu se desfășoară electronic."
+   ],
+   "temei": [
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 1",
+     "citat": "Prezenta ordonanță de urgență reglementează modul de realizare a controlului ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziție publică, a contractelor/acordurilor-cadru sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii și, respectiv, a modificărilor acestor contracte/acorduri-cadru.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "H.G. nr. 419/2018",
+     "articol": "art. I",
+     "citat": "Se aprobă Normele metodologice de aplicare a prevederilor Ordonanței de urgență a Guvernului nr. 98/2017 privind funcția de control ex ante al procesului de atribuire a contractelor/acordurilor-cadru de achiziție publică, a contractelor/acordurilor-cadru sectoriale și a contractelor de concesiune de lucrări și concesiune de servicii",
+     "fisier": "05_HG_419-2018_act_de_aprobare.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 2 alin. (1) lit. a)–b)",
+     "citat": "a) aspecte de calitate - aspecte care vizează dispoziții legale din domeniul achizițiilor/concesiunilor care suferă o interpretare extensivă sau restrictivă în contextul specific al unei proceduri de atribuire deoarece trebuie adaptate particularităților sectorului economic/de activitate în care se încadrează obiectul contractului și/sau practicilor pieței de profil relevante [...] b) aspecte de regularitate - aspecte care vizează dispoziții legale din domeniul achizițiilor/concesiunilor pentru care se poate face o interpretare literală sau pentru care au fost emise de către Agenția Națională pentru Achiziții Publice, denumită în continuare ANAP, interpretări oficiale ale modului de aplicare în practică",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 5 alin. (1)–(3)",
+     "citat": "ANAP este instituția publică responsabilă pentru îndeplinirea funcției de control ex ante al procesului de atribuire a contractelor și, respectiv, a modificărilor acestor contracte. (2) Controlul ex ante exercitat de ANAP potrivit prevederilor prezentei ordonanțe de urgență vizează verificarea conformității cu dispozițiile legale aplicabile în domeniul achizițiilor publice/sectoriale/concesiunilor, din punctul de vedere al regularității și calității, pe bază de liste de verificare. (2^1) Controlul ex ante prevăzut la alin. (2) este integral digitalizat, desfășurându-se prin mijloace electronice în toate fazele sale, fără a fi necesară deplasarea personalului ANAP desemnat în acest sens la sediul autorității contractante, cu excepția situațiilor în care procedurile de atribuire nu se desfășoară prin mijloace electronice. (3) Controlul ex ante prevăzut la alin. (1) se exercită de ANAP în mod selectiv, pe baza unei metodologii de selecție",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Ce se verifică (O.U.G. art. 6)",
+   "paragrafe": [
+    "ANAP verifică procesul de atribuire, de la încărcarea documentelor în SEAP sau de la invitația la negociere fără publicare până la rămânerea definitivă a comunicărilor privind rezultatul, precum și modificările contractelor selectate.",
+    "Se verifică documentația de atribuire cu strategia de contractare, erata, propunerile de răspuns la clarificări, apoi deciziile din evaluare și atribuire. Studiul de fundamentare de la art. 229 din Legea nr. 98/2016 nu se verifică. La modificările contractuale, se verifică doar argumentele pentru încadrarea în art. 221 alin. (1) lit. b) și c) din Legea nr. 98/2016."
+   ],
+   "temei": [
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 6 alin. (1)",
+     "citat": "a) procesului de atribuire a contractelor, după încărcarea documentelor procedurii în SEAP/transmiterea invitației de participare aferente procedurii de negociere fără publicare prealabilă și până la momentul în care comunicările privind rezultatul procedurii de atribuire au rămas definitive; b) modificărilor contractelor incluse în verificare potrivit dispozițiilor prezentei ordonanțe de urgență.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 6 alin. (2)",
+     "citat": "a) verificarea conformității cu dispozițiile legale în domeniul achizițiilor publice/sectoriale, respectiv concesiunilor de servicii sau lucrări a documentației de atribuire, împreună cu strategia de contractare și celelalte documente ce o însoțesc, a anunțului de tip erată, precum și a propunerilor de răspuns ale autorității contractante la solicitările de clarificări formulate de operatorii economici și a oricăror informații suplimentare publicate de aceasta în relație cu respectiva documentație de atribuire, cu excepția studiului de fundamentare prevăzut la art. 229 din Legea nr. 98/2016, cu modificările și completările ulterioare; b) verificarea deciziilor luate în procesul de evaluare a ofertelor și de atribuire a contractului.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 6 alin. (4)",
+     "citat": "presupune doar verificarea argumentelor prezentate de autoritățile contractante pentru a demonstra încadrarea în circumstanțele prevăzute la art. 221 alin. (1) lit. b) și c) din Legea nr. 98/2016",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Metodologia de selecție (O.U.G. art. 7; Norme art. 3)",
+   "paragrafe": [
+    "Selecția ține seama de istoricul autorității, de strategia de contractare și, la modificări, de valoarea și complexitatea lor. Rezultatul nu trebuie să fie previzibil: selecția e parțial aleatorie, parțial bazată pe indicatori de risc.",
+    "Controlul privește cel mult 10% din procedurile care pot fi controlate, cu valoarea estimată peste pragul achiziției directe, cu accent pe cele cu riscul cel mai mare.",
+    "Normele aplică metodologia în fiecare zi lucrătoare, pentru documentațiile din ziua precedentă. Indicatorii de risc sunt impactul financiar, complexitatea obiectului și istoricul autorității."
+   ],
+   "temei": [
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 7 alin. (1)",
+     "citat": "Metodologia de selecție urmărește următoarele principii: a) rezultatul selecției să nu fie predictibil pentru autoritățile contractante; b) să fie flexibilă, și anume parțial bazată pe alegerea aleatorie a procedurilor de atribuire ce vor face obiectul verificării, parțial pe indicatori de risc",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 7 alin. (3)",
+     "citat": "Metodologia de selecție trebuie să asigure realizarea controlului prevăzut la art. 6 alin. (1) lit. a) pentru un procent de maximum 10% din totalul procedurilor de atribuire ce pot face obiectul controlului ex ante conform art. 6 alin. (3), aferente contractelor/acordurilor-cadru cu o valoare estimată mai mare decât pragul valoric stabilit de legislație pentru realizarea achiziției directe, cu accent pe acelea aferente contractelor ce se încadrează în categoriile cu riscul cel mai mare",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 3 alin. (1) lit. a)",
+     "citat": "Metodologia de selecție, prevăzută în capitolul II secțiunea 1 din ordonanța de urgență, se aplică în fiecare zi lucrătoare, pentru: a) documentațiile de atribuire înregistrate în ziua precedentă în SEAP",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 3 alin. (5)",
+     "citat": "a) impactul financiar al achiziției, respectiv al modificării contractuale; b) complexitatea obiectului contractului, respectiv a modificării contractuale; c) istoricul și experiența autorității contractante",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Calitate, regularitate și ce nu se verifică (Norme art. 4)",
+   "paragrafe": [
+    "Aspectele de calitate privesc, între altele, alegerea procedurii, criteriile de calificare și selecție, criteriul de atribuire și ponderile, împărțirea pe loturi și alocarea riscurilor prin clauze. Tot ce nu e aspect de calitate e aspect de regularitate.",
+    "Nu se verifică aspectele de oportunitate sau tehnice, precum identificarea nevoii, analiza opțiunilor, stabilirea specificațiilor tehnice și durata activităților. Nu se verifică nici punctele de vedere ale autorității la contestații și comunicările rezultatului către ofertanți."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 4 alin. (1) lit. a)–e)",
+     "citat": "a) alegerea tipului de procedură de atribuire aplicat; b) utilizarea adecvată a instrumentelor și tehnicilor specifice de atribuire a contractelor; c) stabilirea criteriilor de calificare și selecție, precum și nivelurile minime asociate acestora și/sau modul în care se poate proba îndeplinirea de către operatorii economici; d) alegerea criteriului de atribuire și/sau a factorilor de evaluare din cadrul acestuia, precum și stabilirea ponderilor asociate respectivilor factori și/sau coerența metodologiei de acordare a punctajului; e) strategia autorității/entității contractante referitoare la atribuirea pe loturi a contractului;",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 4 alin. (6)",
+     "citat": "Aspectele care nu sunt încadrate ca aspecte de calitate, potrivit alin. (1)-(5), reprezintă aspecte de regularitate",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 4 alin. (7) lit. a)–d)",
+     "citat": "Aspectele de oportunitate și/sau de natură tehnică, cum ar fi următoarele, nu fac obiectul controlului ex ante: a) identificarea nevoii autorității contractante și stabilirea necesității cu privire la obiectul contractului pentru care se lansează procedura de atribuire; b) analiza opțiunilor în vederea identificării soluției adecvate pentru satisfacerea nevoii identificate; c) stabilirea specificațiilor tehnice și/sau alegerea standardelor de performanță aferente acestora; d) succesiunea și durata activităților în cadrul contractului;",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 4 alin. (9)",
+     "citat": "a) punctele de vedere elaborate de autoritățile contractante în legătură cu contestațiile/plângerile depuse [...] b) comunicările transmise de autoritatea/entitatea contractantă ofertanților/candidaților în baza art. 214 alin. (1) și art. 215 alin. (1) din Legea nr. 98/2016",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Inițierea controlului și obligațiile autorității (O.U.G. art. 9–10)",
+   "paragrafe": [
+    "Autoritatea selectată e înștiințată prin SEAP în 2 zile lucrătoare de la încărcarea documentației sau de la notificarea intenției de modificare ori de negociere fără publicare.",
+    "Ea pune la dispoziția ANAP documentele cerute: documentația, dacă nu e în SEAP, într-o zi lucrătoare; propunerile de răspuns la clarificări, înainte de a fi comunicate; rapoartele procedurii, înainte de aprobare, într-o zi lucrătoare; înștiințarea privind semnarea contractului, în 3 zile lucrătoare; alte documente cerute, în 3 zile lucrătoare."
+   ],
+   "temei": [
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 9 alin. (1)",
+     "citat": "Autoritatea contractantă selectată în vederea realizării controlului ex ante va fi înștiințată anterior începerii activității de control, prin intermediul SEAP, în termen de 2 zile lucrătoare de la încărcarea documentației de atribuire în SEAP/transmiterea notificării privind intenția de a modifica contractul sau de a realiza o negociere fără publicare prealabilă.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 10 alin. (1) lit. f), h)–i)",
+     "citat": "f) raportul procedurii de atribuire și rapoartele intermediare întocmite în cazul procedurilor de atribuire ce se desfășoară în mai multe etape, înainte de a fi aprobate de către conducătorul autorității contractante, în termen de o zi lucrătoare de la întocmirea respectivelor documente, precum și raportul procedurii aprobat de conducătorul autorității contractante, în termen de o zi lucrătoare de la aprobarea acestuia; [...] h) înștiințarea privind semnarea contractului, după caz, cu ofertantul/ofertanții declarat/declarați câștigător/câștigători, în termen de 3 zile lucrătoare de la data semnării; i) orice alte informații/documente suplimentare considerate necesare în contextul verificării ex ante, în termen de 3 zile lucrătoare de la solicitarea acestora.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 10 alin. (1) lit. b)",
+     "citat": "b) solicitările de clarificări cu privire la documentația de atribuire adresate de operatorii economici interesați de accesul la procedura de atribuire, propunerea de răspuns formulată de autoritatea contractantă în relație cu acestea, precum și orice informații suplimentare publicate de aceasta în relație cu respectiva documentație de atribuire, înainte de a fi aduse la cunoștința acestora;",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Controlul documentației, al eratei și al clarificărilor (O.U.G. art. 11; Norme art. 5–7)",
+   "paragrafe": [
+    "ANAP verifică o singură dată documentația, înainte de publicarea anunțului, erata și propunerile de răspuns la clarificări. Documentația se verifică în 9 zile lucrătoare, cu 5 zile lucrătoare în plus pentru sectoarele stabilite prin ordin ANAP. Anunțul trebuie publicat în maximum 60 de zile de la comunicarea avizului; altfel avizul nu mai produce efecte.",
+    "Pentru erată, ANAP dă acceptul de publicare sau respinge publicarea, cu aviz conform condiționat, în maximum două zile lucrătoare. Propunerea de răspuns la clarificări se transmite ANAP cu cel puțin 4 zile lucrătoare înainte de termenul de răspuns și se verifică în 3 zile lucrătoare. După un aviz condiționat, ANAP comunică în 5 zile lucrătoare de la publicarea anunțului cum au fost implementate remedierile."
+   ],
+   "temei": [
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 11 alin. (1)",
+     "citat": "ANAP efectuează controlul de calitate și regularitate, o singură dată, al: a) documentației de atribuire aferente procedurilor de atribuire selectate pentru verificare, înainte de transmiterea spre publicare a anunțului de participare/de participare simplificat/de concurs; b) anunțului de tip erată, aferent procedurilor de atribuire selectate, transmis de către autoritatea contractantă spre publicare în SEAP; c) propunerii de răspuns al autorității contractante la solicitările de clarificări",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 5 alin. (1)",
+     "citat": "Controlul ex ante prevăzut la art. 11 alin. (1) lit. a) din ordonanța de urgență se efectuează în termen de 9 zile lucrătoare de la data selectării documentației de atribuire pentru verificare",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 5 alin. (3)–(6)",
+     "citat": "În cazul emiterii unui aviz conform condiționat, în termen de 5 zile lucrătoare de la publicarea anunțului de participare/de participare simplificat/de concurs/de concesionare pentru documentația aferentă acestuia, ANAP va transmite autorității/entității contractante concluziile asupra modului în care au fost implementate măsurile de remediere ce au făcut obiectul respectivului aviz. (4) Termenul prevăzut la alin. (1) se prelungește cu 5 zile lucrătoare în cazul verificărilor aferente documentațiilor de atribuire prevăzute la art. 4 alin. (2). (5) Anunțul de participare/de participare simplificat/de concurs/de concesionare se transmite spre publicare în maximum 60 de zile de la comunicarea avizului conform în condițiile alin. (2). (6) După expirarea termenului prevăzut la alin. (5), avizul conform emis de către ANAP nu mai produce efecte",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 6 alin. (1)",
+     "citat": "ANAP are obligația ca în termen de maximum două zile lucrătoare de la data încărcării anunțului tip erată în SEAP: a) fie să emită către operatorul SEAP acceptul de publicare pentru anunțul respectiv, dispozițiile art. 6 alin. (2) fiind aplicabile în mod corespunzător; b) fie să respingă publicarea anunțului, caz în care emite autorității/entității contractante aviz conform condiționat.",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 7 alin. (1)–(2)",
+     "citat": "se realizează în termen de 3 zile lucrătoare de la data primirii fiecărei propuneri de răspuns consolidat formulate de autoritatea/entitatea contractantă la solicitările de clarificări și/sau fiecărei completări/informații suplimentare cu privire la documentația de atribuire. (2) Autoritatea/Entitatea contractantă are obligația de a transmite către ANAP propunerea de răspuns consolidat formulat la solicitările de clarificări/informații suplimentare cu cel puțin 4 zile lucrătoare anterior termenului sau, după caz, termenelor de răspuns",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Controlul evaluării ofertelor (O.U.G. art. 12; Norme art. 8–9)",
+   "paragrafe": [
+    "La evaluare, ANAP emite o singură dată, pe fiecare fază, un aviz conform: comisia și calificarea după DUAE, propunerile tehnice, propunerile financiare, documentele-suport ale câștigătorului cu raportul procedurii și concluziile finale privind neconformitățile neremediate.",
+    "Termenele curg de la încărcarea deciziilor formalizate ale comisiei: 3 zile lucrătoare pentru prima fază, 1 zi lucrătoare dacă s-a folosit indicația globală în DUAE, 4 zile lucrătoare la propunerile tehnice, 2 la cele financiare, 3 la documentele-suport și 2 la concluziile finale. ANAP verifică dacă concluziile comisiei sunt complete și corect fundamentate."
+   ],
+   "temei": [
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 12 alin. (1)",
+     "citat": "personalul ANAP efectuează controlul de calitate și regularitate al concluziilor și emite o singură dată, pe fiecare fază a acestui proces, un aviz conform astfel: a) componența comisiei de evaluare și concluziile comisiei de evaluare privind îndeplinirea condițiilor de formă aferente depunerii ofertelor/candidaturilor și a criteriilor de calificare/ selecție de către ofertanți/candidați/subcontractanți/terți susținători conform informațiilor din DUAE; b) concluziile comisiei de evaluare privind evaluarea propunerilor tehnice și a conformității acestora; c) concluziile comisiei de evaluare privind evaluarea propunerilor financiare și a conformității acestora;",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 8 alin. (1)",
+     "citat": "a) 3 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. a) din ordonanța de urgență, respectiv 1 zi lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. a) din ordonanța de urgență, în cazul în care autoritatea/entitatea contractantă a apelat la indicația globală în DUAE pentru toate criteriile de selecție; b) 4 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. b) din ordonanța de urgență; c) 2 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. c) din ordonanța de urgență; d) 3 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin. (1) lit. d), respectiv art. 12 alin. (2) din ordonanța de urgență; e) 2 zile lucrătoare pentru verificarea aspectelor prevăzute la art. 12 alin (1) lit. e) din ordonanța de urgență.",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 9",
+     "citat": "Prin controlul ex ante se verifică dacă concluziile comisiei de evaluare sunt complete și fundamentate corect prin raportare la prevederile legale în domeniul achizițiilor publice/sectoriale",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Avizul conform și efectele lui (O.U.G. art. 14–15, 22–23)",
+   "paragrafe": [
+    "Avizul conform e necondiționat, când nu se constată abateri, sau condiționat, când există abateri față de listele de verificare. Autoritatea poate publica anunțul și poate continua procedura cu sau fără remedierea abaterilor. Avizul se publică automat în SEAP.",
+    "Controlul se limitează la aspectele verificate și nu exonerează autoritatea de răspundere. Avizele se pot ataca doar împreună cu actele autorității pentru care au fost emise, potrivit Legii nr. 101/2016, și nu afectează caracterul obligatoriu al deciziilor CNSC sau ale instanței."
+   ],
+   "temei": [
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 14 alin. (1)",
+     "citat": "a) necondiționat, atunci când nu se constată abateri cu privire la aspectele de calitate și/sau de regularitate cuprinse în listele de verificare; sau b) condiționat, atunci când se constată că există abateri cu privire la aspectele de calitate și/sau de regularitate cuprinse în listele de verificare.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 14 alin. (4)",
+     "citat": "Autoritatea contractantă poate decide continuarea derulării procedurii de atribuire cu sau fără a remedia abaterile constatate de ANAP prin avizul conform condiționat, avizul conform final publicându-se automat de către SEAP odată cu publicarea raportului intermediar/raportului procedurii",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 15",
+     "citat": "Procesul de control ex ante este limitat la aspectele verificate și constatate în baza listelor de verificare ale ANAP și nu exonerează de răspundere autoritatea contractantă în raport cu acțiunile și deciziile adoptate de aceasta în procesul de atribuire și/sau modificare a contractului în conformitate cu dispozițiile legale aplicabile.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 22",
+     "citat": "Avizele conforme emise de ANAP pot fi atacate numai împreună cu actele administrative ale autorității contractante în legătură cu care au fost emise, în baza prevederilor Legii nr. 101/2016, cu modificările și completările ulterioare.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 23",
+     "citat": "Avizul conform al ANAP nu afectează caracterul obligatoriu al deciziilor pronunțate și al măsurilor dispuse de Consiliu/instanța competentă în legătură cu procedurile de atribuire conform prevederilor Legii nr. 101/2016.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Nulitatea contractului după un aviz condiționat (O.U.G. art. 14 alin. (8)–(9), 25)",
+   "paragrafe": [
+    "Dacă autoritatea a finalizat procedura fără să remedieze abaterile grave constatate prin avizul conform final condiționat, nulitatea absolută a contractului o constată instanța. Abaterile grave sunt cele care încalcă principiile achizițiilor publice.",
+    "ANAP e obligată să ceară instanței constatarea nulității absolute în 3 luni de la data la care a aflat de semnarea contractului. Nu o cere dacă CNSC sau instanța au invalidat definitiv, în tot, constatările avizului. Nu o cere nici la negocierea fără publicare, dacă autoritatea a publicat avizul final cu anunțul de transparență și a respectat termenele de așteptare."
+   ],
+   "temei": [
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 14 alin. (8^1)",
+     "citat": "abaterile grave reprezintă acele abateri de la legislația în domeniul achizițiilor publice/sectoriale/concesiunilor de lucrări și servicii care conduc la încălcarea principiilor prevăzute la art. 2 alin. (2) din Legea nr. 98/2016",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 25 alin. (1)",
+     "citat": "ANAP are obligația de a solicita în instanță, în termen de 3 luni de la data luării la cunoștință a semnării contractului, constatarea nulității absolute a contractului încheiat ca urmare a unei proceduri de atribuire care a făcut obiectul controlului ex ante și în cadrul căreia ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a derulat și finalizat procedura de atribuire fără a remedia abaterile de la legislația aplicabilă constatate de ANAP",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 25 alin. (2)",
+     "citat": "din deciziile pronunțate rezultă invalidarea în tot a constatărilor din avizul conform condiționat respectiv, ANAP nu va ataca în instanță contractul",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 14 alin. (6) și (9)",
+     "citat": "În cazul procedurilor de negociere fără publicare prealabilă, autoritatea contractantă are obligația de a publica în SEAP avizul conform final, împreună cu un anunț de transparență, și se comunică tuturor participanților la procedura de atribuire, împreună cu rezultatul procedurii. [...] (9) În cazul în care autoritatea contractantă își îndeplinește obligația de transparență prevăzută la alin. (6) și respectă termenele procedurale de așteptare prevăzute de Legea nr. 101/2016, ANAP nu solicită instanței competente să constate nulitatea absolută a contractului",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Procedura de conciliere (O.U.G. art. 16–19; Norme art. 14–18)",
+   "paragrafe": [
+    "Dacă are obiecții față de constatări sau de măsurile de remediere, autoritatea poate cere concilierea, în 2 zile lucrătoare de la comunicarea avizului condiționat. Concilierea e scrisă, cu excepția ședinței de clarificare, și e condusă de altă structură decât cea de control. Nu se pot depune documente noi.",
+    "Cererea tardivă sau incompletă se respinge ca inadmisibilă, fără examinare pe fond, prin decizie emisă în 2 zile lucrătoare. Pe fond, decizia se emite în 5–10 zile lucrătoare sau, dacă sunt necesare informații suplimentare, în 3–5 zile lucrătoare de la ultimele informații.",
+    "Decizia o ia un comitet decizional, cu majoritate simplă, fără abțineri. Ea e finală față de constatările avizului inițial: fie le menține, fie le modifică printr-un nou aviz conform."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 14 alin. (1)",
+     "citat": "În termen de 2 zile lucrătoare de la data comunicării avizului conform condiționat, autoritatea contractantă poate demara procedura de conciliere",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 17 alin. (1) și (4)",
+     "citat": "Cererea de conciliere este respinsă ca inadmisibilă, fără examinare pe fond, în cazul în care: a) nu a fost depusă în termenele prevăzute la art. 14 alin. (1); b) nu conține toate informațiile prevăzute de modelul de cerere de conciliere din anexa nr. 1.3. [...] (4) Examinarea cererii de conciliere se realizează pe baza informațiilor ce au fost avute în vedere de verificatorii ex-ante la momentul emiterii avizului conform condiționat, nefiind permisă prezentarea unor documente noi în vederea susținerii cererii de conciliere.",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 18 alin. (2)–(3)",
+     "citat": "În situația în care cererea de conciliere este soluționată fără a fi necesară o examinare pe fond a acesteia, decizia de conciliere va fi emisă în termen de 2 zile lucrătoare de la data primirii cererii de conciliere. (3) În situația în care decizia de conciliere este adoptată ca urmare a examinării pe fond a cererii de conciliere, aceasta trebuie să fie emisă într-o perioadă cuprinsă între: a) 5-10 zile lucrătoare de la data primirii solicitării de conciliere, dacă ANAP nu are nevoie de informații suplimentare de la autoritatea contractantă; b) 3-5 zile lucrătoare de la data primirii ultimelor informații suplimentare de la autoritatea contractantă, dacă ANAP are nevoie de informații suplimentare.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 18 alin. (3)",
+     "citat": "Decizia prevăzută la alin. (2) este adoptată prin vot al membrilor comitetului decizional, cu majoritate simplă, aceștia neavând dreptul de a se abține de la exprimarea votului.",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 19 alin. (1)",
+     "citat": "Decizia de conciliere este finală în raport cu constatările controlului ex ante din avizul conform inițial, soluția prevăzută prin decizie urmând să fie reflectată în noul aviz conform emis de ANAP ulterior acesteia.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Controlul negocierii fără publicare (O.U.G. art. 20; Norme art. 11)",
+   "paragrafe": [
+    "Autoritatea care vrea să negocieze fără publicare notifică ANAP cu 5 zile lucrătoare înainte de începerea negocierii. ANAP emite avizul privind încadrarea în cazul legal și documentația în 3 zile lucrătoare, prelungibil excepțional cu 2 zile lucrătoare.",
+    "După negociere, ANAP emite avizul în 5 zile lucrătoare de la primirea raportului și a documentelor, iar avizul final în 2 zile lucrătoare de la primirea raportului aprobat."
+   ],
+   "temei": [
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 20 alin. (1)",
+     "citat": "acestea au obligația de a notifica ANAP, cu 5 zile lucrătoare înainte de data de demarare a negocierii, precum și de a pune la dispoziția ANAP informațiile și documentele solicitate în scopul îndeplinirii funcției de control ex ante.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 11 alin. (1)–(2)",
+     "citat": "ANAP analizează, în termen de 3 zile lucrătoare de la primirea acestora, conținutul documentelor transmise de autoritatea/entitatea contractantă și emite, în același termen, avizul conform cu privire la modul în care autoritatea/entitatea contractantă a demonstrat respectarea prevederilor legale invocate, ce permit aplicarea procedurii de negociere fără publicarea prealabilă, precum și cu privire la prevederile documentației de atribuire. (2) În situații excepționale, în care complexitatea documentelor puse la dispoziție de autoritatea/entitatea contractantă impun o analiză ce necesită un interval de timp mai îndelungat, termenul pentru emiterea avizului conform se prelungește cu 2 zile lucrătoare.",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 11 alin. (4)–(5)",
+     "citat": "ANAP analizează, în termen de 5 zile lucrătoare de la primirea raportului procedurii și a tuturor înscrisurilor aferente derulării procesului de negociere, conținutul documentelor transmise de autoritatea/entitatea contractantă și emite, în același termen, avizul conform [...] (5) ANAP emite avizul conform final în termen de 2 zile lucrătoare de la primirea raportului procedurii aprobat de reprezentantul legal.",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Controlul modificărilor contractului (O.U.G. art. 21; Norme art. 12)",
+   "paragrafe": [
+    "Pentru modificările după art. 221 alin. (1) lit. b) și c) din Legea nr. 98/2016, autoritatea notifică ANAP cu 5 zile lucrătoare înainte, cu argumentele de încadrare. La modificări, ANAP nu emite aviz conform, ci recomandări.",
+    "Recomandarea se emite în cele 5 zile lucrătoare de la înregistrarea notificării. Dacă autoritatea aduce justificări suplimentare, ANAP emite recomandarea finală în 3 zile lucrătoare. Verificatorii nu participă la negocierea propriu-zisă a modificării."
+   ],
+   "temei": [
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 21 alin. (1)",
+     "citat": "În cazul modificărilor contractuale operate în baza art. 221 alin. (1) lit. b) și c) din Legea nr. 98/2016, cu modificările și completările ulterioare, art. 237 și 238 din Legea nr. 99/2016, respectiv art. 102 și 103 din Legea nr. 100/2016, autoritățile contractante au obligația de a notifica ANAP, cu 5 zile lucrătoare înainte de realizarea etapelor de modificare a contractului, transmițând totodată și argumentele care justifică încadrarea în prevederea legală invocată",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "O.U.G. nr. 98/2017 privind funcția de control ex ante",
+     "articol": "art. 21 alin. (3)",
+     "citat": "În cazul controlului ex ante al modificărilor contractuale, ANAP nu va emite aviz conform, urmând ca eventualele constatări ale controlului să fie transmise autorităților contractante sub formă de recomandări.",
+     "fisier": "04_OUG_98-2017_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 12 alin. (3)–(4)",
+     "citat": "ANAP emite, în termen de 3 zile lucrătoare, recomandarea finală cu privire la modul în care sunt întrunite condițiile prevăzute de lege pentru efectuarea modificării contractuale în cauză. (4) În aplicarea art. 6 alin. (4) din ordonanța de urgență, verificatorii ex ante nu participă la derularea propriu-zisă a etapelor de modificare a contractului.",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a O.U.G. nr. 98/2017 (anexa nr. 1 la H.G. nr. 419/2018)",
+     "articol": "art. 12 alin. (2)",
+     "citat": "respectiv data expirării termenului de 5 zile lucrătoare de la înregistrarea notificării la ANAP, verificatorii ex ante fundamentează constatările aferente emiterii, în cadrul acestui termen, a recomandării",
+     "fisier": "06_Norme_HG_419-2018_control_ex_ante.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Controlul ex ante vizează cel mult 10% din procedurile controlabile peste pragul achiziției directe; selecția e parțial aleatorie, parțial după risc.",
+  "Avizul conform poate fi necondiționat sau condiționat; autoritatea poate continua și fără remediere, dar ANAP cere nulitatea absolută în 3 luni de la aflarea semnării.",
+  "Avizul conform se atacă doar împreună cu actele autorității pentru care a fost emis.",
+  "Negocierea fără publicare și modificările după art. 221 alin. (1) lit. b)–c) se notifică ANAP cu 5 zile lucrătoare înainte; la modificări ANAP dă recomandări, nu aviz conform.",
+  "Concilierea se cere în 2 zile lucrătoare de la avizul condiționat, fără documente noi; decizia comitetului se ia cu majoritate simplă, fără abțineri.",
+  "Documentația se verifică în 9 zile lucrătoare, plus 5 pentru sectoarele stabilite prin ordin; anunțul se publică în 60 de zile de la aviz, altfel avizul nu mai produce efecte.",
+  "Propunerea de răspuns la clarificări ajunge la ANAP cu cel puțin 4 zile lucrătoare înainte de termenul de răspuns; ANAP o verifică în 3 zile lucrătoare.",
+  "Nu se verifică nevoia, analiza opțiunilor, specificațiile tehnice și studiul de fundamentare de la art. 229."
+ ],
+ "intrebari": [
+  "OUGA-001",
+  "OUGB-010",
+  "OUGA-002",
+  "OUGB-011",
+  "OUGA-003",
+  "OUGB-020",
+  "OUGA-041",
+  "OUGB-013",
+  "OUGA-004",
+  "OUGB-014",
+  "OUGA-005",
+  "OUGB-015",
+  "OUGA-006",
+  "OUGA-007",
+  "OUGB-002",
+  "OUGB-016",
+  "OUGA-008",
+  "OUGB-017",
+  "OUGA-009",
+  "OUGB-018",
+  "OUG98-procent-selectie",
+  "OUGB-019",
+  "OUGA-010",
+  "OUGB-012",
+  "OUGA-011",
+  "OUGB-021",
+  "OUGA-012",
+  "OUGB-022",
+  "OUGA-013",
+  "OUGA-042",
+  "OUGB-023",
+  "OUGC-001",
+  "OUGB-024",
+  "OUGA-014",
+  "OUGB-025",
+  "OUGA-015",
+  "OUGB-026",
+  "OUGA-016",
+  "OUGB-027",
+  "OUGA-017",
+  "OUGB-028",
+  "OUG98-N101",
+  "OUGA-018",
+  "OUGB-029",
+  "OUGA-019",
+  "OUGB-030",
+  "OUGA-020",
+  "OUGB-031",
+  "OUGA-021",
+  "OUGB-032",
+  "OUGA-022",
+  "OUGB-033",
+  "OUGA-023",
+  "OUGB-034",
+  "OUGA-024",
+  "OUGB-035",
+  "OUGC-002",
+  "OUGA-025",
+  "OUGB-036",
+  "OUGA-026",
+  "OUGB-037",
+  "OUG98-N102",
+  "OUGC-004",
+  "OUGA-027",
+  "N419-N101",
+  "OUGA-028",
+  "OUGC-005",
+  "OUGA-029",
+  "N419-N102",
+  "OUGA-030",
+  "OUGA-031",
+  "N419-N103",
+  "OUGA-032",
+  "N419-N104",
+  "OUGA-033",
+  "N419-N108",
+  "OUGA-043",
+  "OUGC-006",
+  "OUGA-034",
+  "N419-N105",
+  "OUGA-035",
+  "N419-N106",
+  "OUGA-036",
+  "N419-N107",
+  "OUGC-003"
+ ]
+}
