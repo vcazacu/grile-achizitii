@@ -21,6 +21,7 @@ const FISIERE = [
   "./tematica/06-estimarea-valorii-si-alegerea-modalitatii.html",
   "./tematica/07-etapele-consultarea-pietei-loturi.html",
   "./tematica/08-publicitate-si-transparenta.html",
+  "./tematica/09-documentatia-oferte-alternative-duae.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",

@@ -1,0 +1,1051 @@
+[
+ {
+  "loc": "Conținutul documentației de atribuire (Lege art. 154 alin. ( / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Documentația trebuie să le dea operatorilor o informare completă, corectă și precisă despre cerințele achiziției, obiectul contractului și modul de desfășurare a procedurii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5080
+ },
+ {
+  "loc": "Conținutul documentației de atribuire (Lege art. 154 alin. ( / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Ea cuprinde: DUAE și instrucțiunile către ofertanți sau candidați; caietul de sarcini sau, la dialogul competitiv, negociere și parteneriatul pentru inovare, documentul descriptiv; proiectul de contract cu clauzele obligatorii; formularele și modelele de documente.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 5108
+ },
+ {
+  "loc": "Conținutul documentației de atribuire (Lege art. 154 alin. ( / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Caietul de sarcini conține obligatoriu specificații tehnice care descriu obiectiv produsul, serviciul sau lucrarea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Documentul descriptiv cuprinde cel puțin necesitățile, obiectivele și constrângerile autorității și cerințele minime pe care fiecare ofertă sau soluție trebuie să le îndeplinească pentru faza următoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.98,
+     "contrazice": 0.02,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 5506
+ },
+ {
+  "loc": "DUAE generat de autoritate și prevalența anunțului (Norme ar / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea generează electronic DUAE, marchează câmpurile pentru care operatorii trebuie să dea informații, conform criteriilor de calificare și selecție, și îl atașează în SEAP cu celelalte documente.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3738
+ },
+ {
+  "loc": "DUAE generat de autoritate și prevalența anunțului (Norme ar / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă informațiile din DUAE diferă de cele din anunț, prevalează anunțul, iar DUAE se revizuiește.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3711
+ },
+ {
+  "loc": "Inițierea procedurii și documentele-suport (Norme art. 21–22 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Procedura se poate iniția numai după elaborarea și aprobarea documentației de atribuire și a documentelor-suport.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Ele se transmit spre publicare în SEAP, în zilele lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3067
+ },
+ {
+  "loc": "Inițierea procedurii și documentele-suport (Norme art. 21–22 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Documentele-suport sunt declarația privind persoanele cu funcții de decizie, respectiv reprezentanții furnizorilor de servicii auxiliare, și strategia de contractare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "La procedura simplificată, justificarea alegerii procedurii explică doar determinarea valorii estimate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.98,
+     "contrazice": 0.02,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 3094
+ },
+ {
+  "loc": "Inițierea procedurii și documentele-suport (Norme art. 21–22 / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Caietul de sarcini sau documentul descriptiv, proiectul de contract, formularele și modelele de documente, precum și documentele-suport se semnează cu semnătură electronică extinsă, bazată pe un certificat calificat.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "absenta_corecta": 0.02,
+     "nu_spune": 0.14,
+     "sustine": 0.19,
+     "contrazice": 0.65
+    },
+    "confidence": 0.54
+   }
+  },
+  "usage": 2707
+ },
+ {
+  "loc": "Garanțiile în Lege (art. 154 alin. (2)–(4), 154^1, 154^2) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Garanția de participare e un drept al autorității.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "E valabilă cel puțin cât oferta și nu poate depăși 1% din valoarea estimată; la acordul-cadru, 1% din valoarea celui mai mare contract subsecvent.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5880
+ },
+ {
+  "loc": "Garanțiile în Lege (art. 154 alin. (2)–(4), 154^1, 154^2) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Garanția de bună execuție e, ca regulă, obligatorie, de maximum 10% din prețul fără TVA.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.02,
+     "sustine": 0.98
+    },
+    "confidence": 0.97
+   },
+   "1": {
+    "text": "Autoritatea are dreptul să nu o ceară în două cazuri: la contractele sub pragurile de la art. 7 alin. (1), cu excepția celor de servicii de proiectare și de lucrări, și la contractele atribuite prin negociere fără publicare.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "nu_spune": 0.0,
+     "contrazice": 0.5,
+     "sustine": 0.49
+    },
+    "confidence": 0.34
+   },
+   "2": {
+    "text": "Textul legii e formulat ambiguu; lectura de mai sus păstrează garanția obligatorie la proiectare și lucrări, unde riscul e cel mai mare.",
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "absenta_corecta": 0.02,
+     "nu_spune": 0.47,
+     "contrazice": 0.14,
+     "sustine": 0.37
+    },
+    "confidence": 0.29
+   }
+  },
+  "usage": 6347
+ },
+ {
+  "loc": "Garanțiile în Lege (art. 154 alin. (2)–(4), 154^1, 154^2) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Garanțiile sunt irevocabile și necondiționate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Se constituie prin virament, scrisori de garanție bancare, scrisori de la instituții financiare nebancare (până la 40.000.000 lei la lucrări și 7.000.000 lei la produse sau servicii), asigurări de garanții, numerar sub 5.000 lei sau, la buna execuție, prin rețineri succesive ori combinații.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5947
+ },
+ {
+  "loc": "Garanțiile în Lege (art. 154 alin. (2)–(4), 154^1, 154^2) / paragraful 4",
+  "afirmatii": {
+   "0": {
+    "text": "Garanția de participare a câștigătorului se restituie în cel mult 3 zile lucrătoare de la constituirea garanției de bună execuție; a celorlalți ofertanți, în cel mult 3 zile lucrătoare de la semnarea contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.04,
+     "sustine": 0.96
+    },
+    "confidence": 0.94
+   },
+   "1": {
+    "text": "La lucrări, 70% din garanția de bună execuție se restituie în 14 zile de la recepția la terminare, iar 30% la expirarea perioadei de garanție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 5951
+ },
+ {
+  "loc": "Specificațiile tehnice (art. 155–156) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Specificațiile definesc caracteristicile cerute și pot viza și procesul de execuție, fabricație sau prestare, dacă au legătură cu obiectul contractului și sunt proporționale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Pentru achizițiile folosite de persoane fizice, ele țin seama de accesibilitatea pentru persoanele cu dizabilități, în afara cazurilor temeinic justificate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Specificațiile trebuie să asigure acces egal și să nu creeze obstacole nejustificate în calea concurenței.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4660
+ },
+ {
+  "loc": "Specificațiile tehnice (art. 155–156) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Se stabilesc prin cerințe de performanță sau funcționale, prin trimitere la standarde, într-o ordine de prioritate, ori prin combinarea celor două.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Fiecare trimitere la standarde e însoțită de mențiunea „sau echivalent”.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4217
+ },
+ {
+  "loc": "Specificațiile tehnice (art. 155–156) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Nu se indică un producător, o origine, un procedeu, mărci sau brevete care ar favoriza ori elimina operatori.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Excepția e posibilă doar când obiectul nu poate fi descris altfel suficient de precis, tot cu mențiunea „sau echivalent”.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "O ofertă nu se respinge pentru neconformitate cu standardul invocat, dacă ofertantul dovedește o soluție echivalentă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4637
+ },
+ {
+  "loc": "Etichete, rapoarte de încercare și certificate (art. 157–159 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea poate cere o etichetă specifică drept dovadă a unor caracteristici de mediu, sociale sau de altă natură, dacă sunt îndeplinite cumulativ condițiile legii: legătura cu obiectul, criterii nediscriminatorii și verificabile, procedură deschisă de creare, accesibilitate și stabilire de o terță entitate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Autoritatea acceptă și etichetele echivalente.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3779
+ },
+ {
+  "loc": "Etichete, rapoarte de încercare și certificate (art. 157–159 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Poate cere rapoarte de încercare sau certificate emise de un organism de evaluare a conformității, dar acceptă și certificate echivalente de la alte organisme.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3333
+ },
+ {
+  "loc": "Etichete, rapoarte de încercare și certificate (art. 157–159 / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă operatorul nu poate obține eticheta, certificatul sau raportul în termen, din motive care nu îi sunt imputabile, autoritatea acceptă alte mijloace de probă adecvate, cum ar fi dosarul tehnic al producătorului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3355
+ },
+ {
+  "loc": "Clarificările la documentație (Lege art. 160–161; Norme art. / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Orice operator interesat poate cere clarificări, în termenul-limită din anunț.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Autoritatea stabilește unul sau două termene de răspuns și publică răspunsurile, împreună cu întrebările, la adresa documentelor, fără a dezvălui identitatea celui care a întrebat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Răspunsurile se postează în SEAP, semnate cu semnătură electronică extinsă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4318
+ },
+ {
+  "loc": "Clarificările la documentație (Lege art. 160–161; Norme art. / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru solicitările făcute la timp, răspunsul se transmite cu cel puțin 10 zile înainte de termenul de depunere, respectiv 5 zile în urgență.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La procedura simplificată, termenul e de 6 zile la lucrări, 3 zile la produse sau servicii și două zile la produse de complexitate redusă sau în urgență.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.3,
+     "absenta_corecta": 0.0,
+     "sustine": 0.7,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.6
+   }
+  },
+  "usage": 3918
+ },
+ {
+  "loc": "Ofertele alternative (art. 162) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea poate permite sau cere oferte alternative numai dacă a precizat explicit acest lucru în anunțul de participare; altfel, nu le poate lua în considerare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Ofertele alternative trebuie să aibă legătură cu obiectul contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2781
+ },
+ {
+  "loc": "Ofertele alternative (art. 162) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Documentele achiziției precizează cerințele minime obligatorii pentru ofertele alternative și dacă ele se pot depune doar împreună cu o ofertă obișnuită.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Ofertele alternative care nu respectă cerințele minime nu se iau în considerare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Când ofertele alternative sunt permise, ofertantul poate depune doar ofertă alternativă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.94,
+     "nu_spune": 0.0,
+     "contrazice": 0.06,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.92
+   }
+  },
+  "usage": 3198
+ },
+ {
+  "loc": "Ofertele alternative (art. 162) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "La produse sau servicii, o ofertă alternativă nu poate fi respinsă doar pentru că ar transforma contractul de furnizare în contract de servicii sau invers.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2382
+ },
+ {
+  "loc": "DUAE: ce este și cine îl completează (art. 193–195) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "DUAE e o declarație pe propria răspundere actualizată, acceptată la depunere ca dovadă preliminară, în locul certificatelor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Confirmă că operatorul nu e în situațiile de excludere de la art. 164, 165 și 167, că îndeplinește criteriile de capacitate și, după caz, criteriile de selecție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3336
+ },
+ {
+  "loc": "DUAE: ce este și cine îl completează (art. 193–195) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Terțul susținător completează DUAE separat, împreună cu angajamentul de susținere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Subcontractanții pe a căror capacitate se bazează ofertantul completează DUAE separat; ceilalți subcontractanți declară doar informațiile privind excluderea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3309
+ },
+ {
+  "loc": "DUAE: ce este și cine îl completează (art. 193–195) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Un DUAE deja folosit poate fi reutilizat, dacă operatorul confirmă că informațiile sunt încă valabile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "DUAE se face pe formularul standard al Comisiei Europene, exclusiv electronic.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3276
+ },
+ {
+  "loc": "Documentele justificative (art. 196–197) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea poate cere oricând documentele justificative, dacă e necesar pentru buna desfășurare a procedurii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Ele se depun în cel mult 5 zile lucrătoare, cu o prelungire de maximum 5 zile lucrătoare la cerere motivată, sub sancțiunea excluderii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3401
+ },
+ {
+  "loc": "Documentele justificative (art. 196–197) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Înainte de atribuire, autoritatea cere ofertantului clasat pe primul loc documentele actualizate, într-o zi lucrătoare de la clasare sau de la avizul conform în controlul ex ante.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La procedurile în mai multe etape, documentele se cer înainte de invitațiile pentru etapa a doua.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Ofertantul are până la 7 zile lucrătoare, prelungibile cu cel mult 3 zile lucrătoare, sub sancțiunea respingerii ofertei ca inacceptabilă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3825
+ },
+ {
+  "loc": "Documentele justificative (art. 196–197) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Operatorul nu mai prezintă documente pe care autoritatea le poate obține gratuit din baze de date naționale sau pe care le deține deja.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2982
+ },
+ {
+  "loc": "e-Certis, certificări de calitate și liste oficiale (art. 19 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritățile folosesc e-Certis și cer în principal certificatele disponibile acolo.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Certificatele de calitate sau de mediu se raportează la standardele europene; autoritatea acceptă certificate echivalente din alte state membre și, dacă operatorul nu le putea obține din motive neimputabile, alte probe echivalente.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3352
+ },
+ {
+  "loc": "e-Certis, certificări de calitate și liste oficiale (art. 19 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Înscrierea pe o listă oficială sau un certificat de la un organism de certificare creează o prezumție relativă de îndeplinire a cerințelor acoperite.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Informațiile rezultate nu pot fi puse la îndoială fără justificare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Operatorii din alte state membre nu sunt obligați să se înscrie pe o listă oficială din România.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3743
+ },
+ {
+  "loc": "Primele la dialogul competitiv (Norme art. 20 alin. (13)–(15 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "La dialogul competitiv, documentele pot prevedea prime pentru participanți și valoarea lor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Primele se stabilesc în limita bugetului și a cheltuielilor de participare și nu pot depăși în total 2% din valoarea estimată a contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Ofertantul declarat câștigător nu primește primă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4467
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Documentul descriptiv înlocuiește caietul de sarcini doar la dialogul competitiv, negociere și parteneriatul pentru inovare (Norme art. 20 alin. (1) lit. b)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.1,
+     "sustine": 0.9
+    },
+    "confidence": 0.86
+   }
+  },
+  "usage": 24230
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă DUAE și anunțul diferă, prevalează anunțul (Norme art. 20 alin. (7)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.98,
+     "contrazice": 0.02,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 24295
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Garanția de participare e un drept (maximum 1%); garanția de bună execuție e o obligație (maximum 10% din preț fără TVA).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.03,
+     "sustine": 0.97,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.96
+   },
+   "1": {
+    "text": "Renunțarea la garanția de bună execuție e permisă în două cazuri: contractele sub pragurile de la art. 7 alin. (1), altele decât cele de proiectare și de lucrări, și contractele atribuite prin negociere fără publicare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.78,
+     "contrazice": 0.22,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.7
+   }
+  },
+  "usage": 24670
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Numerarul la casierie e permis doar sub 5.000 lei; reținerile succesive sunt permise doar pentru garanția de bună execuție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 24216
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Mențiunea „sau echivalent” însoțește atât trimiterile la standarde, cât și, excepțional, mărcile sau producătorii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.02,
+     "absenta_corecta": 0.0,
+     "sustine": 0.98,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 24214
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Răspunsul la clarificări: cu cel puțin 10 zile înainte de termen (5 zile în urgență); la procedura simplificată 6/3/2 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.17,
+     "sustine": 0.83,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.77
+   }
+  },
+  "usage": 24220
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Ofertele alternative nu se pot lua în considerare dacă anunțul nu le permite explicit.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 24195
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Documentele justificative se cer, înainte de atribuire, doar ofertantului clasat pe primul loc: 7 zile lucrătoare plus cel mult 3.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.57,
+     "contrazice": 0.42,
+     "absenta_corecta": 0.01
+    },
+    "confidence": 0.43
+   }
+  },
+  "usage": 24213
+ },
+ {
+  "loc": "capcana 9",
+  "afirmatii": {
+   "0": {
+    "text": "Primele de la dialogul competitiv: în total cel mult 2% din valoarea estimată; câștigătorul nu primește primă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 24212
+ }
+]

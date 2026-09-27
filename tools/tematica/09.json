@@ -1,0 +1,400 @@
+{
+ "nr": 9,
+ "titlu": "Documentația de atribuire. Oferte alternative. Documentul unic de achiziție European",
+ "rezumat": "Documentația de atribuire trebuie să informeze complet, corect și precis despre cerințe, obiect și procedură. Ea cuprinde DUAE și instrucțiunile, caietul de sarcini sau documentul descriptiv, proiectul de contract și formularele. Procedura se inițiază doar după aprobarea documentației și a documentelor-suport. Specificațiile tehnice nu pot favoriza un producător sau o marcă, iar trimiterile la standarde se însoțesc de mențiunea „sau echivalent”. Clarificările au termene minime de răspuns, iar ofertele alternative se pot lua în considerare numai dacă anunțul le permite explicit. DUAE e o declarație pe propria răspundere, acceptată ca dovadă preliminară; documentele justificative se cer, în principal, doar ofertantului clasat pe primul loc.",
+ "sectiuni": [
+  {
+   "titlu": "Conținutul documentației de atribuire (Lege art. 154 alin. (1); Norme art. 20)",
+   "paragrafe": [
+    "Documentația trebuie să le dea operatorilor o informare completă, corectă și precisă despre cerințele achiziției, obiectul contractului și modul de desfășurare a procedurii.",
+    "Ea cuprinde: DUAE și instrucțiunile către ofertanți sau candidați; caietul de sarcini sau, la dialogul competitiv, negociere și parteneriatul pentru inovare, documentul descriptiv; proiectul de contract cu clauzele obligatorii; formularele și modelele de documente.",
+    "Caietul de sarcini conține obligatoriu specificații tehnice care descriu obiectiv produsul, serviciul sau lucrarea. Documentul descriptiv cuprinde cel puțin necesitățile, obiectivele și constrângerile autorității și cerințele minime pe care fiecare ofertă sau soluție trebuie să le îndeplinească pentru faza următoare."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154 alin. (1)",
+     "citat": "Autoritatea contractantă are obligația de a elabora documentația de atribuire care conține toate informațiile necesare pentru a asigura operatorilor economici o informare completă, corectă și precisă cu privire la cerințele achiziției, obiectul contractului și modul de desfășurare a procedurii de atribuire.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 20 alin. (1)",
+     "citat": "Documentația de atribuire este alcătuită din următoarele: a) DUAE și instrucțiunile către ofertanți/candidați. b) caietul de sarcini sau documentul descriptiv, acesta din urmă fiind aplicabil în cazul procedurilor de dialog competitiv, de negociere sau de parteneriat pentru inovare; c) proiectul de contract conținând clauzele contractuale obligatorii; d) formulare și modele de documente.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 20 alin. (10) și (12)",
+     "citat": "Caietul de sarcini conține, în mod obligatoriu, specificații tehnice care reprezintă cerințe, prescripții, caracteristici de natură tehnică ce permit fiecărui produs, serviciu sau lucrare să fie descris, în mod obiectiv, astfel încât să corespundă necesității autorității contractante. [...] (12) Documentul descriptiv cuprinde, în mod obligatoriu, cel puțin o descriere a necesităților, obiectivelor și constrângerilor autorității contractante, pe baza cărora se vor derula negocierile/dialogul/parteneriatul pentru inovare, precum și cerințele minime de ordin tehnic, sau de performanță/ funcționalitate minime, ce trebuie îndeplinite de fiecare ofertă/soluție preliminară pentru a fi admisă la faza următoare.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "DUAE generat de autoritate și prevalența anunțului (Norme art. 20 alin. (5)–(7))",
+   "paragrafe": [
+    "Autoritatea generează electronic DUAE, marchează câmpurile pentru care operatorii trebuie să dea informații, conform criteriilor de calificare și selecție, și îl atașează în SEAP cu celelalte documente.",
+    "Dacă informațiile din DUAE diferă de cele din anunț, prevalează anunțul, iar DUAE se revizuiește."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 20 alin. (5)",
+     "citat": "Autoritatea contractantă are obligația de genera electronic DUAE completat cu informațiile solicitate în raport cu criteriile de calificare și selecție stabilite prin documentația de atribuire, marcând câmpurile din formular pentru care trebuie prezentate referințe de către operatorii economici, corespunzător respectivelor cerințe, și de a-l atașa în SEAP, împreună cu celelalte documente ale achiziției.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 20 alin. (7)",
+     "citat": "În cazul în care există discrepanțe între informațiile prevăzute în DUAE și cele prevăzute în anunțul de participare/simplificat/de concurs, prevalează informațiile din anunț, DUAE urmând a fi revizuit corespunzător.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Inițierea procedurii și documentele-suport (Norme art. 21–22)",
+   "paragrafe": [
+    "Procedura se poate iniția numai după elaborarea și aprobarea documentației de atribuire și a documentelor-suport. Ele se transmit spre publicare în SEAP, în zilele lucrătoare.",
+    "Documentele-suport sunt declarația privind persoanele cu funcții de decizie, respectiv reprezentanții furnizorilor de servicii auxiliare, și strategia de contractare. La procedura simplificată, justificarea alegerii procedurii explică doar determinarea valorii estimate.",
+    "Caietul de sarcini sau documentul descriptiv, proiectul de contract, formularele și modelele de documente, precum și documentele-suport se semnează cu semnătură electronică extinsă, bazată pe un certificat calificat."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 21 alin. (1)–(3)",
+     "citat": "Autoritatea contractantă poate iniția aplicarea procedurii de atribuire numai după ce au fost elaborate și aprobate documentația de atribuire și documentele suport. (2) Autoritatea contractantă are obligația de a transmite spre publicare în SEAP, în zilele lucrătoare, documentația de atribuire împreună cu documentele-suport. (3) Documentele-suport conțin: a) declarația privind persoanele ce dețin funcții de decizie în cadrul autorității contractante, respectiv cele cu putere de reprezentare din partea furnizorilor de servicii auxiliare achiziției, precum și datele de identificare ale acestora; b) strategia de contractare.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 21 alin. (4)",
+     "citat": "În cazul aplicării procedurii simplificate, justificarea alegerii procedurii conține numai explicații cu privire la determinarea valorii estimate a contractului/acordului-cadru",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 22 alin. (2)",
+     "citat": "Documentele prevăzute la art. 20 alin. (1) lit. b)-d) și art. 21 alin. (3) vor fi semnate cu semnătură electronică extinsă, bazată pe un certificat calificat",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Garanțiile în Lege (art. 154 alin. (2)–(4), 154^1, 154^2)",
+   "paragrafe": [
+    "Garanția de participare e un drept al autorității. E valabilă cel puțin cât oferta și nu poate depăși 1% din valoarea estimată; la acordul-cadru, 1% din valoarea celui mai mare contract subsecvent.",
+    "Garanția de bună execuție e, ca regulă, obligatorie, de maximum 10% din prețul fără TVA. Autoritatea are dreptul să nu o ceară în două cazuri: la contractele sub pragurile de la art. 7 alin. (1), cu excepția celor de servicii de proiectare și de lucrări, și la contractele atribuite prin negociere fără publicare. Textul legii e formulat ambiguu; lectura de mai sus păstrează garanția obligatorie la proiectare și lucrări, unde riscul e cel mai mare.",
+    "Garanțiile sunt irevocabile și necondiționate. Se constituie prin virament, scrisori de garanție bancare, scrisori de la instituții financiare nebancare (până la 40.000.000 lei la lucrări și 7.000.000 lei la produse sau servicii), asigurări de garanții, numerar sub 5.000 lei sau, la buna execuție, prin rețineri succesive ori combinații.",
+    "Garanția de participare a câștigătorului se restituie în cel mult 3 zile lucrătoare de la constituirea garanției de bună execuție; a celorlalți ofertanți, în cel mult 3 zile lucrătoare de la semnarea contractului. La lucrări, 70% din garanția de bună execuție se restituie în 14 zile de la recepția la terminare, iar 30% la expirarea perioadei de garanție."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154 alin. (2)–(3)",
+     "citat": "Autoritatea contractantă are dreptul de a solicita ofertanților constituirea garanției de participare a cărei perioadă de valabilitate este cel puțin egală cu perioada de valabilitate a ofertei. Valoarea garanției de participare nu poate depăși 1% din valoarea estimată a contractului de achiziție publică sau, în cazul acordului-cadru, din valoarea estimată a celui mai mare contract subsecvent. (3) Autoritatea contractantă are obligația de a solicita contractantului constituirea garanției de bună execuție în cuantum de maximum 10% din prețul contractului, fără TVA. Cu excepția contractelor de servicii de proiectare și a contractelor de lucrări, a căror valoare estimată este mai mică decât valoarea prevăzută la art. 7 alin. (1), precum și în cazul unui contract atribuit în urma aplicării procedurii de negociere, fără publicarea prealabilă a unui anunț de participare, autoritatea contractantă are dreptul de a nu solicita contractantului constituirea garanției de bună execuție.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154 alin. (4)",
+     "citat": "Garanția de participare sau, după caz, garanția de bună execuție trebuie să fie irevocabilă, necondiționată și se constituie prin: a) virament bancar; b) instrumente de garantare emise în condițiile legii astfel: (i) scrisori de garanție emise de instituții de credit bancare din România sau din alt stat; (ii) scrisori de garanție emise de instituții financiare nebancare din România sau din alt stat pentru achizițiile de lucrări a căror valoare estimată este mai mică sau egală cu 40.000.000 lei fără TVA și respectiv pentru achizițiile de produse sau servicii a căror valoare estimată este mai mică sau egală cu 7.000.000 lei fără TVA; [...] c) depunerea la casierie a unor sume în numerar dacă valoarea este mai mică de 5.000 lei; d) rețineri succesive din sumele datorate pentru facturi parțiale, în cazul garanției de bună execuție; e) combinarea a două sau mai multe dintre modalitățile de constituire prevăzute la lit. a)-c), în cazul garanției de bună execuție.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154^1 alin. (1) și (3)",
+     "citat": "Garanția de participare, constituită de ofertantul a cărui ofertă a fost stabilită ca fiind câștigătoare, se restituie de către autoritatea contractantă în cel mult 3 zile lucrătoare de la data constituirii garanției de bună execuție. [...] (3) Garanția de participare, constituită de ofertanții a căror ofertă nu a fost stabilită câștigătoare, se restituie de către autoritatea contractantă după semnarea contractului de achiziție publică/acordului-cadru cu ofertantul/ofertanții ale cărui/căror oferte au fost desemnate câștigătoare, dar nu mai târziu de 3 zile lucrătoare de la data semnării contractului de achiziție publică/acordului-cadru cu ofertantul declarat câștigător.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154^2 alin. (5)",
+     "citat": "În cazul contractelor de lucrări, autoritatea contractantă are obligația de a elibera/restitui garanția de bună execuție după cum urmează: a) 70% din valoarea garanției, în termen de 14 zile de la data încheierii procesului-verbal de recepție la terminarea lucrărilor, dacă nu a ridicat până la acea dată pretenții asupra ei, iar riscul pentru vicii ascunse este minim; b) restul de 30% din valoarea garanției, la expirarea perioadei de garanție a lucrărilor executate, pe baza procesului-verbal de recepție finală.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Specificațiile tehnice (art. 155–156)",
+   "paragrafe": [
+    "Specificațiile definesc caracteristicile cerute și pot viza și procesul de execuție, fabricație sau prestare, dacă au legătură cu obiectul contractului și sunt proporționale. Pentru achizițiile folosite de persoane fizice, ele țin seama de accesibilitatea pentru persoanele cu dizabilități, în afara cazurilor temeinic justificate. Specificațiile trebuie să asigure acces egal și să nu creeze obstacole nejustificate în calea concurenței.",
+    "Se stabilesc prin cerințe de performanță sau funcționale, prin trimitere la standarde, într-o ordine de prioritate, ori prin combinarea celor două. Fiecare trimitere la standarde e însoțită de mențiunea „sau echivalent”.",
+    "Nu se indică un producător, o origine, un procedeu, mărci sau brevete care ar favoriza ori elimina operatori. Excepția e posibilă doar când obiectul nu poate fi descris altfel suficient de precis, tot cu mențiunea „sau echivalent”. O ofertă nu se respinge pentru neconformitate cu standardul invocat, dacă ofertantul dovedește o soluție echivalentă."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 155 alin. (4) și (6)",
+     "citat": "Pentru toate achizițiile destinate utilizării de către persoane fizice, indiferent dacă este vorba de publicul larg sau de personalul autorității contractante, specificațiile tehnice se definesc astfel încât să țină seama de cerințele de accesibilitate ale persoanelor cu dizabilități sau de conceptul de proiectare pentru toate categoriile de utilizatori, cu excepția cazurilor temeinic justificate. [...] (6) Specificațiile tehnice trebuie să permită tuturor operatorilor economici accesul egal la procedura de atribuire și nu trebuie să aibă ca efect introducerea unor obstacole nejustificate față de asigurarea unei concurențe efective între operatorii economici.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 156 alin. (1) lit. b)",
+     "citat": "prin trimitere la specificații tehnice și, ca ordine de prioritate, la standarde naționale care transpun standarde europene, evaluări tehnice europene, specificații tehnice comune, standarde internaționale, alte sisteme de referință tehnice instituite de către organismele de standardizare europene sau, în lipsa oricărora dintre acestea, la standarde naționale, la agremente tehnice naționale sau specificații tehnice naționale referitoare la proiectarea, calcularea și execuția lucrărilor și la utilizarea produselor; fiecare trimitere este însoțită de mențiunea \"sau echivalent\";",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 156 alin. (2)–(3)",
+     "citat": "Cu excepția cazului în care acest lucru este justificat de obiectul contractului, specificațiile tehnice nu precizează un anumit producător, o anumită origine sau un anumit procedeu care caracterizează produsele sau serviciile furnizate de un anumit operator economic și nici nu se referă la mărci, brevete, tipuri, la o origine sau la o producție specifică, care ar avea ca efect favorizarea sau eliminarea anumitor operatori economici sau produse. (3) Prin excepție de la prevederile alin. (2), stabilirea specificațiilor tehnice prin precizarea elementelor prevăzute la alin. (2) este permisă în situații excepționale, în cazul în care nu este posibilă o descriere suficient de precisă și de inteligibilă a obiectului contractului în conformitate cu dispozițiile alin. (1); în aceste situații, precizarea elementelor prevăzute la alin. (2) este însoțită de cuvintele \"sau echivalent\".",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 156 alin. (4)",
+     "citat": "aceasta nu respinge o ofertă pe motiv că lucrările, produsele sau serviciile oferite nu sunt conforme cu specificațiile tehnice la care se face trimitere, dacă ofertantul demonstrează în oferta sa, prin orice mijloace adecvate, că soluțiile propuse îndeplinesc într-un mod echivalent cerințele definite prin specificațiile tehnice.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Etichete, rapoarte de încercare și certificate (art. 157–159)",
+   "paragrafe": [
+    "Autoritatea poate cere o etichetă specifică drept dovadă a unor caracteristici de mediu, sociale sau de altă natură, dacă sunt îndeplinite cumulativ condițiile legii: legătura cu obiectul, criterii nediscriminatorii și verificabile, procedură deschisă de creare, accesibilitate și stabilire de o terță entitate. Autoritatea acceptă și etichetele echivalente.",
+    "Poate cere rapoarte de încercare sau certificate emise de un organism de evaluare a conformității, dar acceptă și certificate echivalente de la alte organisme.",
+    "Dacă operatorul nu poate obține eticheta, certificatul sau raportul în termen, din motive care nu îi sunt imputabile, autoritatea acceptă alte mijloace de probă adecvate, cum ar fi dosarul tehnic al producătorului."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 157 alin. (1) și (3)",
+     "citat": "poate solicita prin specificațiile tehnice, factorii de evaluare sau prin condițiile de executare a contractului o etichetă specifică drept dovadă că lucrările, serviciile sau produsele corespund cerințelor solicitate, dacă următoarele condiții sunt îndeplinite în mod cumulativ: [...] (3) În situația în care, în conformitate cu dispozițiile alin. (1), autoritatea contractantă impune în legătură cu lucrările, produsele sau serviciile pe care le achiziționează o etichetă specifică, aceasta acceptă toate etichetele care confirmă că lucrările, produsele sau serviciile îndeplinesc cerințe de etichetare echivalente.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 158 alin. (2)",
+     "citat": "În cazul prevăzut la alin. (1) în care autoritatea contractantă solicită prezentarea unor certificate emise de un anumit organism de evaluare a conformității, aceasta acceptă și certificate echivalente emise de alte organisme de evaluare a conformității.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 159",
+     "citat": "În cazul în care un operator economic nu deține certificatele sau rapoartele de încercare prevăzute la art. 158 alin. (1) sau nu are posibilitatea de a le obține în termenele stabilite, pentru motive care nu îi sunt imputabile, autoritatea contractantă are obligația de a accepta și alte mijloace de probă adecvate, cum ar fi un dosar tehnic al producătorului",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Clarificările la documentație (Lege art. 160–161; Norme art. 27)",
+   "paragrafe": [
+    "Orice operator interesat poate cere clarificări, în termenul-limită din anunț. Autoritatea stabilește unul sau două termene de răspuns și publică răspunsurile, împreună cu întrebările, la adresa documentelor, fără a dezvălui identitatea celui care a întrebat. Răspunsurile se postează în SEAP, semnate cu semnătură electronică extinsă.",
+    "Pentru solicitările făcute la timp, răspunsul se transmite cu cel puțin 10 zile înainte de termenul de depunere, respectiv 5 zile în urgență. La procedura simplificată, termenul e de 6 zile la lucrări, 3 zile la produse sau servicii și două zile la produse de complexitate redusă sau în urgență."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 160 alin. (1)–(3)",
+     "citat": "Orice operator economic interesat are dreptul de a solicita clarificări sau informații suplimentare în legătură cu documentația de atribuire, cu respectarea termenului limită stabilit de autoritatea contractantă în anunțul de participare/simplificat/de concurs. (2) Autoritatea contractantă stabilește prin anunțul de participare/simplificat/de concurs unul sau două termene-limită în care va răspunde în mod clar și complet tuturor solicitărilor de clarificare/informațiilor suplimentare, conform prevederilor normelor metodologice la prezenta lege. (3) Autoritatea contractantă are obligația de a publica răspunsurile însoțite de întrebările aferente la adresa de internet la care sunt disponibile documentele achiziției, indicată potrivit dispozițiilor art. 150 alin. (2), luând măsuri pentru a nu dezvălui identitatea operatorului economic care a solicitat clarificările sau informațiile suplimentare respective.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 161",
+     "citat": "răspunsul autorității contractante la aceste solicitări trebuie să fie transmis cu cel puțin 10 zile, respectiv 5 zile în situațiile de urgență demonstrate în mod corespunzător de autoritatea contractantă, prevăzute la art. 74 alin. (3) și art. 79 alin. (5), înainte de termenul stabilit pentru depunerea ofertelor sau solicitărilor de participare. (2) În cazul aplicării procedurii simplificate, termenele prevăzute la alin. (1) se reduc la 6 zile în cazul contractului de achiziție publică de lucrări, respectiv 3 zile în cazul contractului de achiziție publică de produse sau de servicii, sau cu cel puțin două zile, în cazul contractului de achiziție publică de produse de complexitate redusă sau în situațiile de urgență",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 27 alin. (1)",
+     "citat": "Orice răspuns al autorității contractante la solicitările de clarificări sau informații suplimentare primite în condițiile art. 160 alin. (1) din Lege, se postează în SEAP la secțiunea specifică, disponibilă în sistemul informatic, semnat cu semnătură electronică extinsă",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Ofertele alternative (art. 162)",
+   "paragrafe": [
+    "Autoritatea poate permite sau cere oferte alternative numai dacă a precizat explicit acest lucru în anunțul de participare; altfel, nu le poate lua în considerare. Ofertele alternative trebuie să aibă legătură cu obiectul contractului.",
+    "Documentele achiziției precizează cerințele minime obligatorii pentru ofertele alternative și dacă ele se pot depune doar împreună cu o ofertă obișnuită. Ofertele alternative care nu respectă cerințele minime nu se iau în considerare. Când ofertele alternative sunt permise, ofertantul poate depune doar ofertă alternativă.",
+    "La produse sau servicii, o ofertă alternativă nu poate fi respinsă doar pentru că ar transforma contractul de furnizare în contract de servicii sau invers."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 162 alin. (1)–(3)",
+     "citat": "Autoritatea contractantă are dreptul de a permite sau solicita ofertanților să depună oferte alternative numai dacă a precizat explicit în anunțul de participare că permite sau solicită depunerea de oferte alternative. (2) În cazul în care autoritatea contractantă nu a precizat explicit că permite sau solicită depunerea de oferte alternative conform dispozițiilor alin. (1), autoritatea contractantă nu are dreptul de a lua în considerare ofertele alternative. (3) Ofertele alternative trebuie să fie în legătură cu obiectul contractului de achiziție publică/acordului-cadru.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 162 alin. (4) și (6)",
+     "citat": "are obligația de a preciza în documentele achiziției cerințele minime obligatorii pe care acestea trebuie să le respecte și orice alte cerințe specifice pentru prezentarea ofertelor alternative, în special dacă ofertele alternative pot fi depuse numai în cazul în care a fost depusă și o ofertă care nu este o ofertă alternativă. [...] (6) Autoritatea contractantă are obligația de a nu lua în considerare ofertele alternative care nu respectă cerințele minime stabilite în conformitate cu dispozițiile alin. (4).",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 162 alin. (7)–(8)",
+     "citat": "nu are dreptul de a respinge o astfel de ofertă alternativă pentru singurul motiv că, dacă aceasta este declarată câștigătoare: a) contractul de furnizare pentru atribuirea căruia s-a organizat procedura se califică drept contract de servicii; sau b) contractul de servicii pentru atribuirea căruia s-a organizat procedura se califică drept contract de furnizare. (8) În cazul în care autoritatea contractantă permite sau solicită depunerea de oferte alternative, ofertanții pot depune doar ofertă alternativă.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "DUAE: ce este și cine îl completează (art. 193–195)",
+   "paragrafe": [
+    "DUAE e o declarație pe propria răspundere actualizată, acceptată la depunere ca dovadă preliminară, în locul certificatelor. Confirmă că operatorul nu e în situațiile de excludere de la art. 164, 165 și 167, că îndeplinește criteriile de capacitate și, după caz, criteriile de selecție.",
+    "Terțul susținător completează DUAE separat, împreună cu angajamentul de susținere. Subcontractanții pe a căror capacitate se bazează ofertantul completează DUAE separat; ceilalți subcontractanți declară doar informațiile privind excluderea.",
+    "Un DUAE deja folosit poate fi reutilizat, dacă operatorul confirmă că informațiile sunt încă valabile. DUAE se face pe formularul standard al Comisiei Europene, exclusiv electronic."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 193 alin. (1)",
+     "citat": "Autoritatea contractantă acceptă la momentul depunerii solicitărilor de participare sau ofertelor DUAE, constând într-o declarație pe propria răspundere actualizată, ca dovadă preliminară în locul certificatelor eliberate de către autoritățile publice sau de către terți care confirmă că operatorul economic în cauză îndeplinește următoarele condiții: a) nu se află în niciuna din situațiile de excludere menționate la art. 164, 165 și 167; b) îndeplinește criteriile privind capacitatea, astfel cum au fost solicitate de autoritatea contractantă; c) dacă este cazul, îndeplinește criteriile de selecție",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 193 alin. (2)–(3)",
+     "citat": "DUAE, împreună cu angajamentul de susținere, trebuie să fie completat separat și de către terțul/terții susținător (i) pe a căror capacitate se bazează ofertantul/ candidatul. [...] În cazul subcontractanților pe a căror capacități ofertantul/candidatul nu se bazează, DUAE va conține numai informațiile menționate la alin. (1) lit. a).",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 194",
+     "citat": "Operatorii economici pot reutiliza un DUAE deja utilizat într-o procedură de atribuire precedentă, cu condiția să confirme că informațiile cuprinse în acesta sunt în continuare corecte și valabile la data depunerii acestuia.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 195",
+     "citat": "DUAE se elaborează pe baza unui formular standard aprobat de Comisia Europeană și se furnizează exclusiv în format electronic.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Documentele justificative (art. 196–197)",
+   "paragrafe": [
+    "Autoritatea poate cere oricând documentele justificative, dacă e necesar pentru buna desfășurare a procedurii. Ele se depun în cel mult 5 zile lucrătoare, cu o prelungire de maximum 5 zile lucrătoare la cerere motivată, sub sancțiunea excluderii.",
+    "Înainte de atribuire, autoritatea cere ofertantului clasat pe primul loc documentele actualizate, într-o zi lucrătoare de la clasare sau de la avizul conform în controlul ex ante. La procedurile în mai multe etape, documentele se cer înainte de invitațiile pentru etapa a doua. Ofertantul are până la 7 zile lucrătoare, prelungibile cu cel mult 3 zile lucrătoare, sub sancțiunea respingerii ofertei ca inacceptabilă.",
+    "Operatorul nu mai prezintă documente pe care autoritatea le poate obține gratuit din baze de date naționale sau pe care le deține deja."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 196 alin. (1)",
+     "citat": "Autoritatea contractantă poate solicita candidaților/ofertanților să depună toate sau o parte dintre documentele justificative ca dovadă a informațiilor cuprinse în DUAE, în orice moment pe durata desfășurării unei proceduri de atribuire, dacă acest lucru este necesar pentru a asigura desfășurarea corespunzătoare a procedurii. Documentele solicitate vor trebui depuse de către candidați/ofertanți, sub sancțiunea excluderii, în termen de cel mult 5 zile lucrătoare de la primirea solicitării din partea autorității contractante, cu posibilitatea de prelungire cu maximum 5 zile lucrătoare, la solicitarea motivată a candidatului/ofertantului respectiv.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 196 alin. (2)",
+     "citat": "în termen de o zi lucrătoare de la momentul stabilirii ofertantului clasat pe primul loc după aplicarea criteriului de atribuire, respectiv in termen de o zi lucrătoare de la emiterea avizului conform, în situația în care documentația este supusă controlului ex-ante [...] cu excepția procedurilor desfășurate în mai multe etape, când documentele justificative sunt solicitate înainte de transmiterea invitațiilor pentru etapa a doua către candidații selectați, acordând ofertantului/candidatului un termen de până la 7 zile lucrătoare pentru a răspunde la solicitarea de clarificare, sub sancțiunea respingerii ofertei ca inacceptabilă. Acest termen poate fi prelungit la solicitarea justificată a ofertantului/ candidatului, cu cel mult 3 zile lucrătoare.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 197 alin. (1)–(2)",
+     "citat": "operatorii economici nu sunt obligați să prezinte documente justificative sau alte probe în sprijinul informațiilor declarate în DUAE în cazul și în măsura în care autoritatea contractantă are posibilitatea de a obține certificatele sau informațiile relevante în mod direct, prin accesarea unei baze de date naționale din orice stat membru, disponibile în mod gratuit [...] (2) Prin excepție de la dispozițiile art. 196, operatorii economici nu sunt obligați să prezinte documente justificative în sprijinul informațiilor declarate în DUAE în cazul în care autoritatea contractantă care a atribuit contractul de achiziție publică sau a încheiat acordul-cadru este deja în posesia documentelor respective.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "e-Certis, certificări de calitate și liste oficiale (art. 199–202)",
+   "paragrafe": [
+    "Autoritățile folosesc e-Certis și cer în principal certificatele disponibile acolo. Certificatele de calitate sau de mediu se raportează la standardele europene; autoritatea acceptă certificate echivalente din alte state membre și, dacă operatorul nu le putea obține din motive neimputabile, alte probe echivalente.",
+    "Înscrierea pe o listă oficială sau un certificat de la un organism de certificare creează o prezumție relativă de îndeplinire a cerințelor acoperite. Informațiile rezultate nu pot fi puse la îndoială fără justificare. Operatorii din alte state membre nu sunt obligați să se înscrie pe o listă oficială din România."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 199 alin. (2)",
+     "citat": "Autoritățile contractante utilizează e-Certis și solicită în principal acele tipuri de certificate sau forme de documente justificative care sunt disponibile în e-Certis.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 200 alin. (2)",
+     "citat": "Autoritatea contractantă are obligația, în conformitate cu principiul recunoașterii reciproce, de a accepta certificate echivalente cu cele prevăzute la alin. (1), emise de organisme de certificare acreditate stabilite în alte state membre.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 201 alin. (4)",
+     "citat": "Înscrierea operatorilor economici pe listele oficiale certificate de organismele competente sau un certificat eliberat de un organism de certificare reprezintă o prezumție relativă în ceea ce privește îndeplinirea de către operatorul economic înscris pe respectiva listă sau care deține respectivul certificat a cerințelor de calificare și selecție acoperite de lista oficială sau de acel certificat.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 202 alin. (1) și (3)",
+     "citat": "Informațiile care rezultă din înscrierea pe listele oficiale sau din certificatele eliberate de organisme de certificare nu pot fi puse la îndoială fără justificare. [...] (3) Operatorii economici din alte state membre nu au obligația de a se înscrie pe o listă oficială organizată potrivit dispozițiilor prezentei legi",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Primele la dialogul competitiv (Norme art. 20 alin. (13)–(15))",
+   "paragrafe": [
+    "La dialogul competitiv, documentele pot prevedea prime pentru participanți și valoarea lor. Primele se stabilesc în limita bugetului și a cheltuielilor de participare și nu pot depăși în total 2% din valoarea estimată a contractului. Ofertantul declarat câștigător nu primește primă."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 20 alin. (14)–(15)",
+     "citat": "Primele se stabilesc în limita bugetului disponibil al autorității contractante și în funcție de cheltuielile specifice implicate de participarea la dialog, valoarea totală a primelor respective neputând depăși 2% din valoarea estimată a contractului care urmează să fie atribuit. Primele se reflectă ca o cheltuială de aceeași natură cu achiziția publică. (15) Este exceptat de la acordarea primelor operatorul economic a cărui ofertă este, în final, declarată câștigătoare.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Documentul descriptiv înlocuiește caietul de sarcini doar la dialogul competitiv, negociere și parteneriatul pentru inovare (Norme art. 20 alin. (1) lit. b)).",
+  "Dacă DUAE și anunțul diferă, prevalează anunțul (Norme art. 20 alin. (7)).",
+  "Garanția de participare e un drept (maximum 1%); garanția de bună execuție e o obligație (maximum 10% din preț fără TVA). Renunțarea la garanția de bună execuție e permisă în două cazuri: contractele sub pragurile de la art. 7 alin. (1), altele decât cele de proiectare și de lucrări, și contractele atribuite prin negociere fără publicare.",
+  "Numerarul la casierie e permis doar sub 5.000 lei; reținerile succesive sunt permise doar pentru garanția de bună execuție.",
+  "Mențiunea „sau echivalent” însoțește atât trimiterile la standarde, cât și, excepțional, mărcile sau producătorii.",
+  "Răspunsul la clarificări: cu cel puțin 10 zile înainte de termen (5 zile în urgență); la procedura simplificată 6/3/2 zile.",
+  "Ofertele alternative nu se pot lua în considerare dacă anunțul nu le permite explicit.",
+  "Documentele justificative se cer, înainte de atribuire, doar ofertantului clasat pe primul loc: 7 zile lucrătoare plus cel mult 3.",
+  "Primele de la dialogul competitiv: în total cel mult 2% din valoarea estimată; câștigătorul nu primește primă."
+ ],
+ "intrebari": [
+  "N395A-039",
+  "N395A-040",
+  "N395A-041",
+  "N395A-042",
+  "N395A-043",
+  "N395A-044",
+  "N395A-045",
+  "N395A-046",
+  "N395-N102",
+  "N395A-047",
+  "N395-N103",
+  "N395A-048",
+  "L98C-034",
+  "L98C-035",
+  "L98C-036",
+  "L98C-037",
+  "N395A-059",
+  "L98C-038",
+  "L98C-039",
+  "L98C-040",
+  "L98E-010",
+  "L98C-041",
+  "L98C-042",
+  "L98-N406",
+  "L98E-011",
+  "L98-N407",
+  "L98C-043",
+  "L98C-044",
+  "L98C-045",
+  "L98D-001",
+  "L98D-002",
+  "L98D-003",
+  "L98D-004",
+  "L98D-005",
+  "L98D-006",
+  "L98D-007",
+  "L98D-008",
+  "L98D-009",
+  "L98-N603",
+  "L98D-010",
+  "L98D-011",
+  "L98D-012"
+ ]
+}
