@@ -79,7 +79,10 @@ def referinte(temei):
     """Rezumatul din titlul unui temei restrâns: „art. 2 · art. 3 alin. (1)”, cu actul în față
     doar când secțiunea citează din mai multe acte."""
     acte = {t["fisier"][:2] for t in temei}
-    parti = [(SCURT.get(t["fisier"][:2], "") + ", " if len(acte) > 1 else "") + t["articol"] for t in temei]
+    parti = []
+    for t in temei:   # două citate din același articol apar o singură dată
+        x = (SCURT.get(t["fisier"][:2], "") + ", " if len(acte) > 1 else "") + t["articol"]
+        if x not in parti: parti.append(x)
     return " · ".join(html.escape(x) for x in parti)
 
 def pagina(d, slug, vecini=(None, None), in_banca=frozenset()):
