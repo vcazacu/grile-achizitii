@@ -1,0 +1,612 @@
+[
+ {
+  "loc": "Ce poate decide CNSC (art. 26 alin. (1)–(3), (5), (7)) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "CNSC se pronunță întâi asupra excepțiilor de procedură și de fond; dacă sunt întemeiate, nu mai analizează fondul.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Pe fond, examinează legalitatea și temeinicia actului și poate: să-l anuleze în tot sau în parte; să oblige autoritatea la emiterea unui act ori la măsuri de remediere precise; să anuleze procedura, dacă actul nu poate fi remediat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3477
+ },
+ {
+  "loc": "Ce poate decide CNSC (art. 26 alin. (1)–(3), (5), (7)) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă CNSC dispune modificarea specificațiilor tehnice, autoritatea anulează procedura doar dacă nu mai are altă măsură de remediere sau dacă măsura ar afecta principiile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Termenul pentru remediere nu poate fi mai scurt decât termenul de atac al deciziei.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3441
+ },
+ {
+  "loc": "Respingerea, renunțarea, cheltuielile și limitele CNSC (art. / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Contestația poate fi respinsă ca nefondată, tardivă, lipsită de interes sau de obiect, introdusă de o persoană fără calitate ori pe orice altă excepție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "CNSC poate lua act oricând de renunțarea contestatorului și poate obliga, la cerere, partea în culpă la cheltuieli, dacă cererea se depune înainte de pronunțare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3322
+ },
+ {
+  "loc": "Respingerea, renunțarea, cheltuielile și limitele CNSC (art. / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "CNSC nu poate atribui contractul unui anumit operator, decât dacă autoritatea l-a desemnat sau calitatea de câștigător reiese din dosar.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La reevaluare, indică precis ofertele, etapele și măsurile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Dacă descoperă alte acte nelegale necontestate, sesizează ANAP, Curtea de Conturi și autoritatea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3694
+ },
+ {
+  "loc": "Decizia CNSC: adoptare, comunicare, publicare (art. 27) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Hotărârea care soluționează contestația sau prin care CNSC se dezinvestește e decizie; celelalte sunt încheieri.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.84,
+     "nu_spune": 0.0,
+     "contrazice": 0.16
+    },
+    "confidence": 0.79
+   },
+   "1": {
+    "text": "Se adoptă cu votul majorității completului, fără abțineri, iar opinia separată se consemnează.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3101
+ },
+ {
+  "loc": "Decizia CNSC: adoptare, comunicare, publicare (art. 27) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Decizia motivată se comunică părților în 3 zile de la pronunțare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "CNSC o publică pe site în 5 zile, fără datele de identificare și confidențiale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Autoritatea o publică în SEAP în 5 zile de la primire.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "3": {
+    "text": "Deciziile cu măsuri de remediere se trimit săptămânal ANAP.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3876
+ },
+ {
+  "loc": "Efectele deciziei (art. 28) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Decizia CNSC e obligatorie pentru părți.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Se poate cere îndreptarea, lămurirea sau completarea ei.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Contractul încheiat cu nerespectarea deciziei e lovit de nulitate absolută.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "3": {
+    "text": "Dacă se formulează plângere, autoritatea poate suspenda executarea deciziei sau procedura până la comunicarea hotărârii instanței.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2783
+ },
+ {
+  "loc": "Plângerea împotriva deciziei CNSC (art. 29–31, 36^1) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Decizia se atacă cu plângere de autoritate sau de orice persoană vătămată de măsurile dispuse, pentru nelegalitate și netemeinicie, în 10 zile de la comunicare, respectiv de la luarea la cunoștință pentru alte persoane.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Plângerea e scutită de taxa de timbru.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2972
+ },
+ {
+  "loc": "Plângerea împotriva deciziei CNSC (art. 29–31, 36^1) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Plângerea e scrisă și nu poate invoca alte motive decât cele din contestație.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Se depune la instanță, cu o copie la CNSC, care trimite dosarul în cel mult 3 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Plângerea se comunică și celorlalte părți, sub sancțiunea respingerii ca tardivă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "3": {
+    "text": "Întâmpinarea e obligatorie, în 5 zile, iar probe noi nu se pot depune.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3746
+ },
+ {
+  "loc": "Instanța competentă și termenele (art. 32, 35) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Competentă e curtea de apel, secția de contencios administrativ și fiscal, de la sediul autorității, prin complete specializate de 3 judecători.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Pentru infrastructura de transport de interes național, competentă e Curtea de Apel București.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2893
+ },
+ {
+  "loc": "Instanța competentă și termenele (art. 32, 35) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Plângerea se soluționează de urgență, în cel mult 45 de zile de la sesizare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Primul termen e de maximum 20 de zile de la înregistrare, iar următoarele de cel mult 15 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Pronunțarea se poate amâna cu 5 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "3": {
+    "text": "Hotărârea e definitivă și se redactează în 7 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3665
+ },
+ {
+  "loc": "Suspendarea și soluțiile instanței (art. 33–34) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "În cazuri temeinic justificate, pentru o pagubă iminentă, instanța poate suspenda procedura sau executarea contractului, prin încheiere definitivă, cu citarea părților.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Poate refuza suspendarea dacă efectele negative ar depăși beneficiile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3722
+ },
+ {
+  "loc": "Suspendarea și soluțiile instanței (art. 33–34) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Admițând plângerea, instanța modifică decizia CNSC: anulează actul, obligă autoritatea la măsuri, inclusiv eliminarea specificațiilor discriminatorii, sau anulează procedura.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Dacă CNSC a rezolvat doar o excepție sau doar o parte din motive, instanța reține cauza și judecă fondul.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Nici instanța nu poate atribui contractul unui anumit operator, în afara situațiilor permise.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4152
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "CNSC analizează întâi excepțiile; dacă sunt întemeiate, nu mai judecă fondul.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10508
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Anularea procedurii de către CNSC sau instanță are loc doar dacă actul atacat nu poate fi remediat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.12,
+     "sustine": 0.88
+    },
+    "confidence": 0.83
+   }
+  },
+  "usage": 10508
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Decizia CNSC se adoptă cu majoritate, fără abțineri; se comunică în 3 zile și se publică în 5 zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10513
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Plângerea: 10 zile de la comunicare, la curtea de apel de la sediul autorității, scutită de taxa de timbru; fără motive și probe noi.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.04,
+     "absenta_corecta": 0.0,
+     "sustine": 0.96,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.94
+   }
+  },
+  "usage": 10522
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Infrastructura de transport de interes național: plângerea se judecă la Curtea de Apel București.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10508
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Instanța soluționează în cel mult 45 de zile, cu primul termen în maximum 20 de zile; hotărârea e definitivă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10515
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Contractul încheiat cu nerespectarea deciziei CNSC e nul absolut.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10497
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Nici CNSC, nici instanța nu pot atribui contractul unui anumit operator, decât dacă autoritatea l-a desemnat sau calitatea lui reiese din dosar.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10520
+ }
+]
