@@ -1,0 +1,300 @@
+{
+ "nr": 24,
+ "titlu": "Rolul și responsabilitatea ordonatorilor de credite. Aprobarea bugetului de stat",
+ "rezumat": "Ordonatorii de credite sunt principali, secundari și terțiari. Ei repartizează și utilizează creditele în limita și pentru destinațiile aprobate, răspund de angajarea, lichidarea și ordonanțarea cheltuielilor și de buna gestiune financiară. Își pot delega calitatea, dar nu conducătorului compartimentului financiar-contabil. Angajarea și ordonanțarea cer viza de control financiar preventiv. Bugetul de stat urmează un calendar strict, de la prognozele din 1 iunie până la depunerea în Parlament până la 15 noiembrie. Parlamentul îl aprobă pe structura clasificației și nu poate mări deficitul prin amendamente. Fără lege bugetară, se cheltuiește lunar 1/12 din bugetul anului precedent.",
+ "sectiuni": [
+  {
+   "titlu": "Cine aprobă bugetele (art. 16)",
+   "paragrafe": [
+    "Bugetul de stat, bugetul asigurărilor sociale, fondurile speciale, creditele externe garantate și fondurile externe nerambursabile se aprobă prin lege. Bugetele instituțiilor autonome se aprobă de organele stabilite prin legi speciale, iar bugetul trezoreriei prin hotărâre a Guvernului.",
+    "Bugetele instituțiilor finanțate integral de la buget le aprobă ordonatorul ierarhic superior. Bugetele instituțiilor finanțate integral din venituri proprii le aprobă conducerea instituției, cu acordul ordonatorului ierarhic superior. Ambele se aprobă în 15 zile de la publicarea legii bugetare sau a rectificării."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 16 alin. (1) lit. a), d)–f)",
+     "citat": "a) bugetul de stat, bugetul asigurărilor sociale de stat, bugetele fondurilor speciale, bugetele creditelor externe contractate sau garantate de stat și bugetele fondurilor externe nerambursabile, prin lege; [...] d) bugetele instituțiilor publice finanțate integral din bugetele prevăzute la lit. a), de către ordonatorul de credite ierarhic superior al acestora; e) bugetele instituțiilor publice care se finanțează integral din venituri proprii, de către organul de conducere al instituției publice și cu acordul ordonatorului de credite ierarhic superior; f) bugetul trezoreriei statului, prin hotărâre a Guvernului.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 16 alin. (2)",
+     "citat": "Bugetele prevăzute la alin. (1) lit. d) și e) se aproba în termen de 15 zile de la data publicării legii bugetare anuale sau a legii de rectificare în Monitorul Oficial al României, Partea I.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Rolul Parlamentului, al Guvernului și al Ministerului Finanțelor (art. 17–19)",
+   "paragrafe": [
+    "Parlamentul adoptă legile bugetare, rectificările și legile contului general de execuție. Dacă legile bugetare nu sunt adoptate până la 15 decembrie, Guvernul cere procedura de urgență. În dezbateri nu se pot aproba amendamente care măresc deficitul, iar modificările creditelor se fac doar prin redistribuiri între subdiviziuni.",
+    "Guvernul realizează politica fiscal-bugetară: elaborează raportul macroeconomic pentru anul bugetar și următorii 3 ani, proiectele legilor bugetare, rectificările și contul de execuție și folosește fondurile de rezervă și de intervenție prin hotărâri.",
+    "Ministerul Finanțelor coordonează pregătirea proiectelor, emite normele privind elaborarea bugetelor și execuția cheltuielilor, aprobă clasificațiile bugetare, monitorizează execuția și poate bloca sau reduce creditele fără temei legal ori fără justificare."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 17 alin. (2)–(3)",
+     "citat": "În cazul în care legile bugetare anuale, depuse în termen legal, nu au fost adoptate de către Parlament până cel târziu la data de 15 decembrie a anului anterior anului la care se referă proiectul de buget, Guvernul va solicita Parlamentului aplicarea procedurii de urgență. [...] (3) În timpul dezbaterilor nu pot fi aprobate amendamente la legile bugetare anuale, care determina majorarea nivelului deficitului bugetar.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 17 alin. (3^1)",
+     "citat": "Modificarea creditelor bugetare și/sau de angajament, ca urmare a amendamentelor propuse potrivit prevederilor alin. (2^1), se face numai prin redistribuiri de sume între subdiviziuni ale clasificației bugetare.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 18 alin. (2) lit. a)–b), e)",
+     "citat": "a) elaborarea raportului privind situația macroeconomică pentru anul bugetar respectiv și proiecția acesteia în următorii 3 ani; b) elaborarea proiectelor legilor bugetare anuale și transmiterea acestora spre adoptare Parlamentului, în cadrul termenului limita prevăzut de prezenta lege; [...] e) utilizarea fondului de rezerva bugetară și a fondului de intervenție la dispoziția sa, pe baza de hotărâri.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 19 lit. d), f), l)",
+     "citat": "d) emite norme metodologice, precizări și instrucțiuni prin care se stabilesc practicile și procedurile pentru încasarea veniturilor, angajarea, lichidarea, ordonanțarea și plata cheltuielilor, activitățile de control intern și audit intern privind modul de gestionare a acestora, încheierea exercițiului bugetar anual, contabilizarea și raportarea acestuia; [...] f) aproba clasificațiile bugetare, precum și modificările acestora; [...] l) blochează sau reduce utilizarea unor credite bugetare constatate ca fiind fără temei legal sau fără justificare în bugetele ordonatorilor de credite;",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Categoriile de ordonatori și delegarea (art. 20)",
+   "paragrafe": [
+    "Ordonatorii de credite sunt de 3 categorii: principali, secundari și terțiari. Principali sunt miniștrii, conducătorii celorlalte organe centrale de specialitate, ai altor autorități publice și ai instituțiilor autonome. Conducătorii instituțiilor cu personalitate juridică din subordine sau coordonare sunt ordonatori secundari sau terțiari.",
+    "Calitatea se poate delega înlocuitorilor de drept, secretarului general sau altor persoane împuternicite, dar nu conducătorului compartimentului financiar-contabil. Actul de delegare precizează competențele și condițiile."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 20 alin. (1)–(3)",
+     "citat": "Ordonatorii de credite sunt de 3 categorii: ordonatori principali, ordonatori secundari și ordonatori terțiari. (2) Ordonatorii principali de credite sunt miniștrii, conducătorii celorlalte organe de specialitate ale administrației publice centrale, conducătorii altor autorități publice și conducătorii instituțiilor publice autonome. (3) Conducătorii instituțiilor publice cu personalitate juridică din subordinea/coordonarea ordonatorilor principali de credite sunt ordonatori secundari sau terțiari de credite, după caz.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 20 alin. (4)",
+     "citat": "Ordonatorii de credite pot delega această calitate înlocuitorilor de drept, secretarului general sau altor persoane împuternicite în acest scop, cu excepția conducătorului compartimentului financiar-contabil. Prin actul de delegare, ordonatorii de credite vor preciza competențele delegate și condițiile delegării acestora.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Repartizarea creditelor și rezerva de 10% (art. 21)",
+   "paragrafe": [
+    "Ordonatorii principali repartizează creditele pentru bugetul propriu și pentru instituțiile subordonate și transmit bugetele acestora în 15 zile de la intrarea în vigoare a legii bugetare. Ordonatorii secundari repartizează mai departe către terțiari. Terțiarii angajează și utilizează creditele numai pentru sarcinile instituției lor.",
+    "Pentru o execuție prudentă, ordonatorii principali repartizează creditele după reținerea a 10% din prevederi. Excepțiile sunt cheltuielile de personal, asistența și asigurările sociale, bursele, datoria publică, obligațiile internaționale și sumele din fondurile Guvernului. Sumele reținute se repartizează în semestrul al doilea, după raportul semestrial și opinia Consiliului Fiscal."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 21 alin. (2)",
+     "citat": "Ordonatorii principali de credite transmit bugetele instituțiilor publice din subordine sau coordonare, ai căror conducători sunt ordonatori secundari sau terțiari de credite, după caz, în termen de 15 zile de la intrarea în vigoare a legii bugetare anuale.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 21 alin. (4)",
+     "citat": "Ordonatorii terțiari de credite angajează cheltuieli în limita creditelor de angajament repartizate și utilizează creditele bugetare ce le-au fost repartizate numai pentru realizarea sarcinilor instituțiilor pe care le conduc",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 21 alin. (5)–(7)",
+     "citat": "Pentru asigurarea unei execuții bugetare prudente, ordonatorii principali de credite vor repartiza, potrivit alin. (1), creditele de angajament și creditele bugetare după reținerea a 10% din prevederile aprobate acestora*). (6) Fac excepție de la prevederile alin. (5) următoarele: a) cheltuielile de personal, inclusiv cheltuielile de personal care se regăsesc în structura altor subdiviziuni ale clasificației bugetare; b) cheltuielile acordate în bani, de natura asistenței sociale și asigurărilor sociale, precum și a contribuțiilor de asigurări sociale aferente, cheltuielile cu bursele acordate din fonduri publice, potrivit dispozițiilor legale în vigoare; c) cheltuielile cu datoria publică; d) cheltuielile care decurg din obligații internaționale; e) sumele alocate ordonatorilor principali de credite din Fondul de rezervă bugetară la dispoziția Guvernului și Fondul de intervenție la dispoziția Guvernului, care vor fi repartizate integral. (7) Repartizarea sumelor reținute în proporție de 10% se face în semestrul al doilea, după examinarea de către Guvern a raportului semestrial privind situația economică și bugetară și a opiniei Consiliului Fiscal cu privire la acesta.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Responsabilitățile ordonatorilor și controlul financiar preventiv (art. 22–25)",
+   "paragrafe": [
+    "Ordonatorii angajează cheltuieli în limita creditelor de angajament și folosesc creditele bugetare doar pentru destinațiile aprobate, strict legate de activitatea instituției. Răspund de angajare, lichidare și ordonanțare, de realizarea veniturilor, de buna gestiune financiară, de integritatea bunurilor, de contabilitate și de monitorizarea programului de achiziții publice și a investițiilor.",
+    "Controlul financiar preventiv și auditul intern privesc toate operațiunile care afectează fondurile sau patrimoniul public. Angajarea, lichidarea și ordonanțarea le aprobă ordonatorul, iar plata o face conducătorul compartimentului financiar-contabil. Angajarea și ordonanțarea cer viza prealabilă de control financiar preventiv propriu și, după caz, delegat, exercitat de Ministerul Finanțelor."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 22 alin. (1)",
+     "citat": "Ordonatorii de credite au obligația de a angaja cheltuieli în limita creditelor de angajament și de a utiliza creditele bugetare numai în limita prevederilor și destinațiilor aprobate, pentru cheltuieli strict legate de activitatea instituțiilor publice respective și cu respectarea dispozițiilor legale.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 22 alin. (2) lit. a)–d), f)",
+     "citat": "a) angajarea, lichidarea și ordonanțarea cheltuielilor în limita creditelor de angajament și creditelor bugetare repartizate și aprobate potrivit prevederilor art. 21; b) realizarea veniturilor; c) angajarea și utilizarea cheltuielilor în limita creditelor de angajament și creditelor bugetare pe baza bunei gestiuni financiare; d) integritatea bunurilor încredințate instituției pe care o conduc; [...] f) organizarea sistemului de monitorizare a programului de achiziții publice și a programului de lucrări de investiții publice;",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 23",
+     "citat": "Controlul financiar preventiv și auditul intern se exercita asupra tuturor operațiunilor care afectează fondurile publice și/sau patrimoniul public și sunt exercitate conform reglementărilor legale în domeniu.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 24",
+     "citat": "(1) Angajarea, lichidarea și ordonanțarea cheltuielilor din fonduri publice se aprobă de ordonatorul de credite, iar plata acestora se efectuează de către conducătorul compartimentului financiar-contabil/persoana responsabilă cu efectuarea plății. (2) Angajarea și ordonanțarea cheltuielilor se efectuează numai cu viza prealabilă de control financiar preventiv propriu și a controlului financiar preventiv delegat, după caz, potrivit dispozițiilor legale.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 25",
+     "citat": "Controlul financiar preventiv delegat se exercita de Ministerul Finanțelor Publice, conform legislației în domeniu.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Calendarul bugetar (art. 31–35^1)",
+   "paragrafe": [
+    "Comisia Națională de Prognoză elaborează prognozele până la 1 iunie. Guvernul aprobă analiza cheltuielilor publice până la 15 iulie. Ministerul Finanțelor propune Guvernului limitele de cheltuieli până la 31 iulie și trimite scrisoarea-cadru ordonatorilor principali până la 1 august.",
+    "Ordonatorii principali depun propunerile de buget până la 1 septembrie, iar pe cele refăcute până la 15 septembrie. Ministerul depune proiectele la Guvern până la 30 septembrie, pentru prima lectură, și le definitivează până la 1 noiembrie. Guvernul le supune Parlamentului cel mai târziu până la 15 noiembrie.",
+    "În anii cu alegeri parlamentare în ultimele 3 luni, proiectele se depun la Guvern în 15 zile de la învestire și ajung în Parlament în cel mult 20 de zile de la învestire, fără a depăși 31 decembrie."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 31",
+     "citat": "Prognozele indicatorilor macroeconomici și sociali, în conformitate cu prevederile art. 28 lit. a), se elaborează de către Comisia Națională de Prognoză, până la data de 1 iunie a anului curent.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 31^1 alin. (1)",
+     "citat": "Guvernul aprobă, prin memorandum, până la data de 15 iulie a fiecărui an, cadrul, tema, rapoartele de analiză a cheltuielilor publice și măsurile stabilite pentru realizarea acestor analize",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 32",
+     "citat": "Ministerul Finanțelor Publice va înainta Guvernului, până la data de 31 iulie a fiecărui an, limitele de cheltuieli pentru anul bugetar următor, precum și estimările pentru următorii 3 ani, stabilite pe ordonatorii principali de credite.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 33 alin. (1)",
+     "citat": "Ministrul finanțelor publice va transmite ordonatorilor principali de credite, până la data de 1 august a fiecărui an, o scrisoare-cadru, care va specifica contextul macroeconomic pe baza căruia vor fi întocmite proiectele de buget, metodologiile de elaborare a acestora, precum și limitele de cheltuieli aprobate de Guvern.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 34 alin. (1) și (5)",
+     "citat": "Ordonatorii principali de credite au obligația ca, până la data de 1 septembrie a fiecărui an, să depună la Ministerul Finanțelor Publice propunerile pentru proiectul de buget și anexele la acesta [...] (5) Proiectele de buget și anexele la acesta, refăcute, se depun la Ministerul Finanțelor Publice, până la data de 15 septembrie a fiecărui an.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 35 alin. (1), (3^1)–(4)",
+     "citat": "întocmește proiectele legilor bugetare și proiectele bugetelor, pe care le depune la Guvern pentru prima lectură, până la data de 30 septembrie a fiecărui an. [...] (3^1) Ministerul Finanțelor Publice, pe baza prognozelor de toamnă ale Comisiei Naționale de Prognoză, definitivează proiectele de buget ale ordonatorilor principali de credite și al bugetului propriu și proiectele legilor bugetare anuale, pe care le depune la Guvern, până la data de 1 noiembrie a fiecărui an. (4) După însușirea de către Guvern a proiectelor legilor bugetare și de buget, prevăzute la alin. (3^1), acesta le supune spre adoptare Parlamentului, cel mai târziu până la data de 15 noiembrie a fiecărui an.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 35^1",
+     "citat": "a) Ministerul Finanțelor Publice, pe baza proiectelor de buget ale ordonatorilor principali de credite și a bugetului propriu, întocmește proiectele legilor bugetare și proiectele bugetelor pe anul următor, pe care le depune la Guvern în termen de 15 zile de la învestirea noului Guvern, conform art. 103 din Constituția României, republicată; b) după însușirea de către Guvern a proiectelor legilor bugetare și de buget, prevăzute la art. 35 alin. (1), acesta le supune spre adoptare Parlamentului cel mai târziu în 20 de zile de la învestire, fără a depăși data de 31 decembrie a anului în curs.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Aprobarea bugetului și lipsa legii bugetare (art. 36–37)",
+   "paragrafe": [
+    "Parlamentul aprobă bugetele pe ansamblu, pe părți, capitole, subcapitole, titluri, articole și alineate și pe ordonatori principali, precum și creditele de angajament. Estimările pentru următorii 3 ani sunt orientative și nu se autorizează.",
+    "Dacă legile bugetare nu sunt adoptate cu cel puțin 3 zile înainte de sfârșitul exercițiului, Guvernul execută sarcinile din bugetul anului precedent, cu limite lunare, de regulă, de 1/12 din prevederile acestuia sau din proiect, dacă acestea sunt mai mici. Instituțiile și acțiunile noi care încep la 1 ianuarie primesc tot 1/12 din prevederile din proiect."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 36 alin. (1)–(3)",
+     "citat": "Bugetele se aprobă de Parlament pe ansamblu, pe părți, capitole, subcapitole, titluri, articole, precum și alineate, după caz, și pe ordonatorii principali de credite, pentru anul bugetar, precum și creditele de angajament pentru acțiuni anuale și multianuale. (2) Creditele bugetare și creditele de angajament estimate pentru următorii 3 ani sunt prezentate Parlamentului și publicate în Monitorul Oficial al României, având valoare orientativă. (3) Estimările pentru următorii 3 ani reprezintă informații privind necesarul de finanțare pe termen mediu și nu vor face obiectul autorizării pentru anii bugetari respectivi.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 37",
+     "citat": "(1) Dacă legile bugetare nu au fost adoptate cu cel puțin 3 zile înainte de expirarea exercițiului bugetar, Guvernul îndeplinește sarcinile prevăzute în bugetul anului precedent, limitele lunare de cheltuieli neputând depăși de regula 1/12 din prevederile bugetelor anului precedent, cu excepția cazurilor deosebite, temeinic justificate de către ordonatorii principali de credite, sau, după caz, 1/12 din sumele propuse în proiectul de buget, în situația în care acestea sunt mai mici decât cele din anul precedent. (2) Instituțiile publice și acțiunile noi, aprobate în anul curent, dar care încep cu data de 1 ianuarie a anului bugetar următor, vor fi finanțate, până la aprobarea legii bugetare, în limita a 1/12 din prevederile acestora cuprinse în proiectul de buget.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Fazele execuției și plățile în avans (art. 52)",
+   "paragrafe": [
+    "Cheltuielile parcurg fazele angajare, lichidare, ordonanțare și plată, cu separarea atribuțiilor ordonatorului de cele ale conducătorului compartimentului financiar-contabil. Plata se face numai pe bază de acte justificative, după lichidare și ordonanțare. Unde compartimentul financiar-contabil are mai puțin de 5 persoane, plata o fac ordonatorul și persoana împuternicită.",
+    "Guvernul poate stabili plăți în avans de până la 30% din fondurile publice; pentru proiectele de cercetare obținute prin competiții naționale, de maximum 90%. Avansurile nejustificate până la sfârșitul anului se recuperează și se restituie bugetului, iar dacă bunurile sau lucrările nu au fost livrate, cu dobânzi și penalități."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 52 alin. (1)–(2)",
+     "citat": "În procesul execuției bugetare, cheltuielile bugetare parcurg următoarele faze: angajare, lichidare, ordonanțare, plată. (2) Execuția bugetară se bazează pe principiul separării atribuțiilor persoanelor care au calitatea de ordonator de credite de atribuțiile persoanelor care au calitatea de conducător al compartimentului financiar-contabil.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 52 alin. (6)–(7)",
+     "citat": "Efectuarea plăților, în limita creditelor bugetare aprobate, se face numai pe bază de acte justificative, întocmite în conformitate cu dispozițiile legale, și numai după ce acestea au fost lichidate și ordonanțate potrivit prevederilor art. 24 și 25, după caz. (7) Plata cheltuielilor la instituțiile publice la care compartimentul financiar-contabil are un număr de personal mai mic de 5 persoane se realizează de către ordonatorul de credite și de persoana împuternicită cu atribuții financiar-contabile.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 52 alin. (8)–(9)",
+     "citat": "Guvernul poate stabili, prin hotărâre, acțiunile și categoriile de cheltuieli pentru care se pot efectua plăți în avans de până la 30% din fondurile publice, criteriile, procedurile, precum și limitele care se vor folosi în acest scop. (9) Prin excepție de la prevederile alin. (8), pentru proiectele de cercetare științifică obținute prin competiții naționale se pot efectua plăți în avans de maximum 90%, din fonduri publice, la începutul fiecărei etape de cercetare.",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    },
+    {
+     "act": "Legea nr. 500/2002 privind finanțele publice",
+     "articol": "art. 52 alin. (10)",
+     "citat": "vor fi recuperate de către instituția publică ce a acordat avansurile și se vor restitui bugetului din care au fost avansate. În cazul nelivrării bunurilor, neefectuării lucrărilor și serviciilor angajate pentru care s-au plătit avansuri, recuperarea sumelor de către instituția publică se face cu perceperea de dobânzi și penalități de întârziere sau majorări de întârziere",
+     "fisier": "10_Legea_500-2002_finantele_publice.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Ordonatorii de credite sunt de 3 categorii; delegarea e interzisă către conducătorul compartimentului financiar-contabil.",
+  "Ordonatorii principali rețin 10% din credite, cu excepțiile legii, și le repartizează în semestrul al doilea.",
+  "Bugetele instituțiilor subordonate se transmit în 15 zile de la intrarea în vigoare a legii bugetare; bugetele de la art. 16 lit. d)–e) se aprobă în 15 zile de la publicarea legii.",
+  "Calendarul: 1 iunie prognoze; 31 iulie limite; 1 august scrisoare-cadru; 1 septembrie propuneri; 30 septembrie la Guvern; 15 noiembrie la Parlament.",
+  "Amendamentele care măresc deficitul nu pot fi aprobate; modificările creditelor se fac doar prin redistribuiri.",
+  "Fără lege bugetară cu cel puțin 3 zile înainte de sfârșitul anului: limite lunare de 1/12 din bugetul anului precedent.",
+  "Estimările pentru următorii 3 ani sunt orientative, nu autorizări.",
+  "Plăți în avans: până la 30%, cu excepția cercetării obținute prin competiție națională, de maximum 90%."
+ ],
+ "intrebari": [
+  "L500-019",
+  "L500-020",
+  "L500-021",
+  "L500-022",
+  "L500-023",
+  "L500-024",
+  "L500-025",
+  "L500-026",
+  "L500-027",
+  "L500-028",
+  "L500-029",
+  "L500-030",
+  "L500-031",
+  "L500-032",
+  "L500B-003",
+  "L500-033",
+  "L500-N107",
+  "L500-034",
+  "L500-035",
+  "L500-041",
+  "L500-N206",
+  "L500-N207",
+  "L500-042",
+  "L500-043",
+  "L500-044",
+  "L500-045",
+  "L500B-006",
+  "L500-046",
+  "L500-047",
+  "L500-048",
+  "L500-049",
+  "L500-050",
+  "L500-063"
+ ]
+}

@@ -36,6 +36,7 @@ const FISIERE = [
   "./tematica/21-solutii-de-pronuntare-cai-de-atac.html",
   "./tematica/22-fazele-cheltuielilor-publice.html",
   "./tematica/23-venituri-si-cheltuieli.html",
+  "./tematica/24-ordonatorii-de-credite-aprobarea-bugetului.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",

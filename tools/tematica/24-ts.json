@@ -1,0 +1,708 @@
+[
+ {
+  "loc": "Cine aprobă bugetele (art. 16) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Bugetul de stat, bugetul asigurărilor sociale, fondurile speciale, creditele externe garantate și fondurile externe nerambursabile se aprobă prin lege.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Bugetele instituțiilor autonome se aprobă de organele stabilite prin legi speciale, iar bugetul trezoreriei prin hotărâre a Guvernului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2374
+ },
+ {
+  "loc": "Cine aprobă bugetele (art. 16) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Bugetele instituțiilor finanțate integral de la buget le aprobă ordonatorul ierarhic superior.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Bugetele instituțiilor finanțate integral din venituri proprii le aprobă conducerea instituției, cu acordul ordonatorului ierarhic superior.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Ambele se aprobă în 15 zile de la publicarea legii bugetare sau a rectificării.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2767
+ },
+ {
+  "loc": "Rolul Parlamentului, al Guvernului și al Ministerului Finanț / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Parlamentul adoptă legile bugetare, rectificările și legile contului general de execuție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă legile bugetare nu sunt adoptate până la 15 decembrie, Guvernul cere procedura de urgență.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "În dezbateri nu se pot aproba amendamente care măresc deficitul, iar modificările creditelor se fac doar prin redistribuiri între subdiviziuni.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4596
+ },
+ {
+  "loc": "Rolul Parlamentului, al Guvernului și al Ministerului Finanț / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Guvernul realizează politica fiscal-bugetară: elaborează raportul macroeconomic pentru anul bugetar și următorii 3 ani, proiectele legilor bugetare, rectificările și contul de execuție și folosește fondurile de rezervă și de intervenție prin hotărâri.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3822
+ },
+ {
+  "loc": "Rolul Parlamentului, al Guvernului și al Ministerului Finanț / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Ministerul Finanțelor coordonează pregătirea proiectelor, emite normele privind elaborarea bugetelor și execuția cheltuielilor, aprobă clasificațiile bugetare, monitorizează execuția și poate bloca sau reduce creditele fără temei legal ori fără justificare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3814
+ },
+ {
+  "loc": "Categoriile de ordonatori și delegarea (art. 20) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Ordonatorii de credite sunt de 3 categorii: principali, secundari și terțiari.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Principali sunt miniștrii, conducătorii celorlalte organe centrale de specialitate, ai altor autorități publice și ai instituțiilor autonome.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "text": "Conducătorii instituțiilor cu personalitate juridică din subordine sau coordonare sunt ordonatori secundari sau terțiari.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2581
+ },
+ {
+  "loc": "Categoriile de ordonatori și delegarea (art. 20) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Calitatea se poate delega înlocuitorilor de drept, secretarului general sau altor persoane împuternicite, dar nu conducătorului compartimentului financiar-contabil.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Actul de delegare precizează competențele și condițiile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2163
+ },
+ {
+  "loc": "Repartizarea creditelor și rezerva de 10% (art. 21) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Ordonatorii principali repartizează creditele pentru bugetul propriu și pentru instituțiile subordonate și transmit bugetele acestora în 15 zile de la intrarea în vigoare a legii bugetare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Ordonatorii secundari repartizează mai departe către terțiari.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Terțiarii angajează și utilizează creditele numai pentru sarcinile instituției lor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3464
+ },
+ {
+  "loc": "Repartizarea creditelor și rezerva de 10% (art. 21) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru o execuție prudentă, ordonatorii principali repartizează creditele după reținerea a 10% din prevederi.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Excepțiile sunt cheltuielile de personal, asistența și asigurările sociale, bursele, datoria publică, obligațiile internaționale și sumele din fondurile Guvernului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "text": "Sumele reținute se repartizează în semestrul al doilea, după raportul semestrial și opinia Consiliului Fiscal.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3489
+ },
+ {
+  "loc": "Responsabilitățile ordonatorilor și controlul financiar prev / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Ordonatorii angajează cheltuieli în limita creditelor de angajament și folosesc creditele bugetare doar pentru destinațiile aprobate, strict legate de activitatea instituției.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Răspund de angajare, lichidare și ordonanțare, de realizarea veniturilor, de buna gestiune financiară, de integritatea bunurilor, de contabilitate și de monitorizarea programului de achiziții publice și a investițiilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2914
+ },
+ {
+  "loc": "Responsabilitățile ordonatorilor și controlul financiar prev / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Controlul financiar preventiv și auditul intern privesc toate operațiunile care afectează fondurile sau patrimoniul public.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Angajarea, lichidarea și ordonanțarea le aprobă ordonatorul, iar plata o face conducătorul compartimentului financiar-contabil.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99
+    },
+    "confidence": 0.98
+   },
+   "2": {
+    "text": "Angajarea și ordonanțarea cer viza prealabilă de control financiar preventiv propriu și, după caz, delegat, exercitat de Ministerul Finanțelor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 3285
+ },
+ {
+  "loc": "Calendarul bugetar (art. 31–35^1) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Comisia Națională de Prognoză elaborează prognozele până la 1 iunie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Guvernul aprobă analiza cheltuielilor publice până la 15 iulie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.09,
+     "sustine": 0.91
+    },
+    "confidence": 0.88
+   },
+   "2": {
+    "text": "Ministerul Finanțelor propune Guvernului limitele de cheltuieli până la 31 iulie și trimite scrisoarea-cadru ordonatorilor principali până la 1 august.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 5724
+ },
+ {
+  "loc": "Calendarul bugetar (art. 31–35^1) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Ordonatorii principali depun propunerile de buget până la 1 septembrie, iar pe cele refăcute până la 15 septembrie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.02,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 0.98
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Ministerul depune proiectele la Guvern până la 30 septembrie, pentru prima lectură, și le definitivează până la 1 noiembrie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Guvernul le supune Parlamentului cel mai târziu până la 15 noiembrie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 5731
+ },
+ {
+  "loc": "Calendarul bugetar (art. 31–35^1) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "În anii cu alegeri parlamentare în ultimele 3 luni, proiectele se depun la Guvern în 15 zile de la învestire și ajung în Parlament în cel mult 20 de zile de la învestire, fără a depăși 31 decembrie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.98,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 4942
+ },
+ {
+  "loc": "Aprobarea bugetului și lipsa legii bugetare (art. 36–37) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Parlamentul aprobă bugetele pe ansamblu, pe părți, capitole, subcapitole, titluri, articole și alineate și pe ordonatori principali, precum și creditele de angajament.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Estimările pentru următorii 3 ani sunt orientative și nu se autorizează.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2580
+ },
+ {
+  "loc": "Aprobarea bugetului și lipsa legii bugetare (art. 36–37) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă legile bugetare nu sunt adoptate cu cel puțin 3 zile înainte de sfârșitul exercițiului, Guvernul execută sarcinile din bugetul anului precedent, cu limite lunare, de regulă, de 1/12 din prevederile acestuia sau din proiect, dacă acestea sunt mai mici.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Instituțiile și acțiunile noi care încep la 1 ianuarie primesc tot 1/12 din prevederile din proiect.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.02,
+     "nu_spune": 0.0,
+     "sustine": 0.98,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 2621
+ },
+ {
+  "loc": "Fazele execuției și plățile în avans (art. 52) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Cheltuielile parcurg fazele angajare, lichidare, ordonanțare și plată, cu separarea atribuțiilor ordonatorului de cele ale conducătorului compartimentului financiar-contabil.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Plata se face numai pe bază de acte justificative, după lichidare și ordonanțare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "text": "Unde compartimentul financiar-contabil are mai puțin de 5 persoane, plata o fac ordonatorul și persoana împuternicită.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4969
+ },
+ {
+  "loc": "Fazele execuției și plățile în avans (art. 52) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Guvernul poate stabili plăți în avans de până la 30% din fondurile publice; pentru proiectele de cercetare obținute prin competiții naționale, de maximum 90%.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Avansurile nejustificate până la sfârșitul anului se recuperează și se restituie bugetului, iar dacă bunurile sau lucrările nu au fost livrate, cu dobânzi și penalități.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4587
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Ordonatorii de credite sunt de 3 categorii; delegarea e interzisă către conducătorul compartimentului financiar-contabil.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 15979
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Ordonatorii principali rețin 10% din credite, cu excepțiile legii, și le repartizează în semestrul al doilea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "nu_spune": 0.0,
+     "sustine": 0.98
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 15982
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Bugetele instituțiilor subordonate se transmit în 15 zile de la intrarea în vigoare a legii bugetare; bugetele de la art. 16 lit. d)–e) se aprobă în 15 zile de la publicarea legii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.97,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.03
+    },
+    "confidence": 0.96
+   }
+  },
+  "usage": 16073
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Calendarul: 1 iunie prognoze; 31 iulie limite; 1 august scrisoare-cadru; 1 septembrie propuneri; 30 septembrie la Guvern; 15 noiembrie la Parlament.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 16002
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Amendamentele care măresc deficitul nu pot fi aprobate; modificările creditelor se fac doar prin redistribuiri.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15977
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Fără lege bugetară cu cel puțin 3 zile înainte de sfârșitul anului: limite lunare de 1/12 din bugetul anului precedent.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.13,
+     "nu_spune": 0.0,
+     "sustine": 0.87,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.83
+   }
+  },
+  "usage": 15985
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Estimările pentru următorii 3 ani sunt orientative, nu autorizări.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15966
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Plăți în avans: până la 30%, cu excepția cercetării obținute prin competiție națională, de maximum 90%.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.07,
+     "absenta_corecta": 0.0,
+     "sustine": 0.93
+    },
+    "confidence": 0.9
+   }
+  },
+  "usage": 15985
+ }
+]
