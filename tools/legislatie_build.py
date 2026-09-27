@@ -281,8 +281,12 @@ JS = """
     el.scrollIntoView(); }
   window.addEventListener('hashchange', tinta); tinta();
   var f=document.getElementById('leg-sari'); if(f) f.addEventListener('submit', function(e){ e.preventDefault();
-    var v=f.querySelector('input').value.trim().replace(/\\s+/g,'').replace('^','-'); if(!v) return;
-    var id='art-'+v; if(!document.getElementById(id)){ f.querySelector('input').setCustomValidity('Nu există art. '+v); f.reportValidity();
+    var brut=f.querySelector('input').value.trim(); if(!brut) return;
+    /* „113^1”, „113-1”, „v” (roman), „pct. 3” sau „3” pe pagina cu puncte (ALOP), „preambul” */
+    var v=brut.replace(/^(art|pct)\\.?\\s*/i,'').replace(/\\s+/g,'').replace('^','-');
+    var cand=/^pre/i.test(brut) ? ['preambul'] : ['art-'+v, 'art-'+v.toUpperCase(), 'pct-'+v];
+    var id=cand.filter(function(c){ return document.getElementById(c); })[0];
+    if(!id){ f.querySelector('input').setCustomValidity('Nu există '+brut+' pe această pagină'); f.reportValidity();
       setTimeout(function(){ f.querySelector('input').setCustomValidity(''); },1500); return; }
     location.hash='#'+id; });
 
@@ -320,7 +324,11 @@ JS = """
       h.innerHTML='<b></b><a href="'+pag+'#'+id+'">mergi la text ↗</a>'+(i===0?'<button type="button" aria-label="Închide">×</button>':'');
       h.querySelector('b').textContent=et[i]||id; cont.appendChild(h);
       iaDoc(pag, function(doc){ var el=doc && doc.getElementById(id);
-        if(!el){ var e=document.createElement('p'); e.textContent=doc?'Textul nu a fost găsit.':'Pagina actului nu a putut fi încărcată.'; cont.appendChild(e); return; }
+        if(!el){ var e=document.createElement('p');
+          e.textContent = doc ? 'Textul nu a fost găsit.' : (location.protocol==='file:'
+            ? 'Deschisă direct din fișier, pagina nu poate încărca textul altui act în chenar (browserul blochează). Folosește „mergi la text” sau adresa publicată a aplicației.'
+            : 'Pagina actului nu a putut fi încărcată. Folosește „mergi la text”.');
+          cont.appendChild(e); return; }
         extrage(el).forEach(function(n){ cont.appendChild(curata(n, pag)); }); }); });
     box.addEventListener('click', function(e){ if(e.target.tagName==='BUTTON'){ box.remove(); a.classList.remove('deschis'); } });
     bloc.insertAdjacentElement('afterend', box); a.classList.add('deschis');
@@ -508,7 +516,7 @@ def pagina(fisier, slug, denumire, anexe_redate, bib, doc=None):
             % (html.escape(denumire), html.escape(meta),
                '<p class="leg-meta">Sursă: <a href="https://%s" style="color:var(--info)">%s</a></p>' % (html.escape(url), html.escape(url)) if url else "")]
     corp.append('<div class="leg-bar"><label><input type="checkbox" id="leg-tot"> Arată toată legea</label>'
-                '<form id="leg-sari"><span>Art.</span><input type="text" inputmode="numeric" placeholder="nr." aria-label="numărul articolului"><button type="submit">Sari</button></form></div>')
+                '<form id="leg-sari"><span>Art.</span><input type="text" inputmode="numeric" placeholder="nr." aria-label="numărul articolului sau al punctului"><button type="submit">Sari</button></form></div>')
     if doc["titlu"] or doc["meta"]:
         corp.append('<div class="card leg-preambul" id="%s">%s%s</div>'
                     % (unitati.ancora(unitati.PREAMBUL), "".join("<p>%s</p>" % html.escape(t) for t in doc["titlu"]),

@@ -7,7 +7,7 @@
   var STORAGE_KEY = "grile-achizitii-scoruri-v2";
 
   var state = {
-    test: null,      // numărul testului curent (1..30)
+    test: null,      // numărul testului curent (1..NR_TESTE)
     ordine: [],      // indecșii întrebărilor în ordinea de joc
     curent: 0,       // poziția în ordine
     raspunsuri: {},  // idxIntrebare -> [indecși selectați]

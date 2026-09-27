@@ -39,7 +39,10 @@ text (unități formale scoase din bibliografie, marcaje) sunt în `tools/SURSE.
 ## Cum o folosești
 
 Deschide `index.html` cu dublu-click — merge în orice browser, pe telefon, tabletă sau
-calculator, **complet offline**, fără server și fără instalare.
+calculator, **complet offline**, fără server și fără instalare. O singură limită la deschiderea
+direct din fișier: chenarul unei trimiteri către **alt act** nu poate încărca textul acelui act
+(browserul blochează citirea altor fișiere locale); linkul „mergi la text” din chenar merge.
+Prin adresa publicată (mai jos), chenarele merg și offline.
 
 Pe telefon: folosește adresa publicată (mai jos) și „Adaugă la ecranul principal”, sau copiază
 folderul `quiz-app` și deschide `index.html` din aplicația de fișiere.
@@ -100,7 +103,8 @@ art. 7 din Legea 98/2016), câștigă tema cu intervalul cel mai specific (tema 
 
 Secțiunea **Legislația** (`legislatie/index.html`) redă cele 10 fișiere în text integral
 consolidat, formatat pentru telefon: cuprins, câte un bloc pe articol (cu ancoră `#art-N`,
-`#art-113-1` pentru art. 113^1; la Normele ALOP `#pct-N`; preambulul are `#preambul`), alineate și
+`#art-113-1` pentru art. 113^1; la Normele ALOP `#pct-N`; preambulul are `#preambul`; caseta „Sari”
+acceptă „113^1”, „v”, „pct. 3” sau „preambul”), alineate și
 litere indentate, iar notele portalului strânse sub fiecare articol. Implicit se văd doar unitățile
 cerute în bibliografie; comutatorul „Arată toată legea” descoperă restul. Anexele nr. 1 și nr. 2
 ale Legii 98/2016 sunt redate. Anexele actelor de aprobare (H.G. 395, H.G. 419, Ordinul 1.792) nu se

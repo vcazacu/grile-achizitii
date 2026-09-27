@@ -14,14 +14,19 @@ from pathlib import Path
 from normalizare import incarca_intrebari, normalizeaza
 
 DIR = Path(__file__).resolve().parent / "tematica"
-# nu prinde 28–30, 80/1995; separatorul de mii („27.334.460”, „26 960 556”) ține numărul întreg
-_NUM = re.compile(r"(?<![\w^/–-])(\d{1,3}(?:[. ]\d{3})+(?:,\d+)?(?![\d])|\d+(?:[.,]\d+)?)(?:\s*%)?(?![\w^/–-])")
+# separatorul de mii („27.334.460”, „26 960 556”) ține numărul întreg; „80/1995” nu e cifră de audit
+_NUM = re.compile(r"(?<![\w^/])(\d{1,3}(?:[. ]\d{3})+(?:,\d+)?(?![\d])|\d+(?:[.,]\d+)?)(?:\s*%)?(?![\w^/])")
+# trimiterile la unități („art. 28–30”, „alin. (1)-(4)”, „pct. 1–4”) nu sunt cifre de audit;
+# intervalele de valori („5–10 zile”) sunt
+_UNIT = r"\(?\d+(?:\^\d+)?\)?"
+_REF = re.compile(r"\b(?:(?i:art)|alin|pct)\.\s*" + _UNIT + r"(?:\s*[–-]\s*" + _UNIT + r")?")
 _ART = re.compile(r"\b(?i:art)\.\s*(\d+(?:\^\d+)?|[IVXLC]+(?:\^\d+)?)(?![\w^])")
 _ALIN = re.compile(r"alin\.\s*\(?(\d+(?:\^\d+)?)\)?", re.I)
 
-def numere(text):
+def numere(text, cu_trimiteri=False):
+    """Cifrele de audit din text; trimiterile la unități se scot, dacă nu se cer explicit (etichetele temeiurilor)."""
     out = set()
-    for m in _NUM.finditer(text):
+    for m in _NUM.finditer(text if cu_trimiteri else _REF.sub(" ", text)):
         g = m.group(1)
         if re.match(r"^\d{1,3}(?:[. ]\d{3})+", g):          # separator de mii → forma canonică, fără separatori
             g = re.sub(r"[. ]", "", g)
@@ -45,7 +50,7 @@ def _trasabile(temeiuri):
     # un articol e trasabil dacă e temei SAU dacă legea însăși îl numește în textul citat
     # (trimitere internă, ex. „cei prevăzuți la art. 36 alin. 1 lit. a)")
     arts = {m.group(1) for t in temeiuri for m in _ART.finditer(t["articol"])} | {m.group(1) for m in _ART.finditer(citate)}
-    return numere(citate) | numere(" ".join(t["articol"] for t in temeiuri)), arts
+    return numere(citate) | numere(" ".join(t["articol"] for t in temeiuri), cu_trimiteri=True), arts
 
 def audit_dict(d, banca_ids):
     """Paragrafele se raportează la citatele secțiunii lor; rezumatul și capcanele, la toate citatele temei."""

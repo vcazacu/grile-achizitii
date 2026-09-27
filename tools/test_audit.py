@@ -10,6 +10,10 @@ CAZURI = [
  ("un termen de 10 zile, respectiv 5 zile", {"10", "5"}),
  ("art. 28–30 din Legea 98/2016", set()),
  ("cota de 2,5% din valoare", {"2.5"}),
+ ("decizia se emite în 5–10 zile lucrătoare", {"5", "10"}),
+ ("sau în 3-5 zile lucrătoare", {"3", "5"}),
+ ("art. 24 alin. (1)-(4) și alin. (6)", set()),
+ ("pct. 1–4 din norme", set()),
 ]
 esec = 0
 for text, astept in CAZURI:
