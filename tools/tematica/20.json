@@ -1,0 +1,315 @@
+{
+ "nr": 20,
+ "titlu": "Remedii și căi de atac. Contestațiile pe cale administrativ-jurisdicțională. Termenul de contestare, efectele, elementele și soluționarea contestațiilor",
+ "rezumat": "Persoana care se consideră vătămată printr-un act al autorității contractante se poate adresa fie CNSC, pe cale administrativ-jurisdicțională, fie instanței. Termenul de contestare la CNSC e de 10 zile peste pragurile de publicare în JOUE și de 7 zile sub ele, din ziua următoare luării la cunoștință. Contestația se trimite și CNSC, și autorității, nu se taxează și are un conținut obligatoriu. Autoritatea poate adopta măsuri de remediere în 3 zile și își trimite punctul de vedere în 5 zile. CNSC soluționează în complet de trei membri, în procedură scrisă, în 20 de zile de la primirea dosarului, prelungibil cu 10 zile.",
+ "sectiuni": [
+  {
+   "titlu": "Domeniul și persoana vătămată (art. 1–3)",
+   "paragrafe": [
+    "Legea reglementează remediile și căile de atac în atribuirea contractelor de achiziție publică, sectoriale și de concesiune, precum și organizarea CNSC. Se aplică și cererilor de despăgubiri și celor privind executarea, anularea, rezoluțiunea, rezilierea sau denunțarea contractelor.",
+    "Persoana vătămată printr-un act al autorității sau prin nesoluționarea la timp a unei cereri poate cere anularea actului, obligarea la emiterea unui act ori la măsuri de remediere și recunoașterea dreptului. Oricare membru al unei asocieri fără personalitate juridică poate formula singur calea de atac.",
+    "Persoană vătămată e operatorul care, cumulativ, are sau a avut un interes în procedură și a suferit ori riscă un prejudiciu. Interesul există cât timp nu a fost exclus definitiv. Achiziția directă nu intră sub această lege, ci sub Legea nr. 554/2004."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 1 alin. (2)",
+     "citat": "Prezenta lege se aplică și cererilor având ca obiect acordarea despăgubirilor pentru repararea prejudiciilor cauzate în cadrul procedurii de atribuire, precum și celor privind executarea, anularea, rezoluțiunea, rezilierea sau denunțarea unilaterală a contractelor.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 2",
+     "citat": "(1) Orice persoană care se consideră vătămată într-un drept al său ori într-un interes legitim printr-un act al unei autorități contractante sau prin nesoluționarea în termenul legal a unei cereri poate solicita anularea actului, obligarea autorității contractante la emiterea unui act sau la adoptarea de măsuri de remediere, recunoașterea dreptului pretins sau a interesului legitim, pe cale administrativ-jurisdicțională sau judiciară, potrivit prevederilor prezentei legi. (2) Oricare dintre membrii unei asocieri a unor operatori economici, fără personalitate juridică, poate formula orice cale de atac reglementată de prezenta lege.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 3 alin. (1) lit. a)",
+     "citat": "în legătură cu sau în cadrul unei proceduri de atribuire, fără a include achiziția directă care intră sub incidența Legii nr. 554/2004",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 3 alin. (1) lit. f) și alin. (3)",
+     "citat": "f) persoană care se consideră vătămată - orice operator economic care îndeplinește cumulativ următoarele condiții: (i) are sau a avut un interes în legătură cu o procedură de atribuire; și (ii) a suferit, suferă sau riscă să sufere un prejudiciu ca o consecință a unui act al autorității contractante, de natură să producă efecte juridice, ori ca urmare a nesoluționării în termenul legal a unei cereri privind o procedură de atribuire. [...] (3) În sensul alin. (1) lit. f) pct. (i) se consideră că o persoană are sau a avut un interes în legătură cu o procedură de atribuire dacă nu a fost încă exclusă definitiv de la respectiva procedură.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "CNSC sau instanța; calculul termenelor (art. 4–5)",
+   "paragrafe": [
+    "Persoana vătămată alege calea: fie CNSC, fie instanța. Dacă atacă același act la ambele, se prezumă că a renunțat la calea administrativ-jurisdicțională.",
+    "Termenele pe zile încep cu prima oră a primei zile și se încheie la expirarea ultimei ore a ultimei zile. Ziua comunicării actului nu intră în calcul. Dacă ultima zi e nelucrătoare, termenul se încheie în următoarea zi lucrătoare."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 4 alin. (1) și (6)",
+     "citat": "a) fie pe cale administrativ-jurisdicțională Consiliului Național de Soluționare a Contestațiilor; b) fie pe cale judiciară instanței de judecată. [...] (6) În cazul în care persoana care se consideră vătămată formulează contestație împotriva aceluiași act al autorității contractante atât la Consiliu, cât și la instanța de judecată, se prezumă că aceasta a renunțat la calea administrativ-jurisdicțională.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 5",
+     "citat": "(1) Termenele procedurale stabilite de prezenta lege, exprimate în zile, încep să curgă de la începutul primei ore a primei zile a termenului și se încheie la expirarea ultimei ore a ultimei zile a termenului. (2) Ziua în cursul căreia a fost comunicat un act procedural nu este luată în calculul termenului. Dacă ultima zi a unui termen exprimat altfel decât în ore este o zi nelucrătoare, termenul se încheie la expirarea ultimei ore a următoarei zile lucrătoare.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Termenul de contestare (art. 8)",
+   "paragrafe": [
+    "Termenul e de 10 zile de la ziua următoare luării la cunoștință, când valoarea estimată atinge pragurile de publicare în JOUE, și de 7 zile când e sub ele.",
+    "Dacă se contestă documentația de atribuire publicată în SEAP, data luării la cunoștință e data publicării documentației."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 8 alin. (1)",
+     "citat": "a) 10 zile, începând cu ziua următoare luării la cunoștință despre actul autorității contractante considerat nelegal, în cazul în care valoarea estimată a procedurii de achiziție publică/sectorial sau de concesiune este egală sau mai mare decât pragurile valorice în raport cu care este obligatorie transmiterea spre publicare către Jurnalul Oficial al Uniunii Europene a anunțurilor de participare [...] b) 7 zile, începând cu ziua următoare luării la cunoștință despre actul autorității contractante considerat nelegal, în cazul în care valoarea estimată a procedurii de achiziție publică/sectorială sau de concesiune este mai mică decât pragurile valorice în raport cu care este obligatorie transmiterea spre publicare către Jurnalul Oficial al Uniunii Europene a anunțurilor de participare",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 8 alin. (2)",
+     "citat": "În cazul în care contestația privește conținutul documentației de atribuire, publicată în Sistemul electronic de achiziții publice, denumit în continuare SEAP, data luării la cunoștință este data publicării documentației de atribuire.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Efectele contestației și măsurile de remediere (art. 9)",
+   "paragrafe": [
+    "Autoritatea poate adopta măsuri de remediere în cel mult 3 zile de la primirea contestației și le comunică în cel mult o zi de la adoptare. Dacă măsurile îl mulțumesc, contestatorul renunță la contestație. La loturi, măsurile privesc doar loturile contestate.",
+    "Dacă CNSC menține rezultatul procedurii, autoritatea încheie contractul chiar dacă s-a formulat plângere, dar numai după termenul de așteptare de la art. 59 alin. (1). Contractul încheiat altfel e lovit de nulitate absolută. Încheierea contractului nu împiedică soluționarea contestației."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 9 alin. (1)",
+     "citat": "După primirea contestației, autoritatea contractantă poate adopta măsurile de remediere pe care le consideră necesare ca urmare a contestației, în cel mult 3 zile de la primirea contestației. Măsurile adoptate trebuie comunicate contestatorului, celorlalți operatori economici implicați în procedura de atribuire, precum și Consiliului, nu mai târziu de o zi de la data adoptării lor.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 9 alin. (3)",
+     "citat": "În situația în care contestatorul consideră că măsurile adoptate sunt suficiente pentru remedierea actelor invocate ca fiind nelegale, acesta trimite Consiliului și autorității contractante o cerere de renunțare la contestație.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 9 alin. (4)–(6)",
+     "citat": "Autoritatea contractantă are obligația să încheie contractul cu ofertantul declarat câștigător, ulterior pronunțării unei soluții de menținere a rezultatului procedurii de atribuire de către Consiliul Național de Soluționare a Contestațiilor, chiar dacă împotriva respectivei decizii a fost introdusă calea de atac a plângerii și cauza nu a fost soluționată în mod definitiv și, în orice caz, numai după expirarea termenului legal de așteptare prevăzut la art. 59 alin. (1). (5) Contractul încheiat cu nerespectarea prevederilor alin. (4) este lovit de nulitate absolută. Încheierea contractului anterior/ulterior formulării contestației nu împiedică soluționarea acesteia de către Consiliu. (6) În cazul în care, în cadrul aceleiași proceduri de atribuire, autoritatea contractantă achiziționează produse, servicii sau lucrări defalcate pe loturi, măsurile de remediere adoptate potrivit alin. (1) privesc numai loturile pentru care s-a depus contestație.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Elementele contestației și depunerea ei (art. 10–11, 16)",
+   "paragrafe": [
+    "Contestația e scrisă și cuprinde datele contestatorului, autoritatea, obiectul contractului și procedura, actul atacat, obiectul contestației, motivarea în fapt și în drept, probele și semnătura. Dacă lipsesc informații, CNSC cere completarea în 3 zile; altfel contestația se anulează. Contestația la CNSC nu se taxează.",
+    "Sub sancțiunea respingerii ca tardivă, contestația se trimite atât CNSC, cât și autorității, în termenul legal. Autoritatea o publică în SEAP într-o zi de la primire."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 10 lit. d)–h)",
+     "citat": "d) precizarea actului atacat al autorității contractante; e) obiectul contestației; f) motivarea în fapt și în drept a contestației; g) mijloacele de probă pe care se sprijină contestația, în măsura în care este posibil; h) semnătura contestatorului persoană fizică sau a reprezentantului persoanei juridice.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 11 alin. (1) și (3)",
+     "citat": "În situația în care Consiliul apreciază că în contestație nu sunt cuprinse toate informațiile prevăzute la art. 10, acesta cere contestatorului ca, în termen de 3 zile de la înștiințare, să completeze contestația. În cazul în care contestatorul nu se conformează obligației impuse de Consiliu, contestația este anulată. [...] (3) Contestația formulată pe cale administrativ-jurisdicțională nu se taxează.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 16 alin. (1)–(2)",
+     "citat": "Sub sancțiunea respingerii contestației ca tardivă, aceasta se înaintează atât Consiliului, cât și autorității contractante, nu mai târziu de expirarea termenului legal de contestare. (2) În termen de o zi de la primirea contestației, autoritatea contractantă are obligația să o publice în SEAP.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Completul CNSC și principiile procedurii (art. 12–15, 17)",
+   "paragrafe": [
+    "Contestația se soluționează de un complet de trei membri, dintre care cel puțin unul licențiat în drept, cu cel puțin nouă ani vechime juridică. Contestațiile se distribuie completurilor aleatoriu, cu respectarea regulilor privind informațiile clasificate și contestațiile din aceeași procedură. Completul e independent și adoptă decizii și încheieri. Contestațiile care nu țin de CNSC se declină prin decizie nesupusă căilor de atac.",
+    "Procedura respectă legalitatea, celeritatea, contradictorialitatea, dreptul la apărare, imparțialitatea și independența. Contestațiile din aceeași procedură se conexează și se soluționează de același complet până la termenul de depunere a ofertelor și de alt complet după acesta.",
+    "Operatorii interesați pot formula cerere de intervenție voluntară în 10 zile de la publicarea contestației în SEAP."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 13 alin. (1)",
+     "citat": "Contestația se soluționează de un complet de trei membri ai Consiliului, dintre care cel puțin unul este licențiat în drept, cu o vechime de cel puțin nouă ani în domeniul juridic.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 14 alin. (1)",
+     "citat": "Contestațiile se distribuie spre soluționare completurilor în mod aleatoriu, cu aplicarea în mod corespunzător a prevederilor art. 13 alin. (3) și art. 17 alin. (1) și (2).",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 12 alin. (2)–(3)",
+     "citat": "Contestațiile care nu intră în competența de soluționare a Consiliului sunt declinate de acesta, prin decizie, către instanța de judecată competentă ori, dacă este cazul, către un alt organ cu activitate jurisdicțională competent. (3) Decizia de declinare a competenței Consiliului nu este supusă niciunei căi de atac",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 15 alin. (1)",
+     "citat": "Procedura de soluționare a contestațiilor se desfășoară cu respectarea principiilor legalității, celerității, contradictorialității, asigurării dreptului la apărare, imparțialității și independenței activității administrativ-jurisdicționale.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 17 alin. (1)–(3)",
+     "citat": "a) în etapa de până la data-limită de depunere a solicitărilor de participare/ofertelor/proiectelor sunt soluționate de același complet; b) în etapa de după data-limită de depunere a solicitărilor de participare/ofertelor/proiectelor sunt soluționate de același complet, altul decât cel prevăzut la lit. a). (2) În fiecare etapă, contestațiile formulate în cadrul aceleiași proceduri sunt conexate. (3) Până la soluționarea contestației de către Consiliu, operatorii economici interesați să participe la procedura de atribuire, respectiv, după caz, operatorii economici participanți la procedura de atribuire pot formula cerere de intervenție voluntară în litigiu, potrivit prevederilor Legii nr. 134/2010 privind Codul de procedură civilă, republicată, cu modificările ulterioare, în termen de 10 zile de la data publicării în SEAP a contestației.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Punctul de vedere, dosarul și probele (art. 18–21)",
+   "paragrafe": [
+    "În 5 zile de la primirea contestației, autoritatea trimite din oficiu punctul său de vedere CNSC și contestatorului. În același termen trimite CNSC o copie a dosarului achiziției. Lipsa punctului de vedere nu împiedică soluționarea, dar autoritatea pierde dreptul de a mai propune probe și de a invoca excepții, altele decât cele de ordine publică.",
+    "Părțile au acces la dosarul CNSC, cu excepția documentelor declarate și dovedite confidențiale. Informațiile cerute de CNSC se trimit în 3 zile; altfel nu mai pot fi depuse ulterior.",
+    "Procedura e scrisă; părțile sunt audiate numai dacă completul consideră necesar. După termenul de contestare nu se mai pot invoca motive noi."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 18 alin. (1)–(3)",
+     "citat": "În termen de 5 zile de la data la care a primit contestația, autoritatea contractantă are obligația de a transmite Consiliului și contestatorului, din oficiu, punctul său de vedere asupra contestației. [...] (3) Lipsa punctului de vedere nu împiedică soluționarea contestației, în măsura în care s-a făcut dovada comunicării acesteia către autoritatea contractantă. Lipsa punctului de vedere al autorității contractante atrage decăderea ei din dreptul de a mai propune probe și de a invoca excepții, în afara celor de ordine publică, dacă legea nu prevede altfel.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 18 alin. (2)",
+     "citat": "Autoritatea contractată are obligația de a transmite Consiliului, în termenul prevăzut la alin. (1), o copie a dosarului achiziției publice, achiziției sectoriale sau al concesiunii",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 19 alin. (1)",
+     "citat": "La cerere, părțile cauzei au acces la documentele dosarului constituit la Consiliu, în aceleași condiții în care se realizează accesul la dosarele constituite la instanțele de judecată potrivit prevederilor Legii nr. 134/2010, republicată, cu modificările ulterioare, cu excepția documentelor pe care operatorii economici le declară și probează ca fiind confidențiale",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 20 alin. (3)–(5)",
+     "citat": "Consiliul, în vederea soluționării contestației, poate solicita contestatorului informații și mijloace de probă, altele decât cele prevăzute la art. 10, care trebuie transmise în termen de 3 zile de la data solicitării. Nedepunerea acestora nu împiedică soluționarea contestației de către Consiliu. (4) Autoritatea contractantă are obligația de a răspunde la orice solicitare a Consiliului și de a-i transmite acestuia orice documente care prezintă relevanță pentru soluționarea contestației, într-un termen care nu poate depăși 3 zile de la data primirii solicitării. (5) Nerespectarea prevederilor alin. (3) și (4) conduce la imposibilitatea depunerii ulterioare de către contestator și/sau autoritatea contractantă a documentelor solicitate",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 21 alin. (1) și (3)",
+     "citat": "Procedura în fața Consiliului este scrisă, iar părțile sunt audiate numai dacă acest lucru este considerat necesar de către completul de soluționare a contestației. [...] (3) Este inadmisibilă prezentarea unor noi motive de contestare și/sau formularea unor noi capete de cerere pe calea concluziilor scrise sau orale ori a precizărilor la contestație ulterior termenului legal de formulare a acesteia.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Suspendarea procedurii de atribuire (art. 22–23)",
+   "paragrafe": [
+    "În cazuri bine justificate și pentru prevenirea unei pagube iminente, CNSC poate suspenda procedura sau aplicarea unei decizii a autorității, prin încheiere, în 3 zile de la cerere. Ține seama de toate interesele afectate, inclusiv interesul public. Încheierea se poate ataca separat cu plângere în 5 zile de la comunicare."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 22 alin. (1)",
+     "citat": "În cazuri bine justificate și pentru prevenirea unei pagube iminente, la cererea persoanei interesate, Consiliul poate să dispună prin încheiere, în termen de 3 zile de la primirea cererii, măsura suspendării procedurii de atribuire sau aplicării oricărei decizii luate de autoritatea contractantă, până la soluționarea contestației.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 23",
+     "citat": "(1) Consiliul soluționează cererea de suspendare luând în considerare consecințele acestei măsuri asupra tuturor categoriilor de interese care ar putea fi lezate, inclusiv asupra interesului public. (2) Încheierea privind soluționarea cererii de suspendare poate fi atacată cu plângere la instanța competentă prevăzută la art. 32 alin. (1), în mod separat, în termen de 5 zile de la comunicare.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Termenul de soluționare și suspendarea soluționării (art. 24–25)",
+   "paragrafe": [
+    "CNSC soluționează pe fond în 20 de zile de la primirea dosarului achiziției și în 10 zile dacă o excepție împiedică analiza pe fond. În cazuri temeinic justificate, termenul se prelungește cu 10 zile. Depășirea lui cu vinovăție e abatere disciplinară.",
+    "CNSC poate suspenda soluționarea dacă ea depinde de altă judecată sau dacă s-a pus în mișcare acțiunea penală pentru o faptă legată de actul atacat. Suspendarea întrerupe termenul de soluționare, iar la reluare curge un termen nou."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 24 alin. (1)–(2)",
+     "citat": "Consiliul soluționează pe fond contestația în termen de 20 de zile de la data primirii, în condițiile art. 18 alin. (2), a dosarului achiziției publice, al achiziției sectoriale sau al concesiunii, respectiv în termen de 10 zile în situația incidenței unei excepții care împiedică analiza pe fond a contestației. (2) În cazuri temeinic justificate, termenul de soluționare a contestației poate fi prelungit cu 10 zile, prelungirea fiind comunicată autorității contractante.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    },
+    {
+     "act": "Legea nr. 101/2016 privind remediile și căile de atac",
+     "articol": "art. 25 alin. (1) și (5)",
+     "citat": "a) în situația în care aceasta depinde în tot sau în parte de existența ori inexistența unui drept care face obiectul unei alte judecăți; b) când s-a pus în mișcare acțiunea penală pentru o infracțiune săvârșită în legătură cu actul atacat de contestator. [...] (5) Suspendarea procedurii de soluționare a contestației întrerupe curgerea termenului de soluționare prevăzut la art. 24 alin. (1). De la reluarea soluționării curge un nou termen.",
+     "fisier": "07_Legea_101-2016_remedii_si_cai_de_atac.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Termenul de contestare: 10 zile peste pragurile de publicare în JOUE, 7 zile sub ele, din ziua următoare luării la cunoștință.",
+  "Pentru documentația de atribuire, data luării la cunoștință e data publicării ei în SEAP.",
+  "Contestația se trimite și CNSC, și autorității, în termen; altfel se respinge ca tardivă. Contestația la CNSC nu se taxează.",
+  "Măsurile de remediere: în cel mult 3 zile de la primire, comunicate în cel mult o zi. Punctul de vedere al autorității: în 5 zile.",
+  "Completul CNSC are trei membri; cel puțin unul e licențiat în drept, cu cel puțin nouă ani vechime juridică.",
+  "Soluționarea: 20 de zile de la primirea dosarului, 10 zile la excepții, prelungire cu 10 zile.",
+  "Suspendarea procedurii de atribuire se decide în 3 zile; încheierea se atacă separat în 5 zile.",
+  "Atacarea aceluiași act la CNSC și la instanță înseamnă renunțarea prezumată la calea administrativ-jurisdicțională.",
+  "Cererea de intervenție voluntară: în 10 zile de la publicarea contestației în SEAP."
+ ],
+ "intrebari": [
+  "L101A-001",
+  "L101A-002",
+  "L101A-003",
+  "L101A-004",
+  "L101A-005",
+  "L101A-006",
+  "L101A-007",
+  "L101A-008",
+  "L101A-009",
+  "L101A-011",
+  "L101A-010",
+  "L101C-001",
+  "L101-termen-contestare",
+  "L101A-012",
+  "L101A-013",
+  "L101A-014",
+  "L101A-015",
+  "L101C-002",
+  "L101A-016",
+  "L101A-017",
+  "L101A-018",
+  "L101A-019",
+  "L101A-020",
+  "L101C-003",
+  "L101A-021",
+  "L101A-022",
+  "L101A-023",
+  "L101A-024",
+  "L101A-025",
+  "L101A-026",
+  "L101A-027",
+  "L101C-004",
+  "L101A-028",
+  "L101A-029",
+  "L101A-041",
+  "L101A-030",
+  "L101A-031",
+  "L101C-005",
+  "L101A-032",
+  "L101A-033",
+  "L101-termen-solutionare-cnsc",
+  "L101A-034",
+  "L101A-035",
+  "L101A-036"
+ ]
+}

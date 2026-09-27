@@ -32,6 +32,7 @@ const FISIERE = [
   "./tematica/17-executarea-subcontractarea-modificarea-contractului.html",
   "./tematica/18-programul-anual-al-achizitiilor-publice.html",
   "./tematica/19-controlul-ex-ante.html",
+  "./tematica/20-remedii-contestatii-termen-efecte-solutionare.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",
