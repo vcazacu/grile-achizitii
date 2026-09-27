@@ -15,7 +15,7 @@ Implicit paginile arată doar articolele cerute în bibliografie (bibliografie.p
 comutator descoperă toată legea. Scrie și lista fișierelor în sw.js între marcajele
 /* LEGISLATIE-START */ … /* LEGISLATIE-END */.
 """
-import html, os, re, sys
+import collections, html, os, re, sys
 from bibliografie import BIB, RESTRICTII, tematica as bib_tematica
 import bibliografie as b
 from trimiteri import marcheaza
@@ -156,7 +156,7 @@ def parseaza(cale, anexe_redate=None):
             continue
         e = unitati.eticheta_titlu(l, zona_puncte)
         if e:
-            art = {"tip": "art", "nr": e, "titlu": "", "continut": [], "note": []}
+            art = {"tip": "art", "nr": e, "titlu": "", "continut": [], "note": [], "zona": zona_puncte}
             blocuri.append(art); in_preambul = False
             if e.startswith("pct. "):            # punctele au titlul pe același rând: „3. Ordonanțarea …”
                 art["titlu"] = re.sub(r"^\d+\.\s*", "", l); continue
@@ -184,7 +184,26 @@ def parseaza(cale, anexe_redate=None):
         m = _LINIUTA.match(l)
         if m: tinta.append(("liniuta", m.group(1))); continue
         tinta.append(("text", l))
+    for bl in [doc["corp"]] + [ax["blocuri"] for ax in doc["anexe"]]:
+        for b in bl:
+            if b["tip"] == "art": _aplatizeaza_citat(b)
     return doc
+
+# Articolele romane de modificare (H.G. 419, art. II–VI) citează textul pe care îl modifică:
+# „(3) Strategia de contractare …”, „a) etapa de planificare”. Acele rânduri nu sunt alineatele sau
+# literele articolului, deci se redau ca text simplu — fără id-uri și fără să devină ținte de trimiteri.
+_MODIFICARE = re.compile(r"se modifică|se completează|se introduc|va avea următorul cuprins|vor avea următorul cuprins")
+
+def _aplatizeaza_citat(art):
+    if art.pop("zona", None) != unitati.DOAR_ROMANE: return
+    if not any(t == "text" and _MODIFICARE.search(v) for t, v in art["continut"]): return
+    plat = []
+    for t, v in art["continut"]:
+        if t == "alin": plat.append(("text", "(%s) %s" % v))
+        elif t == "lit": plat.append(("text", "%s) %s" % v))
+        elif t == "grup": plat.append(("text", v))
+        else: plat.append((t, v))
+    art["continut"] = plat
 
 # ---------------------------------------------------------------- HTML
 
@@ -534,6 +553,9 @@ def main():
                 n_text = len([a for a in arts if a != unitati.PREAMBUL])     # preambulul e card separat, nu articol
                 if n_corp != n_text:
                     erori += 1; print("  EROARE %s: %d articole redate, %d în articole_din_text()" % (fisier, n_corp, n_text))
+        dubluri = sorted(i for i, n in collections.Counter(re.findall(r'\bid="([^"]+)"', pag)).items() if n > 1)
+        if dubluri:
+            erori += 1; print("  EROARE %s: %d id-uri duplicate, ex. %s" % (fisier, len(dubluri), ", ".join(dubluri[:3])))
         nume = slug + ".html"
         open(os.path.join(OUT, nume), "w", encoding="utf-8").write(pag)
         fisiere.append("./legislatie/" + nume)
