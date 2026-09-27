@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Aplică verdictele din coada de reparat peste nou/*-migrat.json.
+"""Aplică verdictele din coada de reparat peste nou/*.json (toate sursele, fără fișierele _auxiliare).
 Utilizare: python3 aplica_coada.py coada/verdict-*.json"""
 import glob, json, os, sys
 DIR = os.path.dirname(os.path.abspath(__file__))
@@ -25,7 +25,7 @@ def aplica(intrebari, verdicte):
 def main(argv):
     verdicte = [v for f in argv for v in json.load(open(f, encoding="utf-8"))]
     aplicate, toate_elim = set(), []
-    for f in sorted(glob.glob(os.path.join(DIR, "nou", "*-migrat.json"))):
+    for f in sorted(glob.glob(os.path.join(DIR, "nou", "[!_]*.json"))):
         lista = json.load(open(f, encoding="utf-8"))
         ids = {q["id"] for q in lista}
         ale_lui = [v for v in verdicte if v["id"] in ids]
@@ -34,7 +34,7 @@ def main(argv):
         toate_elim += elim; aplicate |= {v["id"] for v in ale_lui}
     orfane = [v["id"] for v in verdicte if v["id"] not in aplicate]
     if orfane:
-        raise SystemExit("verdicte fără întrebare în nou/*-migrat.json: %s" % ", ".join(orfane))
+        raise SystemExit("verdicte fără întrebare în nou/: %s" % ", ".join(orfane))
     cale = os.path.join(DIR, "nou", "_eliminate.json")
     vechi = json.load(open(cale, encoding="utf-8")) if os.path.exists(cale) else []
     json.dump(vechi + toate_elim, open(cale, "w", encoding="utf-8"), ensure_ascii=False, indent=1)

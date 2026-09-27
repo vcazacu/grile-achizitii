@@ -1,0 +1,164 @@
+[
+ {
+  "id": "L98A-004",
+  "verdict": "SUSPECT",
+  "motiv": "Editarea a eliminat „de regulă” și afirmă categoric că documentele justificative „se prezintă ulterior, la solicitarea adresată ofertantului clasat pe primul loc” (art. 196 alin. (2)). Textul are însă nuanțe: art. 196 alin. (1) permite solicitarea documentelor justificative „în orice moment pe durata desfășurării unei proceduri de atribuire”, iar alin. (2) exceptează „procedurile desfășurate în mai multe etape, când documentele justificative sunt solicitate înainte de t[ransmiterea invitației]”. Cheia și celelalte trimiteri (art. 3 alin. (1) lit. s), art. 193 alin. (1)) sunt exacte; abatere minoră de precizie.",
+  "propunere": "Înlocuiește „iar documentele justificative actualizate se prezintă ulterior, la solicitarea adresată ofertantului clasat pe primul loc după aplicarea criteriului de atribuire (art. 196 alin. (2))” cu „iar documentele justificative actualizate se prezintă ulterior, de regulă la solicitarea adresată ofertantului clasat pe primul loc după aplicarea criteriului de atribuire (art. 196 alin. (2))”."
+ },
+ {
+  "id": "L98A-012",
+  "verdict": "OK",
+  "motiv": "Cheia (lit. a), b), c)) corespunde art. 4 alin. (2); formula „indiferent de forma de constituire sau organizare” și excluderea entităților de la alin. (1) lit. a) sunt redate exact. Ultima propoziție trimite la art. 4 alin. (2) lit. a)–c).",
+  "propunere": ""
+ },
+ {
+  "id": "L98A-050",
+  "verdict": "SUSPECT",
+  "motiv": "Cheia și noua mențiune despre concesiuni (art. 34 alin. (4): „exclusiv în situațiile în care valoarea estimată a părții/părților din contract care reprezintă achiziție publică... este egală sau depășește pragurile”) sunt exacte. Rămâne o generalizare (preexistentă, dar în fraza rescrisă): „la contractele mixte care includ activități sectoriale, atribuirea se face potrivit legii privind achizițiile sectoriale (art. 34 alin. (5))” — art. 34 alin. (5) începe cu „Prin excepție de la dispozițiile alin. (3)”, deci privește ipoteza părților separabile atribuite printr-un singur contract, nu toate contractele mixte cu activități sectoriale.",
+  "propunere": "Înlocuiește „la contractele mixte care includ activități sectoriale, atribuirea se face potrivit legii privind achizițiile sectoriale (art. 34 alin. (5))” cu „la contractele mixte care includ achiziții pentru activități sectoriale, atribuirea se face, prin excepție de la art. 34 alin. (3), potrivit legii privind achizițiile sectoriale (art. 34 alin. (5))”."
+ },
+ {
+  "id": "L98B-016",
+  "verdict": "OK",
+  "motiv": "Art. 69 alin. (1) („prin aplicarea procedurilor de licitație deschisă sau licitație restrânsă”), art. 69 alin. (2)–(6), art. 68 alin. (1) (nouă proceduri, lit. a)–i)) și art. 7 alin. (2) (procedura simplificată sub praguri) sunt citate corect. Enunțul numește actul.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N114",
+  "verdict": "OK",
+  "motiv": "Art. 71, art. 73 alin. (1) („într-o singură etapă obligatorie”), art. 76, art. 3 alin. (1) lit. g) și art. 70 alin. (2)–(3) („în urma unei proceduri simplificate, de licitație deschisă sau de licitație restrânsă, au fost depuse numai oferte neconforme sau inacceptabile”) sunt redate exact.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-019",
+  "verdict": "OK",
+  "motiv": "Art. 74 alin. (1) (35 de zile), alin. (4) (reducere cu 5 zile), alin. (2)–(3) (15 zile) și art. 79 alin. (1)–(2) (30 de zile la licitația restrânsă) sunt exacte. Cheia neschimbată; enunțul numește actul.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-022",
+  "verdict": "OK",
+  "motiv": "Art. 76, art. 71, art. 78 alin. (5) („numai criteriile de selecție prevăzute în anunțul de participare”), art. 150 alin. (1) („accesul direct, complet, nerestricționat și gratuit”) și art. 78 alin. (9) sunt redate exact.",
+  "propunere": ""
+ },
+ {
+  "id": "L98-N203",
+  "verdict": "OK",
+  "motiv": "Art. 93 alin. (2) redat exact („ofertă finală a fost desemnată ca prezentând cel mai bun raport calitate-preț”); art. 77, 76, 78 alin. (1) lit. b), 88 alin. (1) lit. b) și 72 sunt corecte.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-027",
+  "verdict": "OK",
+  "motiv": "Art. 79 alin. (5) (15/10 zile), art. 74 alin. (3) (15 zile), art. 113 alin. (10) (6 zile servicii/produse, 9 zile lucrări) și art. 84 alin. (5) (15/10 zile) sunt exacte. Doar enunțul a fost completat cu actul.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-028",
+  "verdict": "OK",
+  "motiv": "Art. 82 alin. (10) și art. 85 alin. (1) („Cu excepția situației prevăzute la art. 82 alin. (10)... cu excepția ofertelor finale”) sunt redate exact. Doar enunțul a fost completat cu actul.",
+  "propunere": ""
+ },
+ {
+  "id": "L98B-029",
+  "verdict": "OK",
+  "motiv": "Art. 85 alin. (2), alin. (1), alin. (4) și art. 103 alin. (2) sunt redate exact. Doar enunțul a fost completat cu actul.",
+  "propunere": ""
+ },
+ {
+  "id": "L98D-021",
+  "verdict": "OK",
+  "motiv": "Enumerarea art. 210 alin. (2) lit. a)–f) este completă și exactă; art. 175 alin. (2) lit. a) („un anumit nivel minim al cifrei de afaceri anuale”) susține corect respingerea distractorului.",
+  "propunere": ""
+ },
+ {
+  "id": "L98C-051",
+  "verdict": "OK",
+  "motiv": "Art. 179 lit. a) (5 ani, lucrări) și lit. b) (3 ani, produse/servicii), cu supapa „atunci când este necesar în scopul asigurării unui nivel corespunzător de concurență”, sunt redate exact; formularea neverificabilă a fost eliminată.",
+  "propunere": ""
+ },
+ {
+  "id": "L101A-005",
+  "verdict": "SUSPECT",
+  "motiv": "Trimiterile art. 3 alin. (1) lit. f), art. 3 alin. (3) („dacă nu a fost încă exclusă definitiv de la respectiva procedură”) și art. 4 alin. (1) sunt exacte, iar cheia e corectă. Rămâne însă fragmentul „art. 6 și 7 sunt abrogate”: în corpus ambele articole conțin doar „Abrogat.”, deci legătura lor cu notificarea prealabilă se sprijină exclusiv pe istoricul modificărilor (SPEC §4.6), exact ce motivul editării spune că a eliminat; pentru cititor, fără acest istoric, argumentul nu se leagă.",
+  "propunere": "Înlocuiește „Nici notificarea prealabilă a autorității contractante nu este o condiție: art. 6 și 7 sunt abrogate, iar potrivit art. 4 alin. (1) persoana care se consideră vătămată se poate adresa” cu „Nici notificarea prealabilă a autorității contractante nu este o condiție: art. 3 alin. (1) lit. f) nu o prevede, iar potrivit art. 4 alin. (1) persoana care se consideră vătămată se poate adresa”."
+ },
+ {
+  "id": "L101C-003",
+  "verdict": "OK",
+  "motiv": "Art. 14 alin. (1)–(3), art. 13 alin. (3), art. 17 alin. (1)–(2) și art. 27 alin. (1)–(2) (decizie vs. încheieri, „cu excepția celor de unificare a practicii administrativ-jurisdicționale”) sunt redate exact.",
+  "propunere": ""
+ },
+ {
+  "id": "L101C-010",
+  "verdict": "OK",
+  "motiv": "Art. 34 alin. (1) lit. a)–d), art. 26 alin. (2), art. 1 alin. (2), art. 53 alin. (1), (5) („numai după anularea actului respectiv ori... după luarea oricăror altor măsuri de remediere”), (6) („limitată la valoarea cheltuielilor de elaborare a ofertei și de participare”) și art. 34 alin. (7) sunt exacte.",
+  "propunere": ""
+ },
+ {
+  "id": "L500-001",
+  "verdict": "OK",
+  "motiv": "Art. 1 alin. (2) lit. a)–i) (nouă categorii, fără bugetele locale) și art. 2 alin. (1) pct. 38 („sistem bugetar... cuprinde bugetele prevăzute la art. 1 alin. (2) și bugetele locale”) sunt exacte; trimiterea la actul din afara corpusului a fost eliminată.",
+  "propunere": ""
+ },
+ {
+  "id": "N395A-023",
+  "verdict": "OK",
+  "motiv": "Art. 12 alin. (2), (3) lit. a)–c), (4) și art. 14 alin. (2) („cu condiția identificării surselor de finanțare”) din Normele H.G. 395/2016 sunt exacte; afirmația despre SEAP este acum doar constatarea absenței din enumerare.",
+  "propunere": ""
+ },
+ {
+  "id": "N395B-030",
+  "verdict": "OK",
+  "motiv": "Art. 98 alin. (1)–(5) din Normele H.G. 395/2016 (30 de zile, reducere cu 5 zile, document de interes 30 de zile) și art. 74 alin. (1) din Lege (35 de zile) sunt exacte; art. 107 din Lege corespunde limitării participanților.",
+  "propunere": ""
+ },
+ {
+  "id": "OUGB-034",
+  "verdict": "OK",
+  "motiv": "Art. 8 alin. (1)–(2), art. 5 alin. (1) și (4) („se prelungește cu 5 zile lucrătoare”), art. 11 alin. (4) („în termen de 5 zile lucrătoare”) din Normele H.G. 419/2018 și art. 12 alin. (1) din O.U.G. 98/2017 („emite o singură dată, pe fiecare fază”) sunt redate exact.",
+  "propunere": ""
+ },
+ {
+  "id": "N419-N108",
+  "verdict": "OK",
+  "motiv": "Art. 17 alin. (1) lit. b), 14 alin. (2)–(3), 16 alin. (2) („nu poate depune documente noi, cu excepția celor care au stat la baza emiterii documentelor ce au făcut obiectul controlului ex ante”), 17 alin. (4), 21 din Normele H.G. 419/2018 și art. 18 alin. (3) lit. b) din O.U.G. sunt corecte.",
+  "propunere": ""
+ },
+ {
+  "id": "ALOP-007",
+  "verdict": "OK",
+  "motiv": "Preambulul: „Actele de delegare a atribuțiilor desemnează persoanele din cadrul instituțiilor publice împuternicite să semneze pentru și în numele ordonatorilor de credite” — redat exact; noua capcană nu dezvăluie răspunsul la ALOP-002 (destinatari) sau ALOP-006 (cui se deleagă). Explicația are doar 3 propoziții (sub 4 cerute de SPEC §4.4), neintrodus de această editare.",
+  "propunere": ""
+ },
+ {
+  "id": "ALOP-016",
+  "verdict": "OK",
+  "motiv": "Pct. 1 lit. b) („angajamentul bugetar... preceda angajamentul legal”, interdicția „cu excepția acțiunilor multianuale”) și lit. b1) („se prezintă la viza... în același timp cu proiectul angajamentului legal individual”) sunt redate exact; distractorul cu întocmirea „întotdeauna simultan” și „ordinea nu produce efecte juridice” rămâne clar greșit.",
+  "propunere": ""
+ },
+ {
+  "id": "ALOP-017",
+  "verdict": "OK",
+  "motiv": "Noul distractor („fără excepție, inclusiv... acțiunilor multianuale”) e contrazis direct de pct. 1: „cu excepția angajamentelor legale aferente acțiunilor multianuale care nu pot depăși creditele de angajament”; diferența față de cheie este de drept. Citatele din pct. 1 („se face numai în limita creditelor bugetare aprobate”, limita disponibilului) sunt exacte. Cheia neschimbată.",
+  "propunere": ""
+ },
+ {
+  "id": "ALOP-021",
+  "verdict": "OK",
+  "motiv": "Pct. 1 („sunt anulate de drept”, plata în contul bugetului pe anul următor), art. 30 alin. (1)–(2) și art. 54 alin. (1) și (3) din Legea 500/2002 sunt redate exact; legătura nesusținută cu principiul anualității a fost eliminată.",
+  "propunere": ""
+ },
+ {
+  "id": "ALOP-024",
+  "verdict": "OK",
+  "motiv": "Pct. 2 (verificarea obligației de plată, suma pe baza facturii și documentelor comisiei de recepție, verificarea personală), pct. 3 („se asigura ca ordonantarile supuse vizei se referă la angajamente de cheltuieli deja vizate și ca sunt îndeplinite condițiile de lichidare”) și pct. 1 lit. b) sunt redate exact.",
+  "propunere": ""
+ },
+ {
+  "id": "ALOP-034",
+  "verdict": "OK",
+  "motiv": "Pct. 4 (cele patru situații „Nu se poate efectua plata”, plățile în valută prin bănci, ridicarea de numerar, „reducerea la maximum a plăților în numerar... cheltuieli de volum redus”), pct. 3 (moneda străină) și pct. 2 (exigibilitate pe baza angajamentelor legale) sunt exacte.",
+  "propunere": ""
+ }
+]

@@ -149,9 +149,9 @@ Tabelul e generat din `bibliografie.TEME` (sursa procesabilă; nu se editează a
   pragurile achiziției directe (art. 7 alin. (5)); nu se folosesc valori din memorie sau din materiale de curs.
 - **Notificarea achizițiilor directe** e în Legea 98/2016 art. 7 alin. (8) (trimestrial), nu în Normele H.G. 395
   (art. 46 abrogat) — capcană reală găsită în bancă.
-- **Normele H.G. 395** au multe articole abrogate în forma la zi (art. 2 alin. (1), 23–25, 28, 36, 38, 40, 42–44,
-  46, 93, 101, 164, 165^1): nu se scriu întrebări pe conținutul lor.
-- **Garanții**: garanția de participare (max. 2%) vs. garanția de bună execuție (max. 10%) — procentele și
+- **Normele H.G. 395** au multe articole abrogate în forma la zi (art. 2 alin. (1), 23–25, 28, 38, 42–44, 46, 93, 101, 164, 165^1; parțial art. 36 alin. (1), (3), (6)–(7)
+  și art. 40 alin. (1)–(3)): nu se scriu întrebări pe conținutul abrogat.
+- **Garanții**: garanția de participare (max. 1%, Legea 98/2016 art. 154 alin. (2)) vs. garanția de bună execuție (max. 10%) — procentele și
   regulile de restituire din textul la zi (unele reguli s-au mutat din Norme în Lege, de ex. art. 154^1).
 - **Legea 101/2016**: termenele de contestare (art. 8: 10 / 7 zile, după prag) vs. termenele de soluționare
   (art. 24–25); notificarea prealabilă (art. 6–7) este abrogată.

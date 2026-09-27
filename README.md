@@ -201,7 +201,8 @@ Cele 780 de întrebări sunt distribuite pe acte conform cotelor din `tools/asam
 | H.G. nr. 395/2016 — actul de aprobare | 3 |
 | H.G. nr. 419/2018 — actul de aprobare | 3 |
 
-Din cele 780: 117 sunt de tip `"multiplu"` și 663 de tip `"unic"`; toate au `status: "ok"`.
+Din cele 780: 117 sunt de tip `"multiplu"` (59 cu 2 răspunsuri corecte, 58 cu 3 — echilibrate, ca
+strategia „alege mereu 3” să nu câștige) și 663 de tip `"unic"`; toate au `status: "ok"`.
 Fiecare unitate cerută de bibliografie are cel puțin o întrebare (`tools/acoperire.py`:
 „ACOPERIRE COMPLETĂ” pe toate cele 10 fișiere). De aici vine și numărul de teste: la 600 de
 întrebări nu încăpea câte o întrebare pe fiecare unitate cerută, iar decizia a fost să crească

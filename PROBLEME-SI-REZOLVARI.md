@@ -156,11 +156,28 @@ Art. 7 din Legea 98/2016 e în tema 1 („1-8”) și în tema 13 („7”, Achi
 temă câștigă” lăsa tema 13 cu o singură întrebare. Acum câștigă tema cu intervalul cel mai specific:
 10 întrebări au trecut la tema 13 (test roșu, apoi verde).
 
+## F2. Minorele amânate — **rezolvate** (27.09.2026, după publicare)
+
+- **Întrebările `multiplu` erau înclinate spre 3 răspunsuri corecte** (87 din 117): „alege mereu 3” câștiga
+  prea des. 29 au fost convertite la 2 corecte, transformând o variantă corectă într-una falsă după lege
+  (ex.: termenul de 20 de zile în locul celor 45 de la art. 32 alin. (4) din Legea 101/2016). Acum: 59 cu 2,
+  58 cu 3.
+- **27 de întrebări reformulate** după propunerile opționale ale verificatorilor: enunțuri care numesc actul,
+  trimiteri la articole, afirmații despre acte din afara corpusului scoase; ALOP-007 nu mai dă răspunsul la
+  ALOP-002; N395B-030 („minim absolut”) și OUGB-034 („suplimentare”) formulate exact.
+- **Verificare:** două verificări adversariale independente (29 de chei schimbate: 25 OK, 4 suspecte;
+  27 reformulări: 24 OK, 3 suspecte; 0 greșite), toate cele 7 suspecte corectate; poarta TypeSafe pe cele
+  56: 32 OK, 24 incerte, 0 revizuite; cele 6 semnale tari verificate în lege — alarme false (frazele citează
+  articole din afara temeiului declarat).
+- **Unelte:** auditul temelor verifică și intervalele de valori („5–10 zile”); caseta „Sari” acceptă puncte,
+  preambul și romane scrise mic; chenarul explică limita la deschiderea din fișier; `SPEC.md` corectat
+  (garanția de participare: max. 1%, nu 2%; art. 36 și 40 din Normele H.G. 395 sunt abrogate doar parțial).
+
 ## G. Stare finală
 
 | | |
 |---|---|
-| întrebări | 780 (663 unic, 117 multiplu), 39 de teste, toate `ok` |
+| întrebări | 780 (663 unic, 117 multiplu: 59 cu 2 corecte, 58 cu 3), 39 de teste, toate `ok` |
 | acoperire | completă pe toate cele 10 fișiere |
 | `verifica_tot.sh` | toate verificările trec |
 | parcurgere în browser | 39/39 teste cu 100%, fără erori |
