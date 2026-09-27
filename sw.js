@@ -24,6 +24,7 @@ const FISIERE = [
   "./tematica/09-documentatia-oferte-alternative-duae.html",
   "./tematica/10-criterii-de-calificare-si-selectie.html",
   "./tematica/11-criterii-de-atribuire.html",
+  "./tematica/12-garantii-de-participare-si-buna-executie.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",

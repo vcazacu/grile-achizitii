@@ -1,0 +1,590 @@
+[
+ {
+  "loc": "Garanția de participare: scop, valoare, formă (Norme art. 35 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Garanția de participare protejează autoritatea față de riscul unui comportament necorespunzător al ofertantului, pe toată durata implicării lui în procedură.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Solicitarea ei e un drept al autorității.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Valoarea nu poate depăși 1% din valoarea estimată; la acordul-cadru, 1% din cel mai mare contract subsecvent.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "3": {
+    "text": "Valabilitatea e cel puțin egală cu a ofertei.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4954
+ },
+ {
+  "loc": "Garanția de participare: scop, valoare, formă (Norme art. 35 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Instrumentele de garantare se transmit în SEAP odată cu oferta, cel târziu la termenul de depunere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.02,
+     "sustine": 0.98,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Ele prevăd plata necondiționată, la prima cerere a beneficiarului, pe baza declarației acestuia privind culpa ofertantului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4143
+ },
+ {
+  "loc": "Garanția de participare: scop, valoare, formă (Norme art. 35 / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea nu poate impune sau interzice un anumit emitent nominalizat și nici nu poate limita instrumentele doar la bănci, doar la instituții financiare nebancare sau doar la societăți de asigurări.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3757
+ },
+ {
+  "loc": "Reținerea garanției de participare (Norme art. 37) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea reține obligatoriu garanția dacă ofertantul își retrage oferta în perioada de valabilitate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "O reține și dacă ofertantul, desemnat câștigător, nu constituie garanția de bună execuție, nu deschide contul pentru rețineri succesive ori refuză să semneze contractul în perioada de valabilitate a ofertei.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 0.98,
+     "contrazice": 0.02
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 2529
+ },
+ {
+  "loc": "Reținerea garanției de participare (Norme art. 37) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "La acordul-cadru nu se reține garanția pentru neconstituirea garanției de bună execuție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.05,
+     "sustine": 0.95,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.94
+   },
+   "1": {
+    "text": "Nu se reține nici dacă câștigătorul refuză semnarea după un aviz conform condiționat al ANAP, iar autoritatea a finalizat procedura fără să remedieze abaterile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2513
+ },
+ {
+  "loc": "Restituirea garanției de participare (Lege art. 154^1) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Câștigătorul își primește garanția în cel mult 3 zile lucrătoare de la constituirea garanției de bună execuție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La acordul-cadru sau când garanția de bună execuție nu e obligatorie, termenul curge de la semnare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2712
+ },
+ {
+  "loc": "Restituirea garanției de participare (Lege art. 154^1) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Ceilalți ofertanți o primesc după semnarea contractului, cel târziu în 3 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Pot cere eliberarea mai devreme, după comunicarea rezultatului; atunci autoritatea o restituie în 3 zile lucrătoare de la cerere.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Dacă procedura se anulează, restituirea are loc după expirarea termenului de contestare, cel târziu în 3 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3124
+ },
+ {
+  "loc": "Garanția de bună execuție: scop, cuantum, termen (Norme art. / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Garanția de bună execuție asigură autoritatea că contractul va fi îndeplinit cantitativ, calitativ și în termen.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Cuantumul e de maximum 10% din prețul contractului, fără TVA.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4539
+ },
+ {
+  "loc": "Garanția de bună execuție: scop, cuantum, termen (Norme art. / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Se constituie în 5 zile lucrătoare de la semnarea contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La cererea justificată a contractantului, termenul se poate prelungi, dar nu peste 15 zile de la semnare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Dacă valoarea contractului crește, garanția se completează corespunzător.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "3": {
+    "text": "Garanția devine anexă la contract.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5328
+ },
+ {
+  "loc": "Constituirea prin rețineri succesive (Norme art. 40 alin. (4 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Contractantul deschide un cont la dispoziția autorității, la o bancă agreată de ambele părți.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.98,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Dacă autoritatea e autoritate publică, instituție publică sau operator cu capital majoritar de stat, contul se deschide la Trezoreria Statului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2698
+ },
+ {
+  "loc": "Constituirea prin rețineri succesive (Norme art. 40 alin. (4 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Suma inițială nu poate fi mai mică de 0,5% din prețul fără TVA.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Autoritatea alimentează apoi contul prin rețineri din sumele datorate, până la valoarea garanției.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Contul e purtător de dobândă în favoarea contractantului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3073
+ },
+ {
+  "loc": "Pretențiile asupra garanției de bună execuție (Norme art. 41 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea poate emite pretenții oricând pe durata contractului, în limita prejudiciului, dacă contractantul nu își îndeplinește obligațiile din culpa sa.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Înainte, notifică pretenția contractantului și emitentului instrumentului, arătând obligațiile încălcate și calculul prejudiciului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "După executare, contractantul reîntregește garanția raportat la restul de executat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2492
+ },
+ {
+  "loc": "Restituirea garanției de bună execuție (Lege art. 154^2) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "La furnizare, garanția se restituie în cel mult 14 zile de la recepția produselor sau de la plata facturii finale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.92,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.08
+    },
+    "confidence": 0.89
+   },
+   "1": {
+    "text": "La servicii, în cel mult 14 zile de la îndeplinirea obligațiilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.98,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.02
+    },
+    "confidence": 0.98
+   },
+   "2": {
+    "text": "În ambele cazuri, dacă nu s-au ridicat pretenții.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3572
+ },
+ {
+  "loc": "Restituirea garanției de bună execuție (Lege art. 154^2) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "La lucrări și la supervizarea lucrărilor, 70% se restituie în 14 zile de la recepția la terminarea lucrărilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Restul de 30% se restituie la lucrări la expirarea perioadei de garanție, pe baza recepției finale, iar la supervizare în 14 zile de la raportul final sau de la expirarea garanției lucrării.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3234
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Garanția de participare: cel mult 1% din valoarea estimată; garanția de bună execuție: cel mult 10% din prețul contractului fără TVA.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10449
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Garanția de bună execuție se constituie în 5 zile lucrătoare de la semnare, prelungibil, dar nu peste 15 zile de la semnare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10447
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Retragerea ofertei în perioada de valabilitate atrage reținerea garanției de participare; la acordul-cadru nu se reține pentru neconstituirea garanției de bună execuție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.01
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 10456
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea nu poate cere ca instrumentul de garantare să fie emis doar de bănci sau de un anumit emitent.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10429
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Rețineri succesive: suma inițială de cel puțin 0,5% din preț; la autoritățile publice contul se deschide la Trezorerie; dobânda e a contractantului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10456
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Pretențiile asupra garanției de bună execuție se emit doar în limita prejudiciului, după notificarea contractantului și a emitentului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 10440
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Lucrări: 70% din garanție se restituie în 14 zile de la recepția la terminare, 30% la expirarea perioadei de garanție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.98,
+     "contrazice": 0.02,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 10450
+ }
+]

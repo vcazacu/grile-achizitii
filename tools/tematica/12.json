@@ -1,0 +1,197 @@
+{
+ "nr": 12,
+ "titlu": "Stabilirea garanțiilor de participare și de bună execuție",
+ "rezumat": "Garanția de participare protejează autoritatea de comportamentul necorespunzător al ofertantului în procedură. E facultativă, de cel mult 1% din valoarea estimată, și se reține dacă ofertantul își retrage oferta sau, desemnat câștigător, nu constituie garanția de bună execuție ori refuză să semneze. Garanția de bună execuție asigură îndeplinirea contractului. Are cel mult 10% din prețul fără TVA, se constituie în 5 zile lucrătoare de la semnare (prelungibil până la 15 zile) și poate fi executată doar în limita prejudiciului, după notificarea contractantului și a emitentului. Ambele garanții se restituie în termenele scurte stabilite de Lege.",
+ "sectiuni": [
+  {
+   "titlu": "Garanția de participare: scop, valoare, formă (Norme art. 35–36; Lege art. 154 alin. (2))",
+   "paragrafe": [
+    "Garanția de participare protejează autoritatea față de riscul unui comportament necorespunzător al ofertantului, pe toată durata implicării lui în procedură. Solicitarea ei e un drept al autorității. Valoarea nu poate depăși 1% din valoarea estimată; la acordul-cadru, 1% din cel mai mare contract subsecvent. Valabilitatea e cel puțin egală cu a ofertei.",
+    "Instrumentele de garantare se transmit în SEAP odată cu oferta, cel târziu la termenul de depunere. Ele prevăd plata necondiționată, la prima cerere a beneficiarului, pe baza declarației acestuia privind culpa ofertantului.",
+    "Autoritatea nu poate impune sau interzice un anumit emitent nominalizat și nici nu poate limita instrumentele doar la bănci, doar la instituții financiare nebancare sau doar la societăți de asigurări."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 35 alin. (1)",
+     "citat": "Garanția de participare reprezintă un instrument aferent modului de prezentare a ofertei, care are drept scop protejarea autorității contractante față de riscul unui comportament necorespunzător al ofertantului pe toată perioada implicării sale în procedura de atribuire.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154 alin. (2)",
+     "citat": "Autoritatea contractantă are dreptul de a solicita ofertanților constituirea garanției de participare a cărei perioadă de valabilitate este cel puțin egală cu perioada de valabilitate a ofertei. Valoarea garanției de participare nu poate depăși 1% din valoarea estimată a contractului de achiziție publică sau, în cazul acordului-cadru, din valoarea estimată a celui mai mare contract subsecvent.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 36 alin. (4)",
+     "citat": "Instrumentele de garantare prevăzute la art. 154 alin. (4) lit. b) din Lege se transmit în SEAP împreună cu oferta și celelalte documente ale acesteia, cel mai târziu la data și ora-limită de depunere a ofertelor, și trebuie să prevadă că plata garanției de participare se va executa necondiționat, respectiv la prima cerere a beneficiarului, pe baza declarației acestuia cu privire la culpa persoanei garantate.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 36 alin. (5)",
+     "citat": "a) de a impune sau de a interzice prezentarea unui instrument de garantare emis de către o anumită instituție de credit bancară, instituție financiară nebancară ori societate de asigurări, nominalizată în mod expres în documentația de atribuire; b) de a limita posibilitatea de prezentare a instrumentelor de garantare numai la cele care sunt emise de către instituții de credit bancare, numai la cele care sunt emise de către instituții financiare nebancare sau numai la cele care sunt emise de către societăți de asigurări.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Reținerea garanției de participare (Norme art. 37)",
+   "paragrafe": [
+    "Autoritatea reține obligatoriu garanția dacă ofertantul își retrage oferta în perioada de valabilitate. O reține și dacă ofertantul, desemnat câștigător, nu constituie garanția de bună execuție, nu deschide contul pentru rețineri succesive ori refuză să semneze contractul în perioada de valabilitate a ofertei.",
+    "La acordul-cadru nu se reține garanția pentru neconstituirea garanției de bună execuție. Nu se reține nici dacă câștigătorul refuză semnarea după un aviz conform condiționat al ANAP, iar autoritatea a finalizat procedura fără să remedieze abaterile."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 37 alin. (1)",
+     "citat": "Autoritatea contractantă are obligația de a reține garanția de participare atunci când ofertantul se află în oricare dintre următoarele situații: a) își retrage oferta în perioada de valabilitate a acesteia; b) oferta sa fiind stabilită câștigătoare, nu constituie garanția de bună execuție; b^1) oferta sa fiind stabilită câștigătoare, nu deschide un cont la dispoziția autorității contractante, la o instituție de credit bancară agreată de ambele părți, în cazul în care părțile convin ca garanția de bună execuție să se constituie prin rețineri succesive din sumele datorate pentru facturi parțiale; c) oferta sa fiind stabilită câștigătoare, refuză să semneze contractul de achiziție publică/acordul-cadru în perioada de valabilitate a ofertei.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 37 alin. (2)–(3)",
+     "citat": "În cazul încheierii unui acord-cadru, prevederile alin. (1) lit. b) nu sunt aplicabile. (3) Autoritatea contractantă nu reține garanția de participare în cazul în care ofertantul desemnat câștigător refuză să semneze contractul de achiziție publică/acordul-cadru în perioada de valabilitate a ofertei, atribuit în urma unei proceduri de atribuire care a făcut obiectul controlului ex ante și în care ANAP a emis un aviz conform condiționat, iar autoritatea contractantă a derulat și finalizat procedura de atribuire fără a remedia abaterile constatate de ANAP",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Restituirea garanției de participare (Lege art. 154^1)",
+   "paragrafe": [
+    "Câștigătorul își primește garanția în cel mult 3 zile lucrătoare de la constituirea garanției de bună execuție. La acordul-cadru sau când garanția de bună execuție nu e obligatorie, termenul curge de la semnare.",
+    "Ceilalți ofertanți o primesc după semnarea contractului, cel târziu în 3 zile lucrătoare. Pot cere eliberarea mai devreme, după comunicarea rezultatului; atunci autoritatea o restituie în 3 zile lucrătoare de la cerere. Dacă procedura se anulează, restituirea are loc după expirarea termenului de contestare, cel târziu în 3 zile lucrătoare."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154^1 alin. (1)–(2)",
+     "citat": "Garanția de participare, constituită de ofertantul a cărui ofertă a fost stabilită ca fiind câștigătoare, se restituie de către autoritatea contractantă în cel mult 3 zile lucrătoare de la data constituirii garanției de bună execuție. (2) În cazul unei proceduri de atribuire a unui acord-cadru, precum și în cazul atribuirii unui contract pentru care nu este obligatorie constituirea garanției de bună execuție, garanția de participare constituită de ofertantul a cărui ofertă a fost stabilită câștigătoare se restituie de către autoritatea contractantă în cel mult 3 zile lucrătoare de la data semnării acordului-cadru/contractului.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154^1 alin. (4)–(5)",
+     "citat": "garanția de participare se restituie după data expirării termenului de depunere a unei contestații cu privire la această decizie, dar nu mai târziu de 3 zile lucrătoare de la această dată. (5) După primirea comunicării prevăzute la art. 215, ofertanții ale căror oferte au fost declarate necâștigătoare au dreptul de a obține eliberarea garanției de participare înainte de expirarea perioadei prevăzute la alin. (3), dacă transmit autorității contractante o solicitare în acest sens. Autoritatea contractantă are obligația de a restitui garanția de participare în cel mult 3 zile lucrătoare de la primirea unei solicitări în acest sens.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Garanția de bună execuție: scop, cuantum, termen (Norme art. 39–40; Lege art. 154 alin. (3))",
+   "paragrafe": [
+    "Garanția de bună execuție asigură autoritatea că contractul va fi îndeplinit cantitativ, calitativ și în termen. Cuantumul e de maximum 10% din prețul contractului, fără TVA.",
+    "Se constituie în 5 zile lucrătoare de la semnarea contractului. La cererea justificată a contractantului, termenul se poate prelungi, dar nu peste 15 zile de la semnare. Dacă valoarea contractului crește, garanția se completează corespunzător. Garanția devine anexă la contract."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 39 alin. (1)",
+     "citat": "Garanția de bună execuție a contractului se constituie de către contractant în scopul asigurării autorității contractante de îndeplinirea cantitativă, calitativă și în perioada convenită a contractului de achiziție publică/contractului subsecvent.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154 alin. (3)",
+     "citat": "Autoritatea contractantă are obligația de a solicita contractantului constituirea garanției de bună execuție în cuantum de maximum 10% din prețul contractului, fără TVA.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 39 alin. (3), (5)",
+     "citat": "Garanția de bună execuție se constituie în termen de 5 zile lucrătoare de la data semnării contractului de achiziție publică/contractului subsecvent. Acest termen poate fi prelungit la solicitarea justificată a contractantului, fără a depăși 15 zile de la data semnării contractului de achiziție publică/contractului subsecvent. [...] (5) În cazul în care pe parcursul executării contractului de achiziție publică se suplimentează valoarea acestuia, contractantul are obligația de a completa garanția de bună execuție în corelație cu noua valoare a contactului de achiziție publică.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 40 alin. (1^1)",
+     "citat": "Garanția de bună execuție constituită conform prevederilor art. 154 alin. (4) din Lege devine anexă la contract",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Constituirea prin rețineri succesive (Norme art. 40 alin. (4)–(9))",
+   "paragrafe": [
+    "Contractantul deschide un cont la dispoziția autorității, la o bancă agreată de ambele părți. Dacă autoritatea e autoritate publică, instituție publică sau operator cu capital majoritar de stat, contul se deschide la Trezoreria Statului.",
+    "Suma inițială nu poate fi mai mică de 0,5% din prețul fără TVA. Autoritatea alimentează apoi contul prin rețineri din sumele datorate, până la valoarea garanției. Contul e purtător de dobândă în favoarea contractantului."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 40 alin. (4)–(6)",
+     "citat": "contractantul are obligația de a deschide un cont la dispoziția autorității contractante la o instituție de credit bancară agreată de ambele părți. (5) În cazul în care autoritatea contractantă are calitatea de autoritate publică, instituție publică sau operator economic cu capital integral sau majoritar de stat, contractantul are obligația de a deschide contul la dispoziția autorității contractante, prevăzut la alin (4), la unitatea Trezoreriei Statului din cadrul organului fiscal competent în administrarea acestuia. (6) Suma inițială care se depune de către contractant în contul de disponibil astfel deschis potrivit alin. (4) și (5) nu trebuie să fie mai mică de 0,5% din prețul contractului de achiziție publică/contractului subsecvent, fără TVA.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 40 alin. (7) și (9)",
+     "citat": "autoritatea contractantă urmează să alimenteze contul de disponibil prevăzut la alin. (4) și (5) prin rețineri succesive din sumele datorate și cuvenite contractantului până la concurența sumei stabilite drept garanție de bună execuție [...] (9) Contul de disponibil prevăzut la alin. (4) și (5) este purtător de dobândă în favoarea contractantului.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Pretențiile asupra garanției de bună execuție (Norme art. 41)",
+   "paragrafe": [
+    "Autoritatea poate emite pretenții oricând pe durata contractului, în limita prejudiciului, dacă contractantul nu își îndeplinește obligațiile din culpa sa. Înainte, notifică pretenția contractantului și emitentului instrumentului, arătând obligațiile încălcate și calculul prejudiciului. După executare, contractantul reîntregește garanția raportat la restul de executat."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 41",
+     "citat": "Autoritatea contractantă are dreptul de a emite pretenții asupra garanției de bună execuție, oricând pe parcursul îndeplinirii contractului de achiziție publică/contractului subsecvent, în limita prejudiciului creat, în cazul în care contractantul nu își îndeplinește din culpa sa obligațiile asumate prin contract. Anterior emiterii unei pretenții asupra garanției de bună execuție autoritatea contractantă are obligația de a notifica pretenția atât contractantului, cât și emitentului instrumentului de garantare, precizând obligațiile care nu au fost respectate, precum și modul de calcul al prejudiciului. În situația executării garanției de bună execuție, parțial sau total, contractantul are obligația de a reîntregii garanția în cauză raportat la restul rămas de executat.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Restituirea garanției de bună execuție (Lege art. 154^2)",
+   "paragrafe": [
+    "La furnizare, garanția se restituie în cel mult 14 zile de la recepția produselor sau de la plata facturii finale. La servicii, în cel mult 14 zile de la îndeplinirea obligațiilor. În ambele cazuri, dacă nu s-au ridicat pretenții.",
+    "La lucrări și la supervizarea lucrărilor, 70% se restituie în 14 zile de la recepția la terminarea lucrărilor. Restul de 30% se restituie la lucrări la expirarea perioadei de garanție, pe baza recepției finale, iar la supervizare în 14 zile de la raportul final sau de la expirarea garanției lucrării."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154^2 alin. (1)–(2)",
+     "citat": "În cazul contractului de furnizare, autoritatea contractantă are obligația de a elibera/restitui garanția de bună execuție în cel mult 14 zile de la data întocmirii procesului-verbal de recepție a produselor care fac obiectul contractului de achiziție publică/contractului subsecvent și/sau de la plata facturii finale, dacă nu a ridicat până la acea dată pretenții asupra ei. (2) În cazul contractului de servicii, autoritatea contractantă are obligația de a elibera/restitui garanția de bună execuție în cel mult 14 zile de la data îndeplinirii de către contractant a obligațiilor asumate prin contractul de achiziție publică/contractul subsecvent respectiv, dacă nu a ridicat până la acea dată pretenții asupra ei.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154^2 alin. (4)",
+     "citat": "a) 70% din valoarea garanției, în termen de 14 zile de la data încheierii procesului-verbal de recepție la terminarea lucrărilor, dacă nu a ridicat până la acea dată pretenții asupra ei; b) restul de 30% din valoarea garanției, în termen de 14 zile de la data emiterii raportului final de supervizare/expirarea duratei de garanție acordată lucrării în cauză.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 154^2 alin. (5)",
+     "citat": "a) 70% din valoarea garanției, în termen de 14 zile de la data încheierii procesului-verbal de recepție la terminarea lucrărilor, dacă nu a ridicat până la acea dată pretenții asupra ei, iar riscul pentru vicii ascunse este minim; b) restul de 30% din valoarea garanției, la expirarea perioadei de garanție a lucrărilor executate, pe baza procesului-verbal de recepție finală.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Garanția de participare: cel mult 1% din valoarea estimată; garanția de bună execuție: cel mult 10% din prețul contractului fără TVA.",
+  "Garanția de bună execuție se constituie în 5 zile lucrătoare de la semnare, prelungibil, dar nu peste 15 zile de la semnare.",
+  "Retragerea ofertei în perioada de valabilitate atrage reținerea garanției de participare; la acordul-cadru nu se reține pentru neconstituirea garanției de bună execuție.",
+  "Autoritatea nu poate cere ca instrumentul de garantare să fie emis doar de bănci sau de un anumit emitent.",
+  "Rețineri succesive: suma inițială de cel puțin 0,5% din preț; la autoritățile publice contul se deschide la Trezorerie; dobânda e a contractantului.",
+  "Pretențiile asupra garanției de bună execuție se emit doar în limita prejudiciului, după notificarea contractantului și a emitentului.",
+  "Lucrări: 70% din garanție se restituie în 14 zile de la recepția la terminare, 30% la expirarea perioadei de garanție."
+ ],
+ "intrebari": [
+  "N395-N601",
+  "N395A-060",
+  "N395A-061",
+  "N395A-062",
+  "N395-garantie-buna-executie",
+  "N395A-063",
+  "N395A-064",
+  "N395A-065"
+ ]
+}
