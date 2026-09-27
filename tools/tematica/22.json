@@ -1,0 +1,321 @@
+{
+ "nr": 22,
+ "titlu": "Fazele pe care le parcurg cheltuielile din fondurile publice și definirea acestora",
+ "rezumat": "Orice cheltuială din fonduri publice trece prin patru faze: angajarea, lichidarea, ordonanțarea și plata. Primele trei sunt de competența ordonatorului de credite; plata o face contabilul, pe baza principiului separării atribuțiilor. Angajarea are două forme: angajamentul bugetar, care rezervă creditele, și angajamentul legal, actul juridic din care rezultă obligația; angajamentul bugetar îl precede pe cel legal. Lichidarea verifică existența și suma datoriei („Bun de plată”). Ordonanțarea dispune plata. Plata eliberează instituția de obligație. Angajarea și ordonanțarea cer viza de control financiar preventiv propriu.",
+ "sectiuni": [
+  {
+   "titlu": "Ordinul și principiile execuției bugetare (Ordinul art. 1; Norme, preambul)",
+   "paragrafe": [
+    "Ordinul nr. 1.792/2002 aprobă normele privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor instituțiilor publice și evidența angajamentelor bugetare și legale.",
+    "Instituțiile publice parcurg obligatoriu cele 4 faze ale execuției bugetare a cheltuielilor. Execuția se bazează pe separarea atribuțiilor ordonatorului de credite de cele ale contabilului: ordonatorii angajează, lichidează și ordonanțează în limita creditelor aprobate, iar plata o fac persoanele numite generic contabil.",
+    "Ordonatorii își pot delega calitatea. Actul de delegare arată limitele, condițiile, subdiviziunile bugetare și termenul de valabilitate și se comunică persoanelor împuternicite, conducătorului compartimentului financiar și persoanei cu controlul financiar preventiv propriu."
+   ],
+   "temei": [
+    {
+     "act": "Ordinul M.F.P. nr. 1.792/2002 (ALOP)",
+     "articol": "art. 1",
+     "citat": "Se aprobă Normele metodologice privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor instituțiilor publice, precum și organizarea, evidenta și raportarea angajamentelor bugetare și legale, prevăzute în anexa care face parte integrantă din prezentul ordin.",
+     "fisier": "08_Ordinul_MFP_1792-2002_act_de_aprobare.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "preambul",
+     "citat": "instituțiile publice, indiferent de subordonare și de modul de finanțare a cheltuielilor, au obligația să respecte procedurile privind parcurgerea celor 4 faze ale execuției bugetare a cheltuielilor, respectiv angajarea, lichidarea, ordonanțarea și plata cheltuielilor",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "preambul",
+     "citat": "Execuția bugetară se bazează pe principiul separarii atribuțiilor persoanelor care au calitatea de ordonator de credite de atribuțiile persoanelor care au calitatea de contabil. Ordonatorii de credite ai bugetelor prevăzute la art. 1 alin. (2) din Legea nr. 500/2002 sunt autorizați sa angajeze, sa lichideze și sa ordonanteze cheltuieli pe parcursul exercițiului bugetar, în limita creditelor bugetare aprobate, iar plata cheltuielilor se efectuează de persoanele autorizate care, potrivit legii, poarta denumirea generica de contabil.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "preambul",
+     "citat": "În actul de delegare trebuie să se specifice limitele și condițiile delegării, respectiv atribuțiile persoanelor delegate să semneze documentele de angajare, lichidare și ordonantare a cheltuielilor, precum și subdiviziunile clasificației bugetului aprobat pentru care au fost împuternicite să efectueze aceste operațiuni și termenul de valabilitate a împuternicirii.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Creditul de angajament, creditul bugetar, acțiunile multianuale (Norme pct. 1)",
+   "paragrafe": [
+    "Sumele aprobate la cheltuieli sunt limite maxime. Creditul de angajament e limita maximă a cheltuielilor care pot fi angajate în exercițiul bugetar. Creditul bugetar e limita maximă până la care se pot ordonanța și plăti cheltuielile în anul bugetar.",
+    "Acțiunile multianuale se desfășoară pe mai mult de un an și dau naștere la credite de angajament și credite bugetare. Pentru ele, angajamentele legale se încheie în limita creditelor de angajament; celelalte cheltuieli se angajează numai în limita creditelor bugetare."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "Sumele aprobate, la partea de cheltuieli, prin bugetele prevăzute la art. 1 alin. (2) din Legea nr. 500/2002, în cadrul cărora se angajează, se ordonanțează și se efectuează plati, reprezintă limite maxime care nu pot fi depășite. Creditul de angajament reprezintă limita maximă a cheltuielilor ce pot fi angajate, în timpul exercițiului bugetar, în limitele aprobate. Creditul bugetar este suma aprobată prin buget, reprezentând limita maximă până la care se pot ordonanța și efectua plăți în cursul anului bugetar",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "Acțiunile multianuale reprezintă programe, proiecte și altele asemenea care se desfășoară pe o perioadă mai mare de un an și dau naștere la credite de angajament și credite bugetare.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "Pentru acțiunile multianuale ordonatorii de credite încheie angajamente legale în limita creditelor de angajament aprobate în buget pentru exercițiul bugetar respectiv. [...] Angajarea cheltuielilor bugetare, altele decât cele care privesc acțiuni multianuale, se face numai în limita creditelor bugetare aprobate.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Angajamentul legal (Norme pct. 1 lit. a))",
+   "paragrafe": [
+    "Angajamentul legal e orice act juridic din care rezultă sau ar putea rezulta o obligație pe seama fondurilor publice. E scris și semnat de ordonatorul de credite: contract de achiziție publică, comandă, convenție, contract de muncă etc.",
+    "Proiectul de angajament legal nu poate fi aprobat fără viza prealabilă de control financiar preventiv propriu. Nu se pot angaja cheltuieli care nu pot fi executate, recepționate și plătite până la 31 decembrie, cu excepția acțiunilor multianuale."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "a) Angajamentul legal - faza în procesul execuției bugetare reprezentând orice act juridic din care rezultă sau ar putea rezultă o obligație pe seama fondurilor publice. Angajamentul legal trebuie să se prezinte sub forma scrisă și să fie semnat de ordonatorul de credite. Angajamentul legal ia forma unui contract de achiziție publică, comanda, convenție, contract de muncă, acte de control, acord de împrumut etc.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "Aceste proiecte de angajamente legale nu pot fi aprobate de către ordonatorul de credite decât dacă au primit în prealabil viza de control financiar preventiv propriu în condițiile legii. Angajarea și ordonanțarea cheltuielilor se efectuează numai cu viza prealabilă de control financiar preventiv propriu, potrivit dispozițiilor legale.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "Ordonatorii de credite nu pot angaja cheltuieli într-o perioadă în care se știe ca bunul, lucrarea sau serviciul nu va putea fi executat, receptionat și plătit până la data de 31 decembrie a exercițiului bugetar curent",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Angajamentul bugetar: individual și global (Norme pct. 1 lit. b))",
+   "paragrafe": [
+    "Angajamentul bugetar e actul prin care autoritatea competentă afectează fonduri publice unei destinații, în limita creditelor bugetare. El rezervă, adică blochează, creditele și precede angajamentul legal. Valoarea angajamentelor legale nu poate depăși angajamentele bugetare și creditele aprobate.",
+    "Angajamentul bugetar individual privește o operațiune nouă. Cel global privește cheltuielile curente administrative repetate, precum deplasările, protocolul, utilitățile, chiriile, și însoțește angajamentele legale provizorii.",
+    "Salariile din statele de funcții, pensiile, ajutoarele sociale și dobânzile datoriei publice se consideră angajamente legale și bugetare de la 1 ianuarie, pentru întreaga sumă aprobată."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "b) Angajamentul bugetar - orice act prin care o autoritate competentă, potrivit legii, afectează fonduri publice unor anumite destinații, în limita creditelor bugetare aprobate.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "În vederea respectării acestei cerințe, angajamentul bugetar prin care au fost rezervate fonduri publice unei anumite destinații, în limita creditelor bugetare aprobate, preceda angajamentul legal.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "b1) Angajamentul bugetar individual este un angajament specific unei anumite operațiuni noi care urmează să se efectueze.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "Angajamentul bugetar global este un angajament bugetar aferent angajamentului legal provizoriu care privește cheltuielile curente de funcționare de natura administrativă",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "Salariile personalului cuprins în statele de funcții anexate bugetului aprobat și obligațiile aferente acestora, pensiile și ajutoarele sociale stabilite conform legilor în vigoare, precum și cheltuielile cu dobânzile și alte cheltuieli aferente datoriei publice se considera angajamente legale și bugetare de la data de 1 ianuarie a fiecărui an cu întreaga suma a creditelor bugetare aprobate.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Avizarea angajamentelor și anularea creditelor (Norme pct. 1)",
+   "paragrafe": [
+    "Proiectul de angajament legal se avizează dacă e prezentat corect, există credite disponibile, se încadrează în angajamentul bugetar, respectă legea (controlul de legalitate) și regulile procedurale (controlul de regularitate). Altfel, viza poate fi refuzată.",
+    "Creditele bugetare neangajate și cele angajate, dar neutilizate până la finele anului se anulează de drept. Cheltuiala angajată și neplătită până la 31 decembrie se plătește din bugetul anului următor."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "d) proiectul de angajament legal respecta toate prevederile legale care îi sunt aplicabile, în vigoare la data efectuării sale (controlul de legalitate); e) proiectul de angajament legal respecta sub toate aspectele ansamblul principiilor și regulilor procedurale și metodologice care sunt aplicabile categoriei de cheltuieli din care fac parte (controlul de regularitate).",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 1",
+     "citat": "Creditele bugetare neangajate, precum și creditele bugetare angajate și neutilizate până la finele exercițiului bugetar sunt anulate de drept. Orice cheltuiala angajata și neplatita până la data de 31 decembrie a exercițiului bugetar curent se va plati în contul bugetului pe anul următor din creditele bugetare aprobate în acest scop.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Lichidarea cheltuielilor (Norme pct. 2)",
+   "paragrafe": [
+    "Lichidarea e faza în care se verifică existența angajamentului, se stabilește sau se verifică realitatea sumei datorate și condițiile de exigibilitate, pe baza documentelor justificative. Se verifică pretenția creditorului și realitatea serviciului efectuat.",
+    "Documentele care atestă livrarea, execuția sau prestarea se vizează „Bun de plată” de ordonator sau de persoana delegată. Viza confirmă că bunurile au fost recepționate și înregistrate, lucrările executate, serviciile prestate și că factura a fost verificată."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 2",
+     "citat": "Este faza în procesul execuției bugetare în care se verifica existenta angajamentelor, se determina sau se verifica realitatea sumei datorate, se verifica condițiile de exigibilitate ale angajamentului legal pe baza documentelor justificative care să ateste operațiunile respective.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 2",
+     "citat": "Documentele care atesta bunurile livrate, lucrările executate și serviciile prestate sau din care reies obligații de plată certe se vizează pentru \"Bun de plată\" de ordonatorul de credite sau de persoana delegată cu aceste atribuții",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 2",
+     "citat": "Prin acordarea semnăturii și mențiunii \"Bun de plată\" pe factura, se atesta ca serviciul a fost efectuat corespunzător de către furnizor și ca toate pozițiile din factura au fost verificate.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Ordonanțarea cheltuielilor (Norme pct. 3)",
+   "paragrafe": [
+    "Ordonanțarea confirmă că livrările au fost efectuate și că plata poate fi făcută. Ordonanțarea de plată e documentul intern prin care ordonatorul dispune conducătorului compartimentului financiar să întocmească instrumentele de plată. E însoțită de documentele justificative în original.",
+    "Înainte de a fi semnată de ordonator, ordonanțarea primește viza de control financiar preventiv propriu; fără ea, e nulă pentru cel care face plata, în afara autorizării legale. Primele trei faze se realizează în instituție, sub răspunderea ordonatorului de credite."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 3",
+     "citat": "Este faza în procesul execuției bugetare în care se confirma ca livrările de bunuri au fost efectuate sau alte creanțe au fost verificate și ca plata poate fi realizată.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 3",
+     "citat": "Ordonanțarea de plată este documentul intern prin care ordonatorul de credite da dispoziție conducătorului compartimentului financiar (financiar-contabil) sa întocmească instrumentele de plată a cheltuielilor.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 3",
+     "citat": "Nici o ordonantare de plată nu poate fi prezentată spre semnare ordonatorului de credite decât după ce persoana desemnată să exercite controlul financiar preventiv propriu a acordat viza.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 3",
+     "citat": "Ordonantarile de plată nevizate de persoana desemnată să exercite controlul financiar preventiv propriu sunt nule și fără valoare pentru conducătorul compartimentului financiar (financiar-contabil) care urmează să facă plata, dacă nu sunt autorizate în condițiile prevăzute de lege.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 3",
+     "citat": "Primele trei faze ale procesului execuției bugetare a cheltuielilor se realizează în cadrul instituției publice, răspunderea pentru angajarea, lichidarea și ordonanțarea cheltuielilor revenindu-i ordonatorului de credite bugetare",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Plata cheltuielilor (Norme pct. 4)",
+   "paragrafe": [
+    "Plata e faza finală, prin care instituția e eliberată de obligațiile față de creditori. O fac persoanele numite generic contabil, prin trezorerie, în limita creditelor deschise. Instrumentele de plată se semnează de două persoane: întâi conducătorul compartimentului financiar, apoi persoana cu atribuții de plată.",
+    "Plata nu se face fără credite deschise, fără confirmarea serviciului și „Bun de plată”, către alt beneficiar sau fără viza de control financiar preventiv pe ordonanțare. La o eroare, conducătorul financiar suspendă plata, iar ordonatorul poate cere în scris, pe propria răspundere, efectuarea ei.",
+    "Un ordin de plată nu poate cuprinde plăți din mai multe subdiviziuni ale bugetului. Avansurile nejustificate până la sfârșitul anului se recuperează, cu dobânzi și penalități."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 4",
+     "citat": "Plata cheltuielilor este faza finala a execuției bugetare prin care instituția publică este eliberata de obligațiile sale față de terții-creditori.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 4",
+     "citat": "Instrumentele de plată utilizate de instituțiile publice, respectiv cecul de numerar și ordinul de plată pentru trezoreria statului (OPHT), se semnează de doua persoane autorizate în acest sens, dintre care prima semnătura este cea a conducătorului compartimentului financiar (financiar-contabil), iar a doua, a persoanei cu atribuții în efectuarea plății.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 4",
+     "citat": "Nu se poate efectua plata: – în cazul în care nu exista credite bugetare deschise și/sau repartizate ori disponibilitățile sunt insuficiente; – când nu exista confirmarea serviciului efectuat și documentele nu sunt vizate pentru \"Bun de plată\"; – când beneficiarul nu este cel față de care instituția are obligații; – când nu exista viza de control financiar preventiv propriu pe ordonanțarea de plată și nici autorizarea prevăzută de lege.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 4",
+     "citat": "În cazul constatării unei erori în legătură cu plata ce urmează să fie efectuată, conducătorul compartimentului financiar (financiar-contabil) suspenda plata. [...] Ordonatorul de credite poate solicita în scris și pe propria răspundere efectuarea plăților.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 4",
+     "citat": "Un ordin de plată nu poate cuprinde plati referitoare la mai multe subdiviziuni ale bugetului aprobat.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    },
+    {
+     "act": "Normele metodologice ALOP (anexa la Ordinul M.F.P. nr. 1.792/2002)",
+     "articol": "pct. 4",
+     "citat": "Sumele reprezentând plati în avans nejustificate prin bunuri livrate, lucrări executate și servicii prestate până la sfârșitul anului se recuperează de către instituția publică care a acordat avansurile și se vor restitui bugetului din care au fost acordate, cu perceperea dobânzilor și penalităților de întârziere aferente, potrivit legii.",
+     "fisier": "09_Norme_ALOP_1792-2002.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Ordinea fazelor: angajarea, lichidarea, ordonanțarea, plata. Primele trei țin de ordonatorul de credite, plata de contabil.",
+  "Angajamentul bugetar precede angajamentul legal și rezervă creditele.",
+  "Creditul de angajament limitează angajarea; creditul bugetar limitează ordonanțarea și plata în anul bugetar.",
+  "„Bun de plată” se acordă la lichidare, nu la ordonanțare.",
+  "Ordonanțarea nevizată de controlul financiar preventiv propriu e nulă pentru cel care plătește.",
+  "Creditele neangajate sau neutilizate la finele anului se anulează de drept; cheltuielile angajate și neplătite se plătesc din bugetul anului următor.",
+  "Instrumentele de plată se semnează de două persoane, prima fiind conducătorul compartimentului financiar.",
+  "Salariile, pensiile, ajutoarele sociale și dobânzile datoriei publice sunt angajamente legale și bugetare de la 1 ianuarie."
+ ],
+ "intrebari": [
+  "ALOP-002",
+  "ALOP-005",
+  "ALOP-006",
+  "ALOP-007",
+  "ALOP-008",
+  "ALOP-001",
+  "ALOPB-001",
+  "ALOP-009",
+  "ALOP-010",
+  "ALOP-011",
+  "ALOP-031",
+  "ALOP-013",
+  "ALOP-014",
+  "ALOP-015",
+  "ALOP-016",
+  "ALOP-003",
+  "ALOP-017",
+  "ALOP-019",
+  "ALOP-020",
+  "ALOP-021",
+  "ALOP-022",
+  "ALOP-018",
+  "ALOP-023",
+  "ALOP-024",
+  "ALOP-025",
+  "ORD1792-N101",
+  "ALOP-026",
+  "ALOP-027",
+  "ALOPB-002",
+  "ALOP-028",
+  "ALOP-029",
+  "ALOP-030",
+  "ALOP-012",
+  "ALOPB-003",
+  "ALOP-033",
+  "ALOP-004",
+  "ALOP-032",
+  "ALOP-034",
+  "ALOP-035",
+  "ALOP-036",
+  "ALOPB-004"
+ ]
+}

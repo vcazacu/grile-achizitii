@@ -1,0 +1,703 @@
+[
+ {
+  "loc": "Ordinul și principiile execuției bugetare (Ordinul art. 1; N / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Ordinul nr. 1.792/2002 aprobă normele privind angajarea, lichidarea, ordonanțarea și plata cheltuielilor instituțiilor publice și evidența angajamentelor bugetare și legale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2543
+ },
+ {
+  "loc": "Ordinul și principiile execuției bugetare (Ordinul art. 1; N / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Instituțiile publice parcurg obligatoriu cele 4 faze ale execuției bugetare a cheltuielilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Execuția se bazează pe separarea atribuțiilor ordonatorului de credite de cele ale contabilului: ordonatorii angajează, lichidează și ordonanțează în limita creditelor aprobate, iar plata o fac persoanele numite generic contabil.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2961
+ },
+ {
+  "loc": "Ordinul și principiile execuției bugetare (Ordinul art. 1; N / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Ordonatorii își pot delega calitatea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Actul de delegare arată limitele, condițiile, subdiviziunile bugetare și termenul de valabilitate și se comunică persoanelor împuternicite, conducătorului compartimentului financiar și persoanei cu controlul financiar preventiv propriu.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2942
+ },
+ {
+  "loc": "Creditul de angajament, creditul bugetar, acțiunile multianu / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Sumele aprobate la cheltuieli sunt limite maxime.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Creditul de angajament e limita maximă a cheltuielilor care pot fi angajate în exercițiul bugetar.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Creditul bugetar e limita maximă până la care se pot ordonanța și plăti cheltuielile în anul bugetar.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3979
+ },
+ {
+  "loc": "Creditul de angajament, creditul bugetar, acțiunile multianu / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Acțiunile multianuale se desfășoară pe mai mult de un an și dau naștere la credite de angajament și credite bugetare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Pentru ele, angajamentele legale se încheie în limita creditelor de angajament; celelalte cheltuieli se angajează numai în limita creditelor bugetare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3605
+ },
+ {
+  "loc": "Angajamentul legal (Norme pct. 1 lit. a)) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Angajamentul legal e orice act juridic din care rezultă sau ar putea rezulta o obligație pe seama fondurilor publice.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "sustine": 0.53,
+     "contrazice": 0.1,
+     "nu_spune": 0.36
+    },
+    "confidence": 0.38
+   },
+   "1": {
+    "text": "E scris și semnat de ordonatorul de credite: contract de achiziție publică, comandă, convenție, contract de muncă etc.",
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "absenta_corecta": 0.02,
+     "sustine": 0.45,
+     "contrazice": 0.04,
+     "nu_spune": 0.49
+    },
+    "confidence": 0.31
+   }
+  },
+  "usage": 3570
+ },
+ {
+  "loc": "Angajamentul legal (Norme pct. 1 lit. a)) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Proiectul de angajament legal nu poate fi aprobat fără viza prealabilă de control financiar preventiv propriu.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.88,
+     "absenta_corecta": 0.01,
+     "contrazice": 0.08,
+     "nu_spune": 0.03
+    },
+    "confidence": 0.85
+   },
+   "1": {
+    "text": "Nu se pot angaja cheltuieli care nu pot fi executate, recepționate și plătite până la 31 decembrie, cu excepția acțiunilor multianuale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.53,
+     "absenta_corecta": 0.02,
+     "contrazice": 0.25,
+     "nu_spune": 0.2
+    },
+    "confidence": 0.38
+   }
+  },
+  "usage": 3572
+ },
+ {
+  "loc": "Angajamentul bugetar: individual și global (Norme pct. 1 lit / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Angajamentul bugetar e actul prin care autoritatea competentă afectează fonduri publice unei destinații, în limita creditelor bugetare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.89,
+     "nu_spune": 0.08,
+     "contrazice": 0.03
+    },
+    "confidence": 0.85
+   },
+   "1": {
+    "text": "El rezervă, adică blochează, creditele și precede angajamentul legal.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "sustine": 0.76,
+     "nu_spune": 0.19,
+     "contrazice": 0.04
+    },
+    "confidence": 0.68
+   },
+   "2": {
+    "text": "Valoarea angajamentelor legale nu poate depăși angajamentele bugetare și creditele aprobate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.94,
+     "nu_spune": 0.04,
+     "contrazice": 0.02
+    },
+    "confidence": 0.92
+   }
+  },
+  "usage": 4020
+ },
+ {
+  "loc": "Angajamentul bugetar: individual și global (Norme pct. 1 lit / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Angajamentul bugetar individual privește o operațiune nouă.",
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "sustine": 0.17,
+     "nu_spune": 0.79,
+     "absenta_corecta": 0.03,
+     "contrazice": 0.01
+    },
+    "confidence": 0.72
+   },
+   "1": {
+    "text": "Cel global privește cheltuielile curente administrative repetate, precum deplasările, protocolul, utilitățile, chiriile, și însoțește angajamentele legale provizorii.",
+    "alegere": "nu_spune",
+    "probabilitati": {
+     "sustine": 0.12,
+     "nu_spune": 0.83,
+     "absenta_corecta": 0.03,
+     "contrazice": 0.02
+    },
+    "confidence": 0.78
+   }
+  },
+  "usage": 3624
+ },
+ {
+  "loc": "Angajamentul bugetar: individual și global (Norme pct. 1 lit / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Salariile din statele de funcții, pensiile, ajutoarele sociale și dobânzile datoriei publice se consideră angajamente legale și bugetare de la 1 ianuarie, pentru întreaga sumă aprobată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3232
+ },
+ {
+  "loc": "Avizarea angajamentelor și anularea creditelor (Norme pct. 1 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Proiectul de angajament legal se avizează dacă e prezentat corect, există credite disponibile, se încadrează în angajamentul bugetar, respectă legea (controlul de legalitate) și regulile procedurale (controlul de regularitate).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Altfel, viza poate fi refuzată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3614
+ },
+ {
+  "loc": "Avizarea angajamentelor și anularea creditelor (Norme pct. 1 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Creditele bugetare neangajate și cele angajate, dar neutilizate până la finele anului se anulează de drept.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Cheltuiala angajată și neplătită până la 31 decembrie se plătește din bugetul anului următor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3601
+ },
+ {
+  "loc": "Lichidarea cheltuielilor (Norme pct. 2) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Lichidarea e faza în care se verifică existența angajamentului, se stabilește sau se verifică realitatea sumei datorate și condițiile de exigibilitate, pe baza documentelor justificative.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Se verifică pretenția creditorului și realitatea serviciului efectuat.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2764
+ },
+ {
+  "loc": "Lichidarea cheltuielilor (Norme pct. 2) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Documentele care atestă livrarea, execuția sau prestarea se vizează „Bun de plată” de ordonator sau de persoana delegată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Viza confirmă că bunurile au fost recepționate și înregistrate, lucrările executate, serviciile prestate și că factura a fost verificată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2771
+ },
+ {
+  "loc": "Ordonanțarea cheltuielilor (Norme pct. 3) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Ordonanțarea confirmă că livrările au fost efectuate și că plata poate fi făcută.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Ordonanțarea de plată e documentul intern prin care ordonatorul dispune conducătorului compartimentului financiar să întocmească instrumentele de plată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "E însoțită de documentele justificative în original.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3654
+ },
+ {
+  "loc": "Ordonanțarea cheltuielilor (Norme pct. 3) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Înainte de a fi semnată de ordonator, ordonanțarea primește viza de control financiar preventiv propriu; fără ea, e nulă pentru cel care face plata, în afara autorizării legale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Primele trei faze se realizează în instituție, sub răspunderea ordonatorului de credite.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3271
+ },
+ {
+  "loc": "Plata cheltuielilor (Norme pct. 4) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Plata e faza finală, prin care instituția e eliberată de obligațiile față de creditori.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "O fac persoanele numite generic contabil, prin trezorerie, în limita creditelor deschise.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "text": "Instrumentele de plată se semnează de două persoane: întâi conducătorul compartimentului financiar, apoi persoana cu atribuții de plată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4470
+ },
+ {
+  "loc": "Plata cheltuielilor (Norme pct. 4) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Plata nu se face fără credite deschise, fără confirmarea serviciului și „Bun de plată”, către alt beneficiar sau fără viza de control financiar preventiv pe ordonanțare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.98,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   },
+   "1": {
+    "text": "La o eroare, conducătorul financiar suspendă plata, iar ordonatorul poate cere în scris, pe propria răspundere, efectuarea ei.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4082
+ },
+ {
+  "loc": "Plata cheltuielilor (Norme pct. 4) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Un ordin de plată nu poate cuprinde plăți din mai multe subdiviziuni ale bugetului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Avansurile nejustificate până la sfârșitul anului se recuperează, cu dobânzi și penalități.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4052
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Ordinea fazelor: angajarea, lichidarea, ordonanțarea, plata.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Primele trei țin de ordonatorul de credite, plata de contabil.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10450
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Angajamentul bugetar precede angajamentul legal și rezervă creditele.",
+    "alegere": "contrazice",
+    "probabilitati": {
+     "absenta_corecta": 0.01,
+     "contrazice": 0.45999999999999996,
+     "sustine": 0.44,
+     "nu_spune": 0.09
+    },
+    "confidence": 0.29
+   }
+  },
+  "usage": 10055
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Creditul de angajament limitează angajarea; creditul bugetar limitează ordonanțarea și plata în anul bugetar.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10070
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "„Bun de plată” se acordă la lichidare, nu la ordonanțare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10057
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Ordonanțarea nevizată de controlul financiar preventiv propriu e nulă pentru cel care plătește.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10064
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Creditele neangajate sau neutilizate la finele anului se anulează de drept; cheltuielile angajate și neplătite se plătesc din bugetul anului următor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10086
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Instrumentele de plată se semnează de două persoane, prima fiind conducătorul compartimentului financiar.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10062
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Salariile, pensiile, ajutoarele sociale și dobânzile datoriei publice sunt angajamente legale și bugetare de la 1 ianuarie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 10073
+ }
+]

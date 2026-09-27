@@ -34,6 +34,7 @@ const FISIERE = [
   "./tematica/19-controlul-ex-ante.html",
   "./tematica/20-remedii-contestatii-termen-efecte-solutionare.html",
   "./tematica/21-solutii-de-pronuntare-cai-de-atac.html",
+  "./tematica/22-fazele-cheltuielilor-publice.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",
