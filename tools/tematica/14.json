@@ -1,0 +1,349 @@
+{
+ "nr": 14,
+ "titlu": "Derularea procedurilor de atribuire. Instrumente și tehnici specifice: acordul-cadru, sistemul dinamic de achiziții, licitația electronică, cataloagele electronice",
+ "rezumat": "Acordul-cadru se atribuie prin procedurile obișnuite și durează cel mult 4 ani, în afara cazurilor excepționale justificate. Se încheie cu unul sau mai mulți operatori; cu mai mulți, contractele subsecvente se atribuie fără reluarea competiției, cu reluarea ei sau mixt. Sistemul dinamic de achiziții e un proces integral electronic pentru achiziții de uz curent, deschis permanent operatorilor calificați, după regulile licitației restrânse: 30 de zile pentru solicitări, 10 zile pentru oferte, fără tarife. Licitația electronică e o etapă finală de reofertare automată, după o evaluare inițială integrală, interzisă la prestațiile intelectuale. Oferta e obligatorie pe toată perioada de valabilitate.",
+ "sectiuni": [
+  {
+   "titlu": "Acordul-cadru: atribuire, durată, părți (Lege art. 114–116; Norme art. 107 alin. (3)–(4))",
+   "paragrafe": [
+    "Acordul-cadru se atribuie prin procedurile de la art. 68. Durata lui nu poate depăși 4 ani, cu excepția cazurilor excepționale justificate temeinic, în special prin obiect. Documentele achiziției stabilesc dacă se încheie cu un singur operator sau cu mai mulți; aceștia se stabilesc prin criteriile de calificare, selecție și atribuire.",
+    "Contractele subsecvente se încheie numai între autoritățile din anunțul de participare și operatorii parte la acord, fără modificări substanțiale ale condițiilor acordului. Ele se încheie numai cât timp acordul e valabil, dar durata lor poate depăși durata acordului."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 114",
+     "citat": "Autoritatea contractantă atribuie acordurile-cadru prin aplicarea procedurilor corespunzătoare prevăzute la art. 68.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 115 alin. (1)–(2)",
+     "citat": "Durata unui acord-cadru nu poate depăși 4 ani, cu excepția cazurilor excepționale pe care autoritatea contractantă le justifică temeinic, în special prin obiectul acordului-cadru respectiv. (2) În cadrul procedurii de atribuire a acordului-cadru, autoritatea contractantă stabilește prin documentele achiziției că acordul-cadru se încheie în una dintre următoarele modalități: a) cu un singur operator economic; b) cu mai mulți operatori economici.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 116",
+     "citat": "(1) Contractele care se atribuie în executarea unui acord-cadru nu pot fi încheiate decât între autoritatea contractantă/autoritățile contractante menționate în anunțul de participare prin care a fost inițiată procedura de atribuire a acordului-cadru și operatorul economic/operatorii economici care sunt parte a acordului respectiv. (2) Clauzele unui contract atribuit în executarea unui acord-cadru nu pot în niciun caz să aducă modificări substanțiale termenilor și condițiilor stabilite inițial prin acordul-cadru respectiv.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 107 alin. (3)–(4)",
+     "citat": "Autoritatea contractantă are dreptul de a încheia contracte subsecvente numai în perioada de valabilitate a acordului-cadru. (4) Durata contractelor subsecvente încheiate în conformitate cu alin. (3) poate depăși durata de valabilitate a acordului-cadru.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Utilizarea corectă a acordului-cadru (Norme art. 107 alin. (1)–(2), 108)",
+   "paragrafe": [
+    "Acordul-cadru nu poate fi folosit abuziv pentru a restrânge concurența. Autoritatea nu poate atribui subsecvente de altă natură decât cele din acord, nici subsecvente de tipuri diferite între ele, și nu le poate atribui pentru o autoritate care nu e parte, decât ca unitate de achiziție centralizată.",
+    "Criteriile minime de calificare se raportează cel mult la cel mai mare contract subsecvent anticipat sau la contractele executate simultan. Cantitatea sau valoarea maximă din anunț nu se depășește, cu excepția modificărilor permise de art. 221 din Lege.",
+    "Pe durata acordului, autoritatea nu încheie cu alt operator un contract pentru același obiect cât timp cantitățile maxime nu au fost consumate. Excepția: operatorii din acord nu mai au capacitatea de a răspunde solicitărilor."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 107 alin. (2) lit. b)–c), e)–g)",
+     "citat": "b) nu are dreptul de a atribui contracte subsecvente care au ca obiect prestații de altă natură decât cele stabilite prin acordul-cadru; c) nu are dreptul de a încheia acorduri-cadru pe baza cărora se pot atribui contracte subsecvente de tipuri sau natură diferite unele față de altele; [...] e) nu are dreptul de a atribui contracte subsecvente în numele și pentru o altă autoritate contractantă care nu este parte în acordul-cadru respectiv decât în cazul în care are calitatea de unitate de achiziție centralizată; f) are obligația de a impune criterii minime de calificare care să se raporteze cel mult la valoarea estimată a celui mai mare contract subsecvent care se anticipează a fi atribuit pe durata acordului-cadru sau, după caz, la valoarea maximă anticipată a contractelor subsecvente ce urmează să se execute în același timp; g) nu are dreptul de a depăși cantitatea/valoarea maximă estimată indicată în anunțul de participare, cu excepția modificărilor contractuale realizate în condițiile prevăzute la art. 221 din Lege.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 108 alin. (1) lit. a) și (2)",
+     "citat": "a) să nu încheie cu alt operator economic, pe durata acordului-cadru, un contract având ca obiect achiziționarea produselor/serviciilor/lucrărilor care fac obiectul acordului-cadru respectiv, în situația în care cantitățile maxime estimate nu au fost consumate [...] (2) Prin excepție de la dispozițiile alin. (1) lit. a), autoritatea contractantă are dreptul să încheie cu alt operator economic un contract de achiziție publică având ca obiect achiziționarea acelorași produse/servicii/lucrări care fac obiectul acordului-cadru respectiv în cazul în care operatorul/operatorii economici semnatar/semnatari al/ai acordului nu mai are/au capacitatea de a răspunde solicitărilor autorității contractante.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Acordul-cadru cu un singur operator (Lege art. 117)",
+   "paragrafe": [
+    "Acordul prevede cel puțin obligațiile principale asumate prin ofertă și prețul unitar pe baza căruia se stabilește prețul fiecărui contract subsecvent. Subsecventele se atribuie numai în condițiile tehnice și financiare din acord; autoritatea poate consulta operatorul în scris și, dacă e necesar, îi poate cere completarea ofertei."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 117",
+     "citat": "a) obligațiile principale pe care operatorul economic și le-a asumat prin ofertă; b) prețul unitar pe care operatorul economic l-a prevăzut în ofertă și pe baza căruia se va determina prețul fiecărui contract atribuit ulterior. (2) Autoritatea contractantă are obligația de a atribui contractele de achiziție publică subsecvente acordului-cadru numai cu respectarea condițiilor tehnice și financiare stabilite în acordul-cadru respectiv. (3) De fiecare dată când intenționează să atribuie un contract de achiziție publică subsecvent unui acord-cadru, autoritatea contractantă poate consulta, în scris, operatorul economic, solicitându-i acestuia, dacă este necesar, completarea ofertei.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Acordul-cadru cu mai mulți operatori și reluarea competiției (Lege art. 118–119; Norme art. 110)",
+   "paragrafe": [
+    "Acordul se execută fără reluarea competiției, dacă stabilește toți termenii și criteriile obiective de alegere a operatorului; cu reluarea competiției, dacă nu stabilește toți termenii; sau mixt, dacă documentația a prevăzut această posibilitate.",
+    "La reluarea competiției, autoritatea consultă în scris operatorii capabili să execute contractul, stabilește un termen suficient, iar ofertele nu se deschid înainte de expirarea lui. Dacă un operator nu răspunde, procedura continuă cu ceilalți. Invitația la reofertare se transmite concomitent tuturor semnatarilor.",
+    "Ofertele se pot modifica numai în sensul îmbunătățirii. Dacă reofertarea nu aduce îmbunătățiri, contractul se atribuie ofertantului clasat primul la încheierea acordului, pe baza ofertei inițiale actualizate."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 118 alin. (1)",
+     "citat": "a) fără reluarea competiției, în conformitate cu termenii și condițiile prevăzute în cuprinsul său, în cazul în care acordul-cadru stabilește toți termenii și condițiile care reglementează execuția lucrărilor, prestarea serviciilor și furnizarea produselor care constituie obiectul său, precum și condițiile obiective în funcție de care se stabilește care dintre operatorii economici parte la acordul-cadru va executa lucrările, va presta serviciile sau va furniza produsele; b) cu reluarea competiției între operatorii economici care sunt parte la acordul-cadru, în cazul în care acordul-cadru nu stabilește toți termenii și condițiile care reglementează execuția lucrărilor, prestarea serviciilor și furnizarea produselor care constituie obiectul său; c) parțial fără reluarea competiției între operatorii economici, în conformitate cu lit. a), și parțial cu reluarea competiției, în conformitate cu lit. b), numai dacă această posibilitate a fost prevăzută în documentația de atribuire",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 119 lit. a)–d)",
+     "citat": "a) pentru fiecare contract care urmează a fi atribuit, autoritatea contractantă consultă în scris operatorii economici parte la acordul-cadru respectiv care sunt capabili să execute contractul; b) autoritatea contractantă stabilește o perioadă suficientă pentru depunerea ofertelor pentru atribuirea contractului, ținând seama de elemente specifice precum complexitatea obiectului contractului și timpul necesar pentru transmiterea ofertelor; c) ofertele se depun în scris, iar acestea nu vor fi deschise până la expirarea perioadei stabilite de autoritatea contractantă; d) în cazul în care oricare dintre operatorii economici semnatari ai acordului-cadru nu răspunde solicitării privind depunerea unei oferte, autoritatea contractantă are dreptul de a continua procedura cu ceilalți ofertanți",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 110 alin. (1)",
+     "citat": "să transmită concomitent o invitație de participare la reofertare către toți operatorii economici semnatari ai acordului-cadru.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 110 alin. (5) și (7)",
+     "citat": "Operatorii economici au dreptul ca în procesul de reofertare să modifice elementele/condițiile care fac obiectul reluării competiției numai în sensul îmbunătățirii acestora și fără să afecteze elementele/condițiile stabilite. [...] (7) În cazul în care, în urma reofertării, autoritatea contractantă nu obține îmbunătățiri ale elementelor/condițiilor care fac obiectul reluării competiției, aceasta are obligația de a atribui contractul ofertantului clasat pe primul loc în cadrul procedurii aplicate pentru încheierea acordului-cadru, prin luarea în considerare a condițiilor și elementelor prevăzute în oferta inițială a acestuia actualizată.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Sistemul dinamic de achiziții (Lege art. 120–130; Norme art. 112–113^2)",
+   "paragrafe": [
+    "Sistemul dinamic e pentru achiziții de uz curent, cu caracteristici general disponibile pe piață. Funcționează integral electronic și e deschis, pe toată valabilitatea, oricărui operator care îndeplinește criteriile. Se aplică regulile licitației restrânse, iar autoritatea nu poate limita numărul candidaților admiși.",
+    "Termenele minime sunt 30 de zile pentru solicitările de participare și 10 zile pentru oferte. După prima invitație la etapa a doua nu mai există termene pentru solicitări. Evaluarea unei solicitări se termină în 10 zile lucrătoare, prelungibil până la 15 zile lucrătoare.",
+    "Nu se percep tarife operatorilor. Normele interzic combinarea cu parteneriatul pentru inovare, negocierea ofertelor și o valabilitate mai mare de 4 ani. Sistemul nu se folosește pentru servicii și lucrări cu prestații intelectuale sau lucrări de investiții."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 120 alin. (1)–(2)",
+     "citat": "Autoritatea contractantă are dreptul de a utiliza un sistem dinamic de achiziții pentru achiziții de uz curent, ale căror caracteristici general disponibile pe piață satisfac necesitățile autorității contractante. (2) Sistemul dinamic de achiziții este organizat și funcționează în integralitate ca un proces electronic și este deschis, pe întreaga sa perioadă de valabilitate, oricărui operator economic care îndeplinește criteriile de calificare și selecție.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 121 alin. (1)–(2)",
+     "citat": "Pentru efectuarea unei achiziții în cadrul unui sistem dinamic de achiziții, autoritatea contractantă aplică regulile licitației restrânse, precum și regulile specifice prevăzute în cuprinsul prezentului paragraf. (2) Toți candidații care îndeplinesc criteriile de calificare și selecție sunt admiși în sistem, autoritatea contractantă neavând dreptul de a limita numărul de candidați care vor fi admiși în cadrul sistemului.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 122 alin. (1)–(2)",
+     "citat": "a) perioada minimă pentru depunerea solicitărilor de participare este de 30 de zile de la data transmiterii spre publicare a anunțului de participare; b) perioada minimă pentru depunerea ofertelor este de 10 zile de la data transmiterii invitației de depunere a ofertelor. (2) Din momentul transmiterii invitației de participare la etapa a doua a procedurii pentru prima achiziție specifică în cadrul unui sistem dinamic de achiziții nu se mai aplică alte termene pentru depunerea solicitărilor de participare.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 125 alin. (3)–(4)",
+     "citat": "Autoritatea contractantă are obligația de a finaliza evaluarea prevăzută la alin. (2) în termen de 10 zile lucrătoare de la data primirii solicitării de participare. (4) Termenul prevăzut la alin. (3) poate fi prelungit până la 15 zile lucrătoare în situații specifice",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 130",
+     "citat": "Este interzisă perceperea de tarife operatorilor economici interesați sau participanților la sistemul dinamic de achiziții.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 112 alin. (3)–(4)",
+     "citat": "a) de a combina sistemul dinamic de achiziții cu parteneriate de inovare; b) de a decide organizarea unei etape de negociere a ofertelor; c) de a transmite o invitație de participare la etapa a doua a procedurii înainte de finalizarea atribuirii achiziției curente, prin publicarea anunțului de atribuire; d) de a iniția un sistem dinamic de achiziții cu o valabilitate mai mare de 4 ani. (4) În sensul art. 120 alin. (1) din Lege, sistemul dinamic de achiziții nu poate fi utilizat pentru atribuirea contractelor de servicii și de lucrări care au incluse în obiectul acestora prestații intelectuale și/sau lucrări de investiții.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Licitația electronică: când și cum (Lege art. 131–134)",
+   "paragrafe": [
+    "Se poate folosi numai dacă documentele, în special specificațiile tehnice, pot fi stabilite precis: ca etapă finală a licitației deschise, restrânse, negocierii competitive sau procedurii simplificate; la reluarea competiției în acordul-cadru; în sistemul dinamic. Decizia se anunță în anunțul de participare și în documentație.",
+    "Nu se folosește la servicii și lucrări cu prestații intelectuale, precum proiectarea. Se bazează doar pe prețuri, la criteriul prețului cel mai scăzut, sau pe prețuri și noi valori ale elementelor ofertei, la raportul calitate-preț ori la costul cel mai scăzut.",
+    "Înainte de licitație, ofertele se evaluează integral. Invitația se transmite simultan, electronic, tuturor ofertanților cu oferte admisibile. Licitația nu poate începe mai devreme de două zile lucrătoare de la transmiterea invitațiilor și poate avea una sau mai multe runde."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 131 alin. (1)–(2)",
+     "citat": "Autoritatea contractantă poate să utilizeze licitația electronică în următoarele situații și numai dacă conținutul documentelor achiziției, în special specificațiile tehnice, poate fi stabilit în mod precis: a) ca o etapă finală a procedurii de licitație deschisă, licitație restrânsă, negociere competitivă sau procedură simplificată; b) la reluarea competiției dintre operatorii economici parte la un acord-cadru, potrivit dispozițiilor art. 118 alin. (1) lit. b) și c); c) la depunerea ofertelor în vederea atribuirii unui contract de achiziție publică în cadrul unui sistem dinamic de achiziții. (2) Autoritatea contractantă are obligația de a anunța decizia de a organiza o licitație electronică în anunțul de participare și în documentația de atribuire.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 132 alin. (1)",
+     "citat": "Licitația electronică nu poate fi utilizată pentru atribuirea contractelor de achiziție publică/acordurilor-cadru de servicii și de lucrări care au incluse în obiectul acestora prestații intelectuale, cum ar fi proiectarea lucrărilor, întrucât acestea nu pot fi clasificate prin metode de evaluare automată.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 133",
+     "citat": "a) exclusiv pe prețuri, în cazul în care contractul este atribuit pe baza criteriului de atribuire al prețului cel mai scăzut; b) pe prețuri și/sau pe noile valori ale elementelor ofertelor indicate în documentele achiziției, în cazul în care contractul este atribuit pe baza criteriului de atribuire cel mai bun raport calitate-preț sau costul cel mai scăzut.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 134 alin. (1)–(2), (4)–(5)",
+     "citat": "Înainte de începerea licitației electronice, autoritatea contractantă are obligația de a realiza o evaluare inițială integrală a ofertelor, în conformitate cu criteriul de atribuire și factorii de evaluare stabiliți prin documentele achiziției. (2) Autoritatea contractantă are obligația de a transmite, simultan, prin mijloace electronice, invitația la licitația electronică către toți ofertanții care au depus oferte admisibile. [...] (4) Autoritatea contractantă nu are dreptul de a începe licitația electronică mai devreme de două zile lucrătoare de la data la care au fost transmise invitațiile la licitația electronică. (5) Licitația electronică se desfășoară în una sau mai multe runde succesive.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Desfășurarea și încheierea licitației electronice (Lege art. 136–138; Norme art. 119–122)",
+   "paragrafe": [
+    "În fiecare rundă, ofertanții află instantaneu cel puțin cât le trebuie ca să-și cunoască poziția în clasament; identitatea celorlalți ofertanți nu se dezvăluie niciodată. Ofertele din licitație pot doar să le îmbunătățească pe cele anterioare. O rundă durează cel puțin o zi, iar între runde e un interval de cel puțin o zi.",
+    "Licitația se încheie la data și ora anunțate, când nu mai vin valori noi în intervalul stabilit sau când s-au epuizat rundele. Contractul se atribuie pe baza rezultatului, cu criteriul și factorii din documente. La prețul final se pot cere clarificări doar pentru justificarea prețului neobișnuit de scăzut, fără modificarea lui."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 136 alin. (1) și (3)",
+     "citat": "Pe parcursul fiecărei runde a licitației electronice, autoritatea contractantă are obligația de a comunica în mod instantaneu tuturor ofertanților cel puțin informațiile care sunt suficiente pentru ca aceștia să-și poată determina, în orice moment, poziția pe care o ocupă în clasament. [...] (3) Pe parcursul desfășurării rundelor licitației electronice, autoritatea contractantă nu poate dezvălui, în nicio situație, identitatea ofertanților.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 137 alin. (1)",
+     "citat": "a) la data și ora indicate anterior; b) dacă nu se mai primesc prețuri și/sau valori noi care îndeplinesc cerințele cu privire la diferențele minime, cu condiția să se fi specificat un termen care va fi lăsat să curgă de la primirea ultimei oferte până la finalizarea licitației electronice; c) când numărul de runde de licitare indicat în prealabil a fost epuizat.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 119 alin. (1)",
+     "citat": "Durata unei runde de licitație electronică se stabilește în zile și este de minimum o zi, iar între runde trebuie să existe intervale stabilite în zile, a căror durată minimă este de o zi.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 121 alin. (4)",
+     "citat": "Ofertele depuse în cadrul licitației electronice de către ofertanții participanți nu pot decât să îmbunătățească ofertele depuse anterior organizării acestei etape procedurale.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 122 alin. (2)",
+     "citat": "Cu privire la prețul final rezultat în urma licitației electronice nu se mai pot cere clarificări decât cu privire la justificarea prețului neobișnuit de scăzut ofertat, fără a se permite însă modificarea acestuia.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Cataloagele electronice (Lege art. 203–206)",
+   "paragrafe": [
+    "Când comunicarea electronică e obligatorie, autoritatea poate cere ca ofertele să fie prezentate sub formă de catalog electronic sau să includă unul. Faptul se precizează în anunțul de participare, iar documentele arată formatul și specificațiile de conectare.",
+    "La un acord-cadru cu mai mulți operatori, competiția se poate relua pe baza cataloagelor actualizate: ofertanții retransmit cataloagele adaptate sau autoritatea colectează informațiile din cataloagele deja transmise, dacă a anunțat metoda. La colectare, ofertanții sunt notificați, pot refuza și pot contesta sau confirma oferta rezultată."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 203 alin. (1)",
+     "citat": "În cazul în care dispozițiile legale impun utilizarea mijloacelor electronice de comunicare, autoritatea contractantă poate solicita ca ofertele să fie prezentate sub formă de catalog electronic sau să includă un catalog electronic.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 205 alin. (1)",
+     "citat": "a) precizează acest lucru în anunțul de participare; b) indică în documentele achiziției toate informațiile necesare referitoare la formatul, echipamentele electronice utilizate și aranjamentele și specificațiile tehnice de conectare pentru catalog.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 205 alin. (3)–(4)",
+     "citat": "a) invită ofertanții să transmită din nou cataloagele electronice, adaptate la cerințele contractului în cauză; b) informează ofertanții că intenționează să colecteze din cataloagele electronice care au fost deja transmise informațiile necesare pentru a constitui oferte adaptate la cerințele contractului în cauză, cu condiția ca utilizarea acestei metode să fi fost anunțată în documentele achiziției care au stat la baza încheierii acordului-cadru. (4) În cazul în care autoritatea contractantă reia competiția pentru atribuirea contractelor subsecvente în executarea acordului-cadru în conformitate cu dispozițiile alin. (3) lit. b), aceasta notifică ofertanții cu privire la data și ora la care intenționează să colecteze informațiile necesare pentru a constitui oferte adaptate la cerințele contractului în cauză și le dă ofertanților posibilitatea de a refuza această colectare de informații.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Oferta: caracter obligatoriu, valabilitate, riscuri (Norme art. 124–125)",
+   "paragrafe": [
+    "Oferta e obligatorie ca și conținut pe toată perioada de valabilitate. Valabilitatea acoperă toate etapele până la încheierea contractului, inclusiv termenul pentru contestații.",
+    "În situații excepționale, autoritatea cere prelungirea valabilității ofertelor și a garanției de participare. Oferta celui care nu se conformează se respinge ca inacceptabilă. Riscurile transmiterii ofertei, inclusiv forța majoră, sunt ale ofertantului."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 124 alin. (1)–(2)",
+     "citat": "Oferta are caracter obligatoriu, din punctul de vedere al conținutului, pe toată perioada de valabilitate stabilită de către autoritatea contractantă și asumată de ofertant. (2) Perioada de valabilitate a ofertelor, prevăzută în anunțul/invitația de participare și în documentația de atribuire, trebuie să fie stabilită astfel încât să cuprindă toate etapele până la momentul încheierii contractului/acordului-cadru.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 124 alin. (3)",
+     "citat": "precum și perioada legală prevăzută pentru rezolvarea eventualelor contestații. Autoritatea contractantă are obligația de a solicita prelungirea valabilității ofertelor, precum și, după caz, a garanției de participare, în situații excepționale care impun o astfel de prelungire. În cazul în care un operator economic nu se conformează acestei solicitări, oferta sa va fi respinsă ca fiind inacceptabilă.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 125",
+     "citat": "Riscurile transmiterii ofertei, inclusiv forța majoră sau cazul fortuit, cad în sarcina operatorului economic care transmite respectiva ofertă.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Acordul-cadru: cel mult 4 ani, cu excepții justificate; subsecventele se încheie doar cât timp acordul e valabil, dar pot dura mai mult decât el.",
+  "Subsecventele nu pot aduce modificări substanțiale condițiilor acordului-cadru și se încheie doar cu operatorii parte la acord.",
+  "Execuția mixtă, parțial cu reluarea competiției, e posibilă doar dacă a fost prevăzută în documentația de atribuire.",
+  "La reofertare fără îmbunătățiri, câștigă primul clasat la încheierea acordului, cu oferta inițială actualizată.",
+  "Sistemul dinamic: regulile licitației restrânse, fără limitarea numărului de candidați, fără tarife; 30 de zile pentru solicitări, 10 zile pentru oferte.",
+  "Evaluarea unei solicitări în sistemul dinamic: 10 zile lucrătoare, prelungibil la 15 zile lucrătoare.",
+  "Licitația electronică începe după cel puțin două zile lucrătoare de la invitații, după o evaluare inițială integrală; nu se folosește la proiectare și alte prestații intelectuale.",
+  "Identitatea ofertanților nu se dezvăluie în nicio rundă a licitației electronice."
+ ],
+ "intrebari": [
+  "L98D-014",
+  "L98-N312",
+  "L98-durata-acord-cadru",
+  "L98C-001",
+  "L98C-002",
+  "L98C-003",
+  "L98C-004",
+  "L98C-005",
+  "L98C-006",
+  "L98C-007",
+  "L98C-008",
+  "L98-N313",
+  "L98E-008",
+  "L98C-009",
+  "L98-N314",
+  "L98E-009",
+  "L98C-010",
+  "L98-N315",
+  "L98C-011",
+  "L98C-012",
+  "L98C-013",
+  "L98-N401",
+  "L98C-014",
+  "L98-N402",
+  "L98C-015",
+  "L98C-016",
+  "L98-N403",
+  "N395B-036",
+  "N395-N306",
+  "N395-N307",
+  "N395B-037",
+  "N395-N308",
+  "N395B-038",
+  "N395-N309",
+  "N395-N310",
+  "N395B-039",
+  "N395-N311",
+  "N395-N312",
+  "N395B-041",
+  "N395-N313",
+  "N395-N314",
+  "N395-N401",
+  "N395-N402",
+  "N395B-040",
+  "N395-N403",
+  "N395-N404",
+  "N395B-042",
+  "N395-N405",
+  "L98D-015",
+  "N395B-043",
+  "N395-N406",
+  "L98D-013",
+  "L98E-012",
+  "L98-N604"
+ ]
+}

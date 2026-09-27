@@ -1,0 +1,814 @@
+[
+ {
+  "loc": "Acordul-cadru: atribuire, durată, părți (Lege art. 114–116;  / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Acordul-cadru se atribuie prin procedurile de la art. 68.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Durata lui nu poate depăși 4 ani, cu excepția cazurilor excepționale justificate temeinic, în special prin obiect.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Documentele achiziției stabilesc dacă se încheie cu un singur operator sau cu mai mulți; aceștia se stabilesc prin criteriile de calificare, selecție și atribuire.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3716
+ },
+ {
+  "loc": "Acordul-cadru: atribuire, durată, părți (Lege art. 114–116;  / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Contractele subsecvente se încheie numai între autoritățile din anunțul de participare și operatorii parte la acord, fără modificări substanțiale ale condițiilor acordului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Ele se încheie numai cât timp acordul e valabil, dar durata lor poate depăși durata acordului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3306
+ },
+ {
+  "loc": "Utilizarea corectă a acordului-cadru (Norme art. 107 alin. ( / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Acordul-cadru nu poate fi folosit abuziv pentru a restrânge concurența.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Autoritatea nu poate atribui subsecvente de altă natură decât cele din acord, nici subsecvente de tipuri diferite între ele, și nu le poate atribui pentru o autoritate care nu e parte, decât ca unitate de achiziție centralizată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3418
+ },
+ {
+  "loc": "Utilizarea corectă a acordului-cadru (Norme art. 107 alin. ( / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Criteriile minime de calificare se raportează cel mult la cel mai mare contract subsecvent anticipat sau la contractele executate simultan.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.03,
+     "sustine": 0.97,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.96
+   },
+   "1": {
+    "text": "Cantitatea sau valoarea maximă din anunț nu se depășește, cu excepția modificărilor permise de art. 221 din Lege.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3414
+ },
+ {
+  "loc": "Utilizarea corectă a acordului-cadru (Norme art. 107 alin. ( / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Pe durata acordului, autoritatea nu încheie cu alt operator un contract pentru același obiect cât timp cantitățile maxime nu au fost consumate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Excepția: operatorii din acord nu mai au capacitatea de a răspunde solicitărilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3399
+ },
+ {
+  "loc": "Acordul-cadru cu un singur operator (Lege art. 117) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Acordul prevede cel puțin obligațiile principale asumate prin ofertă și prețul unitar pe baza căruia se stabilește prețul fiecărui contract subsecvent.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Subsecventele se atribuie numai în condițiile tehnice și financiare din acord; autoritatea poate consulta operatorul în scris și, dacă e necesar, îi poate cere completarea ofertei.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2110
+ },
+ {
+  "loc": "Acordul-cadru cu mai mulți operatori și reluarea competiției / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Acordul se execută fără reluarea competiției, dacă stabilește toți termenii și criteriile obiective de alegere a operatorului; cu reluarea competiției, dacă nu stabilește toți termenii; sau mixt, dacă documentația a prevăzut această posibilitate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4536
+ },
+ {
+  "loc": "Acordul-cadru cu mai mulți operatori și reluarea competiției / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "La reluarea competiției, autoritatea consultă în scris operatorii capabili să execute contractul, stabilește un termen suficient, iar ofertele nu se deschid înainte de expirarea lui.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă un operator nu răspunde, procedura continuă cu ceilalți.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Invitația la reofertare se transmite concomitent tuturor semnatarilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5308
+ },
+ {
+  "loc": "Acordul-cadru cu mai mulți operatori și reluarea competiției / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Ofertele se pot modifica numai în sensul îmbunătățirii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Dacă reofertarea nu aduce îmbunătățiri, contractul se atribuie ofertantului clasat primul la încheierea acordului, pe baza ofertei inițiale actualizate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4904
+ },
+ {
+  "loc": "Sistemul dinamic de achiziții (Lege art. 120–130; Norme art. / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Sistemul dinamic e pentru achiziții de uz curent, cu caracteristici general disponibile pe piață.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Funcționează integral electronic și e deschis, pe toată valabilitatea, oricărui operator care îndeplinește criteriile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Se aplică regulile licitației restrânse, iar autoritatea nu poate limita numărul candidaților admiși.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4871
+ },
+ {
+  "loc": "Sistemul dinamic de achiziții (Lege art. 120–130; Norme art. / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Termenele minime sunt 30 de zile pentru solicitările de participare și 10 zile pentru oferte.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "După prima invitație la etapa a doua nu mai există termene pentru solicitări.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "2": {
+    "text": "Evaluarea unei solicitări se termină în 10 zile lucrătoare, prelungibil până la 15 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4863
+ },
+ {
+  "loc": "Sistemul dinamic de achiziții (Lege art. 120–130; Norme art. / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Nu se percep tarife operatorilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Normele interzic combinarea cu parteneriatul pentru inovare, negocierea ofertelor și o valabilitate mai mare de 4 ani.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.07,
+     "sustine": 0.9,
+     "absenta_corecta": 0.01,
+     "nu_spune": 0.02
+    },
+    "confidence": 0.87
+   },
+   "2": {
+    "text": "Sistemul nu se folosește pentru servicii și lucrări cu prestații intelectuale sau lucrări de investiții.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4856
+ },
+ {
+  "loc": "Licitația electronică: când și cum (Lege art. 131–134) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Se poate folosi numai dacă documentele, în special specificațiile tehnice, pot fi stabilite precis: ca etapă finală a licitației deschise, restrânse, negocierii competitive sau procedurii simplificate; la reluarea competiției în acordul-cadru; în sistemul dinamic.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Decizia se anunță în anunțul de participare și în documentație.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3720
+ },
+ {
+  "loc": "Licitația electronică: când și cum (Lege art. 131–134) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Nu se folosește la servicii și lucrări cu prestații intelectuale, precum proiectarea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Se bazează doar pe prețuri, la criteriul prețului cel mai scăzut, sau pe prețuri și noi valori ale elementelor ofertei, la raportul calitate-preț ori la costul cel mai scăzut.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3700
+ },
+ {
+  "loc": "Licitația electronică: când și cum (Lege art. 131–134) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Înainte de licitație, ofertele se evaluează integral.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Invitația se transmite simultan, electronic, tuturor ofertanților cu oferte admisibile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Licitația nu poate începe mai devreme de două zile lucrătoare de la transmiterea invitațiilor și poate avea una sau mai multe runde.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4076
+ },
+ {
+  "loc": "Desfășurarea și încheierea licitației electronice (Lege art. / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "În fiecare rundă, ofertanții află instantaneu cel puțin cât le trebuie ca să-și cunoască poziția în clasament; identitatea celorlalți ofertanți nu se dezvăluie niciodată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Ofertele din licitație pot doar să le îmbunătățească pe cele anterioare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "O rundă durează cel puțin o zi, iar între runde e un interval de cel puțin o zi.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3948
+ },
+ {
+  "loc": "Desfășurarea și încheierea licitației electronice (Lege art. / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Licitația se încheie la data și ora anunțate, când nu mai vin valori noi în intervalul stabilit sau când s-au epuizat rundele.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Contractul se atribuie pe baza rezultatului, cu criteriul și factorii din documente.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.19,
+     "absenta_corecta": 0.01,
+     "sustine": 0.79,
+     "contrazice": 0.01
+    },
+    "confidence": 0.72
+   },
+   "2": {
+    "text": "La prețul final se pot cere clarificări doar pentru justificarea prețului neobișnuit de scăzut, fără modificarea lui.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3935
+ },
+ {
+  "loc": "Cataloagele electronice (Lege art. 203–206) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Când comunicarea electronică e obligatorie, autoritatea poate cere ca ofertele să fie prezentate sub formă de catalog electronic sau să includă unul.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Faptul se precizează în anunțul de participare, iar documentele arată formatul și specificațiile de conectare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2982
+ },
+ {
+  "loc": "Cataloagele electronice (Lege art. 203–206) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "La un acord-cadru cu mai mulți operatori, competiția se poate relua pe baza cataloagelor actualizate: ofertanții retransmit cataloagele adaptate sau autoritatea colectează informațiile din cataloagele deja transmise, dacă a anunțat metoda.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La colectare, ofertanții sunt notificați, pot refuza și pot contesta sau confirma oferta rezultată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3010
+ },
+ {
+  "loc": "Oferta: caracter obligatoriu, valabilitate, riscuri (Norme a / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Oferta e obligatorie ca și conținut pe toată perioada de valabilitate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Valabilitatea acoperă toate etapele până la încheierea contractului, inclusiv termenul pentru contestații.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "nu_spune": 0.0,
+     "sustine": 0.98
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 2325
+ },
+ {
+  "loc": "Oferta: caracter obligatoriu, valabilitate, riscuri (Norme a / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "În situații excepționale, autoritatea cere prelungirea valabilității ofertelor și a garanției de participare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Oferta celui care nu se conformează se respinge ca inacceptabilă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Riscurile transmiterii ofertei, inclusiv forța majoră, sunt ale ofertantului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2730
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Acordul-cadru: cel mult 4 ani, cu excepții justificate; subsecventele se încheie doar cât timp acordul e valabil, dar pot dura mai mult decât el.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15410
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Subsecventele nu pot aduce modificări substanțiale condițiilor acordului-cadru și se încheie doar cu operatorii parte la acord.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15402
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Execuția mixtă, parțial cu reluarea competiției, e posibilă doar dacă a fost prevăzută în documentația de atribuire.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15404
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "La reofertare fără îmbunătățiri, câștigă primul clasat la încheierea acordului, cu oferta inițială actualizată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15404
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Sistemul dinamic: regulile licitației restrânse, fără limitarea numărului de candidați, fără tarife; 30 de zile pentru solicitări, 10 zile pentru oferte.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.01,
+     "sustine": 0.91,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.08
+    },
+    "confidence": 0.87
+   }
+  },
+  "usage": 15414
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Evaluarea unei solicitări în sistemul dinamic: 10 zile lucrătoare, prelungibil la 15 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.54,
+     "nu_spune": 0.34,
+     "contrazice": 0.08,
+     "absenta_corecta": 0.04
+    },
+    "confidence": 0.39
+   }
+  },
+  "usage": 15401
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Licitația electronică începe după cel puțin două zile lucrătoare de la invitații, după o evaluare inițială integrală; nu se folosește la proiectare și alte prestații intelectuale.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 15425
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Identitatea ofertanților nu se dezvăluie în nicio rundă a licitației electronice.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02,
+     "nu_spune": 0.0,
+     "sustine": 0.98
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 15392
+ }
+]
