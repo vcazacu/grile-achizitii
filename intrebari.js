@@ -12195,7 +12195,7 @@ const INTREBARI = [
     "corecte": [
       3
     ],
-    "explicatie": "Art. 154 alin. (3) prevede un cuantum de maximum 10% din PREȚUL CONTRACTULUI, FĂRĂ TVA. Sunt două capcane distincte: baza de calcul este prețul contractului efectiv atribuit (nu valoarea estimată, care este anterioară procedurii), iar TVA se exclude. Procentul de 1% aparține garanției de participare (alin. (2)). Reține și excepțiile de la obligativitate: la contractele de servicii de proiectare și la contractele de lucrări a căror valoare estimată este mai mică decât pragul de la art. 7 alin. (1), precum și la contractele atribuite prin negociere fără publicarea prealabilă a unui anunț de participare, autoritatea contractantă are dreptul de a nu solicita garanție de bună execuție. În rest, solicitarea ei este o obligație, nu o opțiune.",
+    "explicatie": "Art. 154 alin. (3) prevede un cuantum de maximum 10% din PREȚUL CONTRACTULUI, FĂRĂ TVA. Sunt două capcane distincte: baza de calcul este prețul contractului efectiv atribuit (nu valoarea estimată, care este anterioară procedurii), iar TVA se exclude. Procentul de 1% aparține garanției de participare (alin. (2)). Reține și excepțiile de la obligativitate: autoritatea contractantă are dreptul de a nu solicita garanție de bună execuție la contractele a căror valoare estimată este mai mică decât pragul de la art. 7 alin. (1), cu excepția contractelor de servicii de proiectare și a celor de lucrări (la acestea garanția rămâne obligatorie), precum și la contractele atribuite prin negociere fără publicarea prealabilă a unui anunț de participare. În rest, solicitarea ei este o obligație, nu o opțiune.",
     "sursa": {
       "act": "Legea nr. 98/2016 privind achizițiile publice",
       "articol": "art. 154 alin. (3)",
