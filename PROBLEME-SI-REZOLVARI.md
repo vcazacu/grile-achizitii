@@ -165,6 +165,9 @@ temă câștigă” lăsa tema 13 cu o singură întrebare. Acum câștigă tema
 - **27 de întrebări reformulate** după propunerile opționale ale verificatorilor: enunțuri care numesc actul,
   trimiteri la articole, afirmații despre acte din afara corpusului scoase; ALOP-007 nu mai dă răspunsul la
   ALOP-002; N395B-030 („minim absolut”) și OUGB-034 („suplimentare”) formulate exact.
+- **Explicația ALOP-007 completată** (3 → 5 fraze, cât cere SPEC): cine poate primi delegarea și unde apare
+  persoana delegată în fazele execuției (pct. 2 „Bun de plată”, pct. 3 ordonanțarea). TypeSafe: INCERT pe fraza
+  cu pct. 2–3 (în afara temeiului declarat), verificată în lege — corectă.
 - **Verificare:** două verificări adversariale independente (29 de chei schimbate: 25 OK, 4 suspecte;
   27 reformulări: 24 OK, 3 suspecte; 0 greșite), toate cele 7 suspecte corectate; poarta TypeSafe pe cele
   56: 32 OK, 24 incerte, 0 revizuite; cele 6 semnale tari verificate în lege — alarme false (frazele citează
