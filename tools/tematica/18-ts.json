@@ -1,0 +1,295 @@
+[
+ {
+  "loc": "Rolul și elaborarea programului (Norme art. 12 alin. (1)–(4) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Programul anual e obligatoriu.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Servește la planificarea și monitorizarea proceselor de achiziție și a resurselor necesare, precum și la verificarea obiectivelor din strategiile de dezvoltare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2900
+ },
+ {
+  "loc": "Rolul și elaborarea programului (Norme art. 12 alin. (1)–(4) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Forma inițială se elaborează în trimestrul IV al anului anterior, pe baza referatelor de necesitate de la compartimente.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Cuprinde toate contractele și acordurile-cadru pe care autoritatea vrea să le atribuie în anul următor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Se au în vedere necesitățile obiective, prioritatea lor și sursele de finanțare anticipate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3317
+ },
+ {
+  "loc": "Rolul și elaborarea programului (Norme art. 12 alin. (1)–(4) / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "După aprobarea bugetului propriu, programul se actualizează în funcție de fondurile aprobate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2494
+ },
+ {
+  "loc": "Conținutul minim (Norme art. 12 alin. (5)) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Programul cuprinde cel puțin: obiectul contractului, codul CPV, valoarea estimată în lei fără TVA, sursa de finanțare, procedura stabilită, datele estimate pentru inițierea procedurii și pentru atribuire, modalitatea online sau offline și codul unic al fiecărui obiect de contract.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2339
+ },
+ {
+  "loc": "Publicarea în SEAP și modificările (Norme art. 12 alin. (6), / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea publică semestrial în SEAP extrase din program, iar orice modificare a lor în 5 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.03,
+     "sustine": 0.97,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.97
+   },
+   "1": {
+    "text": "Extrasele privesc contractele de produse și servicii de la pragurile de la art. 7 alin. (1) în sus și contractele de lucrări de la pragurile de la art. 7 alin. (5) în sus.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3172
+ },
+ {
+  "loc": "Publicarea în SEAP și modificările (Norme art. 12 alin. (6), / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Programul se poate modifica sau completa ulterior doar dacă s-au identificat surse de finanțare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Modificările se aprobă și se publică la fel.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3117
+ },
+ {
+  "loc": "Proiectele finanțate distinct și achizițiile directe (Norme  / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru fiecare proiect cu fonduri nerambursabile sau de cercetare-dezvoltare se elaborează un program distinct al achizițiilor, după semnarea contractului de finanțare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 1799
+ },
+ {
+  "loc": "Proiectele finanțate distinct și achizițiile directe (Norme  / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Compartimentul intern specializat ține evidența achizițiilor directe, ca anexă la programul anual.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 1782
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Forma inițială se face în trimestrul IV al anului anterior și se actualizează după aprobarea bugetului propriu.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3910
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Extrasele se publică semestrial; modificările lor, în 5 zile lucrătoare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.97,
+     "contrazice": 0.03,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.96
+   }
+  },
+  "usage": 3904
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Extrasele cuprind contractele de produse și servicii de la pragurile de la art. 7 alin. (1) din Lege, dar contractele de lucrări de la pragurile de la art. 7 alin. (5) din Lege, nu de la cele de la alin. (1).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.01,
+     "sustine": 0.95,
+     "contrazice": 0.04
+    },
+    "confidence": 0.93
+   }
+  },
+  "usage": 3951
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Modificarea programului cere identificarea surselor de finanțare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3897
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Proiectele cu fonduri nerambursabile au program propriu, făcut după semnarea contractului de finanțare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3906
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Evidența achizițiilor directe e o anexă la programul anual.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3897
+ }
+]
