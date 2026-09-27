@@ -1,0 +1,231 @@
+{
+ "nr": 11,
+ "titlu": "Criterii de atribuire",
+ "rezumat": "Contractul se atribuie ofertei celei mai avantajoase din punct de vedere economic, stabilite prin unul dintre cele patru criterii: cel mai bun raport calitate-preț, cel mai bun raport calitate-cost, costul cel mai scăzut și prețul cel mai scăzut. Prețul cel mai scăzut se poate folosi doar sub pragurile de la art. 7 alin. (1) și la negocierea fără publicare de la art. 104 alin. (1) lit. b). La serviciile intelectuale, la infrastructura de transport transeuropeană și la unele produse cu impact asupra mediului, costul și prețul cel mai scăzut sunt interzise, iar prețul are o pondere de cel mult 40%. Factorii de evaluare trebuie legați de obiectul contractului, verificabili și fără libertate nelimitată de apreciere; ponderile lor se precizează în documentele achiziției.",
+ "sectiuni": [
+  {
+   "titlu": "Oferta cea mai avantajoasă și cele patru criterii (art. 187 alin. (1)–(3^1))",
+   "paragrafe": [
+    "Contractul se atribuie ofertantului care a depus oferta cea mai avantajoasă din punct de vedere economic, stabilită pe baza criteriului de atribuire și a factorilor de evaluare din documentele achiziției.",
+    "Criteriile posibile sunt: cel mai bun raport calitate-preț, cel mai bun raport calitate-cost, costul cel mai scăzut și prețul cel mai scăzut.",
+    "Prețul cel mai scăzut se poate folosi numai când valoarea estimată nu depășește pragurile de la art. 7 alin. (1) și la negocierea fără publicare de la art. 104 alin. (1) lit. b)."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 187 alin. (1)–(3)",
+     "citat": "autoritatea contractantă atribuie contractul de achiziție publică/acordul-cadru ofertantului care a depus oferta cea mai avantajoasă din punct de vedere economic. (2) În sensul dispozițiilor alin. (1), autoritatea contractantă stabilește cea mai avantajoasă din punct de vedere economic pe baza criteriului de atribuire și a factorilor de evaluare prevăzuți în documentele achiziției. (3) Pentru determinarea ofertei celei mai avantajoase din punct de vedere economic în conformitate cu dispozițiile alin. (2), autoritatea contractantă are dreptul de a aplica unul dintre următoarele criterii de atribuire: a) cel mai bun raport calitate-preț; b) cel mai bun raport calitate-cost; c) costul cel mai scăzut; d) prețul cel mai scăzut.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 187 alin. (3^1)",
+     "citat": "Autoritatea contractantă poate utiliza criteriul prețul cel mai scăzut numai în situația în care achiziționează produse, servicii sau lucrări a căror valoare estimată a contractului nu depășește pragurile prevăzute la art. 7 alin. (1), precum și în situația aplicării procedurii de negociere fără publicare prealabilă a unui anunț de participare prevăzute la art. 104 alin. (1) lit. b).",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Raportul calitate-preț și calitate-cost (art. 187 alin. (4)–(6); Norme art. 32 alin. (1)–(2))",
+   "paragrafe": [
+    "Raportul calitate-preț sau calitate-cost se stabilește prin factori de evaluare cu aspecte calitative, de mediu sau sociale legate de obiect. Dacă obiectul are impact asupra mediului pe tot ciclul de viață, autoritatea include obligatoriu factori privind protecția mediului.",
+    "Factorii pot viza calitatea, organizarea, calificarea și experiența personalului desemnat, când acesta influențează semnificativ executarea, serviciile postvânzare și condițiile de livrare, precum și existența unui contract colectiv de muncă.",
+    "Raportul calitate-preț include de regulă un element de preț sau de cost. La procedura cu buget fix, factorii privesc numai aspectele calitative. Normele cer un sistem de factori cu ponderi sau un algoritm de calcul, descris clar în documentație, cu factori care aduc un avantaj real și nu sunt formali."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 187 alin. (4)–(4^1)",
+     "citat": "cel mai bun raport calitate-preț/calitate-cost se determină pe baza unor factori de evaluare care includ aspecte calitative, de mediu și/sau sociale în legătură cu obiectul contractului de achiziție publică/acordului-cadru. (4^1) Pentru atribuirea contractelor de achiziție publică al căror obiect are impact asupra mediului pe durata întregului ciclu de viață, autoritatea contractantă va include în cadrul criteriului de atribuire prevăzut la alin. (3) lit. a) și b) factori de evaluare privind protecția mediului.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 187 alin. (5) lit. b)–d)",
+     "citat": "b) organizarea, calificarea și experiența personalului desemnat pentru executarea contractului, în cazul în care calitatea personalului desemnat poate să aibă un impact semnificativ asupra nivelului calitativ de executare a contractului; c) serviciile postvânzare, asistența tehnică și condițiile de livrare, cum ar fi data livrării, procesul de livrare și termenul de livrare sau de finalizare; d) ofertantul are la nivel de unitate contract colectiv de muncă încheiat cu o organizație sindicală sau îi este aplicabil un contract colectiv de muncă la nivel de sector de negociere colectivă.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 187 alin. (6)",
+     "citat": "criteriul de atribuire cel mai bun raport calitate-preț include de regulă un element de preț sau de cost; în situația în care autoritatea contractantă inițiază o procedură de atribuire cu buget fix, în care elementul de preț sau de cost este un preț sau cost fix, factorii de evaluare se referă numai la aspecte calitative ale produselor, serviciilor sau lucrărilor care fac obiectul achiziției.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 32 alin. (2)",
+     "citat": "Factorii de evaluare a ofertelor, precum și algoritmul de punctare prevăzut la alin. (1) se precizează în mod clar și detaliat în cadrul documentației de atribuire și vor reflecta metodologia de punctare a avantajelor care vor rezulta din propunerile tehnice și financiare prezentate de ofertanți și trebuie să aducă un avantaj real, să nu fie formali și să poată fi urmăriți în cadrul procesului de evaluare a ofertelor și aplicare a criteriului de atribuire.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Personalul: factor de evaluare sau criteriu de calificare (Norme art. 32 alin. (3)–(5))",
+   "paragrafe": [
+    "Organizarea, calificarea și experiența personalului care va executa efectiv contractul pot fi factori de evaluare, dacă influențează semnificativ executarea. Același personal nu poate fi folosit și în calificare și selecție.",
+    "Dacă se folosesc ambele, criteriile de calificare privesc doar personalul permanent, în special de conducere, declarat în DUAE, adică alte persoane decât cele desemnate pentru contract."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 32 alin. (4)–(5)",
+     "citat": "Autoritatea contractantă nu poate folosi organizarea/ calificarea și/sau experiența personalului desemnat pentru a efectua activitățile contractului, respectiv cel precizat la alin. (3), ca parte a procesului de calificare și selecție în cadrul procedurii de atribuire a respectivului contract. (5) În cazul în care, în cadrul unei proceduri de atribuire, autoritatea contractantă stabilește factori de evaluare de natura celor prevăzuți la alin. (3), precum și criteriile de calificare în condițiile art. 179 lit. g) din Lege, aceste criterii se pot referi doar la calificarea și experiența profesională a personalului permanent, în special de conducere, al operatorului economic candidat/ofertant, care este precizat în DUAE, respectiv la alte persoane decât cele desemnate pentru a efectua activitățile contractului în cauză.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Contractele la care prețul și costul cel mai scăzut sunt interzise (Lege art. 187 alin. (8); Norme art. 32 alin. (6))",
+   "paragrafe": [
+    "În afara negocierii fără publicare de la art. 104 alin. (1) lit. b), costul sau prețul cel mai scăzut nu se folosesc la: lucrările sau serviciile intelectuale; proiectarea și execuția sau serviciile aferente infrastructurii de transport transeuropene și drumurilor județene; anumite produse cu impact asupra mediului pe tot ciclul de viață.",
+    "La aceste contracte se aplică obligatoriu raportul calitate-preț sau calitate-cost, iar ponderea prețului nu poate depăși 40%. Categoriile de produse cu impact asupra mediului sunt în anexa nr. 2 la Norme."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 187 alin. (8)",
+     "citat": "Cu excepția aplicării procedurii de negociere fără publicarea prealabilă a unui anunț de participare prevăzută la art. 104 alin. (1) lit. b), autoritatea contractantă nu va utiliza costul cel mai scăzut/prețul cel mai scăzut drept criteriu de atribuire în cazul: a) categoriilor de contracte de achiziție publică/acorduri-cadru de lucrări sau de servicii care au ca obiect servicii intelectuale; b) contractelor de achiziție publică/acordurilor-cadru de proiectare și execuție sau de servicii care sunt aferente proiectelor de infrastructură de transport transeuropene, așa cum sunt definite în prezenta lege, și drumuri județene; c) anumitor categorii de contracte de achiziție publică/ acorduri-cadru de produse care au impact asupra mediului pe durata întregului ciclu de viață.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 32 alin. (6)–(6^1)",
+     "citat": "Criteriile de atribuire prevăzute la alin. (1) se aplică în mod obligatoriu în cazul contractelor de achiziție publică/acordurilor-cadru prevăzute la art. 187 alin. (8) din Lege, iar ponderea alocată factorului preț nu poate fi mai mare de 40%. (6^1) Categoriile de produse care au impact asupra mediului, pe durata întregului ciclu de viață, în sensul art. 187 alin. (8) lit. c) și alin. (9^1) din Lege, sunt prevăzute în anexa nr. 2.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Legătura cu obiectul și limitele factorilor (Lege art. 188–189; Norme art. 32 alin. (8)–(10))",
+   "paragrafe": [
+    "Un factor are legătură cu obiectul dacă privește în orice mod produsele, serviciile sau lucrările, în orice stadiu al ciclului de viață, chiar dacă nu ține de substanța lor materială. Poate viza procesul de producție, furnizare sau comercializare.",
+    "Factorii nu pot da o libertate de apreciere nelimitată. Trebuie să asigure concurența reală și să permită verificarea efectivă a informațiilor ofertanților. Normele exclud factorii fără legătură directă cu obiectul sau fără un avantaj real pentru autoritate. Ponderile nu pot distorsiona rezultatul.",
+    "Când se atribuie mai multe loturi, fiecare lot poate avea criterii de atribuire proprii."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 188 alin. (1)",
+     "citat": "au legătură directă cu obiectul contractului de achiziție publică/acordului-cadru atunci când se referă în orice mod la produsele, serviciile sau lucrările care urmează a fi furnizate/prestate/executate în temeiul contractului de achiziție publică/acordului-cadru și în orice stadiu al ciclului lor de viață, chiar dacă acești factori nu fac parte din substanța materială a produselor, serviciilor sau lucrărilor respective.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 189 alin. (1)–(2)",
+     "citat": "Autoritatea contractantă nu are dreptul de a utiliza factori de evaluare care să conducă la o libertate de apreciere nelimitată. (2) În sensul alin. (1), factorii de evaluare utilizați de autoritatea contractantă trebuie să asigure o concurență reală între operatorii economici și să fie însoțiți de prevederi care să permită verificarea efectivă a informațiilor furnizate de către ofertanți, în scopul aplicării factorilor de evaluare.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 32 alin. (8)",
+     "citat": "a) nu au o legătură directă cu natura și obiectul contractului de achiziție publică ce urmează să fie atribuit; b) nu reflectă un avantaj pe care autoritatea contractantă îl poate obține prin utilizarea factorului de evaluare respectiv.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 32 alin. (10)",
+     "citat": "În cazul în care, în cadrul unei proceduri se atribuie mai multe loturi, autoritatea contractantă poate stabili criterii de atribuire separate și diferite pentru fiecare lot în parte.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Ponderile și ofertele echivalente (art. 190, 187 alin. (10))",
+   "paragrafe": [
+    "Documentele achiziției precizează ponderea relativă a fiecărui factor, cu excepția criteriului prețului cel mai scăzut. Ponderile pot fi date ca intervale; dacă nu se pot stabili din motive obiective, factorii se indică în ordinea descrescătoare a importanței.",
+    "Dacă două sau mai multe oferte sunt echivalente, se poate aplica un criteriu suplimentar, de exemplu combaterea șomajului, menționat explicit în anunțul de participare."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 190",
+     "citat": "(1) Autoritatea contractantă precizează în documentele achiziției ponderea relativă pe care o acordă fiecărui factor de evaluare ce va fi aplicat pentru determinarea ofertei celei mai avantajoase din punct de vedere economic, cu excepția cazului în care oferta cea mai avantajoasă din punct de vedere economic este determinată prin aplicarea criteriului prețului cel mai scăzut. (2) Ponderile relative prevăzute la alin. (1) pot fi acordate prin raportare la intervale valorice. (3) În cazul în care stabilirea unei ponderi nu este posibilă din motive obiective, autoritatea contractantă indică factorii de evaluare în ordinea descrescătoare a importanței.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 187 alin. (10)",
+     "citat": "În cazul în care două sau mai multe oferte sunt echivalente, autoritățile contractante pot aplica un criteriu suplimentar, de exemplu: combaterea șomajului, ce se va menționa explicit în anunțul de participare.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Costul cel mai scăzut și costul pe ciclul de viață (Lege art. 187 alin. (7), 191–192; Norme art. 33)",
+   "paragrafe": [
+    "Costul cel mai scăzut se stabilește pe considerente de rentabilitate, de exemplu prin costurile pe ciclul de viață. Acestea cuprind costurile suportate de autoritate sau de alți utilizatori și costurile efectelor externe asupra mediului, dacă valoarea lor se poate determina și verifica.",
+    "Autoritatea indică în documente datele cerute ofertanților și metoda de calcul. Metoda pentru efectele externe asupra mediului trebuie să fie nediscriminatorie, accesibilă și să ceară date obținute printr-un efort rezonabil.",
+    "Normele cer prețuri fără TVA, actualizate la anul achiziției cu rata de actualizare publicată anual, până la 15 decembrie. Oferta câștigătoare e cea cu cel mai mic cost pe ciclul de viață."
+   ],
+   "temei": [
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 187 alin. (7)",
+     "citat": "În sensul alin. (3) lit. c), costul cel mai scăzut se determină pe considerente de rentabilitate, utilizând factori precum calcularea costurilor pe ciclul de viață.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 191",
+     "citat": "a) costuri suportate de autoritatea contractantă sau de alți utilizatori, cum ar fi costuri legate de achiziție, costuri de utilizare, precum consumul de energie și de alte resurse, costuri de întreținere, costuri de la sfârșitul ciclului de viață, precum costurile de colectare și reciclare; b) costuri determinate de efecte externe asupra mediului în legătură cu produsul, serviciul sau lucrarea pe parcursul ciclului lor de viață, cu condiția ca valoarea pecuniară a acestora să poată fi determinată și verificată",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Legea nr. 98/2016 privind achizițiile publice",
+     "articol": "art. 192 alin. (1)",
+     "citat": "aceasta indică în documentele achiziției datele care trebuie furnizate de către ofertanți, precum și metoda pe care autoritatea contractantă urmează să o utilizeze pentru a stabili costurile pe parcursul ciclului de viață pe baza datelor respective.",
+     "fisier": "01_Legea_98-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 33 alin. (6)–(7)",
+     "citat": "Nivelul ratei de actualizare ce va fi utilizată în procedurile de atribuire ce vor fi desfășurate în anul următor se va calcula și actualiza în fiecare an, în ultimul trimestru, până la cel târziu data de 15 decembrie, prin aplicarea metodologiei prevăzute la alin. (5), și se va publica pe site-ul Ministerului Finanțelor Publice. (7) În cazul aplicării criteriului de atribuire prevăzut la alin (1), ierarhia ofertelor admisibile se stabilește în ordinea crescătoare a costului pe ciclul de viață actualizat în anul în care se inițiază procedura, iar drept ofertă câștigătoare este desemnată oferta cu cel mai mic cost pe ciclul de viață.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    },
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 33 alin. (2) lit. a)",
+     "citat": "prețurile relevante care trebuie luate în considerare sunt prețurile plătibile de către autoritatea contractantă pentru utilizarea produsului, serviciului sau lucrării, exclusiv TVA",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  },
+  {
+   "titlu": "Prețul cel mai scăzut (Norme art. 34)",
+   "paragrafe": [
+    "La acest criteriu, câștigătoarea se stabilește numai prin compararea prețurilor ofertelor admisibile, fără a cuantifica elemente tehnice sau alte avantaje."
+   ],
+   "temei": [
+    {
+     "act": "Normele metodologice de aplicare a Legii nr. 98/2016 (anexa la H.G. nr. 395/2016)",
+     "articol": "art. 34",
+     "citat": "stabilirea ofertei câștigătoare se realizează numai prin compararea prețurilor prezentate în cadrul ofertelor admisibile, fără să fie cuantificate alte elemente de natură tehnică sau alte avantaje care rezultă din modul de îndeplinire a contractului de către operatorii economici participanți la procedura de atribuire.",
+     "fisier": "03_Norme_HG_395-2016_achizitii_publice.txt"
+    }
+   ]
+  }
+ ],
+ "capcane": [
+  "Sunt patru criterii de atribuire; prețul cel mai scăzut e permis doar sub pragurile de la art. 7 alin. (1) și la negocierea fără publicare de la art. 104 alin. (1) lit. b).",
+  "La serviciile intelectuale, infrastructura de transport transeuropeană și drumurile județene, prețul are o pondere de cel mult 40% (Norme art. 32 alin. (6)).",
+  "Personalul desemnat pentru contract poate fi factor de evaluare sau criteriu de calificare, dar nu ambele în aceeași procedură.",
+  "Ponderile se precizează pentru toți factorii, cu excepția criteriului prețului cel mai scăzut; dacă nu se pot stabili, factorii se ordonează descrescător după importanță.",
+  "La buget fix, factorii de evaluare privesc numai aspectele calitative.",
+  "Costul pe ciclul de viață se calculează fără TVA și se actualizează la anul inițierii procedurii."
+ ],
+ "intrebari": [
+  "N395A-053",
+  "N395A-054",
+  "N395A-055",
+  "N395A-056",
+  "N395A-057",
+  "L98-N602",
+  "N395A-058",
+  "L98C-053",
+  "L98C-054",
+  "L98-N512",
+  "L98-N513",
+  "L98-N601",
+  "L98C-055"
+ ]
+}

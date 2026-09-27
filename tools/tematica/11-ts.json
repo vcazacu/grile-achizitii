@@ -1,0 +1,570 @@
+[
+ {
+  "loc": "Oferta cea mai avantajoasă și cele patru criterii (art. 187  / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Contractul se atribuie ofertantului care a depus oferta cea mai avantajoasă din punct de vedere economic, stabilită pe baza criteriului de atribuire și a factorilor de evaluare din documentele achiziției.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3571
+ },
+ {
+  "loc": "Oferta cea mai avantajoasă și cele patru criterii (art. 187  / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Criteriile posibile sunt: cel mai bun raport calitate-preț, cel mai bun raport calitate-cost, costul cel mai scăzut și prețul cel mai scăzut.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3553
+ },
+ {
+  "loc": "Oferta cea mai avantajoasă și cele patru criterii (art. 187  / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Prețul cel mai scăzut se poate folosi numai când valoarea estimată nu depășește pragurile de la art. 7 alin. (1) și la negocierea fără publicare de la art. 104 alin. (1) lit. b).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3577
+ },
+ {
+  "loc": "Raportul calitate-preț și calitate-cost (art. 187 alin. (4)– / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Raportul calitate-preț sau calitate-cost se stabilește prin factori de evaluare cu aspecte calitative, de mediu sau sociale legate de obiect.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Dacă obiectul are impact asupra mediului pe tot ciclul de viață, autoritatea include obligatoriu factori privind protecția mediului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5162
+ },
+ {
+  "loc": "Raportul calitate-preț și calitate-cost (art. 187 alin. (4)– / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Factorii pot viza calitatea, organizarea, calificarea și experiența personalului desemnat, când acesta influențează semnificativ executarea, serviciile postvânzare și condițiile de livrare, precum și existența unui contract colectiv de muncă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4780
+ },
+ {
+  "loc": "Raportul calitate-preț și calitate-cost (art. 187 alin. (4)– / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Raportul calitate-preț include de regulă un element de preț sau de cost.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "La procedura cu buget fix, factorii privesc numai aspectele calitative.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Normele cer un sistem de factori cu ponderi sau un algoritm de calcul, descris clar în documentație, cu factori care aduc un avantaj real și nu sunt formali.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5548
+ },
+ {
+  "loc": "Personalul: factor de evaluare sau criteriu de calificare (N / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Organizarea, calificarea și experiența personalului care va executa efectiv contractul pot fi factori de evaluare, dacă influențează semnificativ executarea.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Același personal nu poate fi folosit și în calificare și selecție.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3073
+ },
+ {
+  "loc": "Personalul: factor de evaluare sau criteriu de calificare (N / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă se folosesc ambele, criteriile de calificare privesc doar personalul permanent, în special de conducere, declarat în DUAE, adică alte persoane decât cele desemnate pentru contract.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 2679
+ },
+ {
+  "loc": "Contractele la care prețul și costul cel mai scăzut sunt int / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "În afara negocierii fără publicare de la art. 104 alin. (1) lit. b), costul sau prețul cel mai scăzut nu se folosesc la: lucrările sau serviciile intelectuale; proiectarea și execuția sau serviciile aferente infrastructurii de transport transeuropene și drumurilor județene; anumite produse cu impact asupra mediului pe tot ciclul de viață.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4977
+ },
+ {
+  "loc": "Contractele la care prețul și costul cel mai scăzut sunt int / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "La aceste contracte se aplică obligatoriu raportul calitate-preț sau calitate-cost, iar ponderea prețului nu poate depăși 40%.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Categoriile de produse cu impact asupra mediului sunt în anexa nr. 2 la Norme.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.97,
+     "contrazice": 0.02,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.96
+   }
+  },
+  "usage": 5309
+ },
+ {
+  "loc": "Legătura cu obiectul și limitele factorilor (Lege art. 188–1 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Un factor are legătură cu obiectul dacă privește în orice mod produsele, serviciile sau lucrările, în orice stadiu al ciclului de viață, chiar dacă nu ține de substanța lor materială.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Poate viza procesul de producție, furnizare sau comercializare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3973
+ },
+ {
+  "loc": "Legătura cu obiectul și limitele factorilor (Lege art. 188–1 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Factorii nu pot da o libertate de apreciere nelimitată.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Trebuie să asigure concurența reală și să permită verificarea efectivă a informațiilor ofertanților.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Normele exclud factorii fără legătură directă cu obiectul sau fără un avantaj real pentru autoritate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "3": {
+    "text": "Ponderile nu pot distorsiona rezultatul.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4742
+ },
+ {
+  "loc": "Legătura cu obiectul și limitele factorilor (Lege art. 188–1 / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Când se atribuie mai multe loturi, fiecare lot poate avea criterii de atribuire proprii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3543
+ },
+ {
+  "loc": "Ponderile și ofertele echivalente (art. 190, 187 alin. (10)) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Documentele achiziției precizează ponderea relativă a fiecărui factor, cu excepția criteriului prețului cel mai scăzut.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Ponderile pot fi date ca intervale; dacă nu se pot stabili din motive obiective, factorii se indică în ordinea descrescătoare a importanței.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3722
+ },
+ {
+  "loc": "Ponderile și ofertele echivalente (art. 190, 187 alin. (10)) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Dacă două sau mai multe oferte sunt echivalente, se poate aplica un criteriu suplimentar, de exemplu combaterea șomajului, menționat explicit în anunțul de participare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3311
+ },
+ {
+  "loc": "Costul cel mai scăzut și costul pe ciclul de viață (Lege art / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Costul cel mai scăzut se stabilește pe considerente de rentabilitate, de exemplu prin costurile pe ciclul de viață.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Acestea cuprind costurile suportate de autoritate sau de alți utilizatori și costurile efectelor externe asupra mediului, dacă valoarea lor se poate determina și verifica.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5758
+ },
+ {
+  "loc": "Costul cel mai scăzut și costul pe ciclul de viață (Lege art / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea indică în documente datele cerute ofertanților și metoda de calcul.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Metoda pentru efectele externe asupra mediului trebuie să fie nediscriminatorie, accesibilă și să ceară date obținute printr-un efort rezonabil.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5743
+ },
+ {
+  "loc": "Costul cel mai scăzut și costul pe ciclul de viață (Lege art / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Normele cer prețuri fără TVA, actualizate la anul achiziției cu rata de actualizare publicată anual, până la 15 decembrie.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Oferta câștigătoare e cea cu cel mai mic cost pe ciclul de viață.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5740
+ },
+ {
+  "loc": "Prețul cel mai scăzut (Norme art. 34) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "La acest criteriu, câștigătoarea se stabilește numai prin compararea prețurilor ofertelor admisibile, fără a cuantifica elemente tehnice sau alte avantaje.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 1389
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Sunt patru criterii de atribuire; prețul cel mai scăzut e permis doar sub pragurile de la art. 7 alin. (1) și la negocierea fără publicare de la art. 104 alin. (1) lit. b).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 11224
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "La serviciile intelectuale, infrastructura de transport transeuropeană și drumurile județene, prețul are o pondere de cel mult 40% (Norme art. 32 alin. (6)).",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.06,
+     "absenta_corecta": 0.0,
+     "sustine": 0.9400000000000001,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.91
+   }
+  },
+  "usage": 11320
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Personalul desemnat pentru contract poate fi factor de evaluare sau criteriu de calificare, dar nu ambele în aceeași procedură.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.15,
+     "absenta_corecta": 0.01,
+     "sustine": 0.83,
+     "nu_spune": 0.01
+    },
+    "confidence": 0.78
+   }
+  },
+  "usage": 11197
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Ponderile se precizează pentru toți factorii, cu excepția criteriului prețului cel mai scăzut; dacă nu se pot stabili, factorii se ordonează descrescător după importanță.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 0.98,
+     "contrazice": 0.02
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 11219
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "La buget fix, factorii de evaluare privesc numai aspectele calitative.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 11183
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Costul pe ciclul de viață se calculează fără TVA și se actualizează la anul inițierii procedurii.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.02,
+     "sustine": 0.98,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.98
+   }
+  },
+  "usage": 11194
+ }
+]
