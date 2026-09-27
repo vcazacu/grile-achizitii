@@ -28,6 +28,7 @@ const FISIERE = [
   "./tematica/13-achizitia-directa.html",
   "./tematica/14-instrumente-si-tehnici-specifice.html",
   "./tematica/15-comisia-de-evaluare-verificare-si-evaluare.html",
+  "./tematica/16-atribuirea-finalizarea-informarea-dosarul.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",
