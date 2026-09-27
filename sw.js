@@ -29,6 +29,7 @@ const FISIERE = [
   "./tematica/14-instrumente-si-tehnici-specifice.html",
   "./tematica/15-comisia-de-evaluare-verificare-si-evaluare.html",
   "./tematica/16-atribuirea-finalizarea-informarea-dosarul.html",
+  "./tematica/17-executarea-subcontractarea-modificarea-contractului.html",
   /* TEMATICA-END */
   /* LEGISLATIE-START */
   "./legislatie/index.html",

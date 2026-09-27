@@ -1,0 +1,614 @@
+[
+ {
+  "loc": "Plata directă a subcontractanților (Lege art. 218; Norme art / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea plătește direct subcontractanții propuși în ofertă, pentru partea lor, dacă natura contractului permite și ei au optat pentru asta.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Opțiunea se exprimă la încheierea contractului sau la introducerea subcontractantului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3050
+ },
+ {
+  "loc": "Plata directă a subcontractanților (Lege art. 218; Norme art / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Plata se face doar când prestația e confirmată prin documente agreate de toate cele 3 părți sau, dacă contractantul blochează nejustificat confirmarea, de autoritate și subcontractant.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Contractele de subcontractare devin anexe la contract, iar plata directă nu diminuează răspunderea contractantului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3072
+ },
+ {
+  "loc": "Înlocuirea și introducerea subcontractanților (Lege art. 219 / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Cel târziu la începerea executării, contractantul indică subcontractanții implicați și notifică orice schimbare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Poate introduce subcontractanți noi, cu acordul autorității, dacă asta nu e o modificare substanțială; noii subcontractanți depun documentele pentru verificarea excluderii și a capacității.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3441
+ },
+ {
+  "loc": "Înlocuirea și introducerea subcontractanților (Lege art. 219 / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Contractele cu noii subcontractanți și declarația lor că respectă caietul de sarcini se prezintă cu cel puțin 15 zile înainte de începerea activității lor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.68,
+     "nu_spune": 0.01,
+     "contrazice": 0.31
+    },
+    "confidence": 0.58
+   },
+   "1": {
+    "text": "Înlocuirea unui subcontractant din ofertă nu e modificare substanțială, iar valoarea subcontractată rămâne cel mult cea din ofertă, plus ajustările de preț.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 3447
+ },
+ {
+  "loc": "Înlocuirea și introducerea subcontractanților (Lege art. 219 / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Un subcontractant nou, pentru activități din ofertă nesubcontractate inițial, nu înseamnă modificare substanțială dacă, cumulativ: nu influențează calificarea sau evaluarea, nu schimbă prețul, e strict necesar și nu schimbă caracterul general al contractului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.94,
+     "nu_spune": 0.01,
+     "contrazice": 0.05
+    },
+    "confidence": 0.92
+   }
+  },
+  "usage": 3049
+ },
+ {
+  "loc": "Înlocuirea personalului de specialitate (Norme art. 162) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Personalul nominalizat se înlocuiește numai cu acceptul autorității.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Înlocuirea devine modificare substanțială dacă noul personal nu îndeplinește criteriile de calificare sau selecție ori nu obține cel puțin același punctaj la factorii de evaluare.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.05,
+     "sustine": 0.95,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.94
+   }
+  },
+  "usage": 2111
+ },
+ {
+  "loc": "Când se poate modifica contractul fără procedură nouă (art.  / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Modificarea e permisă: prin clauze de revizuire clare, precise și fără echivoc, indiferent de valoare; pentru lucrări, servicii sau produse adiționale de la contractantul inițial, de maximum 50% din valoarea inițială, când schimbarea contractantului e imposibilă și ar crește semnificativ costurile; pentru circumstanțe imprevizibile, fără a afecta caracterul general, cu o creștere de cel mult 50%.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01,
+     "sustine": 0.99,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 5257
+ },
+ {
+  "loc": "Când se poate modifica contractul fără procedură nouă (art.  / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "E permisă și înlocuirea contractantului prin clauză de revizuire, prin succesiune în reorganizare sau prin asumarea obligațiilor față de subcontractanți, precum și orice modificare nesubstanțială.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.01,
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Modificările mici sunt permise fără alte verificări dacă, cumulativ, sunt sub pragurile de la art. 7 alin. (1), sub 10% la servicii și produse, respectiv 15% la lucrări, și nu ating caracterul general.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 5642
+ },
+ {
+  "loc": "Când se poate modifica contractul fără procedură nouă (art.  / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Pentru suplimentări și imprevizibil, modificările succesive cumulate nu pot depăși 50% din valoarea inițială și nu pot urmări eludarea procedurilor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.98,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.02
+    },
+    "confidence": 0.98
+   },
+   "1": {
+    "text": "Aceste modificări se anunță în JOUE.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 5575
+ },
+ {
+  "loc": "Modificarea substanțială și caracterul general (art. 221 ali / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "O modificare e substanțială dacă ar fi permis selectarea altor candidați sau acceptarea altei oferte ori ar fi atras alți participanți; dacă schimbă echilibrul economic în favoarea contractantului; dacă extinde considerabil obiectul; dacă înlocuiește contractantul în alte cazuri decât cele permise.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4814
+ },
+ {
+  "loc": "Modificarea substanțială și caracterul general (art. 221 ali / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Caracterul general înseamnă obiectivele principale ale achiziției, obiectul principal și drepturile și obligațiile principale, inclusiv cerințele de calitate și performanță.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 4779
+ },
+ {
+  "loc": "Modificarea substanțială și caracterul general (art. 221 ali / paragraful 3",
+  "afirmatii": {
+   "0": {
+    "text": "Orice altă modificare cere o procedură nouă.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.99
+   },
+   "1": {
+    "text": "Dacă regula nu e respectată, autoritatea poate denunța unilateral contractul inițial, drept pe care îl prevede în documentație.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Toate modificările se publică în SEAP.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.98,
+     "contrazice": 0.02,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.97
+   }
+  },
+  "usage": 5550
+ },
+ {
+  "loc": "Ajustarea prețului (art. 222^2) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Prețul se poate ajusta când indicii de preț ai elementelor ofertei cresc sau scad pe piață.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Posibilitatea, modul concret, indicii și sursa lor trebuie prevăzute în documentația de atribuire și în contract.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Ajustarea acoperă doar strictul necesar și nu poate anula avantajul competitiv al câștigătorului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 0.99,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3446
+ },
+ {
+  "loc": "Ajustarea prețului (art. 222^2) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Clauzele de ajustare sunt facultative la serviciile și furnizarea de până la 24 de luni și la lucrările de cel mult 6 luni.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Sunt obligatorii peste 24 de luni, respectiv peste 6 luni.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "Plățile se fac numai pe baza prețurilor din oferta inițială, fixe sau ajustate.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 3436
+ },
+ {
+  "loc": "Prelungirea contractelor cu caracter de regularitate (Norme  / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Contractele de furnizare sau servicii cu caracter de regularitate încheiate în anul precedent și care expiră la 31 decembrie se pot prelungi dacă, cumulativ: suplimentarea și nivelul ei maxim au fost prevăzute; opțiunea e condiționată de existența fondurilor; valoarea estimată inițială a inclus suplimentarea maximă; prelungirea nu depășește 4 luni.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Modificarea se anunță în SEAP în 30 de zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 2276
+ },
+ {
+  "loc": "Documentele constatatoare (Norme art. 166) / paragraful 1",
+  "afirmatii": {
+   "0": {
+    "text": "Autoritatea emite documente constatatoare despre îndeplinirea sau neîndeplinirea obligațiilor, în 14 zile: la furnizare, de la livrare și de la expirarea garanției tehnice; la servicii, de la finalizarea lor; la lucrări, de la recepția la terminare și de la recepția finală.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.95,
+     "nu_spune": 0.0,
+     "contrazice": 0.05
+    },
+    "confidence": 0.93
+   },
+   "1": {
+    "text": "Documentele pozitive se publică în SEAP în aceleași termene.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.99,
+     "nu_spune": 0.0,
+     "contrazice": 0.01
+    },
+    "confidence": 0.99
+   }
+  },
+  "usage": 4048
+ },
+ {
+  "loc": "Documentele constatatoare (Norme art. 166) / paragraful 2",
+  "afirmatii": {
+   "0": {
+    "text": "Documentele pentru neîndeplinire se publică în SEAP în 60 de zile de la emitere, cu excepția suspendării prin hotărâre judecătorească, și pot fi contestate în contencios administrativ.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "1": {
+    "text": "Pe durata contractului se pot emite documente la fiecare 90 de zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   },
+   "2": {
+    "text": "La achiziția directă, documentul se emite doar la cererea contractantului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.12,
+     "sustine": 0.88,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.84
+   }
+  },
+  "usage": 4419
+ },
+ {
+  "loc": "capcana 1",
+  "afirmatii": {
+   "0": {
+    "text": "Plata directă a subcontractanților cere opțiunea lor și confirmarea prestației de către toate cele 3 părți; nu reduce răspunderea contractantului.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.04,
+     "nu_spune": 0.0,
+     "sustine": 0.96,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 14879
+ },
+ {
+  "loc": "capcana 2",
+  "afirmatii": {
+   "0": {
+    "text": "Noii subcontractanți: contractele și declarațiile se prezintă cu cel puțin 15 zile înainte de începerea activității lor.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "sustine": 1.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 14874
+ },
+ {
+  "loc": "capcana 3",
+  "afirmatii": {
+   "0": {
+    "text": "Suplimentările și imprevizibilul: cel mult 50% din valoarea inițială, inclusiv cumulat; se publică anunț în JOUE.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "nu_spune": 0.0,
+     "contrazice": 0.04,
+     "sustine": 0.96,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 0.95
+   }
+  },
+  "usage": 14876
+ },
+ {
+  "loc": "capcana 4",
+  "afirmatii": {
+   "0": {
+    "text": "Modificările mici (lit. f)): cumulativ sub pragurile de la art. 7 alin. (1) și sub 10% la servicii și produse, respectiv sub 15% la lucrări.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "contrazice": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 14887
+ },
+ {
+  "loc": "capcana 5",
+  "afirmatii": {
+   "0": {
+    "text": "Clauzele de ajustare a prețului sunt obligatorii peste 24 de luni la servicii și furnizare și peste 6 luni la lucrări.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "sustine": 1.0,
+     "absenta_corecta": 0.0,
+     "contrazice": 0.0,
+     "nu_spune": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 14872
+ },
+ {
+  "loc": "capcana 6",
+  "afirmatii": {
+   "0": {
+    "text": "Prelungirea contractelor cu caracter de regularitate: cel mult 4 luni după 31 decembrie, cu anunț în SEAP în 30 de zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "contrazice": 0.0,
+     "sustine": 1.0,
+     "nu_spune": 0.0,
+     "absenta_corecta": 0.0
+    },
+    "confidence": 1.0
+   }
+  },
+  "usage": 14874
+ },
+ {
+  "loc": "capcana 7",
+  "afirmatii": {
+   "0": {
+    "text": "Documentele constatatoare se emit în 14 zile; cele negative se publică în 60 de zile; pe parcurs, la fiecare 90 de zile.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "sustine": 0.91,
+     "contrazice": 0.09,
+     "nu_spune": 0.0
+    },
+    "confidence": 0.88
+   }
+  },
+  "usage": 14873
+ },
+ {
+  "loc": "capcana 8",
+  "afirmatii": {
+   "0": {
+    "text": "Înlocuirea personalului e modificare substanțială dacă noul personal nu atinge criteriile sau punctajul celui inițial.",
+    "alegere": "sustine",
+    "probabilitati": {
+     "absenta_corecta": 0.0,
+     "contrazice": 0.29,
+     "nu_spune": 0.0,
+     "sustine": 0.71
+    },
+    "confidence": 0.61
+   }
+  },
+  "usage": 14870
+ }
+]
