@@ -139,6 +139,14 @@ se piardă răspunsul) și cere verificarea versiunii la revenirea în aplicați
 scenariu: după o singură deschidere pagina rulează codul nou; cu o întrebare deschisă apare bara, fără
 reîncărcare. `verifica_sw.py` cere ca fiecare pagină să încarce `actualizare.js`.
 
+**Completare (la portarea în aplicația de resurse umane):** semnalul „controllerchange” se poate pierde dacă
+noul service worker se activează înainte ca pagina să ajungă la script — s-a văzut o dată din două încercări,
+local, unde instalarea e instantanee. Acum `actualizare.js` stă în `<head>`, iar `sw.js` trimite la activare și
+un mesaj „versiune-noua”, pe care browserul îl păstrează până se încarcă pagina; oricare dintre semnale
+declanșează trecerea, o singură dată. Bara are și × (închide fără reîncărcare). Tot atunci,
+`linkuri_panou.js` recunoaște mesajele panoului după elementul aplicației, nu după text (un articol poate
+conține el însuși „nu s-a putut”).
+
 Tot aici: `linkuri_panou.js` citea panoul fără să verifice că e al întrebării curente și că articolul s-a
 încărcat, deci putea sări panouri fără să spună (raportase 876 de linkuri distincte înainte de reparație și
 791 după; corect: 1264 și 1154). Acum așteaptă panoul întrebării curente și raportează orice panou

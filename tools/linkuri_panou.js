@@ -29,12 +29,17 @@
         const ref = document.querySelector(".panou-lege .lege-act .ref");
         cutie = document.querySelector(".panou-lege .articol-intreg");
         if (ref && ref.textContent === q.sursa.articol && cutie) {
-          if (/nu apare separat|nu s-a putut/.test(cutie.textContent)) stare = "fără articol";
-          else if (cutie.firstElementChild && !cutie.querySelector(".stare")) stare = "gata";
+          // mesajele aplicației sunt un <p class="stare"> direct în cutie; după text nu se poate judeca,
+          // pentru că articolul însuși poate conține „nu s-a putut” (art. 85 din Legea 80/1995)
+          const mesaj = cutie.querySelector(":scope > p.stare");
+          if (mesaj && /nu apare separat/.test(mesaj.textContent)) stare = "fără articol";
+          else if (mesaj && /nu s-a putut/.test(mesaj.textContent)) stare = "neîncărcat-eroare";
+          else if (!mesaj && cutie.firstElementChild) stare = "gata";
         }
         if (stare === "neîncărcat") await pauza(20);
       }
       if (stare === "neîncărcat") out.erori.push(q.id + ": panoul întrebării nu s-a încărcat");
+      else if (stare === "neîncărcat-eroare") out.erori.push(q.id + ": textul legii nu s-a putut încărca");
       else if (stare === "fără articol") out.fara_articol.push(q.id);
       else document.querySelectorAll(".panou-lege a[href]").forEach(a => {
         out.aparitii++;

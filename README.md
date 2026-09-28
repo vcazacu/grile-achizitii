@@ -145,7 +145,8 @@ sursa de adevăr pentru toate uneltele.
 - `index.html`, `app.js`, `style.css` — aplicația (nu se ating când adaugi întrebări)
 - `intrebari.js` — **banca de întrebări** (generată)
 - `sw.js` — service worker (offline + versiunea cache-ului; listele `TEMATICA` și `LEGISLATIE` sunt generate)
-- `actualizare.js` — încărcat de toate paginile: când noul service worker preia pagina, o reîncarcă (sau, cu o
+- `actualizare.js` — încărcat în `<head>` de toate paginile: când noul service worker preia pagina (sau îi
+  trimite mesajul „versiune-noua” la activare), o reîncarcă (sau, cu o
   întrebare pe ecran, arată bara „Reîncarcă”, care se poate închide cu ×); la revenirea în aplicație cere
   verificarea versiunii
 - `tematica/`, `legislatie/` — paginile generate

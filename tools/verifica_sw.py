@@ -9,6 +9,8 @@ lista = set(re.findall(r'"\./([^"]*)"', sw.split("FISIERE", 1)[1].split("];", 1)
 pe_disc = {p.relative_to(APP).as_posix() for d in ("tematica", "legislatie") for p in (APP / d).glob("*.html")}
 esec = ["lipsește din FISIERE: " + f for f in sorted(pe_disc - lista)]
 esec += ["în FISIERE, dar nu pe disc: " + f for f in sorted(lista) if f and not (APP / f).is_file()]
+if "actualizare.js" not in lista:
+    esec.append("lipsește din FISIERE: actualizare.js")
 for f in ["index.html"] + sorted(pe_disc):
     if 'src="%sactualizare.js"' % ("../" if "/" in f else "") not in (APP / f).read_text(encoding="utf-8"):
         esec.append("nu încarcă actualizare.js: " + f)
