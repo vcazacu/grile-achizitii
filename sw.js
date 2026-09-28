@@ -1,6 +1,6 @@
 /* Service worker — face aplicația disponibilă offline după prima deschidere.
    La fiecare modificare a întrebărilor, schimbă VERSIUNE ca să se reîmprospăteze cache-ul. */
-const VERSIUNE = "grile-achizitii-v15";
+const VERSIUNE = "grile-achizitii-v16";
 const FISIERE = [
   "./",
   "./index.html",

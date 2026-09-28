@@ -757,3 +757,5 @@ a.trm:hover, a.trm.deschis { background: var(--primary-soft); }
 }
 .bara-versiune span { flex: 1 1 auto; }
 .bara-versiune .btn { flex: 0 0 auto; width: auto; min-height: 44px; }
+.bara-versiune .btn-icon { width: 44px; height: 44px; margin-left: -4px; border-color: transparent; background: transparent; }
+.bara-versiune .btn-icon:hover { background: var(--muted); }

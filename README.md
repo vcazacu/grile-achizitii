@@ -146,7 +146,8 @@ sursa de adevăr pentru toate uneltele.
 - `intrebari.js` — **banca de întrebări** (generată)
 - `sw.js` — service worker (offline + versiunea cache-ului; listele `TEMATICA` și `LEGISLATIE` sunt generate)
 - `actualizare.js` — încărcat de toate paginile: când noul service worker preia pagina, o reîncarcă (sau, cu o
-  întrebare pe ecran, arată bara „Reîncarcă”); la revenirea în aplicație cere verificarea versiunii
+  întrebare pe ecran, arată bara „Reîncarcă”, care se poate închide cu ×); la revenirea în aplicație cere
+  verificarea versiunii
 - `tematica/`, `legislatie/` — paginile generate
 - `tools/` — lanțul de generare și verificare (Python standard, fără dependențe, cu excepția porții semantice):
   - `descarca.py` — formele consolidate de pe legislatie.just.ro în `../legislatie/`

@@ -1,8 +1,9 @@
 /* Trecerea la versiunea nouă. sw.js servește întâi din cache, deci la prima deschidere după o actualizare
    pagina rulează încă fișierele vechi; noul service worker se instalează în fundal și preia pagina câteva
    secunde mai târziu („controllerchange”). Atunci reîncărcăm: imediat dacă nu e o întrebare pe ecran,
-   altfel la cerere, ca să nu se piardă răspunsul în curs. La revenirea în aplicație (pe iPad rămâne
-   deschisă în fundal) cerem o verificare a versiunii, ca actualizarea să nu aștepte o redeschidere. */
+   altfel la cerere (bara se poate închide cu ×), ca să nu se piardă răspunsul în curs. La revenirea în
+   aplicație (pe iPad rămâne deschisă în fundal) cerem o verificare a versiunii, ca actualizarea să nu
+   aștepte o redeschidere. */
 (function () {
   if (!("serviceWorker" in navigator) || location.protocol.indexOf("http") !== 0) return;
   var sw = navigator.serviceWorker;
@@ -16,8 +17,13 @@
     bara.className = "bara-versiune";
     bara.setAttribute("role", "status");
     bara.innerHTML = '<span>A apărut o versiune nouă a aplicației.</span>' +
-      '<button type="button" class="btn btn-primary">Reîncarcă</button>';
-    bara.querySelector("button").addEventListener("click", function () { location.reload(); });
+      '<button type="button" class="btn btn-primary">Reîncarcă</button>' +
+      '<button type="button" class="btn-icon" aria-label="Închide"><svg width="20" height="20" viewBox="0 0 24 24" ' +
+      'fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">' +
+      '<line x1="6" y1="6" x2="18" y2="18"></line><line x1="18" y1="6" x2="6" y2="18"></line></svg></button>';
+    bara.querySelector(".btn-primary").addEventListener("click", function () { location.reload(); });
+    // Închisă, bara nu mai revine; versiunea nouă pornește la următoarea deschidere.
+    bara.querySelector(".btn-icon").addEventListener("click", function () { bara.remove(); });
     document.body.appendChild(bara);
   });
   document.addEventListener("visibilitychange", function () {
